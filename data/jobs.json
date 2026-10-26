@@ -22,10 +22,11 @@
     ],
     "ats": null,
     "first_seen": "2026-10-25",
-    "last_checked": "2026-10-25",
-    "last_open": "2026-10-25",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
     "check_failures": 0,
-    "added": null
+    "added": null,
+    "stale": false
   },
   {
     "id": "bytedance-infra",
@@ -50,10 +51,11 @@
     ],
     "ats": null,
     "first_seen": "2026-10-25",
-    "last_checked": "2026-10-25",
-    "last_open": "2026-10-25",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
     "check_failures": 0,
-    "added": null
+    "added": null,
+    "stale": false
   },
   {
     "id": "tiktok-tns",
@@ -78,10 +80,11 @@
     ],
     "ats": null,
     "first_seen": "2026-10-25",
-    "last_checked": "2026-10-25",
-    "last_open": "2026-10-25",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
     "check_failures": 0,
-    "added": null
+    "added": null,
+    "stale": false
   },
   {
     "id": "google-swe-ml-phd",
@@ -106,10 +109,11 @@
     ],
     "ats": null,
     "first_seen": "2026-10-25",
-    "last_checked": "2026-10-25",
-    "last_open": "2026-10-25",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
     "check_failures": 0,
-    "added": null
+    "added": null,
+    "stale": false
   },
   {
     "id": "deepmind-materials-re",
@@ -138,10 +142,11 @@
       "id": "7339890"
     },
     "first_seen": "2026-10-25",
-    "last_checked": "2026-10-25",
+    "last_checked": "2026-10-26",
     "last_open": "2026-10-25",
-    "check_failures": 0,
-    "added": null
+    "check_failures": 1,
+    "added": null,
+    "stale": false
   },
   {
     "id": "meta-rs-ml",
@@ -166,10 +171,11 @@
     ],
     "ats": null,
     "first_seen": "2026-10-25",
-    "last_checked": "2026-10-25",
+    "last_checked": "2026-10-26",
     "last_open": "2026-10-25",
     "check_failures": 0,
-    "added": null
+    "added": null,
+    "stale": false
   },
   {
     "id": "meta-fair-chem-re",
@@ -194,10 +200,11 @@
     ],
     "ats": null,
     "first_seen": "2026-10-25",
-    "last_checked": "2026-10-25",
+    "last_checked": "2026-10-26",
     "last_open": "2026-10-25",
     "check_failures": 0,
-    "added": null
+    "added": null,
+    "stale": false
   },
   {
     "id": "nvidia-genai-ncg",
@@ -229,9 +236,10 @@
       "path": "/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2026739"
     },
     "first_seen": "2026-10-25",
-    "last_checked": "2026-10-25",
-    "last_open": "2026-10-25",
-    "check_failures": 0
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "id": "periodic-materials-data",
@@ -260,10 +268,11 @@
       "id": "c4e0774f-0f3e-4ea7-be27-fb89130c0d01"
     },
     "first_seen": "2026-10-25",
-    "last_checked": "2026-10-25",
-    "last_open": "2026-10-25",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
     "check_failures": 0,
-    "added": null
+    "added": null,
+    "stale": false
   },
   {
     "id": "periodic-midtraining",
@@ -292,10 +301,11 @@
       "id": "168dbf20-2230-49a0-9f00-f2ff58dad5c8"
     },
     "first_seen": "2026-10-25",
-    "last_checked": "2026-10-25",
-    "last_open": "2026-10-25",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
     "check_failures": 0,
-    "added": null
+    "added": null,
+    "stale": false
   },
   {
     "id": "lila-ccmp",
@@ -324,10 +334,11 @@
       "id": "4324886009"
     },
     "first_seen": "2026-10-25",
-    "last_checked": "2026-10-25",
-    "last_open": "2026-10-25",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
     "check_failures": 0,
-    "added": null
+    "added": null,
+    "stale": false
   },
   {
     "id": "radical-gnn",
@@ -356,9 +367,136 @@
       "id": "025709b9-d365-4909-aecb-aba5669703da"
     },
     "first_seen": "2026-10-25",
-    "last_checked": "2026-10-25",
+    "last_checked": "2026-10-26",
     "last_open": "2026-10-25",
-    "check_failures": 0,
-    "added": null
+    "check_failures": 1,
+    "added": null,
+    "stale": false
+  },
+  {
+    "company": "Lila Sciences",
+    "role": "ML Scientist, Foundation Models for Life Sciences",
+    "est": [
+      200,
+      330
+    ],
+    "id": "lila-sciences-ml-scientist-foundation-models-f-0a149e",
+    "track": "science",
+    "location": "San Francisco, CA USA",
+    "base": "Expected base salary range $176,000 - $304,000 USD (plus bonus potential and early-stage equity)",
+    "fit": 3,
+    "why": "The candidate's ML-for-materials PhD work on GAtor 2.0, with ML interatomic potentials (UMA, MACE, AIMNet2), large-scale distributed search, and experimental PXRD collaboration, maps well to Lila's science-plus-lab-in-the-loop mission and GPU-cluster scaling. However, the role centers on protein co-folding and antibody design, and the candidate has no protein or structural-biology background.",
+    "caveat": "The posting doesn't mention visa sponsorship, and the biology domain gap (co-folding, diffusion, biologics) makes this a stretch. At Scientist I, a PhD new grad would likely land in the lower-middle of the base range, with equity of uncertain value.",
+    "posted": "2026-04-28",
+    "source": "Greenhouse (lilasciences)",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4222051009",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": {
+      "type": "greenhouse",
+      "token": "lilasciences",
+      "id": "4222051009"
+    },
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Research Scientist, Autonomous Systems and Physical AI Research - PhD New College Grad 2026",
+    "est": [
+      280,
+      420
+    ],
+    "id": "nvidia-research-scientist-autonomous-sy-60f4ce",
+    "track": "science",
+    "location": "US, CA, Santa Clara",
+    "base": "Base salary range 168,000 USD - 264,500 USD, plus equity and benefits",
+    "fit": 2,
+    "why": "The candidate brings strong PyTorch and Python skills, open-source research software (GAtor 2.0), large-scale distributed computing, and applied RL experience (the BERT + PPO poker agent), which map onto the ML and RL side of the role. However, their research is ML for materials discovery and LLM routing, not autonomous vehicles, robotics, or embodied AI, so the core domain requirement is missing.",
+    "caveat": "The posting targets PhDs completed in 2026 while this candidate graduates in May 2027, so the start date doesn't line up. The candidate also lacks robotics or autonomy publications, the posting doesn't mention visa sponsorship, and the equity estimate is uncertain because pay is given as base only.",
+    "posted": "",
+    "source": "Workday (NVIDIA)",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": {
+      "type": "workday",
+      "host": "nvidia.wd5.myworkdayjobs.com",
+      "tenant": "nvidia",
+      "site": "NVIDIAExternalCareerSite",
+      "path": "/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551"
+    },
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "Duolingo",
+    "role": "AI Research Engineer - New PhD Graduate",
+    "est": [
+      220,
+      300
+    ],
+    "id": "duolingo-ai-research-engineer-new-phd-gra-3d33d6",
+    "track": "llm",
+    "location": "New York City, NY +1",
+    "base": "Pay not listed in the posting",
+    "fit": 4,
+    "why": "The role is explicitly aimed at new PhDs in applied AI. It matches the candidate's Amazon internship (cost-aware LLM router, calibrated quality estimators, LLM-vs-human label disagreement analysis) and their PyTorch/Hugging Face skills, plus the RAG agent project. Their GAtor 2.0 work shows they can build and scale research code, though the domain is materials rather than education.",
+    "caveat": "The page text was unavailable, so pay (estimated from typical Duolingo PhD new-grad base plus RSUs), H-1B sponsorship, open status and the exact research focus are all unverified.",
+    "posted": "2026-10-14",
+    "source": "speedyapply 2027 AI new-grad list",
+    "url": "https://careers.duolingo.com/jobs/8881612002?gh_jid=8881612002",
+    "visa": [
+      "ask",
+      "The posting doesn’t say; ask the recruiter."
+    ],
+    "ats": null,
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "Snowflake",
+    "role": "AI Research Scientist - New Grad - Agents & Reinforcement Learning",
+    "est": [
+      230,
+      330
+    ],
+    "id": "snowflake-ai-research-scientist-new-grad-a-37a23d",
+    "track": "llm",
+    "location": "Bellevue, WA",
+    "base": "Pay not listed in the posting",
+    "fit": 4,
+    "why": "The agents and RL focus matches the candidate's Amazon internship on a cost-aware LLM router, their calibrated quality estimators, and their BERT + PPO poker agent and RAG recommendation agent. Their PhD-level PyTorch and Hugging Face skills and experience running distributed jobs on large clusters suit a research scientist role.",
+    "caveat": "The page text was unavailable, so the pay figure is an estimate from Snowflake's typical PhD new-grad packages (base plus RSUs). Sponsorship and open status could not be confirmed, and the RL research focus may favor candidates with publications in RL or LLM agents, which this candidate has less of.",
+    "posted": "2026-09-05",
+    "source": "speedyapply 2027 AI new-grad list",
+    "url": "https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698",
+    "visa": [
+      "ask",
+      "The posting doesn’t say; ask the recruiter."
+    ],
+    "ats": {
+      "type": "ashby",
+      "org": "snowflake",
+      "id": "1bad12df-f443-426f-9d09-e96fc780d698"
+    },
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
   }
 ]

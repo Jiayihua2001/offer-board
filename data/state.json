@@ -1,7 +1,710 @@
 {
-  "runs": 0,
-  "spend": {},
-  "discovery_cursor": 0,
-  "review": [],
-  "last_run": "2026-10-25 (seeded by hand)"
+  "runs": 1,
+  "spend": {
+    "2026-10": 0.5059
+  },
+  "discovery_cursor": 10,
+  "review": [
+    {
+      "company": "Lila Sciences",
+      "title": "Machine Learning Engineer, Physical Sciences AI",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4116513009",
+      "location": "Cambridge, MA USA; San Francisco, CA USA",
+      "source": "Greenhouse (lilasciences)"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "Machine Learning Scientist I / II, Protein Design",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4396760009",
+      "location": "San Francisco, CA USA",
+      "source": "Greenhouse (lilasciences)"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "Microfabrication Scientist I/II",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4400746009",
+      "location": "Cambridge, MA USA",
+      "source": "Greenhouse (lilasciences)"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "ML Scientist I/II, AI for Protein Engineering",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4392245009",
+      "location": "San Francisco, CA USA",
+      "source": "Greenhouse (lilasciences)"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "ML Scientist, Nucleic Acid Design",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4324969009",
+      "location": "San Francisco, CA USA",
+      "source": "Greenhouse (lilasciences)"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "Platform Scientist I/II, Functional Materials Instrumentation",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4423504009",
+      "location": "Cambridge, MA USA",
+      "source": "Greenhouse (lilasciences)"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "Research Engineer, Scientific Data & Workflow Infrastructure",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4286513009",
+      "location": "Cambridge, MA USA; San Francisco, CA USA",
+      "source": "Greenhouse (lilasciences)"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "Scientist I/II, Characterization and Composition Analysis",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4384606009",
+      "location": "Cambridge, MA USA",
+      "source": "Greenhouse (lilasciences)"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "Scientist I/II, X-ray Diffraction Characterization",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4378385009",
+      "location": "Cambridge, MA USA",
+      "source": "Greenhouse (lilasciences)"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "Scientist II/Senior Characterization Scientist,  Condensed Matter",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4246305009",
+      "location": "Cambridge, MA USA",
+      "source": "Greenhouse (lilasciences)"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "Scientist II/ Senior Scientist, BioML",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4395729009",
+      "location": "San Francisco, CA USA",
+      "source": "Greenhouse (lilasciences)"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "Scientist II/Senior Scientist, Computational Biophysics",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4340155009",
+      "location": "Cambridge, MA USA; London, UK; San Francisco, CA USA",
+      "source": "Greenhouse (lilasciences)"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "Scientist II / Senior Scientist, Electron Diffraction Characterization",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4378383009",
+      "location": "Cambridge, MA USA",
+      "source": "Greenhouse (lilasciences)"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "Scientist II/Senior Scientist, Solid-State Materials",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4271809009",
+      "location": "Cambridge, MA USA",
+      "source": "Greenhouse (lilasciences)"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "Scientist II, Silicon Photonics",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4383465009",
+      "location": "Cambridge, MA USA",
+      "source": "Greenhouse (lilasciences)"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "Senior Data Engineer, Bioinformatics, Cheminformatics, Materials",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4377096009",
+      "location": "San Francisco, CA USA",
+      "source": "Greenhouse (lilasciences)"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "Senior / Engineer II, AI Lab Research Engineer",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4029507009",
+      "location": "Cambridge, MA USA; San Francisco, CA USA",
+      "source": "Greenhouse (lilasciences)"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "Senior ML Scientist, AI for Protein Engineering",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4392247009",
+      "location": "San Francisco, CA USA",
+      "source": "Greenhouse (lilasciences)"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "Senior ML Scientist, Biological Systems",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4395725009",
+      "location": "San Francisco, CA USA",
+      "source": "Greenhouse (lilasciences)"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "Software Engineer, AI Platform",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4031328009",
+      "location": "Cambridge, MA USA",
+      "source": "Greenhouse (lilasciences)"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Engineer, Beneficial Deployments (Life Sciences)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5437172008",
+      "location": "San Francisco, CA | New York City, NY",
+      "source": "Greenhouse (anthropic)"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Engineer, Startups (Life Sciences)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454650008",
+      "location": "San Francisco, CA | New York City, NY",
+      "source": "Greenhouse (anthropic)"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Engineer, Startups (Physical AI)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454673008",
+      "location": "San Francisco, CA",
+      "source": "Greenhouse (anthropic)"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Life Sciences",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5265365008",
+      "location": "San Francisco, CA",
+      "source": "Greenhouse (anthropic)"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Scientist, Life Sciences",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5239733008",
+      "location": "San Francisco, CA",
+      "source": "Greenhouse (anthropic)"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Scientist, Life Sciences (Chemistry)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387564008",
+      "location": "San Francisco, CA",
+      "source": "Greenhouse (anthropic)"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Scientist, Life Sciences (Computational)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5357739008",
+      "location": "San Francisco, CA",
+      "source": "Greenhouse (anthropic)"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Scientist, Life Sciences (Computational Chemistry)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5461863008",
+      "location": "San Francisco, CA",
+      "source": "Greenhouse (anthropic)"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Scientist, Life Sciences (Experimental Biology)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5285250008",
+      "location": "San Francisco, CA",
+      "source": "Greenhouse (anthropic)"
+    },
+    {
+      "company": "Waymo",
+      "title": "Machine Learning Engineer Perception LLM/VLM (PhD, New Grad)",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=7488508",
+      "location": "Mountain View, CA USA;  San Francisco, CA USA;",
+      "source": "Greenhouse (waymo)"
+    },
+    {
+      "company": "Pinterest",
+      "title": "PhD University Grad Machine Learning Engineer (USA) ",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140363",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
+      "source": "Greenhouse (pinterest)"
+    },
+    {
+      "company": "Periodic Labs",
+      "title": "Research Scientist, Materials Characterization",
+      "url": "https://jobs.ashbyhq.com/periodic-labs/e90c6050-e544-4a2b-ae30-7c41e5eb4f16",
+      "location": "Menlo Park, CA",
+      "source": "Ashby (periodic-labs)"
+    },
+    {
+      "company": "Periodic Labs",
+      "title": "Research Scientist, Thin Films",
+      "url": "https://jobs.ashbyhq.com/periodic-labs/7f36ea6e-3e67-40df-82c6-5540859a2ac5",
+      "location": "Menlo Park, CA",
+      "source": "Ashby (periodic-labs)"
+    },
+    {
+      "company": "Periodic Labs",
+      "title": "Research Scientist, Condensed Matter Theory",
+      "url": "https://jobs.ashbyhq.com/periodic-labs/01d2c4b2-d848-4426-ad5f-7f1052db3a63",
+      "location": "Menlo Park, CA; Montreal, Canada",
+      "source": "Ashby (periodic-labs)"
+    },
+    {
+      "company": "Periodic Labs",
+      "title": "Computational Scientist, Structural & Thermal",
+      "url": "https://jobs.ashbyhq.com/periodic-labs/0d96f03c-8f08-44ae-a7cb-8c4bbc80976c",
+      "location": "Menlo Park, CA",
+      "source": "Ashby (periodic-labs)"
+    },
+    {
+      "company": "Periodic Labs",
+      "title": "Computational Scientist, Differentiable Physics",
+      "url": "https://jobs.ashbyhq.com/periodic-labs/ccdb34b1-b67c-4dbf-8acb-fe786f2ab38b",
+      "location": "Menlo Park, CA",
+      "source": "Ashby (periodic-labs)"
+    },
+    {
+      "company": "Periodic Labs",
+      "title": "Research Scientist, Data",
+      "url": "https://jobs.ashbyhq.com/periodic-labs/d039ec58-a97d-47e1-b1e5-db003d772f77",
+      "location": "Menlo Park, CA",
+      "source": "Ashby (periodic-labs)"
+    },
+    {
+      "company": "Periodic Labs",
+      "title": "ML Systems Engineer",
+      "url": "https://jobs.ashbyhq.com/periodic-labs/d9180228-c113-4d5f-a4d6-793994e50b7c",
+      "location": "Menlo Park, CA",
+      "source": "Ashby (periodic-labs)"
+    },
+    {
+      "company": "Periodic Labs",
+      "title": "Forward Deployed Engineer, Physics & Simulation",
+      "url": "https://jobs.ashbyhq.com/periodic-labs/1bab7e17-20fd-4b82-a152-98b96375a626",
+      "location": "Menlo Park, CA",
+      "source": "Ashby (periodic-labs)"
+    },
+    {
+      "company": "Periodic Labs",
+      "title": "Research Engineer, Semiconductor",
+      "url": "https://jobs.ashbyhq.com/periodic-labs/95d290bd-6420-42e8-82a0-f0230722c19c",
+      "location": "Menlo Park, CA",
+      "source": "Ashby (periodic-labs)"
+    },
+    {
+      "company": "Periodic Labs",
+      "title": "Research Engineer, Lab Automation",
+      "url": "https://jobs.ashbyhq.com/periodic-labs/a16ee7dd-021d-4f37-823d-7a8b520c6d8a",
+      "location": "Menlo Park, CA",
+      "source": "Ashby (periodic-labs)"
+    },
+    {
+      "company": "Periodic Labs",
+      "title": "Research Associate, Thin Films ",
+      "url": "https://jobs.ashbyhq.com/periodic-labs/98837207-657f-4116-a112-d8dc6184b49e",
+      "location": "Menlo Park, CA",
+      "source": "Ashby (periodic-labs)"
+    },
+    {
+      "company": "Periodic Labs",
+      "title": "Research Scientist, Scaling RL",
+      "url": "https://jobs.ashbyhq.com/periodic-labs/20b122c9-b8ec-4fb0-aaf4-9b45902affe0",
+      "location": "Menlo Park, CA; Montreal, Canada",
+      "source": "Ashby (periodic-labs)"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Applied Data Science & Insights Leader - GTM Intelligence Solutions and Technical Success",
+      "url": "https://jobs.ashbyhq.com/openai/93f558c1-c944-4ddc-b102-addc9446de3d",
+      "location": "San Francisco",
+      "source": "Ashby (openai)"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Research Scientist, Robotics Research -  PhD New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473",
+      "location": "US, WA, Seattle",
+      "source": "Workday (NVIDIA)"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Research Scientist, ML Systems - PhD New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--ML-Systems---New-College-Grad-2026_JR2010161",
+      "location": "4 Locations",
+      "source": "Workday (NVIDIA)"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Research Scientist, Electronic Design Automation - New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979",
+      "location": "US, CA, Santa Clara",
+      "source": "Workday (NVIDIA)"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Research Scientist, Physical AI - Foundation Models - PhD New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032",
+      "location": "US, CA, Santa Clara",
+      "source": "Workday (NVIDIA)"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Research Scientist, AI for Graphics and Gaming - New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-for-Graphics-and-Gaming---New-College-Grad-2026_JR2011267",
+      "location": "US, CA, Santa Clara",
+      "source": "Workday (NVIDIA)"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "High-Performance LLM Training Engineer - New College Grad 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Performance-LLM-Training-Engineer---New-College-Grad-2027_JR2028237",
+      "location": "US, CA, Santa Clara",
+      "source": "Workday (NVIDIA)"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "NVIDIA 2027 New College Graduate: Deep Learning and High-Performance Computing Engineering - China",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Deep-Learning-and-High-Performance-Computing-Engineering---China_JR2024107",
+      "location": "3 Locations",
+      "source": "Workday (NVIDIA)"
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineer, AI/Machine Learning,  PhD, Early Career, 2027 Start",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer-aimachine-learning-phd-early-career-2027-start",
+      "location": "United States",
+      "source": "Google careers search"
+    },
+    {
+      "company": "Google",
+      "title": "Student Researcher, PhD, Winter-Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/134313315235963590-student-researcher-phd-wintersummer-2027",
+      "location": "United States",
+      "source": "Google careers search"
+    },
+    {
+      "company": "Google",
+      "title": "Student Researcher, BS/MS, Winter-Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/131518356678156998-student-researcher-bsms-wintersummer-2027",
+      "location": "United States",
+      "source": "Google careers search"
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineer, Systems Research, PhD, Early Career",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/76908711519363782-software-engineer-systems-research-phd-early-career",
+      "location": "United States",
+      "source": "Google careers search"
+    },
+    {
+      "company": "Google",
+      "title": "Vice President, Product Management, Core AI Foundations",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/113245419391066822-vice-president-product-management-core-ai-foundations",
+      "location": "United States",
+      "source": "Google careers search"
+    },
+    {
+      "company": "Google",
+      "title": "Student Researcher, PhD, Fall 2026",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/83535564552184518-student-researcher-phd-fall-2026",
+      "location": "United States",
+      "source": "Google careers search"
+    },
+    {
+      "company": "Google",
+      "title": "Research Scientist, Science AI, Google Research",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/91797366327124678-research-scientist-science-ai-google-research",
+      "location": "United States",
+      "source": "Google careers search"
+    },
+    {
+      "company": "Pacific Northwest National Laboratory",
+      "title": "Materials Scientist 3 - Machine Learning for Materials Discovery",
+      "url": "https://careers.conbio.org/job/1349634/materials-scientist-3-machine-learning-for-materials-discovery/?TrackID=9",
+      "location": "Richland, WA",
+      "source": "Claude web search: machine learning interatomic potential research scientist jo"
+    },
+    {
+      "company": "Applied Materials",
+      "title": "2026 New College Grad - Computational Chemist / Materials Scientist (Machine Learning - Reactive MLIPs) - Doctorate Degree",
+      "url": "https://getmereferred.com/us/job-listing/2026-new-college-grad-computational-chemist-materials-scientist-machine-learning-reactive-mlips-doctorate-degree-applied-materials-uscasantaclara-2-to-5-years-experience-fabedcc4-cf7e-4580-bdc5-313ec5c23dc4",
+      "location": "Santa Clara, CA",
+      "source": "Claude web search: crystal structure prediction machine learning job"
+    },
+    {
+      "company": "ByteDance",
+      "title": "AI Molecular Dynamics Algorithm Researcher Graduate (Seed AI for Science - Atomistic AI) - 2027 Start (PhD)",
+      "url": "https://zapply.jobs/jobs/c5202bdb-0fdb-49c0-90c5-2aca9784581b/",
+      "location": "Seattle, WA",
+      "source": "Claude web search: \"2027 Start (PhD)\" research scientist AI for Science ByteDan"
+    },
+    {
+      "company": "Johns Hopkins University Applied Physics Laboratory",
+      "title": "2027 PhD Graduate - Artificial Intelligence and Machine Learning (AI/ML) Research Scientist",
+      "url": "https://tallo.com/talent/job/technology/artificial-intelligence-engineer/md/laurel/2027-phd-graduate-artificial-a2bbd1ec",
+      "location": "Laurel, MD (onsite)",
+      "source": "Claude web search: LLM applied scientist PhD new grad 2027 United States"
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Physicist/Scientist III - PhD (2027 Summer Cohort) - New College Grad",
+      "url": "https://www.ziprecruiter.com/Jobs/Applied-Scientist-New-Grad",
+      "location": "Santa Clara, CA (on-site)",
+      "source": "Claude web search: LLM applied scientist PhD new grad 2027 United States"
+    },
+    {
+      "company": "Meta",
+      "title": "AI Research Scientist - Agentic AI for Materials Discovery",
+      "url": "https://www.ziprecruiter.com/Jobs/Ai-For-Materials",
+      "location": "Pasadena, CA (on-site)",
+      "source": "Claude web search: LLM applied scientist PhD new grad 2027 United States"
+    },
+    {
+      "company": "Applied Materials",
+      "title": "New College Grad - Physicist/Scientist III - PhD (2027 Summer Cohort)",
+      "url": "https://jobpilot.suxrobgm.net/jobs/new-college-grad-physicist-scientist-iii-phd-2027-summer-coh-at-applied-materials-4083a6",
+      "location": "Santa Clara, CA",
+      "source": "Claude web search: agentic AI for science research scientist job United States"
+    },
+    {
+      "company": "TikTok",
+      "title": "Research Scientist Graduate - E-Commerce Recommendation Region - 2027 Start - PhD",
+      "url": "https://lifeattiktok.com/search/7695927144126253317",
+      "location": "Seattle, WA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate - E-Commerce User Growth - 2027 Start - PhD",
+      "url": "https://lifeattiktok.com/search/7694351754099804469",
+      "location": "San Jose, CA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "Adobe",
+      "title": "2027 University Graduate - Machine Learning Engineer",
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085",
+      "location": "San Francisco, CA +4",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Video - 2027 Start",
+      "url": "https://lifeattiktok.com/search/7686999927260105013",
+      "location": "San Jose, CA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Quantum Engineer - Artificial Intelligence and Devices",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556998613",
+      "location": "Redmond, WA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate - E-Commerce Content Recommendation - Generative & Large Recommendation Model - 2027 Start - PhD",
+      "url": "https://lifeattiktok.com/search/7685552743586826549",
+      "location": "Seattle, WA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate - E-Commerce Knowledge Graph - 2027 Start - PhD",
+      "url": "https://lifeattiktok.com/search/7676647728043280645",
+      "location": "San Jose, CA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics - LLM/Agent - 2027 Start - PhD",
+      "url": "https://lifeattiktok.com/search/7675841339440941317",
+      "location": "San Jose, CA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics - 2027 Start",
+      "url": "https://lifeattiktok.com/search/7675844938504702213",
+      "location": "San Jose, CA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "Data Scientist Graduate - Multimedia - 2027 Start",
+      "url": "https://lifeattiktok.com/search/7673672141010815237",
+      "location": "San Jose, CA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "Data Science Graduate - Advertisement Team - 2027 Start - PhD",
+      "url": "https://lifeattiktok.com/search/7673232905797880069",
+      "location": "San Jose, CA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate - E-Commerce Governance - 2027 Start - PhD",
+      "url": "https://lifeattiktok.com/search/7672928557537954053",
+      "location": "Seattle, WA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Mall - 2027 Start - PhD",
+      "url": "https://lifeattiktok.com/search/7672883737036654853",
+      "location": "Seattle, WA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation- 2027 Start - PhD",
+      "url": "https://lifeattiktok.com/search/7672879948538284341",
+      "location": "San Jose, CA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate - TikTok Vertical Recommendation - 2027 Start",
+      "url": "https://lifeattiktok.com/search/7672532275557583157",
+      "location": "San Jose, CA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "AI Infra Engineer Graduate - Recommendation & LLM 2027 Start - PhD",
+      "url": "https://lifeattiktok.com/search/7672656091025066293",
+      "location": "San Jose, CA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "Recommendation Architecture AI/ML Infrastructure Engineer Graduate - Data-Arch-TikTok Live - 2027 Start",
+      "url": "https://lifeattiktok.com/search/7670876337129425205",
+      "location": "San Jose, CA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate - Conversational AI - 2027 Start",
+      "url": "https://lifeattiktok.com/search/7670686314588801333",
+      "location": "San Jose, CA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "Research Scientist Graduate - Conversational AI - 2027 Start - PhD",
+      "url": "https://lifeattiktok.com/search/7670685496821713205",
+      "location": "San Jose, CA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Live - 2027 Start - PhD",
+      "url": "https://lifeattiktok.com/search/7670283981954746677",
+      "location": "Seattle, WA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance - 2027 Start - PhD",
+      "url": "https://lifeattiktok.com/search/7669909088788138245",
+      "location": "Seattle, WA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate - Commerce Ads - 2027 Start",
+      "url": "https://lifeattiktok.com/search/7669711968024430853",
+      "location": "San Jose, CA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate - App Ads and Gaming - 2027 Start",
+      "url": "https://lifeattiktok.com/search/7669709290431236357",
+      "location": "San Jose, CA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate - Commercial AI-CRM and Transaction - 2027 Start",
+      "url": "https://lifeattiktok.com/search/7669702699627661573",
+      "location": "San Jose, CA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate - Ads Signal & Measurement - 2027 Start",
+      "url": "https://lifeattiktok.com/search/7669700358734170373",
+      "location": "San Jose, CA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate - Search Ads - 2027 Start",
+      "url": "https://lifeattiktok.com/search/7669698543896054069",
+      "location": "San Jose, CA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "General Hire Machine Learning Engineer Graduate - Performance Monetization - 2027 Start - PhD",
+      "url": "https://lifeattiktok.com/search/7669691057987520773",
+      "location": "San Jose, CA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "AI Machine Learning Engineer - Graduate - TikTok Content Ecology - 2027 Start - PhD - Graduate - TikTok Content Ecology - 2027 Start - PhD",
+      "url": "https://lifeattiktok.com/search/7668838052657678597",
+      "location": "San Jose, CA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning/Research Engineer Graduate - Monetization Technology-Ads Core Global - 2027 Start - PhD",
+      "url": "https://lifeattiktok.com/search/7668809845088504117",
+      "location": "San Jose, CA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning MLOps Engineer Graduate - MLOps - 2027 Start",
+      "url": "https://lifeattiktok.com/search/7668700671828707589",
+      "location": "San Jose, CA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate - Brand Ads - 2027 Start - PhD",
+      "url": "https://lifeattiktok.com/search/7668698260232702261",
+      "location": "San Jose, CA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "ML Infra Engineer Graduate - Ads Infra - 2027 Start",
+      "url": "https://lifeattiktok.com/search/7668693662561634613",
+      "location": "San Jose, CA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "Research Scientist Graduate - Ads Creative - 2027 Start - PhD",
+      "url": "https://lifeattiktok.com/search/7668681119759616309",
+      "location": "San Jose, CA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate - Monetization Technology - Ads Core Global - 2027 Start - PhD - Graduate - Global Monetization Product and Technology - 2027 Start - PhD",
+      "url": "https://lifeattiktok.com/search/7668675484492597557",
+      "location": "San Jose, CA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate - Ads Delivery - 2027 Start",
+      "url": "https://lifeattiktok.com/search/7668660365135808821",
+      "location": "San Jose, CA",
+      "source": "speedyapply 2027 AI new-grad list"
+    }
+  ],
+  "last_run": "2026-10-26 18:49 UTC"
 }

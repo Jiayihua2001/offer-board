@@ -13,5 +13,203 @@
     "date": "2026-10-25",
     "decision": "screened",
     "tkey": "tiktok|llm-post-training-engineer-graduate-research-product-2027-start"
+  },
+  "https://job-boards.greenhouse.io/lilasciences/jobs/4222051009": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "lila-sciences|ml-scientist-foundation-models-for-life-sciences"
+  },
+  "https://job-boards.greenhouse.io/lilasciences/jobs/4254693009": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "estimated $85K–$140K, below your line",
+    "tkey": "lila-sciences|senior-research-associate-automated-chemistry"
+  },
+  "https://job-boards.greenhouse.io/anthropic/jobs/5285248008": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "estimated $95K–$120K, below your line",
+    "tkey": "anthropic|research-associate-biology"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "nvidia|research-scientist-autonomous-systems-and-physical-ai-research-phd-new-college-grad-2026"
+  },
+  "https://indeed.com/q-research-scientist-machine-learning-applied-math-jobs.html": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "estimated $150K–$190K, below your line",
+    "tkey": "applied-materials|2026-new-college-grad-computational-chemist-materials-scientist-machine-learning-reactive-mlips"
+  },
+  "https://indeed.com/q-machine-learning-research-scientist-phd-jobs.html": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "estimated $200K–$270K, below your line",
+    "tkey": "lila-sciences|research-scientist-i-ii-in-silico-materials-discovery"
+  },
+  "https://jobs.appliedmaterials.com/job/santa-clara/ai-research-scientist-generative-models-for-scientific-discovery/95/95703498768": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "estimated $190K–$250K, below your line",
+    "tkey": "applied-materials|ai-research-scientist-generative-models-for-scientific-discovery"
+  },
+  "https://nature.com/naturecareers/job/12861703/agentic-ai-scientist-office-of-data-science": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "posting is closed",
+    "tkey": "st-jude-children-s-research-hospital|agentic-ai-scientist-office-of-data-science"
+  },
+  "https://jobs.lever.co/auw/6f317af6-4362-4dea-accc-e86ec1d102a5": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "estimated $150K–$210K, below your line",
+    "tkey": "applied-underwriters|ai-engineer-data-science"
+  },
+  "https://jobs.ashbyhq.com/brainco/c1788246-305f-4e4f-8b03-8444c76a466e": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "estimated $200K–$280K, below your line",
+    "tkey": "brain-co|ai-product-engineer-2027-new-grad"
+  },
+  "https://globalfoundries.wd1.myworkdayjobs.com/en-US/external/job/USA---Texas---Richardson/AI-ML-Systems-Engineer--2027-New-College-Graduate-_JR-2604163": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "estimated $145K–$185K, below your line",
+    "tkey": "globalfoundries|ai-ml-systems-engineer-2027-new-college-graduate"
+  },
+  "https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "estimated $170K–$240K, below your line",
+    "tkey": "quora|machine-learning-engineer-new-grad-quora-remote"
+  },
+  "https://careers.duolingo.com/jobs/8881612002?gh_jid=8881612002": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "duolingo|ai-research-engineer-new-phd-graduate"
+  },
+  "https://jobs.gusto.com/postings/koireader-technologies-inc-physical-ai-implementation-specialist-and-lab-assistant-784b677d-b5c5-48cd-860f-67e1d85823ec": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "requires US citizenship, a green card or a clearance",
+    "tkey": "koireader|physical-ai-implementation-specialist-and-lab-assistant"
+  },
+  "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Mountain-View-California-United-States-of-America/Entry-Level---AI-Machine-Learning-Researcher_JR-202621753": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "estimated $150K–$210K, below your line",
+    "tkey": "general-motors|entry-level-ai-machine-learning-researcher"
+  },
+  "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Warren-Michigan-United-States-of-America/Entry-Level---AI-and-Machine-Learning-for-Automation-Researcher_JR-202621769": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "estimated $160K–$220K, below your line",
+    "tkey": "general-motors|entry-level-ai-and-machine-learning-for-automation-researcher"
+  },
+  "https://jobs.ashbyhq.com/brainco/4d39773e-f4c3-49c1-87c3-812a9804fb15": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "estimated $200K–$280K, below your line",
+    "tkey": "brain-co|ai-platform-engineer-2027-new-grad"
+  },
+  "https://jobs.ashbyhq.com/brainco/4c9f8f00-0caf-4927-80da-02a3e53cb0cd": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "estimated $200K–$280K, below your line",
+    "tkey": "brain-co|ai-ml-engineer-2027-new-grad"
+  },
+  "https://jobs.ashbyhq.com/brainco/32c4e1c9-ccd1-4dca-a68b-31ad1b868030": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "estimated $200K–$280K, below your line",
+    "tkey": "brain-co|ai-security-engineer-2027-new-grad"
+  },
+  "https://careers-ftidefense.icims.com/jobs/7093/early-career-associate-data-scientist/job": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "estimated $90K–$120K, below your line",
+    "tkey": "frontier-technology|early-career-associate-data-scientist"
+  },
+  "https://job-boards.greenhouse.io/genscript/jobs/5252287007": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "estimated $90K–$110K, below your line",
+    "tkey": "genscript|research-scientist-lipid-chemistry"
+  },
+  "https://vrtx.wd501.myworkdayjobs.com/en-US/vertex_careers/job/Boston-MA/Computational-Chemistry-Research-Scientist---Computational-Drug-Design--_REQ-30307": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "estimated $150K–$210K, below your line",
+    "tkey": "vertex|computational-chemistry-research-scientist-computational-drug-design"
+  },
+  "https://jobs.ashbyhq.com/iambic-therapeutics/702f22c3-49a3-405e-8760-f0936953e0c6": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "estimated $165K–$230K, below your line",
+    "tkey": "iambic-therapeutics|research-scientist-i-ii-high-throughput-chemistry"
+  },
+  "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Durham-North-Carolina-United-States-of-America/AI-and-Machine-Learning-Engineering-Graduate_1213475": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "estimated $150K–$200K, below your line",
+    "tkey": "hewlett-packard-enterprise|ai-and-machine-learning-engineering-graduate"
+  },
+  "https://jobs.ashbyhq.com/iambic-therapeutics/35fa46c2-1cd5-4222-88f5-987e7bf26db7": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "estimated $150K–$210K, below your line",
+    "tkey": "iambic-therapeutics|research-scientist-i-ii-purification-sciences"
+  },
+  "https://careers-peraton.icims.com/jobs/170473/data-science%2c-associate---herndon%2c-va/job": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "estimated $105K–$145K, below your line",
+    "tkey": "peraton|data-science-associate-herndon-va"
+  },
+  "https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "snowflake|ai-research-scientist-new-grad-agents-reinforcement-learning"
+  },
+  "https://horizonmedia.wd1.myworkdayjobs.com/en-US/careeropportunities/job/New-York-New-York/Associate--Data-Science_R0017491": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "estimated $110K–$150K, below your line",
+    "tkey": "horizon-media|associate-data-science"
+  },
+  "https://jobs.ashbyhq.com/iambic-therapeutics/4a04c67c-1be5-4109-8f9f-b3e8dd818e37": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "estimated $165K–$225K, below your line",
+    "tkey": "iambic-therapeutics|research-scientist-i-ii-bioanalytical-sciences-assay-development"
+  },
+  "https://cmu.wd115.myworkdayjobs.com/en-US/cmu/job/Pittsburgh-PA/Research-Assistant--Human-AI-Interaction-Design---School-of-Computer-Science---HCII_2025016": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "needs more experience than a new PhD",
+    "tkey": "carnegie-mellon-university|research-assistant-human-ai-interaction-design-school-of-computer-science-hcii"
+  },
+  "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Graduate_1213631-1": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "estimated $115K–$150K, below your line",
+    "tkey": "hewlett-packard-enterprise|data-science-graduate"
+  },
+  "https://novartis.wd3.myworkdayjobs.com/en-US/novartis_careers/job/Cambridge-USA/Research-Scientist-I-or-II--Oligonucleotide-Chemistry_REQ-10085156-1": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "estimated $150K–$200K, below your line",
+    "tkey": "novartis|research-scientist-i-or-ii-oligonucleotide-chemistry"
+  },
+  "https://jobs.ashbyhq.com/solace/77ca492c-4142-4931-beeb-e85d9d0ac443": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "estimated $150K–$210K, below your line",
+    "tkey": "solace|associate-data-scientist-college-grad-2027"
   }
 }
