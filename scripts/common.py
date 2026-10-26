@@ -203,6 +203,8 @@ def _in_list(company: str, names) -> bool:
 
 
 def is_quant(company: str, title: str, cfg: dict) -> bool:
+    if _in_list(company, cfg["filters"].get("allow_companies")) and not QUANT_TITLE.search(title or ""):
+        return False
     return bool(QUANT_TITLE.search(title or "")) or _in_list(company, cfg["filters"]["quant_companies"])
 
 

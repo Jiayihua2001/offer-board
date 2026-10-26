@@ -176,7 +176,7 @@ def main(argv=None) -> int:
         elif int(_num(r.get("fit"), 0)) >= 3 and any(w in reason for w in INTERESTING_REASONS):
             screened.insert(0, {"name": f"{r.get('company') or c['company']}, {r.get('role') or c['title']}",
                                 "reason": reason[0].upper() + reason[1:] + ".", "url": c["url"], "date": run_date})
-    state["review"] = unscreened[:100]
+    state["review"] = unscreened[:300]
 
     # 5) Housekeeping, render, notify, save.
     cutoff = (dt.date.fromisoformat(run_date) - dt.timedelta(days=150)).isoformat()

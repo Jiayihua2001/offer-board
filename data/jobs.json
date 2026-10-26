@@ -116,39 +116,6 @@
     "stale": false
   },
   {
-    "id": "deepmind-materials-re",
-    "company": "Google DeepMind",
-    "track": "science",
-    "role": "Research Engineer, Materials Science",
-    "location": "Mountain View, CA",
-    "base": "Base $141K–$202K, plus bonus and equity",
-    "est": [
-      230,
-      320
-    ],
-    "fit": 5,
-    "why": "Builds the experiment infrastructure and applies LLMs, LLM agents and ML force fields to materials problems. LLMs plus materials plus infrastructure is exactly your profile.",
-    "caveat": "The application asks you to describe an ML-for-materials project, its scale, and how you evaluated it. GAtor 2.0 with UMA is a ready answer.",
-    "posted": "May 2026, still taking applications",
-    "source": "DeepMind’s Greenhouse board",
-    "url": "https://job-boards.greenhouse.io/deepmind/jobs/7339890",
-    "visa": [
-      "yes",
-      "Hired through Google, one of the largest H-1B sponsors in the US."
-    ],
-    "ats": {
-      "type": "greenhouse",
-      "token": "deepmind",
-      "id": "7339890"
-    },
-    "first_seen": "2026-10-25",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-25",
-    "check_failures": 1,
-    "added": null,
-    "stale": false
-  },
-  {
     "id": "meta-rs-ml",
     "company": "Meta",
     "track": "llm",
@@ -341,39 +308,6 @@
     "stale": false
   },
   {
-    "id": "radical-gnn",
-    "company": "Radical AI",
-    "track": "science",
-    "role": "AI Research Scientist, GNN / Foundation Models",
-    "location": "New York, NY",
-    "base": "Base listed as $100K–$300K, plus equity",
-    "est": [
-      210,
-      320
-    ],
-    "fit": 5,
-    "why": "Building a universal ML interatomic potential that drives a self-driving materials lab. MLIPs, DFT data and HPC training are the core of your CV.",
-    "caveat": "Hiring at senior, staff and principal levels and asks for 3+ years of AI research, so expect leveling questions. A small company, so equity carries a lot of the pay.",
-    "posted": "Live on Radical’s Lever board",
-    "source": "Radical AI on Lever",
-    "url": "https://jobs.lever.co/RadicalAI/025709b9-d365-4909-aecb-aba5669703da",
-    "visa": [
-      "ask",
-      "Only two H-1B transfers are on record and no new lottery cases, so ask before you invest time."
-    ],
-    "ats": {
-      "type": "lever",
-      "site": "RadicalAI",
-      "id": "025709b9-d365-4909-aecb-aba5669703da"
-    },
-    "first_seen": "2026-10-25",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-25",
-    "check_failures": 1,
-    "added": null,
-    "stale": false
-  },
-  {
     "company": "Lila Sciences",
     "role": "ML Scientist, Foundation Models for Life Sciences",
     "est": [
@@ -406,68 +340,6 @@
     "check_failures": 0
   },
   {
-    "company": "NVIDIA",
-    "role": "Research Scientist, Autonomous Systems and Physical AI Research - PhD New College Grad 2026",
-    "est": [
-      280,
-      420
-    ],
-    "id": "nvidia-research-scientist-autonomous-sy-60f4ce",
-    "track": "science",
-    "location": "US, CA, Santa Clara",
-    "base": "Base salary range 168,000 USD - 264,500 USD, plus equity and benefits",
-    "fit": 2,
-    "why": "The candidate brings strong PyTorch and Python skills, open-source research software (GAtor 2.0), large-scale distributed computing, and applied RL experience (the BERT + PPO poker agent), which map onto the ML and RL side of the role. However, their research is ML for materials discovery and LLM routing, not autonomous vehicles, robotics, or embodied AI, so the core domain requirement is missing.",
-    "caveat": "The posting targets PhDs completed in 2026 while this candidate graduates in May 2027, so the start date doesn't line up. The candidate also lacks robotics or autonomy publications, the posting doesn't mention visa sponsorship, and the equity estimate is uncertain because pay is given as base only.",
-    "posted": "",
-    "source": "Workday (NVIDIA)",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551",
-    "visa": [
-      "yes",
-      "Files H-1B petitions regularly (public Department of Labor data)."
-    ],
-    "ats": {
-      "type": "workday",
-      "host": "nvidia.wd5.myworkdayjobs.com",
-      "tenant": "nvidia",
-      "site": "NVIDIAExternalCareerSite",
-      "path": "/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551"
-    },
-    "added": "2026-10-26",
-    "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
-  },
-  {
-    "company": "Duolingo",
-    "role": "AI Research Engineer - New PhD Graduate",
-    "est": [
-      220,
-      300
-    ],
-    "id": "duolingo-ai-research-engineer-new-phd-gra-3d33d6",
-    "track": "llm",
-    "location": "New York City, NY +1",
-    "base": "Pay not listed in the posting",
-    "fit": 4,
-    "why": "The role is explicitly aimed at new PhDs in applied AI. It matches the candidate's Amazon internship (cost-aware LLM router, calibrated quality estimators, LLM-vs-human label disagreement analysis) and their PyTorch/Hugging Face skills, plus the RAG agent project. Their GAtor 2.0 work shows they can build and scale research code, though the domain is materials rather than education.",
-    "caveat": "The page text was unavailable, so pay (estimated from typical Duolingo PhD new-grad base plus RSUs), H-1B sponsorship, open status and the exact research focus are all unverified.",
-    "posted": "2026-10-14",
-    "source": "speedyapply 2027 AI new-grad list",
-    "url": "https://careers.duolingo.com/jobs/8881612002?gh_jid=8881612002",
-    "visa": [
-      "ask",
-      "The posting doesn’t say; ask the recruiter."
-    ],
-    "ats": null,
-    "added": "2026-10-26",
-    "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
-  },
-  {
     "company": "Snowflake",
     "role": "AI Research Scientist - New Grad - Agents & Reinforcement Learning",
     "est": [
@@ -492,6 +364,1627 @@
       "type": "ashby",
       "org": "snowflake",
       "id": "1bad12df-f443-426f-9d09-e96fc780d698"
+    },
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "ByteDance",
+    "role": "Research Scientist Graduate (Seed Quantum Chemistry and Machine Learning) - 2027 Start (PhD)",
+    "est": [
+      210,
+      410
+    ],
+    "id": "bytedance-research-scientist-graduate-seed-9bc118",
+    "track": "science",
+    "location": "San Jose, CA",
+    "base": "Base $162,000-$316,800 annually (San Jose)",
+    "fit": 5,
+    "why": "Same Seed quantum-chemistry and machine-learning group as the Global Frontier Tech req already on the board, on the standard graduate track; it wants a physics/chemistry/ML PhD with quantum chemistry or ML research, which the candidate's ML interatomic potential and crystal-structure-prediction work covers.",
+    "caveat": "Separate requisition (San Jose, base $162,000-$316,800) from the Global Frontier Tech quantum-chemistry req on the board (base $218,400-$480,000), so pick one of the two given the two-application cap; total pay is estimated as base x1.3.",
+    "posted": "2026-08-19",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://jobs.bytedance.com/en/position/7668595575944186117/detail",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "ByteDance",
+    "role": "AI Molecular Dynamics Algorithm Researcher Graduate (Seed AI for Science - Atomistic AI) - 2027 Start (PhD)",
+    "est": [
+      200,
+      390
+    ],
+    "id": "bytedance-ai-molecular-dynamics-algorithm--01d8be",
+    "track": "science",
+    "location": "Seattle, WA",
+    "base": "Base $153,900-$300,960 annually (Seattle)",
+    "fit": 5,
+    "why": "Seed AI for Science's atomistic team asks for a PhD in materials science, chemistry or physics with MLIP development, materials simulation, MD-engine work or ML experience; the candidate's GAtor 2.0 work with UMA, MACE and AIMNet2 potentials and cluster-scale evolutionary structure search hits several of the listed criteria directly.",
+    "caveat": "Must commit to an onboarding date by the end of 2027, the total-pay figure is the posted Seattle base band x1.3 (sign-on and RSUs vary), and ByteDance and TikTok allow at most two applications company-wide.",
+    "posted": "2026-08-07",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://jobs.bytedance.com/en/position/7670550401380878645/detail",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "Achira",
+    "role": "ML Research Scientist (MLRS) - Representation Learning for Molecular AI",
+    "est": [
+      220,
+      330
+    ],
+    "id": "achira-ml-research-scientist-mlrs-repre-466999",
+    "track": "science",
+    "location": "San Francisco, CA",
+    "base": "$164,638 - $259,000 base (single 'Independent Contributor' tier) + equity + bonus",
+    "fit": 5,
+    "why": "Builds equivariant GNN / geometric-transformer representations and pre-, mid- and post-training curricula for atomistic foundation models; the posting lists NequIP/MACE-style architectures and materials-science experience as pluses, which maps directly onto the candidate's GAtor 2.0 work with UMA, MACE and AIMNet2 potentials.",
+    "caveat": "One IC pay band, so a new PhD likely lands in the lower half of the base range and the equity is private-company paper; hybrid in San Francisco (NYC possible with travel) and no stated start date, so this is an ASAP hire rather than a 2027 program.",
+    "posted": "2026-06-30",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://jobs.ashbyhq.com/achira/fd1bf203-29bc-454a-9140-378a21bbc173",
+    "visa": [
+      "ask",
+      "The posting doesn’t say; ask the recruiter."
+    ],
+    "ats": {
+      "type": "ashby",
+      "org": "achira",
+      "id": "fd1bf203-29bc-454a-9140-378a21bbc173"
+    },
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "D. E. Shaw Research",
+    "role": "Machine Learning Researcher and Engineer",
+    "est": [
+      400,
+      600
+    ],
+    "id": "d-e-shaw-research-machine-learning-researcher-and--4c9bae",
+    "track": "science",
+    "location": "New York, NY",
+    "base": "$350,000 - $900,000 base + sign-on and year-end bonuses",
+    "fit": 4,
+    "why": "ML for drug discovery, biomolecular simulation and biophysics, including generative models for molecules and 'more accurate approaches for molecular simulations', with no degree or years bar beyond 'a track record of achievement and innovation in machine learning'; the candidate's MLIP-accelerated structure prediction and generative search sit squarely in the simulation thread. Description is on deshawresearch.com/current-opportunities.html; the package includes 'relocation and immigration assistance'.",
+    "caveat": "D. E. Shaw Research is the computational-biochemistry lab (Anton), legally separate from the D. E. Shaw hedge fund, but a quant-name filter may catch it; the bar is extremely high, and since the base floor already sits above the offer line the real risk is leveling, not pay.",
+    "posted": "",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://apply.deshawresearch.com/careers/Register?pipelineId=597&source=DESRES+Website",
+    "visa": [
+      "stated",
+      "The posting says it sponsors visas."
+    ],
+    "ats": null,
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "Thinking Machines Lab",
+    "role": "Research, Post-Training Evals",
+    "est": [
+      370,
+      520
+    ],
+    "id": "thinking-machines-lab-research-post-training-evals-7ecd17",
+    "track": "llm",
+    "location": "San Francisco, CA",
+    "base": "$350,000 - $475,000 base; sponsors visas",
+    "fit": 4,
+    "why": "Builds evaluations and research signals for post-training: grader reliability, evaluator disagreement, LLM judges and ambiguous ground truth, which is exactly the LLM-vs-human label-disagreement diagnosis, quality-estimator and calibration work from the Amazon internship.",
+    "caveat": "Evergreen expression-of-interest req (no guaranteed immediate opening); minimum is a bachelor's with PhD preferred, so a new PhD competes with experienced researchers for a $350K-$475K base band; equity on top is not quantified.",
+    "posted": "2026-08-27",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://jobs.ashbyhq.com/thinkingmachines/602f2a99-34eb-4fde-9eec-b4945ee4aab6",
+    "visa": [
+      "stated",
+      "The posting says it sponsors visas."
+    ],
+    "ats": {
+      "type": "ashby",
+      "org": "thinkingmachines",
+      "id": "602f2a99-34eb-4fde-9eec-b4945ee4aab6"
+    },
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "Thinking Machines Lab",
+    "role": "Research, Post-Training",
+    "est": [
+      370,
+      520
+    ],
+    "id": "thinking-machines-lab-research-post-training-e99c29",
+    "track": "llm",
+    "location": "San Francisco, CA",
+    "base": "$350,000 - $475,000 base; sponsors visas",
+    "fit": 4,
+    "why": "Owns post-training recipes, evals and data iteration for frontier models; the candidate's LLM routing, quality estimation and prompt-improvement work plus PyTorch/HF skills map onto the recipe-and-evals loop described.",
+    "caveat": "Evergreen expression-of-interest req (no guaranteed immediate opening); minimum is a bachelor's with PhD preferred, so a new PhD competes with experienced researchers for a $350K-$475K base band; equity on top is not quantified.",
+    "posted": "2026-08-04",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://jobs.ashbyhq.com/thinkingmachines/3efb6896-4840-4f90-8798-2ce49fa146e5",
+    "visa": [
+      "stated",
+      "The posting says it sponsors visas."
+    ],
+    "ats": {
+      "type": "ashby",
+      "org": "thinkingmachines",
+      "id": "3efb6896-4840-4f90-8798-2ce49fa146e5"
+    },
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "D. E. Shaw Research",
+    "role": "Force Field Developer",
+    "est": [
+      300,
+      450
+    ],
+    "id": "d-e-shaw-research-force-field-developer-e77ede",
+    "track": "science",
+    "location": "New York, NY",
+    "base": "$260,000 - $400,000 base + sign-on and year-end bonuses",
+    "fit": 4,
+    "why": "Develops more accurate force fields for biomolecular simulation, explicitly including 'application of machine learning approaches to force-field development', parameterization and validation, and requires a PhD in chemistry/chemical physics/computational chemistry; the candidate's hands-on MLIP (UMA/MACE/AIMNet2) and potential-vs-DFT validation work is directly relevant. Package includes 'relocation and immigration assistance'.",
+    "caveat": "Biomolecular and small-molecule force fields rather than crystals, so expect classical force-field parameterization questions; same hedge-fund-adjacent name and very high bar.",
+    "posted": "",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://apply.deshawresearch.com/careers/Register?pipelineId=661&source=DESRES+Website",
+    "visa": [
+      "stated",
+      "The posting says it sponsors visas."
+    ],
+    "ats": null,
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "Character.AI",
+    "role": "Research Engineer, Post-Training (All Industry Levels)",
+    "est": [
+      280,
+      450
+    ],
+    "id": "character-ai-research-engineer-post-training--46a1cf",
+    "track": "llm",
+    "location": "Redwood City, CA or New York, NY",
+    "base": "$225K - $400K base; offers equity",
+    "fit": 4,
+    "why": "'All industry levels' with a PhD as the floor; alignment algorithms, data pipelines and quality signals for a deployed LLM product match the candidate's production LLM classification and quality-estimation work.",
+    "caveat": "Evergreen req first published in 2024 and consumer-chatbot focused; sponsorship is not stated and a new PhD would sit at the bottom of the $225K-$400K band.",
+    "posted": "2024-01-24",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://jobs.ashbyhq.com/character/449bf7c1-41d7-47a4-89a7-0ee0b31f5918",
+    "visa": [
+      "ask",
+      "The posting doesn’t say; ask the recruiter."
+    ],
+    "ats": {
+      "type": "ashby",
+      "org": "character",
+      "id": "449bf7c1-41d7-47a4-89a7-0ee0b31f5918"
+    },
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "Periodic Labs",
+    "role": "Research Scientist, Data",
+    "est": [
+      280,
+      420
+    ],
+    "id": "periodic-labs-research-scientist-data-4e01c9",
+    "track": "science",
+    "location": "Menlo Park, CA",
+    "base": "$250,000-350,000 + equity",
+    "fit": 4,
+    "why": "The role owns evaluations, RL environments and training data for scientific AI and explicitly wants research experience in materials science or solid-state chemistry; the candidate's LLM-router evaluation and calibration work at Amazon plus GAtor 2.0 data pipelines for ML potentials map directly onto it.",
+    "caveat": "The $250K-$350K band covers all levels (minimum education is a bachelor's), so a new PhD would likely land near the bottom with equity counted at face value; the role is open now with an ASAP start, and Montreal is offered as an alternative to Menlo Park.",
+    "posted": "2026-07-25",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://jobs.ashbyhq.com/periodic-labs/d039ec58-a97d-47e1-b1e5-db003d772f77",
+    "visa": [
+      "stated",
+      "The posting says it sponsors visas."
+    ],
+    "ats": {
+      "type": "ashby",
+      "org": "periodic-labs",
+      "id": "d039ec58-a97d-47e1-b1e5-db003d772f77"
+    },
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "xAI (SpaceXSI)",
+    "role": "Post-Training and RL",
+    "est": [
+      260,
+      420
+    ],
+    "id": "xai-spacexsi-post-training-and-rl-d1088d",
+    "track": "llm",
+    "location": "Palo Alto, CA",
+    "base": "$180,000 - $600,000 base plus equity",
+    "fit": 4,
+    "why": "Reward modeling, RLHF/DPO and RL for reasoning; the req says prior post-training experience is a plus but not required, and the candidate's LLM router, cross-attention quality estimators and calibration work are directly relevant.",
+    "caveat": "Posting is branded SpaceXSI (xAI inside SpaceX); SpaceX roles usually require US-person status under ITAR and this req is silent on sponsorship, so confirm visa policy before applying; the base band is extremely wide and a new PhD would land near its bottom.",
+    "posted": "",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://job-boards.greenhouse.io/xai/jobs/5114737007",
+    "visa": [
+      "ask",
+      "The posting doesn’t say; ask the recruiter."
+    ],
+    "ats": {
+      "type": "greenhouse",
+      "token": "xai",
+      "id": "5114737007"
+    },
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "Chai Discovery",
+    "role": "Research Scientist",
+    "est": [
+      250,
+      400
+    ],
+    "id": "chai-discovery-research-scientist-0344d5",
+    "track": "science",
+    "location": "San Francisco, CA",
+    "base": "Pay not listed in the posting",
+    "fit": 4,
+    "why": "Frontier diffusion/structure foundation models for biochemistry (pre-training, architecture design, post-training, inference-time scaling); the posting says Chai is 'more than willing to make a bet on rising talent', so a new PhD with strong ML-for-molecules work and a released open-source model (GAtor 2.0) is in scope.",
+    "caveat": "No pay posted (estimate assumes a frontier-lab package at a $1.3B-valuation startup, mostly paper equity), the domain is proteins and drug molecules rather than crystals, and the bar is very high.",
+    "posted": "2026-03-06",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://jobs.ashbyhq.com/chaidiscovery/19fcda8f-b68a-465a-a960-edc49c7ecdb9",
+    "visa": [
+      "ask",
+      "The posting doesn’t say; ask the recruiter."
+    ],
+    "ats": {
+      "type": "ashby",
+      "org": "chaidiscovery",
+      "id": "19fcda8f-b68a-465a-a960-edc49c7ecdb9"
+    },
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "TikTok",
+    "role": "Research Scientist Graduate (Conversational AI) - 2027 Start (PhD)",
+    "est": [
+      250,
+      400
+    ],
+    "id": "tiktok-research-scientist-graduate-conv-84258d",
+    "track": "llm",
+    "location": "San Jose, CA; Seattle, WA",
+    "base": "Base $162,000-$387,600/yr (San Jose); eligible for discretionary bonus and RSUs",
+    "fit": 4,
+    "why": "Self-evolving LLM agent team: SFT/DPO/RL post-training, LLM-as-judge with human-agreement calibration, pass^k and off-policy evaluation, which maps directly onto the candidate's Amazon work on a cost-aware LLM router, calibrated quality estimators and LLM-vs-human label-disagreement diagnosis.",
+    "caveat": "The $162K-$387.6K base band is multi-level so a new grad lands in its lower half, and ByteDance/TikTok allow at most two applications company-wide (the board already holds a TikTok Trust & Safety and a ByteDance Seed role). A sibling req in Seattle, WA (est. $250K–$345K) is at https://lifeattiktok.com/search/7670681152383813893",
+    "posted": "2026-08-07",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://lifeattiktok.com/search/7670685496821713205",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "TikTok",
+    "role": "Machine Learning Engineer Graduate (E-Commerce Supply Chain & Logistics - LLM/Agent) - 2027 Start (PhD)",
+    "est": [
+      250,
+      400
+    ],
+    "id": "tiktok-machine-learning-engineer-gradua-721a05",
+    "track": "llm",
+    "location": "San Jose, CA; Seattle, WA",
+    "base": "Base $162,000-$387,600/yr (San Jose); eligible for discretionary bonus and RSUs",
+    "fit": 4,
+    "why": "Builds domain LLMs and agents for logistics with CPT/SFT/GRPO post-training, reward and judge model design, model/tool routing and golden-set evaluation, mirroring the candidate's Amazon LLM router, calibrated quality estimators and label-disagreement work.",
+    "caveat": "The application domain is logistics and e-commerce operations rather than science, the band is multi-level so new-grad pay sits in its lower half, and TikTok/ByteDance cap applicants at two applications company-wide. A sibling req in Seattle, WA (est. $250K–$345K) is at https://lifeattiktok.com/search/7675842865566222597",
+    "posted": "2026-08-21",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://lifeattiktok.com/search/7675841339440941317",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "ByteDance",
+    "role": "Agent Evaluation & Evolution Researcher Graduate (AML-Ark-US) - 2027 Start (PhD)",
+    "est": [
+      210,
+      410
+    ],
+    "id": "bytedance-agent-evaluation-evolution-resea-f6e599",
+    "track": "llm",
+    "location": "San Jose, CA",
+    "base": "Base $162,000-$316,800 annually (San Jose)",
+    "fit": 4,
+    "why": "The role designs evaluation systems and model-based judging pipelines for LLM agents and mines execution traces for failure patterns; the candidate's Amazon work on LLM-vs-human label-disagreement diagnosis, calibrated quality estimators and a cost-aware LLM router is the same evaluation-and-feedback loop.",
+    "caveat": "AML-Ark is Volcano Engine's model-as-a-service platform team rather than Seed research, the req asks for a CS/AI/ML/data-science PhD, total pay is estimated as base x1.3, and ByteDance and TikTok allow at most two applications company-wide.",
+    "posted": "2026-08-10",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://jobs.bytedance.com/en/position/7671095905295075637/detail",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "Genesis Molecular AI",
+    "role": "ML Research Scientist, Foundation Models (Senior / Staff / Principal)",
+    "est": [
+      240,
+      360
+    ],
+    "id": "genesis-molecular-ai-ml-research-scientist-foundation-03ef8f",
+    "track": "science",
+    "location": "San Mateo, CA",
+    "base": "Pay not listed in the posting",
+    "fit": 4,
+    "why": "Generative and discriminative foundation models for molecules (diffusion, flow matching, RL, pretraining and post-training) with 'no prior experience in biology or chemistry necessary'; geometric deep learning on 3D molecular data is the candidate's thesis toolkit.",
+    "caveat": "Stretch role: leveled Senior/Staff/Principal with a PhD only 'nice to have', so a new PhD needs a strong publication record to be offered the Senior rung; pay is unposted and the estimate leans on private-company equity.",
+    "posted": "2025-07-30",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://jobs.ashbyhq.com/genesis-molecular-ai/c1c47745-4e5c-4e0e-9d71-16d7ea28895a",
+    "visa": [
+      "ask",
+      "The posting doesn’t say; ask the recruiter."
+    ],
+    "ats": {
+      "type": "ashby",
+      "org": "genesis-molecular-ai",
+      "id": "c1c47745-4e5c-4e0e-9d71-16d7ea28895a"
+    },
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0,
+    "stretch": true
+  },
+  {
+    "company": "Apple",
+    "role": "AIML - Machine Learning Researcher, Post-Training for Foundation Models",
+    "est": [
+      250,
+      340
+    ],
+    "id": "apple-aiml-machine-learning-researcher-0cad81",
+    "track": "llm",
+    "location": "Cupertino, CA",
+    "base": "$184,700 - $324,800 base",
+    "fit": 4,
+    "why": "SFT/RL post-training for Apple Foundation Models with explicit interest in post-training data, synthetic data and evaluation methodology; PhD or equivalent, no years bar; matches the candidate's LLM quality-estimation and calibration work.",
+    "caveat": "Apple prints a single $184.7K-$324.8K base band spanning ICT3-ICT5; a new PhD is typically leveled ICT3/ICT4 (about $240K-$320K total), and the req is open to experienced hires too.",
+    "posted": "2026-02-06",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://jobs.apple.com/en-us/details/200645804-0836",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "Apple",
+    "role": "AIML Researcher/Engineer - Foundation Model Post-Training",
+    "est": [
+      250,
+      340
+    ],
+    "id": "apple-aiml-researcher-engineer-foundat-d4783f",
+    "track": "llm",
+    "location": "Cupertino, CA; New York, NY; Seattle, WA",
+    "base": "$184,700 - $324,800 base",
+    "fit": 4,
+    "why": "Masters/PhD with demonstrated LLM post-training or RL expertise; bridging model capability and user-facing utility is what the candidate's cost-aware LLM router did in production.",
+    "caveat": "Apple prints a single $184.7K-$324.8K base band spanning ICT3-ICT5; a new PhD is typically leveled ICT3/ICT4 (about $240K-$320K total), and the req is open to experienced hires too.",
+    "posted": "2026-05-27",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://jobs.apple.com/en-us/details/200662944-0836",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "Lila Sciences",
+    "role": "Machine Learning Engineer, Physical Sciences AI",
+    "est": [
+      240,
+      350
+    ],
+    "id": "lila-sciences-machine-learning-engineer-physic-10b622",
+    "track": "science",
+    "location": "Cambridge, MA / San Francisco, CA",
+    "base": "Base $180,000-$298,000 plus bonus potential and early-stage equity",
+    "fit": 4,
+    "why": "Lila's Physical Sciences AI team wants someone to take materials and chemistry models and agentic workflows to production in PyTorch/Hugging Face; the candidate shipped a production LLM router over 220K cases at Amazon and leads the open-source GAtor 2.0 engine, and the bonus list (open-source scientific software, agents, large-scale compute, materials/chemistry data) reads like the CV.",
+    "caveat": "It is an engineering rather than research role with no stated experience bar, so leveling within the $180K-$298K band is uncertain and equity is counted at face value; the posting does not mention visa sponsorship.",
+    "posted": "2026-02-03",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4116513009",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": {
+      "type": "greenhouse",
+      "token": "lilasciences",
+      "id": "4116513009"
+    },
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "Google",
+    "role": "Research Scientist, Science AI, Google Research",
+    "est": [
+      250,
+      330
+    ],
+    "id": "google-research-scientist-science-ai-go-4b1db2",
+    "track": "science",
+    "location": "Cambridge, MA",
+    "base": "US base $147,000-$210,000 + 15% bonus target + equity",
+    "fit": 4,
+    "why": "Google Research req to build and evaluate agentic AI systems for scientific discovery that plug in physics-based simulators and structure-prediction tools; the LLM-router and RAG-agent work, the quality-estimator and label-disagreement evaluation work at Amazon, and GAtor 2.0's simulation stack map directly onto the agent, evaluation and domain-tool bullets.",
+    "caveat": "Same L4-style base band as Google's PhD early-career SWE req but no new-grad label or stated start date, and the preferred '2 years leading a research agenda' suggests they may favor a postdoc-level hire, so leveling and a May 2027 start are both uncertain.",
+    "posted": "",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/91797366327124678-research-scientist-science-ai-google-research",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "Achira",
+    "role": "ML Research Scientist (MLRS) - Generative AI",
+    "est": [
+      220,
+      330
+    ],
+    "id": "achira-ml-research-scientist-mlrs-gener-8dee1a",
+    "track": "science",
+    "location": "San Francisco, CA",
+    "base": "$164,638 - $259,000 base (single 'Independent Contributor' tier) + equity + bonus",
+    "fit": 4,
+    "why": "Generative and sampling methods (diffusion, flow, RL, sequential Monte Carlo) over learned energy landscapes for molecular systems; the candidate's ML-accelerated evolutionary crystal-structure search with MLIP energy evaluation is the materials analogue of exactly this sampling problem.",
+    "caveat": "One IC pay band, so a new PhD likely lands in the lower half of the base range and the equity is private-company paper; hybrid in San Francisco (NYC possible with travel) and no stated start date, so this is an ASAP hire rather than a 2027 program. Statistical-mechanics and SMC depth are listed as nice-to-haves, so expect the interview to probe sampling theory.",
+    "posted": "2026-06-30",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://jobs.ashbyhq.com/achira/083f473d-0204-4822-a62b-ea2dcfab50d4",
+    "visa": [
+      "ask",
+      "The posting doesn’t say; ask the recruiter."
+    ],
+    "ats": {
+      "type": "ashby",
+      "org": "achira",
+      "id": "083f473d-0204-4822-a62b-ea2dcfab50d4"
+    },
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "Achira",
+    "role": "Machine Learning Research Engineer (MLRE) - Research",
+    "est": [
+      220,
+      330
+    ],
+    "id": "achira-machine-learning-research-engine-fa58df",
+    "track": "science",
+    "location": "San Francisco, CA",
+    "base": "$164,638 - $259,000 base (single 'Independent Contributor' tier) + equity + bonus",
+    "fit": 4,
+    "why": "Research-engineer role implementing architectures and scalable training/evaluation libraries for foundation simulation models, explicitly accepting scientific depth 'developed during a PhD'; the candidate's lead-developer role on an open-source CSP engine scaled across Slurm/MPI clusters matches the HPC and reproducible-pipeline asks, and MACE/NequIP experience is a listed plus.",
+    "caveat": "Engineering-weighted title (less publication-driven than the MLRS reqs) in the same $164.6K-$259K band; equity is paper value and the hire is ASAP.",
+    "posted": "2026-04-29",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://jobs.ashbyhq.com/achira/08b9b6bd-9f8f-4a7d-9fdd-48bb19affe20",
+    "visa": [
+      "ask",
+      "The posting doesn’t say; ask the recruiter."
+    ],
+    "ats": {
+      "type": "ashby",
+      "org": "achira",
+      "id": "08b9b6bd-9f8f-4a7d-9fdd-48bb19affe20"
+    },
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "Lila Sciences",
+    "role": "Senior / Engineer II, AI Lab Research Engineer",
+    "est": [
+      210,
+      330
+    ],
+    "id": "lila-sciences-senior-engineer-ii-ai-lab-resear-44f35e",
+    "track": "science",
+    "location": "Cambridge, MA / San Francisco, CA",
+    "base": "Base $148,000-$240,000 plus bonus potential and early-stage equity",
+    "fit": 4,
+    "why": "Builds agentic AI for science (planning, tool use, code generation for lab instruments) and the benchmarks that measure it, asking for a PhD/MS with ML plus one science domain such as materials; the candidate's LLM routing and evaluation work and materials background fit the brief.",
+    "caveat": "A new PhD would enter at the Engineer II rung in the lower half of the $148K-$240K band, so year-1 pay is borderline and depends on equity counted at face value; sponsorship is not stated and the req has been open since October 2025.",
+    "posted": "2025-10-06",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4029507009",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": {
+      "type": "greenhouse",
+      "token": "lilasciences",
+      "id": "4029507009"
+    },
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "Thinking Machines Lab",
+    "role": "Research, Finetuning Science",
+    "est": [
+      370,
+      520
+    ],
+    "id": "thinking-machines-lab-research-finetuning-science-3f20db",
+    "track": "llm",
+    "location": "San Francisco, CA",
+    "base": "$350,000 - $475,000 base; sponsors visas",
+    "fit": 3,
+    "why": "Science of LoRA/parameter-efficient fine-tuning and RL on the Tinker post-training platform; rewards the experiment-design and calibration rigor shown in the candidate's quality-estimator and LLM-router work.",
+    "caveat": "Evergreen expression-of-interest req (no guaranteed immediate opening); minimum is a bachelor's with PhD preferred, so a new PhD competes with experienced researchers for a $350K-$475K base band; equity on top is not quantified.",
+    "posted": "2026-09-16",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://jobs.ashbyhq.com/thinkingmachines/0a71cb88-068b-4ac6-9912-e498c49b1343",
+    "visa": [
+      "stated",
+      "The posting says it sponsors visas."
+    ],
+    "ats": {
+      "type": "ashby",
+      "org": "thinkingmachines",
+      "id": "0a71cb88-068b-4ac6-9912-e498c49b1343"
+    },
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "Thinking Machines Lab",
+    "role": "Research, Pre-Training Data",
+    "est": [
+      370,
+      520
+    ],
+    "id": "thinking-machines-lab-research-pre-training-data-3c52b1",
+    "track": "llm",
+    "location": "San Francisco, CA",
+    "base": "$350,000 - $475,000 base; sponsors visas",
+    "fit": 3,
+    "why": "Data sourcing, curation and quality classifiers for pre-training; draws on the candidate's large-scale data pipelines (220K production cases) and distributed-computing background.",
+    "caveat": "Evergreen expression-of-interest req (no guaranteed immediate opening); minimum is a bachelor's with PhD preferred, so a new PhD competes with experienced researchers for a $350K-$475K base band; equity on top is not quantified.",
+    "posted": "2026-08-04",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://jobs.ashbyhq.com/thinkingmachines/27ec4240-9f70-4ebe-abc0-a7336358a9a4",
+    "visa": [
+      "stated",
+      "The posting says it sponsors visas."
+    ],
+    "ats": {
+      "type": "ashby",
+      "org": "thinkingmachines",
+      "id": "27ec4240-9f70-4ebe-abc0-a7336358a9a4"
+    },
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "Anthropic",
+    "role": "Research Scientist, Life Sciences (Computational Chemistry)",
+    "est": [
+      340,
+      460
+    ],
+    "id": "anthropic-research-scientist-life-sciences-dec2d2",
+    "track": "science",
+    "location": "San Francisco, CA",
+    "base": "Annual salary $300,000-$320,000 (equity additional, not quantified)",
+    "fit": 3,
+    "why": "Builds the RL environments, datasets and evaluations that teach Claude chemistry; the candidate's LLM evaluation and label-disagreement work at Amazon plus computational chemistry with ML potentials (AIMNet2, UMA) and DFT-level molecular crystal prediction cover the ML and modeling halves of the req.",
+    "caveat": "Minimum qualifications ask for deep organic and medicinal chemistry knowledge (reactions, synthesis, SAR) with experimental ground truth, which a materials PhD must argue around; the role is fully on-site in SF, posted 2026-10-25 with an ASAP start, and Anthropic says it sponsors visas but not for every role.",
+    "posted": "2026-10-25",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5461863008",
+    "visa": [
+      "stated",
+      "The posting says it sponsors visas."
+    ],
+    "ats": {
+      "type": "greenhouse",
+      "token": "anthropic",
+      "id": "5461863008"
+    },
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "Character.AI",
+    "role": "Research Engineer, AI Safety & Alignment",
+    "est": [
+      280,
+      450
+    ],
+    "id": "character-ai-research-engineer-ai-safety-alig-c26b6b",
+    "track": "llm",
+    "location": "Redwood City, CA",
+    "base": "$225K - $400K base; offers equity",
+    "fit": 3,
+    "why": "Requires a PhD with no years bar; safety evaluations, RLHF and bias/toxicity mitigation reuse the candidate's policy-classification routing and LLM-vs-human disagreement analysis.",
+    "caveat": "Safety-specific research background is expected (nice-to-have publications); sponsorship not stated.",
+    "posted": "2025-10-03",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://jobs.ashbyhq.com/character/a7ddb640-466f-4a1f-9a94-7465006aad05",
+    "visa": [
+      "ask",
+      "The posting doesn’t say; ask the recruiter."
+    ],
+    "ats": {
+      "type": "ashby",
+      "org": "character",
+      "id": "a7ddb640-466f-4a1f-9a94-7465006aad05"
+    },
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "TikTok",
+    "role": "Research Scientist/Software Engineer, Neural Graphics and World Models - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+    "est": [
+      285,
+      420
+    ],
+    "id": "tiktok-research-scientist-software-engi-9087ee",
+    "track": "llm",
+    "location": "San Jose, CA",
+    "base": "Base $162,000 - $387,600 annually (San Jose)",
+    "fit": 3,
+    "why": "Global Frontier Tech research track on 3D generation (AI objects, scenes, animation and rendering; NeRF/3DGS) that accepts 'simulation or physics-aware learning' as the required depth area; the candidate's GAtor 2.0 is physics-aware 3D structure generation with ML interatomic potentials scaled across hundreds of Slurm/MPI processes, and the req wants hands-on PyTorch generative-model training (diffusion, flow matching, autoregressive).",
+    "caveat": "Competing applicants will carry SIGGRAPH/CVPR-style graphics publications so fit is a stretch, this is the higher-band sibling of the Engine & Tools req, and ByteDance/TikTok allow at most two applications company-wide (the board already holds a TikTok Trust & Safety and a ByteDance Seed role).",
+    "posted": "2026-08-20",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://lifeattiktok.com/search/7668854153882011957",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "TikTok",
+    "role": "(General Hire) Research Scientist Graduate(TikTok Recommendation) - 2027 Start (PhD)",
+    "est": [
+      285,
+      420
+    ],
+    "id": "tiktok-general-hire-research-scientist--718351",
+    "track": "llm",
+    "location": "San Jose, CA",
+    "base": "Base $162,000 - $387,600 annually (San Jose)",
+    "fit": 3,
+    "why": "General-hire PhD research scientist pool whose posting team builds multimodal pretraining, multimodal LLMs and image/video generation for TikTok's business side while publishing; the candidate's transformer quality estimators, LLM routing pipeline and generative structure-search engine fit the 'CV, NLP, multi-modality, LLM, generative modeling' brief, and the minimum quals are only a PhD plus PyTorch depth.",
+    "caveat": "Applications are routed across Recommendation-org teams so landing on the genAI team is not guaranteed, new-grad PhD offers usually fall in the lower half of the wide band, and ByteDance/TikTok allow at most two applications company-wide (the board already holds a TikTok Trust & Safety and a ByteDance Seed role).",
+    "posted": "2026-08-03",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://lifeattiktok.com/search/7663388039600883973",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "xAI (SpaceXSI)",
+    "role": "Member of Technical Staff - Model Training",
+    "est": [
+      260,
+      420
+    ],
+    "id": "xai-spacexsi-member-of-technical-staff-model--d6bcf4",
+    "track": "llm",
+    "location": "Palo Alto, CA; Austin, TX; New York, NY; Seattle, WA",
+    "base": "$180,000 - $600,000 base plus equity",
+    "fit": 3,
+    "why": "General Grok modeling req that explicitly says modeling experience is not required; the candidate's PyTorch/HF depth and ML-potential training experience fit a generalist model-training role.",
+    "caveat": "Posting is branded SpaceXSI (xAI inside SpaceX); SpaceX roles usually require US-person status under ITAR and this req is silent on sponsorship, so confirm visa policy before applying; the base band is extremely wide and a new PhD would land near its bottom.",
+    "posted": "",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://job-boards.greenhouse.io/xai/jobs/5086324007",
+    "visa": [
+      "ask",
+      "The posting doesn’t say; ask the recruiter."
+    ],
+    "ats": {
+      "type": "greenhouse",
+      "token": "xai",
+      "id": "5086324007"
+    },
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "TikTok",
+    "role": "AI Infra Engineer Graduate (Recommendation & LLM) 2027 Start (PhD)",
+    "est": [
+      280,
+      400
+    ],
+    "id": "tiktok-ai-infra-engineer-graduate-recom-880ce8",
+    "track": "llm",
+    "location": "San Jose, CA",
+    "base": "Base $162,000-$387,600/yr (San Jose); eligible for discretionary bonus and RSUs",
+    "fit": 3,
+    "why": "Model-infrastructure team building distributed training and serving for LLMs and large recommendation models; the candidate's scaling of GAtor 2.0 to hundreds of processes on Slurm/MPI and PyTorch experience fit, with LLM serving (KV cache, continuous batching) as the learning curve.",
+    "caveat": "It is a systems/GPU engineering role rather than research (CUDA/Triton, FSDP/ZeRO preferred), the band is multi-level, and TikTok/ByteDance cap applicants at two applications company-wide.",
+    "posted": "2026-08-12",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://lifeattiktok.com/search/7672656091025066293",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "Safe Superintelligence (SSI)",
+    "role": "Member of Technical Staff",
+    "est": [
+      250,
+      420
+    ],
+    "id": "safe-superintelligence-s-member-of-technical-staff-7a1111",
+    "track": "llm",
+    "location": "Palo Alto, CA (or Tel Aviv)",
+    "base": "$100K - $500K base; offers equity",
+    "fit": 3,
+    "why": "Single generic research/engineering req with no stated seniority bar; strong PyTorch, distributed training and LLM-evaluation experience are the only public signals it screens on.",
+    "caveat": "The posting lists no requirements or team, the $100K-$500K band says nothing about leveling, sponsorship is not stated, and the Ashby API lists zero public jobs so the req is effectively unlisted.",
+    "posted": "",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://jobs.ashbyhq.com/ssi/b91659e4-9352-46fa-b3c5-4fb28827eb2e",
+    "visa": [
+      "ask",
+      "The posting doesn’t say; ask the recruiter."
+    ],
+    "ats": {
+      "type": "ashby",
+      "org": "ssi",
+      "id": "b91659e4-9352-46fa-b3c5-4fb28827eb2e"
+    },
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "TikTok",
+    "role": "Machine Learning Engineer Graduate (E-Commerce Content Recommendation - Generative & Large Recommendation Model) - 2027 Start (PhD)",
+    "est": [
+      240,
+      420
+    ],
+    "id": "tiktok-machine-learning-engineer-gradua-aedff5",
+    "track": "llm",
+    "location": "San Jose, CA; Seattle, WA",
+    "base": "Base $162,000 - $387,600 annually (San Jose)",
+    "fit": 3,
+    "why": "PhD-level team rebuilding TikTok Shop's recommendation stack on LLM foundations: scaling ranking models to billions of parameters, behavior-corpus pre-training and LLM post-training (SFT/RLHF/DPO/GRPO); the candidate's Hugging Face/PyTorch depth, distributed training across hundreds of processes and production LLM routing fit the minimum quals, which ask for LLM/foundation-model or RL practice rather than recsys experience.",
+    "caveat": "Applied recommendation work (fit 3 only because of the LLM-training content), CUDA/Triton and inference-acceleration experience are preferred, and ByteDance/TikTok allow at most two applications company-wide (the board already holds a TikTok Trust & Safety and a ByteDance Seed role). A sibling req in Seattle, WA (est. $240K–$340K) is at https://lifeattiktok.com/search/7685552743586826549",
+    "posted": "2026-09-16",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://lifeattiktok.com/search/7685552742819842357",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "Periodic Labs",
+    "role": "Research Scientist, Scaling RL",
+    "est": [
+      260,
+      390
+    ],
+    "id": "periodic-labs-research-scientist-scaling-rl-68f5f7",
+    "track": "llm",
+    "location": "Menlo Park, CA",
+    "base": "$225,000-$350,000 base + equity",
+    "fit": 3,
+    "why": "Studies how RL for frontier models scales with compute and data and explicitly encourages final-year PhD students to apply; the candidate's PPO-trained BERT agent, transformer quality estimators and Slurm/MPI-scale experiment orchestration are the closest matches.",
+    "caveat": "The posting wants hands-on experience training LLMs with RL, which the candidate's RL work does not quite cover, and Periodic says it may offer a one-year postdoc for this profile instead of the full-time role.",
+    "posted": "2026-10-01",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://jobs.ashbyhq.com/periodic-labs/20b122c9-b8ec-4fb0-aaf4-9b45902affe0",
+    "visa": [
+      "stated",
+      "The posting says it sponsors visas."
+    ],
+    "ats": {
+      "type": "ashby",
+      "org": "periodic-labs",
+      "id": "20b122c9-b8ec-4fb0-aaf4-9b45902affe0"
+    },
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "TikTok",
+    "role": "Machine Learning Engineer Graduate (E-Commerce Recommendation Foundation)- 2027 Start (PhD)",
+    "est": [
+      250,
+      400
+    ],
+    "id": "tiktok-machine-learning-engineer-gradua-b8af4f",
+    "track": "llm",
+    "location": "San Jose, CA; Seattle, WA",
+    "base": "Base $162,000-$387,600/yr (San Jose); eligible for discretionary bonus and RSUs",
+    "fit": 3,
+    "why": "Trains recommendation foundation models end to end (pre-, mid- and post-training, multimodal semantic tokenizers, LLM-native recommendation), which leans on the candidate's LLM post-training exposure and PyTorch/HPC background more than classic recsys does.",
+    "caveat": "Prefers publications on LLM topics at NeurIPS/ICML/ACL-type venues, which a materials-focused record may not satisfy; the band is multi-level, and TikTok/ByteDance cap applicants at two applications company-wide. A sibling req in Seattle, WA (est. $250K–$345K) is at https://lifeattiktok.com/search/7672877778696407301",
+    "posted": "2026-08-13",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://lifeattiktok.com/search/7672879948538284341",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "xAI (SpaceXSI)",
+    "role": "Mid-training",
+    "est": [
+      250,
+      380
+    ],
+    "id": "xai-spacexsi-mid-training-5fb531",
+    "track": "llm",
+    "location": "Palo Alto, CA",
+    "base": "$180,000 - $440,000 base plus equity",
+    "fit": 3,
+    "why": "Synthetic-data scaling, distillation, data-mixture optimization and checkpoint evaluation; overlaps with the candidate's LLM data-quality and evaluation work and Spark/Ray-style large-scale processing.",
+    "caveat": "Posting is branded SpaceXSI (xAI inside SpaceX); SpaceX roles usually require US-person status under ITAR and this req is silent on sponsorship, so confirm visa policy before applying; the base band is extremely wide and a new PhD would land near its bottom.",
+    "posted": "",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://job-boards.greenhouse.io/xai/jobs/4965893007",
+    "visa": [
+      "ask",
+      "The posting doesn’t say; ask the recruiter."
+    ],
+    "ats": {
+      "type": "greenhouse",
+      "token": "xai",
+      "id": "4965893007"
+    },
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "Waymo",
+    "role": "Machine Learning Engineer Perception LLM/VLM (PhD, New Grad)",
+    "est": [
+      260,
+      360
+    ],
+    "id": "waymo-machine-learning-engineer-percep-27ed3e",
+    "track": "llm",
+    "location": "Mountain View, CA / San Francisco, CA",
+    "base": "Base $170,000-$216,000; eligible for discretionary bonus and equity",
+    "fit": 3,
+    "why": "PhD new-grad req on continual pre-training and evaluation of VLM foundation models at scale; the candidate's cross-attention transformer estimators, LLM routing and large-scale distributed training experience transfer, though the driving-perception domain is new.",
+    "caveat": "The body text asks for 5+ years and proven LLM/VLM pre-training expertise despite the New Grad title (Greenhouse tags the req level 4-5) and no start date is stated, so confirm leveling and a mid-2027 start with the recruiter; sponsorship is not mentioned.",
+    "posted": "2025-12-22",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=7488508",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "TikTok",
+    "role": "Research Engineer Graduate (Monetization Technology - Business Integrity) - 2027 Start (PhD)",
+    "est": [
+      260,
+      360
+    ],
+    "id": "tiktok-research-engineer-graduate-monet-c60d4b",
+    "track": "llm",
+    "location": "San Jose, CA",
+    "base": "Base $162,000 - $316,800 annually (San Jose)",
+    "fit": 3,
+    "why": "The research topic is an LLM moderation system with accurate rejection decisions, interpretable reasoning and robustness to evolving rules, scarce samples and adversarial AIGC content, the same problem as the candidate's Amazon internship: a cost-aware LLM router for product-policy classification over 220K production cases with calibrated quality estimators and LLM-vs-human disagreement diagnosis. Minimum quals (PhD, LLM fine-tuning/prompting/inference experience, Python/PyTorch; RAG/agent systems preferred) are all met.",
+    "caveat": "Ads-monetization moderation is applied work rather than scientific research, a new-grad PhD offer will likely sit in the lower half of the $162K-$316.8K band, and ByteDance/TikTok allow at most two applications company-wide (the board already holds a TikTok Trust & Safety and a ByteDance Seed role).",
+    "posted": "2026-08-03",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://lifeattiktok.com/search/7667767820142643461",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "ByteDance",
+    "role": "Machine Learning Engineer Graduate (E-Commerce Risk Control) - 2027 Start (PhD)",
+    "est": [
+      210,
+      400
+    ],
+    "id": "bytedance-machine-learning-engineer-gradua-874dc0",
+    "track": "llm",
+    "location": "San Jose, CA",
+    "base": "Base $162,000-$387,600 annually (San Jose)",
+    "fit": 3,
+    "why": "Builds AI-native risk intelligence with tool-augmented multi-agent LLM systems and feedback-driven evolution for TikTok e-commerce; the candidate's product-policy classification pipeline (220K production cases), XGBoost/transformer quality estimators and LLM routing transfer directly.",
+    "caveat": "The posted band tops out at $387,600 and almost certainly spans levels (a new-grad PhD offer is more likely $250K-$330K total), the req asks for a CS/CE PhD, it is a product-ML team rather than a research lab, and ByteDance and TikTok allow at most two applications company-wide.",
+    "posted": "2026-08-25",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://jobs.bytedance.com/en/position/7675473897004861749/detail",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Research Scientist, ML Systems - PhD New College Grad 2026",
+    "est": [
+      260,
+      350
+    ],
+    "id": "nvidia-research-scientist-ml-systems-ph-a1d632",
+    "track": "llm",
+    "location": "Santa Clara, CA (also Westford, MA; Austin, TX; Seattle, WA)",
+    "base": "Base $168,000-$264,500 plus equity",
+    "fit": 3,
+    "why": "NVIDIA Research MLSys req for a recent PhD working on efficient, scalable training and inference systems; the hooks are the cost-aware LLM router built across four models on 220K production cases and the Slurm/MPI scaling of GAtor 2.0 to hundreds of processes.",
+    "caveat": "Labelled 2026 and open since January (NVIDIA keeps new-grad reqs open across cycles, but ask about a May 2027 start), and it wants a CS/CE/EE PhD with a systems-research publication record, so a materials PhD has to sell the systems angle hard.",
+    "posted": "2026-01-09",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--ML-Systems---New-College-Grad-2026_JR2010161",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": {
+      "type": "workday",
+      "host": "nvidia.wd5.myworkdayjobs.com",
+      "tenant": "nvidia",
+      "site": "NVIDIAExternalCareerSite",
+      "path": "/job/US-CA-Santa-Clara/Research-Scientist--ML-Systems---New-College-Grad-2026_JR2010161"
+    },
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Research Scientist, Physical AI - Foundation Models - PhD New College Grad 2026",
+    "est": [
+      260,
+      350
+    ],
+    "id": "nvidia-research-scientist-physical-ai-f-89bff4",
+    "track": "llm",
+    "location": "Santa Clara, CA",
+    "base": "Base $168,000-$264,500 plus equity",
+    "fit": 3,
+    "why": "Cosmos-team research scientist req building generative world models with physics simulation in the loop and training on 20,000+ GPUs; the simulation-plus-ML experience from GAtor 2.0 (ML interatomic potentials, 3D crystal structure generation) and the PPO agent work are the hooks.",
+    "caveat": "The requirements stack diffusion, vision-language, RL, physics-simulation and 3D generative-model expertise, which the profile only partly covers, and the req carries the 2026 label (posted September 23, still accepting past its stated date), so confirm a May 2027 start.",
+    "posted": "2026-09-23",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": {
+      "type": "workday",
+      "host": "nvidia.wd5.myworkdayjobs.com",
+      "tenant": "nvidia",
+      "site": "NVIDIAExternalCareerSite",
+      "path": "/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032"
+    },
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "TikTok",
+    "role": "Research Scientist Graduate (Monetization Technology - Business Integrity) - 2027 Start (PhD)",
+    "est": [
+      250,
+      350
+    ],
+    "id": "tiktok-research-scientist-graduate-mone-29deb2",
+    "track": "llm",
+    "location": "San Jose, CA",
+    "base": "Base $162,000-$316,800/yr (San Jose); eligible for discretionary bonus and RSUs",
+    "fit": 3,
+    "why": "LLM-based ad and content moderation research (evolving rules, adversarial AIGC, interpretable rejection decisions) with RLHF/post-training and LLM-as-judge benchmark design preferred; mirrors the candidate's Amazon product-policy classification router and LLM-vs-human disagreement diagnosis.",
+    "caveat": "Earlier screened as unconfirmed via an aggregator but now verified open on TikTok's own page; the $162K-$316.8K band is multi-level, and TikTok/ByteDance cap applicants at two applications company-wide.",
+    "posted": "2026-07-30",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://lifeattiktok.com/search/7667766028122048773",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "Apple",
+    "role": "AIML - ML Researcher, AFM",
+    "est": [
+      250,
+      340
+    ],
+    "id": "apple-aiml-ml-researcher-afm-02fd05",
+    "track": "llm",
+    "location": "Cupertino, CA; New York, NY; Seattle, WA",
+    "base": "$184,700 - $324,800 base",
+    "fit": 3,
+    "why": "Pre-training and mid-training research for Apple Foundation Models; requires a PhD and publication record, no years; the candidate's PyTorch/distributed-training background and papers fit.",
+    "caveat": "Apple prints a single $184.7K-$324.8K base band spanning ICT3-ICT5; a new PhD is typically leveled ICT3/ICT4 (about $240K-$320K total), and the req is open to experienced hires too.",
+    "posted": "2026-06-24",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://jobs.apple.com/en-us/details/200607600-0836",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "Apple",
+    "role": "ML Researcher, Apple Foundation Models",
+    "est": [
+      250,
+      340
+    ],
+    "id": "apple-ml-researcher-apple-foundation-m-1d2f4b",
+    "track": "llm",
+    "location": "New York City Metro Area, NY",
+    "base": "$184,700 - $324,800 base",
+    "fit": 3,
+    "why": "Same AFM team, NYC seat; preferred areas (RLHF/GRPO, reward modeling, agentic RL, distillation) overlap with the candidate's PPO agent and LLM-evaluation projects.",
+    "caveat": "Apple prints a single $184.7K-$324.8K base band spanning ICT3-ICT5; a new PhD is typically leveled ICT3/ICT4 (about $240K-$320K total), and the req is open to experienced hires too.",
+    "posted": "2026-06-08",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://jobs.apple.com/en-us/details/200664386-2621",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "Apple",
+    "role": "Research Scientist/Engineer - LLM Efficiency",
+    "est": [
+      250,
+      340
+    ],
+    "id": "apple-research-scientist-engineer-llm--ce4724",
+    "track": "llm",
+    "location": "Santa Clara, CA",
+    "base": "$184,700 - $324,800 base",
+    "fit": 3,
+    "why": "Efficiency research on LLMs and diffusion models with publications expected; the candidate's cost-aware routing across four LLMs is an efficiency problem, and the role spans systems to algorithms like the GAtor/MPI work.",
+    "caveat": "Apple prints a single $184.7K-$324.8K base band spanning ICT3-ICT5; a new PhD is typically leveled ICT3/ICT4 (about $240K-$320K total), and the req is open to experienced hires too.",
+    "posted": "2026-10-12",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://jobs.apple.com/en-us/details/200631342-3760",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "Together AI",
+    "role": "Research Engineer, Large-Scale Training",
+    "est": [
+      240,
+      340
+    ],
+    "id": "together-ai-research-engineer-large-scale-tr-82c5fe",
+    "track": "llm",
+    "location": "San Francisco, CA",
+    "base": "$200,000 - $290,000 base plus startup equity",
+    "fit": 3,
+    "why": "Productionizes efficient fine-tuning research and profiles distributed training; the candidate scaled evolutionary search to hundreds of processes on Slurm/MPI and trains ML potentials in PyTorch.",
+    "caveat": "Systems-heavy (distributed training, kernels) rather than modeling research, and the estimate counts private-company equity at face value.",
+    "posted": "2026-09-23",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5199554007",
+    "visa": [
+      "ask",
+      "The posting doesn’t say; ask the recruiter."
+    ],
+    "ats": {
+      "type": "greenhouse",
+      "token": "togetherai",
+      "id": "5199554007"
+    },
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "Mistral AI",
+    "role": "Applied Scientist",
+    "est": [
+      230,
+      350
+    ],
+    "id": "mistral-ai-applied-scientist-c8ea04",
+    "track": "llm",
+    "location": "Palo Alto, CA (also New York, NY)",
+    "base": "Pay not listed in the posting",
+    "fit": 3,
+    "why": "Builds SOTA models with clients across modalities; PhD is listed as nice-to-have with no years bar, and the candidate's end-to-end LLM router and classification deployment is the kind of applied research work described.",
+    "caveat": "Pay not posted (US arm of a Paris company) and the req reads as a generalist applied role, so leveling for a new PhD is uncertain.",
+    "posted": "2026-08-03",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://jobs.ashbyhq.com/mistral.ai/5d15e1fe-789d-451d-8521-568906620c21",
+    "visa": [
+      "ask",
+      "The posting doesn’t say; ask the recruiter."
+    ],
+    "ats": {
+      "type": "ashby",
+      "org": "mistral.ai",
+      "id": "5d15e1fe-789d-451d-8521-568906620c21"
+    },
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "TikTok",
+    "role": "Research Scientist Graduate (E-Commerce Recommendation Region) - 2027 Start (PhD)",
+    "est": [
+      240,
+      340
+    ],
+    "id": "tiktok-research-scientist-graduate-e-co-52fc29",
+    "track": "llm",
+    "location": "Seattle, WA",
+    "base": "Base $153,900-$300,960/yr (Seattle); eligible for discretionary bonus and RSUs",
+    "fit": 3,
+    "why": "Research role spanning generative and LLM-powered recommendation, RL and causal inference, and autonomous research agents that run experiments; the candidate's RAG-based LLM recommendation agent, PPO work and LLM routing are the closest matches.",
+    "caveat": "The core domain is e-commerce recommendation and the team prefers first-author recsys/LLM publications at NeurIPS/KDD/RecSys-type venues; TikTok/ByteDance cap applicants at two applications company-wide.",
+    "posted": "2026-10-14",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://lifeattiktok.com/search/7695927144126253317",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "TikTok",
+    "role": "Machine Learning Engineer Graduate (E-Commerce Recommendation Mall) - 2027 Start (PhD)",
+    "est": [
+      240,
+      340
+    ],
+    "id": "tiktok-machine-learning-engineer-gradua-25d1d2",
+    "track": "llm",
+    "location": "Seattle, WA",
+    "base": "Base $153,900-$300,960/yr (Seattle); eligible for discretionary bonus and RSUs",
+    "fit": 3,
+    "why": "Generative, LLM-for-recommendation and agentic recommendation research (self-evolving agents, LLM reasoning for cold start and intent) plus LTV modeling; the candidate's RAG recommendation agent and LLM post-training exposure are the hooks.",
+    "caveat": "E-commerce recsys is adjacent to the candidate's profile; Seattle band $153.9K-$300.96K is multi-level, and TikTok/ByteDance cap applicants at two applications company-wide.",
+    "posted": "2026-08-13",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://lifeattiktok.com/search/7672883737036654853",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "TikTok",
+    "role": "Machine Learning Engineer Graduate (E-Commerce Governance) - 2027 Start (PhD)",
+    "est": [
+      240,
+      340
+    ],
+    "id": "tiktok-machine-learning-engineer-gradua-77e4f6",
+    "track": "llm",
+    "location": "Seattle, WA",
+    "base": "Base $153,900-$300,960/yr (Seattle); eligible for discretionary bonus and RSUs",
+    "fit": 3,
+    "why": "Risk, violation and low-quality detection for e-commerce content plus instruction tuning, CoT and alignment of domain LLMs, close to the candidate's Amazon product-policy classification system (LLM router over 220K production cases, calibrated quality estimators).",
+    "caveat": "Governance/risk-control domain with master's-style qualifications under a PhD title, so leveling is uncertain; Seattle band $153.9K-$300.96K, and TikTok/ByteDance cap applicants at two applications company-wide.",
+    "posted": "2026-08-13",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://lifeattiktok.com/search/7672928557537954053",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "TikTok",
+    "role": "Neural Graphics and World Models Research Scientist/Software Engineer Graduate (TikTok, Engine&Tools) - 2027 Start (PhD)",
+    "est": [
+      230,
+      350
+    ],
+    "id": "tiktok-neural-graphics-and-world-models-b7a707",
+    "track": "llm",
+    "location": "San Jose, CA",
+    "base": "Base $128,000 - $316,800 annually (San Jose)",
+    "fit": 3,
+    "why": "Same AI-3D team as the Global Frontier Tech req: new-grad researchers own a scoped project in model development, data or evaluation for neural graphics and world models, with physics-aware learning/simulation listed as an accepted specialty; the candidate's ML-potential-driven structure generation, evolutionary search and PyTorch/Hugging Face experience map onto the model-development and evaluation tracks.",
+    "caveat": "Lower printed band than the GFT sibling ($128K floor, so a new-grad PhD offer may land under $300K), the req expects depth in an AI-for-graphics area, and ByteDance/TikTok allow at most two applications company-wide (the board already holds a TikTok Trust & Safety and a ByteDance Seed role), so pick one of the two reqs.",
+    "posted": "2026-08-03",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://lifeattiktok.com/search/7668831188103481605",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "TikTok",
+    "role": "Research Engineer Graduate (Agentic Arch) - 2027 Start (PhD)",
+    "est": [
+      230,
+      350
+    ],
+    "id": "tiktok-research-engineer-graduate-agent-1f540a",
+    "track": "llm",
+    "location": "San Jose, CA",
+    "base": "Base $128,000 - $316,800 annually (San Jose)",
+    "fit": 3,
+    "why": "Frontier research on long-horizon LLM agents (post-training, RL from execution feedback, test-time scaling, rigorous evaluation) with publication expected; the candidate's RAG-based LLM recommendation agent, BERT+PPO agent, Amazon LLM router with calibrated estimators and Slurm/MPI distributed-systems work cover the agents, post-training, evaluation and systems quals.",
+    "caveat": "Domain is AI for software engineering and operations rather than science, the band starts at $128K so a new-grad offer may land under $300K, and ByteDance/TikTok allow at most two applications company-wide (the board already holds a TikTok Trust & Safety and a ByteDance Seed role).",
+    "posted": "2026-08-04",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://lifeattiktok.com/search/7669824354636613941",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "TikTok",
+    "role": "AI Machine Learning Engineer - Graduate (TikTok Content Ecology) - 2027 Start (PhD) - Graduate (TikTok Content Ecology) - 2027 Start (PhD)",
+    "est": [
+      230,
+      330
+    ],
+    "id": "tiktok-ai-machine-learning-engineer-gra-a3f574",
+    "track": "llm",
+    "location": "San Jose, CA",
+    "base": "Base $128,000-$316,800/yr (San Jose); eligible for discretionary bonus and RSUs",
+    "fit": 3,
+    "why": "Content-understanding and governance team applying LLM/MLLM post-training (SFT, RL), agentic frameworks (planning, tool use, memory) and multimodal models at scale; requires hands-on LLM post-training or inference optimization, which the candidate's Amazon LLM work partly covers.",
+    "caveat": "The band starts at the master's floor ($128K-$316.8K), so new-grad PhD pay is less certain than for the $162K-floor reqs and the midpoint only narrowly clears the line; TikTok/ByteDance cap applicants at two applications company-wide.",
+    "posted": "2026-08-02",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://lifeattiktok.com/search/7668838052657678597",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "Liquid AI",
+    "role": "Liquid Labs - Research Engineer",
+    "est": [
+      220,
+      320
+    ],
+    "id": "liquid-ai-liquid-labs-research-engineer-2c1547",
+    "track": "llm",
+    "location": "Boston, MA (SF or other US locations accepted)",
+    "base": "Pay not listed in the posting",
+    "fit": 3,
+    "why": "Internal research accelerator (ex-MIT CSAIL liquid neural networks) designing architectures and training methods; the candidate's GAtor 2.0 open-source engine and publication record fit the 'researchers who build' profile.",
+    "caveat": "No pay posted, so the estimate assumes a well-funded startup package with equity at face value; tier-1 publication track record is required.",
+    "posted": "2025-12-03",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://jobs.ashbyhq.com/liquid-ai/679d26b2-2603-424d-acb8-99f45e8b5ddd",
+    "visa": [
+      "ask",
+      "The posting doesn’t say; ask the recruiter."
+    ],
+    "ats": {
+      "type": "ashby",
+      "org": "liquid-ai",
+      "id": "679d26b2-2603-424d-acb8-99f45e8b5ddd"
+    },
+    "added": "2026-10-26",
+    "first_seen": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "last_open": "2026-10-26",
+    "check_failures": 0
+  },
+  {
+    "company": "Cerebras Systems",
+    "role": "Applied Machine Learning Research Scientist",
+    "est": [
+      220,
+      320
+    ],
+    "id": "cerebras-systems-applied-machine-learning-researc-874e4a",
+    "track": "llm",
+    "location": "United States and Canada (Sunnyvale, CA HQ)",
+    "base": "Pay not listed in the posting",
+    "fit": 3,
+    "why": "Makes LLM training/fine-tuning/evaluation run at scale on Cerebras hardware and is hiring 'multiple positions for various levels'; the 4+ years counts internships and research, which a PhD satisfies.",
+    "caveat": "Pay not posted and the location is listed as 'United States and Canada'; confirm a US seat and the level before counting on the estimate.",
+    "posted": "2026-03-05",
+    "source": "Claude Code sweep 2026-10-26",
+    "url": "https://jobs.ashbyhq.com/cerebras/d654a704-2c58-4ba6-9109-2c92aecb2503",
+    "visa": [
+      "ask",
+      "The posting doesn’t say; ask the recruiter."
+    ],
+    "ats": {
+      "type": "ashby",
+      "org": "cerebras",
+      "id": "d654a704-2c58-4ba6-9109-2c92aecb2503"
     },
     "added": "2026-10-26",
     "first_seen": "2026-10-26",

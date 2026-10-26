@@ -56,7 +56,7 @@ Field values:
 - `sponsorship`: `yes` only if the posting says it sponsors, `no` if it says it won't, otherwise `unclear`.
 - `fit`: 1–5 against the profile in `config.yaml`.
 
-Put a rejected posting under `screened` only if it looks relevant at first glance. That stops it from being screened again.
+Put a rejected posting under `screened` only if it looks relevant at first glance; it is shown on the board with its reason. Put clearly irrelevant postings under a third list, `dismissed` (same fields, one-clause reason): they are only remembered so they never come back in `review`. To take a role off the board after reading the posting (for example the automated screen could not read the page and guessed the pay), use a fourth list, `remove`: `[{"url": "...", "reason": "..."}]`.
 
 ## Commands
 
@@ -75,3 +75,13 @@ Job sites are outside the default Trusted network allowlist, so use a cloud envi
 ## Git
 
 Commit `config.yaml`, `data/`, `docs/` and `README.md` with a short message such as `Sweep 2026-10-26: 4 new roles`. Push to `main` if you're allowed to; otherwise push your branch and open a pull request. List the new roles, with links, in the PR description or session summary.
+
+## Interview training (`training/`, `scripts/train.py`, `docs/train.html`)
+
+The repo also holds the candidate's daily interview prep. Read `training/README.md` first. The slash command `/train` runs the daily session (today's assignment as a mock interview, then the quiz, then commit); `/mock` runs a timed problem.
+
+- Content: `training/curriculum.json` (tracks and modules), `training/assignments/<id>/` (meta.json, README.md, starter.py, tests.py, solution.py; written design prompts have a rubric in meta.json instead of tests), `training/quiz.json` (flashcards).
+- State: `training/progress.json` is an append-only event log plus settings. Never edit it by hand; use the CLI (`today`, `start`, `test`, `done`, `skip`, `quiz --grade`, `goal`, `sync`).
+- The page `docs/train.html` is rendered by `python -m scripts.train render` (every mutating command re-renders). It runs tests in the browser for Python and NumPy assignments and exports a `sync` command for progress made there. A copy is published as the private claude.ai artifact "Interview prep, fall 2027", whose `events` collection can be read with the ArtifactData tool and merged with `python -m scripts.train sync <file>`.
+- Adding content: `python -m scripts.train new <id> --track <track> --module <module> --title "..."`, then fill the files in the style of `training/assignments/lc-two-sum/`, and run `python -m scripts.train selfcheck <id> --starters`. Tests use plain `assert` functions named `test_*`, import from `solution`, must be deterministic and fast, and `numpy`/`python` runtimes may not import torch or scipy (they run in Pyodide).
+- Use the Python that has numpy and torch (`/opt/homebrew/Caskroom/miniforge/base/bin/python` on this Mac). Commit `training/`, `docs/` and `README.md` after a session: `Train <date>: <assignment id>`.

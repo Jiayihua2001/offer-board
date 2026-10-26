@@ -22,20 +22,20 @@
   },
   "https://job-boards.greenhouse.io/lilasciences/jobs/4254693009": {
     "date": "2026-10-26",
-    "decision": "screened",
-    "reason": "estimated $85K–$140K, below your line",
+    "decision": "dismissed",
+    "reason": "BS/MS bench research-associate role; base $80K-$118K.",
     "tkey": "lila-sciences|senior-research-associate-automated-chemistry"
   },
   "https://job-boards.greenhouse.io/anthropic/jobs/5285248008": {
     "date": "2026-10-26",
-    "decision": "screened",
-    "reason": "estimated $95K–$120K, below your line",
+    "decision": "dismissed",
+    "reason": "Entry-level bench role for BS/MS biologists with no ML development; $95K-$120K.",
     "tkey": "anthropic|research-associate-biology"
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551": {
     "date": "2026-10-26",
-    "decision": "added",
-    "reason": "",
+    "decision": "screened",
+    "reason": "Open (base $168K-$264.5K + equity) but it explicitly requires a PhD completed in 2026 plus research experience in autonomous vehicles, robotics or embodied AI with RSS/ICRA/CoRL publications; the candidate graduates May 2027 with no robotics work",
     "tkey": "nvidia|research-scientist-autonomous-systems-and-physical-ai-research-phd-new-college-grad-2026"
   },
   "https://indeed.com/q-research-scientist-machine-learning-applied-math-jobs.html": {
@@ -64,110 +64,110 @@
   },
   "https://jobs.lever.co/auw/6f317af6-4362-4dea-accc-e86ec1d102a5": {
     "date": "2026-10-26",
-    "decision": "screened",
-    "reason": "estimated $150K–$210K, below your line",
+    "decision": "dismissed",
+    "reason": "insurer; data-science AI engineer, not ML research",
     "tkey": "applied-underwriters|ai-engineer-data-science"
   },
   "https://jobs.ashbyhq.com/brainco/c1788246-305f-4e4f-8b03-8444c76a466e": {
     "date": "2026-10-26",
-    "decision": "screened",
-    "reason": "estimated $200K–$280K, below your line",
+    "decision": "dismissed",
+    "reason": "bachelor's-level 2027 new-grad product-engineering role, no pay listed",
     "tkey": "brain-co|ai-product-engineer-2027-new-grad"
   },
   "https://globalfoundries.wd1.myworkdayjobs.com/en-US/external/job/USA---Texas---Richardson/AI-ML-Systems-Engineer--2027-New-College-Graduate-_JR-2604163": {
     "date": "2026-10-26",
-    "decision": "screened",
-    "reason": "estimated $145K–$185K, below your line",
+    "decision": "dismissed",
+    "reason": "BS/MS new-college-graduate req with posted base $86K–$148K",
     "tkey": "globalfoundries|ai-ml-systems-engineer-2027-new-college-graduate"
   },
   "https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3": {
     "date": "2026-10-26",
     "decision": "screened",
-    "reason": "estimated $170K–$240K, below your line",
+    "reason": "Posted US base $107,360–$152,900 plus equity for a BS/MS/PhD new grad; est. $150K–$220K total, far below the line",
     "tkey": "quora|machine-learning-engineer-new-grad-quora-remote"
   },
   "https://careers.duolingo.com/jobs/8881612002?gh_jid=8881612002": {
     "date": "2026-10-26",
-    "decision": "added",
-    "reason": "",
+    "decision": "screened",
+    "reason": "Posted base $137,700–$186,300 plus equity for a new PhD (Pittsburgh or NYC); est. $185K–$280K year-1 total, midpoint about $230K, below the line",
     "tkey": "duolingo|ai-research-engineer-new-phd-graduate"
   },
   "https://jobs.gusto.com/postings/koireader-technologies-inc-physical-ai-implementation-specialist-and-lab-assistant-784b677d-b5c5-48cd-860f-67e1d85823ec": {
     "date": "2026-10-26",
-    "decision": "screened",
-    "reason": "requires US citizenship, a green card or a clearance",
+    "decision": "dismissed",
+    "reason": "implementation-specialist / lab-assistant title at a small logistics-vision startup, not a PhD research role (Gusto page",
     "tkey": "koireader|physical-ai-implementation-specialist-and-lab-assistant"
   },
   "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Mountain-View-California-United-States-of-America/Entry-Level---AI-Machine-Learning-Researcher_JR-202621753": {
     "date": "2026-10-26",
     "decision": "screened",
-    "reason": "estimated $150K–$210K, below your line",
+    "reason": "Genuine fresh-PhD research req with base $128K–$279K, but GM states it provides no immigration sponsorship (H-1B, OPT, STEM OPT) and requires a U.S. Person under export control",
     "tkey": "general-motors|entry-level-ai-machine-learning-researcher"
   },
   "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Warren-Michigan-United-States-of-America/Entry-Level---AI-and-Machine-Learning-for-Automation-Researcher_JR-202621769": {
     "date": "2026-10-26",
     "decision": "screened",
-    "reason": "estimated $160K–$220K, below your line",
+    "reason": "No immigration sponsorship and a U.S.-Person export-control requirement; also a robotics-manipulation RL role in Warren, MI with no pay printed (the body text even calls it a summer intern researcher)",
     "tkey": "general-motors|entry-level-ai-and-machine-learning-for-automation-researcher"
   },
   "https://jobs.ashbyhq.com/brainco/4d39773e-f4c3-49c1-87c3-812a9804fb15": {
     "date": "2026-10-26",
-    "decision": "screened",
-    "reason": "estimated $200K–$280K, below your line",
+    "decision": "dismissed",
+    "reason": "bachelor's-level backend/platform-engineering new-grad role",
     "tkey": "brain-co|ai-platform-engineer-2027-new-grad"
   },
   "https://jobs.ashbyhq.com/brainco/4c9f8f00-0caf-4927-80da-02a3e53cb0cd": {
     "date": "2026-10-26",
-    "decision": "screened",
-    "reason": "estimated $200K–$280K, below your line",
+    "decision": "dismissed",
+    "reason": "bachelor's-level 2027 new-grad LLM-deployment engineering role, no pay listed",
     "tkey": "brain-co|ai-ml-engineer-2027-new-grad"
   },
   "https://jobs.ashbyhq.com/brainco/32c4e1c9-ccd1-4dca-a68b-31ad1b868030": {
     "date": "2026-10-26",
-    "decision": "screened",
-    "reason": "estimated $200K–$280K, below your line",
+    "decision": "dismissed",
+    "reason": "bachelor's/master's-level security-tooling role",
     "tkey": "brain-co|ai-security-engineer-2027-new-grad"
   },
   "https://careers-ftidefense.icims.com/jobs/7093/early-career-associate-data-scientist/job": {
     "date": "2026-10-26",
-    "decision": "screened",
-    "reason": "estimated $90K–$120K, below your line",
+    "decision": "dismissed",
+    "reason": "defense contractor, cleared work",
     "tkey": "frontier-technology|early-career-associate-data-scientist"
   },
   "https://job-boards.greenhouse.io/genscript/jobs/5252287007": {
     "date": "2026-10-26",
-    "decision": "screened",
-    "reason": "estimated $90K–$110K, below your line",
+    "decision": "dismissed",
+    "reason": "wet-lab lipid-synthesis chemist requiring 1+ year of postdoc, $90K–$110K total",
     "tkey": "genscript|research-scientist-lipid-chemistry"
   },
   "https://vrtx.wd501.myworkdayjobs.com/en-US/vertex_careers/job/Boston-MA/Computational-Chemistry-Research-Scientist---Computational-Drug-Design--_REQ-30307": {
     "date": "2026-10-26",
     "decision": "screened",
-    "reason": "estimated $150K–$210K, below your line",
+    "reason": "Computational-chemistry drug-design scientist (PhD, 0–3 years) with posted base $108K–$162K plus bonus and equity; est. $130K–$200K total, far below the line, and it wants structure-based drug-design expertise",
     "tkey": "vertex|computational-chemistry-research-scientist-computational-drug-design"
   },
   "https://jobs.ashbyhq.com/iambic-therapeutics/702f22c3-49a3-405e-8760-f0936953e0c6": {
     "date": "2026-10-26",
-    "decision": "screened",
-    "reason": "estimated $165K–$230K, below your line",
+    "decision": "dismissed",
+    "reason": "Bench organic chemistry role; posted $113K-$156K.",
     "tkey": "iambic-therapeutics|research-scientist-i-ii-high-throughput-chemistry"
   },
   "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Durham-North-Carolina-United-States-of-America/AI-and-Machine-Learning-Engineering-Graduate_1213475": {
     "date": "2026-10-26",
     "decision": "screened",
-    "reason": "estimated $150K–$200K, below your line",
+    "reason": "Bachelor's-level graduate program (master's only 'desirable', 0–2 years) in Durham, NC with no range printed; HPE graduate packages run roughly $100K–$160K total, far below the line",
     "tkey": "hewlett-packard-enterprise|ai-and-machine-learning-engineering-graduate"
   },
   "https://jobs.ashbyhq.com/iambic-therapeutics/35fa46c2-1cd5-4222-88f5-987e7bf26db7": {
     "date": "2026-10-26",
-    "decision": "screened",
-    "reason": "estimated $150K–$210K, below your line",
+    "decision": "dismissed",
+    "reason": "Bench purification/analytical chemistry role; posted $113.6K-$156K.",
     "tkey": "iambic-therapeutics|research-scientist-i-ii-purification-sciences"
   },
   "https://careers-peraton.icims.com/jobs/170473/data-science%2c-associate---herndon%2c-va/job": {
     "date": "2026-10-26",
-    "decision": "screened",
-    "reason": "estimated $105K–$145K, below your line",
+    "decision": "dismissed",
+    "reason": "defense contractor, cleared data-science associate",
     "tkey": "peraton|data-science-associate-herndon-va"
   },
   "https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698": {
@@ -178,38 +178,2330 @@
   },
   "https://horizonmedia.wd1.myworkdayjobs.com/en-US/careeropportunities/job/New-York-New-York/Associate--Data-Science_R0017491": {
     "date": "2026-10-26",
-    "decision": "screened",
-    "reason": "estimated $110K–$150K, below your line",
+    "decision": "dismissed",
+    "reason": "media-agency data-science associate",
     "tkey": "horizon-media|associate-data-science"
   },
   "https://jobs.ashbyhq.com/iambic-therapeutics/4a04c67c-1be5-4109-8f9f-b3e8dd818e37": {
     "date": "2026-10-26",
-    "decision": "screened",
-    "reason": "estimated $165K–$225K, below your line",
+    "decision": "dismissed",
+    "reason": "Bench bioanalytical/mass-spec role; posted $113.6K-$156K.",
     "tkey": "iambic-therapeutics|research-scientist-i-ii-bioanalytical-sciences-assay-development"
   },
   "https://cmu.wd115.myworkdayjobs.com/en-US/cmu/job/Pittsburgh-PA/Research-Assistant--Human-AI-Interaction-Design---School-of-Computer-Science---HCII_2025016": {
     "date": "2026-10-26",
-    "decision": "screened",
-    "reason": "needs more experience than a new PhD",
+    "decision": "dismissed",
+    "reason": "university research-assistant position",
     "tkey": "carnegie-mellon-university|research-assistant-human-ai-interaction-design-school-of-computer-science-hcii"
   },
   "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Graduate_1213631-1": {
     "date": "2026-10-26",
-    "decision": "screened",
-    "reason": "estimated $115K–$150K, below your line",
+    "decision": "dismissed",
+    "reason": "BS/MS data-science graduate program; posted master's base $81.5K–$187.5K",
     "tkey": "hewlett-packard-enterprise|data-science-graduate"
   },
   "https://novartis.wd3.myworkdayjobs.com/en-US/novartis_careers/job/Cambridge-USA/Research-Scientist-I-or-II--Oligonucleotide-Chemistry_REQ-10085156-1": {
     "date": "2026-10-26",
-    "decision": "screened",
-    "reason": "estimated $150K–$200K, below your line",
+    "decision": "dismissed",
+    "reason": "BS/MS wet-lab oligonucleotide synthesis, base $66.8K–$124K",
     "tkey": "novartis|research-scientist-i-or-ii-oligonucleotide-chemistry"
   },
   "https://jobs.ashbyhq.com/solace/77ca492c-4142-4931-beeb-e85d9d0ac443": {
     "date": "2026-10-26",
-    "decision": "screened",
-    "reason": "estimated $150K–$210K, below your line",
+    "decision": "dismissed",
+    "reason": "associate data scientist at a health-care startup, college-grad level",
     "tkey": "solace|associate-data-scientist-college-grad-2027"
+  },
+  "https://jobs.bytedance.com/en/position/7668595575944186117/detail": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "bytedance|research-scientist-graduate-seed-quantum-chemistry-and-machine-learning-2027-start-phd"
+  },
+  "https://jobs.bytedance.com/en/position/7670550401380878645/detail": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "bytedance|ai-molecular-dynamics-algorithm-researcher-graduate-seed-ai-for-science-atomistic-ai-2027-start-phd"
+  },
+  "https://jobs.ashbyhq.com/achira/fd1bf203-29bc-454a-9140-378a21bbc173": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "achira|ml-research-scientist-mlrs-representation-learning-for-molecular-ai"
+  },
+  "https://apply.deshawresearch.com/careers/Register?pipelineId=597": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "d-e-shaw-research|machine-learning-researcher-and-engineer"
+  },
+  "https://jobs.ashbyhq.com/thinkingmachines/602f2a99-34eb-4fde-9eec-b4945ee4aab6": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "thinking-machines-lab|research-post-training-evals"
+  },
+  "https://jobs.ashbyhq.com/thinkingmachines/3efb6896-4840-4f90-8798-2ce49fa146e5": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "thinking-machines-lab|research-post-training"
+  },
+  "https://apply.deshawresearch.com/careers/Register?pipelineId=661": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "d-e-shaw-research|force-field-developer"
+  },
+  "https://jobs.ashbyhq.com/character/449bf7c1-41d7-47a4-89a7-0ee0b31f5918": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "character-ai|research-engineer-post-training-all-industry-levels"
+  },
+  "https://jobs.ashbyhq.com/periodic-labs/d039ec58-a97d-47e1-b1e5-db003d772f77": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "periodic-labs|research-scientist-data"
+  },
+  "https://job-boards.greenhouse.io/xai/jobs/5114737007": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "xai-spacexsi|post-training-and-rl"
+  },
+  "https://jobs.ashbyhq.com/chaidiscovery/19fcda8f-b68a-465a-a960-edc49c7ecdb9": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "chai-discovery|research-scientist"
+  },
+  "https://lifeattiktok.com/search/7670685496821713205": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "tiktok|research-scientist-graduate-conversational-ai-2027-start-phd"
+  },
+  "https://lifeattiktok.com/search/7675841339440941317": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "tiktok|machine-learning-engineer-graduate-e-commerce-supply-chain-logistics-llm-agent-2027-start-phd"
+  },
+  "https://jobs.bytedance.com/en/position/7671095905295075637/detail": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "bytedance|agent-evaluation-evolution-researcher-graduate-aml-ark-us-2027-start-phd"
+  },
+  "https://jobs.ashbyhq.com/genesis-molecular-ai/c1c47745-4e5c-4e0e-9d71-16d7ea28895a": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "genesis-molecular-ai|ml-research-scientist-foundation-models-senior-staff-principal"
+  },
+  "https://jobs.apple.com/en-us/details/200645804-0836": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "apple|aiml-machine-learning-researcher-post-training-for-foundation-models"
+  },
+  "https://jobs.apple.com/en-us/details/200662944-0836": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "apple|aiml-researcher-engineer-foundation-model-post-training"
+  },
+  "https://job-boards.greenhouse.io/lilasciences/jobs/4116513009": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "lila-sciences|machine-learning-engineer-physical-sciences-ai"
+  },
+  "https://google.com/about/careers/applications/jobs/results/91797366327124678-research-scientist-science-ai-google-research": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "google|research-scientist-science-ai-google-research"
+  },
+  "https://jobs.ashbyhq.com/achira/083f473d-0204-4822-a62b-ea2dcfab50d4": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "achira|ml-research-scientist-mlrs-generative-ai"
+  },
+  "https://jobs.ashbyhq.com/achira/08b9b6bd-9f8f-4a7d-9fdd-48bb19affe20": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "achira|machine-learning-research-engineer-mlre-research"
+  },
+  "https://job-boards.greenhouse.io/lilasciences/jobs/4029507009": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "lila-sciences|senior-engineer-ii-ai-lab-research-engineer"
+  },
+  "https://jobs.ashbyhq.com/thinkingmachines/0a71cb88-068b-4ac6-9912-e498c49b1343": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "thinking-machines-lab|research-finetuning-science"
+  },
+  "https://jobs.ashbyhq.com/thinkingmachines/27ec4240-9f70-4ebe-abc0-a7336358a9a4": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "thinking-machines-lab|research-pre-training-data"
+  },
+  "https://job-boards.greenhouse.io/anthropic/jobs/5461863008": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "anthropic|research-scientist-life-sciences-computational-chemistry"
+  },
+  "https://jobs.ashbyhq.com/character/a7ddb640-466f-4a1f-9a94-7465006aad05": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "character-ai|research-engineer-ai-safety-alignment"
+  },
+  "https://lifeattiktok.com/search/7668854153882011957": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "tiktok|research-scientist-software-engineer-neural-graphics-and-world-models-global-frontier-tech-recruitment-program-2027-start-phd"
+  },
+  "https://lifeattiktok.com/search/7663388039600883973": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "tiktok|general-hire-research-scientist-graduate-tiktok-recommendation-2027-start-phd"
+  },
+  "https://job-boards.greenhouse.io/xai/jobs/5086324007": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "xai-spacexsi|member-of-technical-staff-model-training"
+  },
+  "https://lifeattiktok.com/search/7672656091025066293": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "tiktok|ai-infra-engineer-graduate-recommendation-llm-2027-start-phd"
+  },
+  "https://jobs.ashbyhq.com/ssi/b91659e4-9352-46fa-b3c5-4fb28827eb2e": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "safe-superintelligence-ssi|member-of-technical-staff"
+  },
+  "https://lifeattiktok.com/search/7685552742819842357": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "tiktok|machine-learning-engineer-graduate-e-commerce-content-recommendation-generative-large-recommendation-model-2027-start-phd"
+  },
+  "https://jobs.ashbyhq.com/periodic-labs/20b122c9-b8ec-4fb0-aaf4-9b45902affe0": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "periodic-labs|research-scientist-scaling-rl"
+  },
+  "https://lifeattiktok.com/search/7672879948538284341": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "tiktok|machine-learning-engineer-graduate-e-commerce-recommendation-foundation-2027-start-phd"
+  },
+  "https://job-boards.greenhouse.io/xai/jobs/4965893007": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "xai-spacexsi|mid-training"
+  },
+  "https://careers.withwaymo.com/jobs?gh_jid=7488508": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "waymo|machine-learning-engineer-perception-llm-vlm-phd-new-grad"
+  },
+  "https://lifeattiktok.com/search/7667767820142643461": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "tiktok|research-engineer-graduate-monetization-technology-business-integrity-2027-start-phd"
+  },
+  "https://jobs.bytedance.com/en/position/7675473897004861749/detail": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "bytedance|machine-learning-engineer-graduate-e-commerce-risk-control-2027-start-phd"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--ML-Systems---New-College-Grad-2026_JR2010161": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "nvidia|research-scientist-ml-systems-phd-new-college-grad-2026"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "nvidia|research-scientist-physical-ai-foundation-models-phd-new-college-grad-2026"
+  },
+  "https://lifeattiktok.com/search/7667766028122048773": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "tiktok|research-scientist-graduate-monetization-technology-business-integrity-2027-start-phd"
+  },
+  "https://jobs.apple.com/en-us/details/200607600-0836": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "apple|aiml-ml-researcher-afm"
+  },
+  "https://jobs.apple.com/en-us/details/200664386-2621": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "apple|ml-researcher-apple-foundation-models"
+  },
+  "https://jobs.apple.com/en-us/details/200631342-3760": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "apple|research-scientist-engineer-llm-efficiency"
+  },
+  "https://job-boards.greenhouse.io/togetherai/jobs/5199554007": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "together-ai|research-engineer-large-scale-training"
+  },
+  "https://jobs.ashbyhq.com/mistral.ai/5d15e1fe-789d-451d-8521-568906620c21": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "mistral-ai|applied-scientist"
+  },
+  "https://lifeattiktok.com/search/7695927144126253317": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "tiktok|research-scientist-graduate-e-commerce-recommendation-region-2027-start-phd"
+  },
+  "https://lifeattiktok.com/search/7672883737036654853": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "tiktok|machine-learning-engineer-graduate-e-commerce-recommendation-mall-2027-start-phd"
+  },
+  "https://lifeattiktok.com/search/7672928557537954053": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "tiktok|machine-learning-engineer-graduate-e-commerce-governance-2027-start-phd"
+  },
+  "https://lifeattiktok.com/search/7668831188103481605": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "tiktok|neural-graphics-and-world-models-research-scientist-software-engineer-graduate-tiktok-engine-tools-2027-start-phd"
+  },
+  "https://lifeattiktok.com/search/7669824354636613941": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "tiktok|research-engineer-graduate-agentic-arch-2027-start-phd"
+  },
+  "https://lifeattiktok.com/search/7668838052657678597": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "tiktok|ai-machine-learning-engineer-graduate-tiktok-content-ecology-2027-start-phd-graduate-tiktok-content-ecology-2027-start-phd"
+  },
+  "https://jobs.ashbyhq.com/liquid-ai/679d26b2-2603-424d-acb8-99f45e8b5ddd": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "liquid-ai|liquid-labs-research-engineer"
+  },
+  "https://jobs.ashbyhq.com/cerebras/d654a704-2c58-4ba6-9109-2c92aecb2503": {
+    "date": "2026-10-26",
+    "decision": "added",
+    "reason": "",
+    "tkey": "cerebras-systems|applied-machine-learning-research-scientist"
+  },
+  "https://jobs.bytedance.com/en/position/7671033602288912645/detail": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Labelled '2026 Start' and requires committing to an onboarding date by the end of 2026, before the May 2027 graduation; posted base $254,400-$480,000 (est. $330K-$620K total) would clear the line, so watch for a 2027 Start sibling of this Seed LLM req",
+    "tkey": "bytedance|research-scientist-graduate-seed-model-llm-2026-start-phd"
+  },
+  "https://jobs.bytedance.com/en/position/7671030761623177477/detail": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Labelled '2026 Start' with onboarding required by the end of 2026, before the May 2027 graduation; posted base $254,400-$480,000 (est. $330K-$620K total) clears the line but the focus is image/video/3D generation (fit 3), so only a 2027 Start sibling would be worth a slot",
+    "tkey": "bytedance|research-scientist-graduate-seed-model-vision-generative-ai-2026-start-phd"
+  },
+  "https://jobs.bytedance.com/en/position/7671026650366183685/detail": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Labelled '2026 Start' with onboarding required by the end of 2026, before the May 2027 graduation; posted base $254,400-$480,000 (est. $330K-$620K total) clears the line, and the req wants multimodal/RL/vision-language publications (fit 3)",
+    "tkey": "bytedance|research-scientist-graduate-seed-model-multimodal-interaction-world-model-2026-start-phd"
+  },
+  "https://jobs.bytedance.com/en/position/7671032227920431413/detail": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Labelled '2026 Start' with onboarding required by the end of 2026, before the May 2027 graduation; posted base $254,400-$480,000 clears the line but it is a speech and audio research req (fit 2)",
+    "tkey": "bytedance|research-scientist-graduate-seed-model-speech-interaction-learning-2026-start-phd"
+  },
+  "https://jobs.bytedance.com/en/position/7670932427485186309/detail": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Bachelor's/Master's-level MLE req; posted base $128,000-$256,000, est. $165K-$335K total (midpoint about $250K), below the line; the PhD Researcher sibling of this req is added instead",
+    "tkey": "bytedance|agent-evaluation-evolution-machine-learning-engineer-graduate-aml-ark-us-2027-start"
+  },
+  "https://jobs.bytedance.com/en/position/7672391016194066693/detail": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Bachelor's/Master's-level MLE req (Seattle); posted base $121,600-$243,200, est. $160K-$315K total (midpoint about $237K), below the line",
+    "tkey": "bytedance|agent-evaluation-evolution-machine-learning-engineer-graduate-aml-ark-us-2027-start"
+  },
+  "https://jobs.bytedance.com/en/position/7670850283815160069/detail": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Undergraduate/Master's-level req despite the Research Scientist title; posted base $128,000-$256,000, est. $165K-$335K total (midpoint about $250K), below the line, and the focus is recommendation/ads (fit 2)",
+    "tkey": "bytedance|research-scientist-graduate-ml-recommendation-systems-2027-start"
+  },
+  "https://jobs.bytedance.com/en/position/7668208806895831349/detail": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "PhD research scientist req with posted base $162,000-$316,800 (est. $210K-$410K total) clears the line, but it is an image/video/3D generation computer-vision req that prefers CVPR/SIGGRAPH publications (fit 2)",
+    "tkey": "bytedance|research-scientist-graduate-data-intelligent-creation-vision-and-graphics-global-genai-2027-start-phd"
+  },
+  "https://jobs.bytedance.com/en/position/7671103763276663045/detail": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "PhD researcher req with posted base $162,000-$316,800 (est. $210K-$410K total) clears the line, but the minimum qualifications require computer-vision and visual-generation or video-understanding experience (fit 2); the Agent Evaluation sibling is the better match",
+    "tkey": "bytedance|visual-generation-multimodal-evaluation-researcher-graduate-aml-ark-us-2027-start-phd"
+  },
+  "https://jobs.bytedance.com/en/position/7672392998192154885/detail": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "PhD researcher req (Seattle) with posted base $153,900-$300,960 (est. $200K-$390K total) clears the line, but the minimum qualifications require computer-vision and visual-generation or video-understanding experience (fit 2)",
+    "tkey": "bytedance|visual-generation-multimodal-evaluation-researcher-graduate-aml-ark-us-2027-start-phd"
+  },
+  "https://jobs.bytedance.com/en/position/7667645514462480645/detail": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Global Frontier Tech PhD req with posted base $218,400-$387,600 (est. $285K-$500K total) is above the line, but ByteBrain is AI-for-infrastructure (AIOps, operations research, datacenter scheduling, storage and vector retrieval) and wants a CS PhD with multiple top-venue AI/OR/systems publications (fit 2)",
+    "tkey": "bytedance|research-scientist-bytebrain-global-frontier-tech-recruitment-program-2027-start-phd"
+  },
+  "https://jobs.bytedance.com/en/position/7667291055662811445/detail": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Graduate-track sibling of the ByteBrain Global Frontier Tech req; posted base $162,000-$316,800 (est. $210K-$410K total) clears the line, but the AI-for-infrastructure and operations-research scope is far from the candidate's materials and LLM work (fit 2)",
+    "tkey": "bytedance|research-scientist-graduate-bytebrain-2027-start-phd"
+  },
+  "https://jobs.ashbyhq.com/sandboxaq/18a1e6e5-bf7c-4048-8c42-483d38e08a51": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Posted base $134.4K-$252K across US tiers (Tier 1 $168K-$252K) plus bonus/equity; est. $200K-$290K total for a new PhD, midpoint below the line, and it wants in-silico homogeneous-catalyst discovery and mechanism experience (3+ yrs industrial R&D preferred)",
+    "tkey": "sandboxaq|research-scientist-homogeneous-catalyst-simulation"
+  },
+  "https://jobs.ashbyhq.com/sandboxaq/59a69991-85ad-4d4e-ad05-0b53edc6956b": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Restricted: 'we can only consider US Persons (Permanent Residents or Citizens)' because of US Government contract requirements; also a senior title (3+ yrs post-PhD DFT on magnets preferred) at $134.4K-$252K base",
+    "tkey": "sandboxaq|senior-research-scientist-magnets"
+  },
+  "https://job-boards.greenhouse.io/schrdinger/jobs/7776872003": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Fit 5 (ML force fields for life and materials sciences, PhD, no years bar) but estimated base $120K-$175K plus equity; est. $140K-$220K total, well below the line",
+    "tkey": "schrodinger|machine-learning-force-field-scientist"
+  },
+  "https://job-boards.greenhouse.io/schrdinger/jobs/7786803003": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Estimated base $120K-$145K; far below the line",
+    "tkey": "schrodinger|force-field-scientist"
+  },
+  "https://job-boards.greenhouse.io/schrdinger/jobs/8008663003": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Estimated base $130K-$160K and asks for 1-3 yrs production software experience; below the line",
+    "tkey": "schrodinger|scientific-machine-learning-engineer"
+  },
+  "https://jobs.smartrecruiters.com/BoschGroup/744000148881439": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Fit 5 (atomistic simulation + AI/active learning + self-driving labs, PhD, no years bar, Watertown MA) but posted base $140K-$160K; est. $160K-$195K total, far below the line",
+    "tkey": "bosch-research|research-engineer-accelerated-materials-discovery"
+  },
+  "https://jobs.smartrecruiters.com/BoschGroup/744000147328139": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Same team and text as the Accelerated Materials Discovery req: posted base $140K-$160K; est. $160K-$195K total, far below the line",
+    "tkey": "bosch-research|research-engineer-computational-materials-science-self-driving-materials-discovery"
+  },
+  "https://jobs.ashbyhq.com/genesis-molecular-ai/6e9c55b1-73b6-4881-8b7a-f7838626e17d": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Requires deep hands-on biomolecular MD, enhanced sampling and FEP (GROMACS/AMBER/OpenMM) plus structure-based drug design (docking) experience the candidate lacks; pay not posted, est. $200K-$300K total, borderline",
+    "tkey": "genesis-molecular-ai|ml-molecular-simulation-scientist"
+  },
+  "https://jobs.ashbyhq.com/chaidiscovery/64fcb54e-d008-4551-858a-5c0f3b48f270": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Asks for 'deep industry experience working with top AI/ML teams' and ownership of the distributed-training stack (parallelism, quantization, kernels); infra-leaning, experienced-hire profile",
+    "tkey": "chai-discovery|research-engineer"
+  },
+  "https://jobs.ashbyhq.com/iambic-therapeutics/50be2fab-54c1-4310-8cec-3fe6123b8a8f": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Welcomes 'recent PhD graduates' (RLHF/GRPO post-training for the Enchant model; remote or Boston) but prints no pay; Iambic's sibling ML Scientist reqs print $146K-$204K base, so est. $170K-$260K total, below the line",
+    "tkey": "iambic-therapeutics|machine-learning-scientist-large-multimodal-models-post-training"
+  },
+  "https://jobs.ashbyhq.com/iambic-therapeutics/9ddc2691-8f3d-491e-ab10-3a96fe32600a": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Posted base $146.4K-$183K (RS II) / $162.8K-$203.5K (Senior) and wants 3+ yrs of drug-discovery experience; below the line",
+    "tkey": "iambic-therapeutics|research-scientist-ii-senior-discovery-machine-learning"
+  },
+  "https://apply.deshawresearch.com/careers/Register?pipelineId=921": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "$450K-$1M base, but asks for deep expertise in large-scale ML systems and LLM architecture/pre-training; the candidate's LLM routing and evaluation work is post-training-adjacent rather than large-scale training, so this reads as an experienced-hire req",
+    "tkey": "d-e-shaw-research|llm-researcher-and-engineer"
+  },
+  "https://jobs.ashbyhq.com/cuspai/db0dfa5a-1556-4c60-bc94-ab41a087ab69": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Cambridge, UK, outside the US. CuspAI's US (West Coast / USA) openings are only Scientific Developer Relations, Ecosystem, Labs Ecosystem and Partnerships manager roles",
+    "tkey": "cuspai|research-engineer-materials-foundation-models"
+  },
+  "https://jobs.ashbyhq.com/orbitalindustries/0405b3d7-c134-43e4-a7af-a9763a5bf3d9": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "London, UK, outside the US. Orbital Materials rebranded to Orbital Industries (AI for data-center cooling and industrial products); its only US opening is a Test Engineer in San Francisco",
+    "tkey": "orbital-industries-formerly-orbital-materials|machine-learning-research-engineer"
+  },
+  "https://job-boards.greenhouse.io/isomorphiclabs/jobs/6140838004": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Wants 8+ / 5+ years of professional computational-chemistry drug-design experience; Isomorphic's ML Research Scientist/Engineer reqs are London-only and its other Cambridge, MA reqs are clinical, pharmacology and operations",
+    "tkey": "isomorphic-labs|research-leader-senior-scientist-computational-drug-design-cambridge-ma"
+  },
+  "https://jobs.accel.com/companies/facebook-2-07d2eb1b-d3ad-4084-93df-74a124ac9233/jobs/80247076-ai-research-scientist-generative-ai-for-materials-discovery": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Closed as of 2026-10-26 (no longer accepting applications). Posted May 24, 2026, base $154K–$217K plus equity, and the preferred qualifications name crystal structure prediction pipelines with MLIP relaxation, so watch Reality Labs Research (Material and Systems Innovation) for a repost",
+    "tkey": "meta|ai-research-scientist-generative-ai-for-materials-discovery-pasadena-ca"
+  },
+  "https://jobs.accel.com/companies/facebook-2-07d2eb1b-d3ad-4084-93df-74a124ac9233/jobs/77325766-ai-research-scientist-agentic-ai-for-materials-discovery": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Closed as of 2026-10-26. Posted May 5, 2026, base $184K–$257K plus equity, wanted 2+ years with LLM agents plus computational chemistry; a strong fit if it reopens",
+    "tkey": "meta|ai-research-scientist-agentic-ai-for-materials-discovery-pasadena-ca"
+  },
+  "https://jobs.appliedmaterials.com/job/santa-clara/2026-new-college-grad-computational-chemist-materials-scientist-machine-learning-reactive-mlips-doc/95/95324722656": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Posting removed (404; the site search for 'MLIPs' returns 0 jobs); sibling 2026 new-college-grad doctorate reqs print $138K-$190K base, below the line anyway",
+    "tkey": "applied-materials|2026-new-college-grad-computational-chemist-materials-scientist-machine-learning-reactive-mlips"
+  },
+  "https://jobs.ashbyhq.com/thinkingmachines/f9c03f58-c968-492c-b40c-fbc46a38ce05": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Same evergreen terms ($350K-$475K base) as the added Thinking Machines reqs; data-mix/annealing focus is a weaker fit than the post-training and evals reqs already added",
+    "tkey": "thinking-machines-lab|research-mid-training"
+  },
+  "https://jobs.ashbyhq.com/thinkingmachines/0871bc29-7ca0-4906-a674-7b32527617ab": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Same terms as the added reqs but wants deep async-RL and inference-systems expertise (quantization, KV cache, MoE serving); fit 2 for this profile",
+    "tkey": "thinking-machines-lab|research-rl-scaling"
+  },
+  "https://jobs.ashbyhq.com/thinkingmachines/885f32cc-5b1c-465c-af5a-e88634065bc6": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Same terms; agentic RL infrastructure and synthetic environments, fit 2-3; apply only after the post-training reqs",
+    "tkey": "thinking-machines-lab|research-general-agents"
+  },
+  "https://jobs.ashbyhq.com/thinkingmachines/01aba71c-b55f-4df5-b803-dc545e6a9434": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Required qualification is a hands-on AI-safety research background (RLHF/RLAIF, red-teaming); the candidate's safety-adjacent work is policy classification, not safety research",
+    "tkey": "thinking-machines-lab|research-safety"
+  },
+  "https://jobs.ashbyhq.com/thinkingmachines/71c91050-688e-45e9-b98e-891b82d693e8": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Same terms; coding-agent specialization, fit 2",
+    "tkey": "thinking-machines-lab|research-coding-agents"
+  },
+  "https://job-boards.greenhouse.io/xai/jobs/5111374007": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Qualifies on paper ($180K-$440K base, no years stated) but is image/video/audio pre-training and tokenizer work, fit 2; the post-training and model-training reqs are the better use of an application",
+    "tkey": "xai-spacexsi|member-of-technical-staff-multimodal-understanding"
+  },
+  "https://job-boards.greenhouse.io/togetherai/jobs/5179372007": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Requires 2+ years building production ML services plus vLLM/SGLang inference-engine experience; base $200K-$290K",
+    "tkey": "together-ai|research-engineer-post-training-inference"
+  },
+  "https://jobs.ashbyhq.com/liquid-ai/c7251e1b-d7bf-4d03-8b9e-1382743bef2c": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Requires 1+ year post-PhD (or 3+ with MS); a May 2027 graduate has 0 years; no pay posted",
+    "tkey": "liquid-ai|member-of-technical-staff-ml-research-engineer-data"
+  },
+  "https://jobs.ashbyhq.com/reka/731e2ebc-2e66-458a-9962-0bc880016941": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "No pay posted, remote-first (US/UK/Remote) and wants a proven track record of shipping ML at scale; a new-PhD package at a ~$1B startup likely lands $200K-$290K, below the line",
+    "tkey": "reka|member-of-technical-staff-ml"
+  },
+  "https://jobs.ashbyhq.com/mistral.ai/9fc579c8-784c-4b91-bcd0-392f35d13100": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Palo Alto req whose required list includes audio/speech processing experience and training large transformers in a distributed setting; speech-focused, fit 2; no pay posted",
+    "tkey": "mistral-ai|ai-scientist"
+  },
+  "https://jobs.ashbyhq.com/cerebras/cb57dac6-84cc-4860-9732-39c60514a2ab": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Requires a PhD plus 3+ years of relevant research or industry experience; no pay posted",
+    "tkey": "cerebras-systems|ml-research-scientist-inference-ml"
+  },
+  "https://jobs.ashbyhq.com/cohere/eef82766-7e31-430f-a102-bc33a5022597": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Data-pipeline engineering role (distributed processing, inference at scale) rather than research; the CA$295K-CA$535K band is a multi-level, multi-currency range, and no US figure is given",
+    "tkey": "cohere|member-of-technical-staff-post-training-data-infrastructure"
+  },
+  "https://jobs.ashbyhq.com/cohere/2d4d224f-94d4-40ce-88d5-5d340bc0da4e": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Senior title; Cohere is not on the science-company exception list. All of Cohere's US research reqs are senior/staff or 5+ years",
+    "tkey": "cohere|senior-research-engineer-safety-tooling-and-data"
+  },
+  "https://careers.snap.com/job?id=R0044935": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Open (posted 2026-10-14, Bellevue/LA), PhD with no years bar, but Zone A base is $173K-$259K plus RSUs, est. $230K-$290K total, right at the line, and it is generative search/ranking/personalization work (fit 2)",
+    "tkey": "snap|research-scientist-research"
+  },
+  "https://explore.jobs.netflix.net/careers/job/790318859750": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Pays $300K-$537K all-cash but asks for a 'seasoned' L4/L5 scientist with post-training expertise; Netflix lists no new-grad research roles",
+    "tkey": "netflix|ai-research-scientist-4-5-generative-models-recommender-systems"
+  },
+  "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Research-Scientist---Salesforce-AI-Research_JR214107-1": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Open (Palo Alto/SF) and PhD-friendly, but the posted $117,200-$313,700 base is a multi-level band; a new-grad MTS offer typically lands ~$180K-$220K base, est. $230K-$290K total, below the line",
+    "tkey": "salesforce|research-scientist-salesforce-ai-research"
+  },
+  "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Research-Engineer_R166886": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Posted base $120,700-$238,600 ($146,300-$211,850 in Washington); est. $180K-$270K total, below the line; model-compression focus",
+    "tkey": "adobe|research-engineer-adobe-research-seattle"
+  },
+  "https://adobe.wd5.myworkdayjobs.com/external_university": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Targeted PhDs graduating Dec 2026-Jun 2027 but Built In shows it removed on 2026-01-30 and it is not on Adobe's experienced board (university board API returns 403); posted base $120,700-$238,600, below the line anyway. Watch for a '2027 University Graduate' repost",
+    "tkey": "adobe|2026-university-graduate-research-scientist-engineer"
+  },
+  "https://jobs.apple.com/en-us/details/200631338-3760": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Same $175,000-$308,500 band and open to BS/MS/PhD, but asks for 'significant experience' building SOTA prototypes in agentic workflows; fit 2-3, lower priority than the added Apple post-training reqs",
+    "tkey": "apple|research-scientist-engineer-agentic-workflows"
+  },
+  "https://jobs.apple.com/en-us/details/200651116-0836": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Requires a minimum of 3 years of applied ML/product experience",
+    "tkey": "apple|applied-research-scientist-proactive-intelligence-agentic-systems-and-generative-modeling"
+  },
+  "https://jobs.apple.com/en-us/details/200687461-2459": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Requires 3+ years of relevant work experience",
+    "tkey": "apple|machine-learning-scientist-apple-services-engineering-genai-ml-frameworks"
+  },
+  "https://jobs.apple.com/en-us/details/200632967-3337": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Base $142,300-$263,300 (ICT3 band) and requires 1+ years of ML experience in search/NLP plus proven LLM post-training; est. $200K-$290K, borderline-below",
+    "tkey": "apple|aiml-machine-learning-research-seattle"
+  },
+  "https://jobs.apple.com/en-us/details/200672934-3337": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Base $142,300-$263,300 and requires hands-on large-scale LLM pre-training experience; est. $200K-$290K, borderline-below",
+    "tkey": "apple|ai-research-scientist-multimodal-foundation-models-architecture-pre-training-distillation"
+  },
+  "https://jobs.apple.com/en-us/details/200671795-0836": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Evaluation/autograder work is relevant, but it is VLM image-quality specific and the base is $150,400-$277,600; est. $210K-$300K, right at the line",
+    "tkey": "apple|aiml-applied-ai-scientist-image-autograder-systems-evaluation"
+  },
+  "https://jobs.apple.com/en-us/details/200689528-0836": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Open and in the $184,700-$324,800 band, but requires expert-level multimodal LLM/encoder research with first-author papers; fit 2",
+    "tkey": "apple|multimodal-ai-applied-scientist-siml-ise"
+  },
+  "https://jobs.apple.com/en-us/details/200685190-3956": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Requires 3 years of industry experience and pays $150,400-$225,300 base; computer-vision focus",
+    "tkey": "apple|applied-machine-learning-research-engineer-video-computer-vision"
+  },
+  "https://jobs.ashbyhq.com/aurora-operations-inc/eb7ed3f2-a8f5-416d-b880-4ed7c930f9c3?embed=true": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Pays about $290K–$420K but the fit is weak (PhD-level applied-research req on vision-language-action foundation models for the Aurora Driver, with no years-of-experience bar; your tran). Listed so you can override",
+    "tkey": "aurora-innovation|applied-researcher"
+  },
+  "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Posted base $139.7K–$202.25K in CA/NY ($102.4K–$202.25K US-wide) for an MS/PhD Dec 2026–Jun 2027 grad; est. $210K–$270K year-1 total with AIP bonus and new-hire equity, midpoint below the line; marketing-analytics ML (attribution, media-mix), not research",
+    "tkey": "adobe|2027-university-graduate-machine-learning-engineer"
+  },
+  "https://apply.careers.microsoft.com/careers/job/1970393556998613": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "IC4 engineering req (base $119.8K–$234.7K in Redmond) that requires a doctorate plus 1+ years of industry or postdoc experience, so not a new-grad level; also subject to ITAR/EAR export-control citizenship verification",
+    "tkey": "microsoft|quantum-engineer-artificial-intelligence-and-devices"
+  },
+  "https://careers-sri.icims.com/jobs/6428/materials-research-scientist-engineer/job": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Nanophotonics/metasurface materials research (PhD, 0–2 years) at a nonprofit institute that requires U.S. citizenship with DoD security-clearance eligibility; posted salary $115,710–$172,115, far below the line",
+    "tkey": "sri-international|materials-research-scientist-engineer"
+  },
+  "https://jobs.ashbyhq.com/Preference-Model/44642065-e592-44ba-810d-a019703463b6": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Posted SF base $165K–$200K plus seed-stage equity and a discretionary bonus advertised as $0–$300K+; est. $200K–$280K total without that bonus upside, midpoint below the line. Says visa sponsorship is available but wants recent grads who can start soon, not a May 2027 start",
+    "tkey": "preference-model|member-of-technical-staff-new-grad-machine-learning-capabilities"
+  },
+  "https://job-boards.greenhouse.io/botauto/jobs/5371947008": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Autonomous-trucking perception/3D-vision new-grad role (BS/MS/PhD) in Houston with no pay printed; an early-stage trucking startup likely lands $150K–$230K total, below the line",
+    "tkey": "bot-auto|algorithm-engineer-new-grad-deep-learning-vision"
+  },
+  "https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39?embed=true": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Posted base $140K–$200K plus private-company equity for MS/PhD Dec 2026–Summer 2027 grads; est. $180K–$280K total, midpoint about $230K, below the line; research focus is VLA/world-model autonomy and robotics",
+    "tkey": "applied-intuition|research-engineer-new-grad"
+  },
+  "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/AI-Engineer--Computer-Vision-Signal-Processing_2638582": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "PhD new-college-graduate req with posted Milpitas base $136.3K–$231.7K plus incentive and ESPP; est. $190K–$290K year-1 total, midpoint about $240K, below the line; deep learning for reticle-inspection imaging, publications required on the resume",
+    "tkey": "kla|ai-engineer-computer-vision-signal-processing"
+  },
+  "https://jobs.ashbyhq.com/tracelabs/7c8ad43b-bb8c-4cc2-8004-25a66d575822?embed=true": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Posted NYC base $140K–$260K plus early-stage equity for an MS/PhD in robot learning; est. $170K–$300K total, midpoint about $235K, below the line, and the research is robotics training-data quality",
+    "tkey": "trace-labs|researcher"
+  },
+  "https://jobs.ashbyhq.com/synhawk/4f6cca01-cf7d-4cb6-8f18-b9c5acf7d540?embed=true": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Junior-researcher title at a small early-stage deepfake-detection startup with no pay printed; est. $150K–$230K total counting paper equity, below the line; audio/video media forensics",
+    "tkey": "synhawk|member-of-technical-staff-junior-ai-researcher"
+  },
+  "https://interdigital.wd5.myworkdayjobs.com/InterDigital_Career/job/Conshohocken-PA/Research-Engineer---6G-AI-Enabled-Systems-and-Testbeds_REQ26-1144": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "6G wireless-systems research engineer (MS minimum, PhD preferred) in Conshohocken, PA with no range printed; InterDigital research-engineer pay is roughly $130K–$190K total, below the line, and the work is RAN/core-network testbeds",
+    "tkey": "interdigital|research-engineer-6g-ai-enabled-systems-and-testbeds"
+  },
+  "https://goodpower.applytojob.com/apply/HK1iqPLsBu/Machine-Learning-Scientist": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Nonprofit remote ML-scientist role wanting a PhD with 3–5 years of applied ML (recent PhDs considered); posted salary $160K–$190K with no equity, far below the line",
+    "tkey": "goodpower|machine-learning-scientist"
+  },
+  "https://conviva.ai/careers/job/8036615003?gh_jid=8036615003": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Posted base $180K–$250K plus private-company equity, PhD preferred; est. $195K–$280K total, midpoint about $240K, below the line; streaming/agent-analytics ML at a 20-year-old private company",
+    "tkey": "conviva|ai-ml-engineer"
+  },
+  "https://sambanova.ai/sambanova-available-positions?gh_jid=6224936004": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "BS-level ML performance-engineering req (MS/PhD preferred) with posted base $131.2K–$196.8K plus equity; est. $160K–$240K total, below the line; inference bring-up and kernel optimization rather than research",
+    "tkey": "sambanova-systems|ai-performance-engineer-new-grad"
+  },
+  "https://qualcomm.eightfold.ai/careers/job/446718120116": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Entry-level/senior AI-SDK toolchain software req (a PhD qualifies) with San Diego base $140.8K–$211.2K plus bonus and RSUs; est. $170K–$260K total, midpoint about $215K, below the line; embedded AI-software tooling, not research",
+    "tkey": "qualcomm|ai-software-core-software-engineer-ai-software-platform-machine-learning-engineering"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Open and pays like the other NVIDIA Research reqs (base $168K-$264.5K + equity, est. $260K-$350K), but it is a Seattle Robotics Lab manipulation req that wants a robotics PhD with RSS/CoRL/ICRA-level publications, ROS and Isaac Sim/MuJoCo experience and hands-on robot hardware; nothing in the profile clears that bar",
+    "tkey": "nvidia|research-scientist-robotics-research-phd-new-college-grad-2026"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-for-Graphics-and-Gaming---New-College-Grad-2026_JR2011267": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Open (base $168K-$264.5K + equity) but requires deep-learning experience in image/video generation or graphics and hands-on training of large models on hundreds to thousands of GPUs; the profile has neither, and the req has carried the 2026 label since January",
+    "tkey": "nvidia|research-scientist-ai-for-graphics-and-gaming-new-college-grad-2026"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Performance-LLM-Training-Engineer---New-College-Grad-2027_JR2028237": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Performance-engineering req (M.S. or PhD) wanting a deep computer-architecture and GPU-architecture background, processor/system performance modeling and CUDA rather than ML research; a PhD would land at Level 3 (posted base $152K-$241.5K, Level 2 is $124K-$195.5K), est. $220K-$300K total, borderline against the line even before the fit problem",
+    "tkey": "nvidia|high-performance-llm-training-engineer-new-college-grad-2027"
+  },
+  "https://google.com/about/careers/applications/jobs/results/76908711519363782-software-engineer-systems-research-phd-early-career": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Early-career PhD req at Google's L4 band (base $147K-$211K + 15% bonus + equity, est. $250K-$330K) in Sunnyvale or Seattle, but the minimum qualifications require research experience in computer-systems design and implementation (storage, memory, distributed systems, architecture) with systems-venue papers; a materials-science ML PhD does not clear that bar",
+    "tkey": "google|software-engineer-systems-research-phd-early-career"
+  },
+  "https://pinterestcareers.com/jobs?gh_jid=8140363": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Pays about $220K–$330K but the fit is weak (General PhD university-grad MLE pool across recommendation, search, ads, NLP and graph learning; the candidate's XGBoost and transformer cla). Listed so you can override",
+    "tkey": "pinterest|phd-university-grad-machine-learning-engineer-usa"
+  },
+  "https://jobs.ashbyhq.com/periodic-labs/01d2c4b2-d848-4426-ad5f-7f1052db3a63": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Confirmed open on Periodic's own Ashby board (Menlo Park or Montreal; $225K-$325K + equity; sponsors visas), but it requires a PhD in condensed matter theory focused on quantum materials with a strong independent publication record, not an ML-for-materials profile",
+    "tkey": "periodic-labs|research-scientist-condensed-matter-theory"
+  },
+  "https://jobs.ashbyhq.com/periodic-labs/ccdb34b1-b67c-4dbf-8acb-fe786f2ab38b": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "$250K-$350K + equity and sponsors visas, but requires code-level experience building PDE/continuum solvers with at least some fluid dynamics and deep expertise in a continuum domain; the candidate's simulation background is atomistic",
+    "tkey": "periodic-labs|computational-scientist-differentiable-physics"
+  },
+  "https://jobs.ashbyhq.com/periodic-labs/0d96f03c-8f08-44ae-a7cb-8c4bbc80976c": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "$250K-$350K + equity and early-career PhDs are encouraged, but the core requirement is code-level computational mechanics (custom FEM, constitutive models) with a strong solid-mechanics and heat-transfer foundation, which an ML/crystal-structure-prediction PhD does not have",
+    "tkey": "periodic-labs|computational-scientist-structural-thermal"
+  },
+  "https://jobs.ashbyhq.com/periodic-labs/d9180228-c113-4d5f-a4d6-793994e50b7c": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "$250K-$350K base + equity, but it is an ML-infrastructure req wanting deep expertise in Megatron-LM training, Ray, SGLang serving, sandboxing, CUDA/Triton kernels or NCCL, not a research role",
+    "tkey": "periodic-labs|ml-systems-engineer"
+  },
+  "https://jobs.ashbyhq.com/periodic-labs/1bab7e17-20fd-4b82-a152-98b96375a626": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Periodic's own page now lists $250K-$350K + equity (the earlier screen cited $180K-$250K), but the role wants numerical continuum/PDE simulation experience (CFD, mesh generation, solver tuning) and extended on-site time in Taiwan; customer-facing engineering rather than ML research",
+    "tkey": "periodic-labs|forward-deployed-engineer-physics-simulation"
+  },
+  "https://job-boards.greenhouse.io/lilasciences/jobs/4286513009": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Data-provenance and metadata infrastructure engineering (schemas, APIs, lineage tooling) for drug-discovery workflows rather than ML research; base $148K-$240K, so year-1 pay is borderline for a new PhD at the lower rung",
+    "tkey": "lila-sciences|research-engineer-scientific-data-workflow-infrastructure"
+  },
+  "https://job-boards.greenhouse.io/lilasciences/jobs/4340155009": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Requires deep hands-on molecular dynamics, MM/GBSA and RBFE/ABFE free-energy experience with protein-ligand modeling; base $140.8K-$217.8K, estimated $190K-$300K total, midpoint below the line",
+    "tkey": "lila-sciences|scientist-ii-senior-scientist-computational-biophysics"
+  },
+  "https://job-boards.greenhouse.io/lilasciences/jobs/4031328009": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Platform software-engineering req requiring a minimum of 8 years of commercial Go/Python experience plus MLOps/Kubernetes depth; base $144K-$240K",
+    "tkey": "lila-sciences|software-engineer-ai-platform"
+  },
+  "https://job-boards.greenhouse.io/anthropic/jobs/5265365008": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Posted salary $350K-$500K is Anthropic's mid/senior research-engineer band and the req prefers 8+ years of ML experience with demonstrated LLM training; leveled above a new PhD (Anthropic is not on the stretch list)",
+    "tkey": "anthropic|research-engineer-life-sciences"
+  },
+  "https://jobs.ashbyhq.com/iambic-therapeutics/50be2fab-54c1-4310-8cec-3fe6123b8a8f?embed=true": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Open on Iambic's Ashby board (remote, Boston option) and welcomes recent PhDs, but prints no pay; Iambic's sibling ML bands (Machine Learning Scientist - Clinical Prediction $148K-$186K; Discovery ML Research Scientist II/Senior $146K-$204K) imply roughly $180K-$260K total with options, below the line",
+    "tkey": "iambic-therapeutics|machine-learning-scientist-large-multimodal-models-post-training"
+  },
+  "https://lifeattiktok.com/search/7670283981954746677": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Pays about $240K–$340K but the fit is weak (Live-commerce recommendation stack from recall to mixed ranking with generative recommendation, large recommendation models and RL; the cand). Listed so you can override",
+    "tkey": "tiktok|machine-learning-engineer-graduate-e-commerce-recommendation-live-2027-start-phd"
+  },
+  "https://lifeattiktok.com/search/7669909088788138245": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Pays about $240K–$340K but the fit is weak (Merchant-creator matching with recommendation and search models plus LLM-powered merchant agents and ML-agents that automate algorithm devel). Listed so you can override",
+    "tkey": "tiktok|machine-learning-engineer-graduate-e-commerce-recommendation-search-alliance-2027-start-phd"
+  },
+  "https://lifeattiktok.com/search/7676647728043280645": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Pays about $280K–$400K but the fit is weak (Product knowledge-graph construction with NLP and multimodal classification (category, brand, SPU, buyer-product links); the candidate's tra). Listed so you can override",
+    "tkey": "tiktok|machine-learning-engineer-graduate-e-commerce-knowledge-graph-2027-start-phd"
+  },
+  "https://lifeattiktok.com/search/7694351754099804469": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Pays about $280K–$400K but the fit is weak (Growth and marketing algorithms (user value modeling, uplift models, operations research, new-user recommendation); the candidate's XGBoost ). Listed so you can override",
+    "tkey": "tiktok|machine-learning-engineer-graduate-e-commerce-user-growth-2027-start-phd"
+  },
+  "https://lifeattiktok.com/search/7668675484492597557": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Pays about $250K–$350K but the fit is weak (Ads Core platform research on ranking, bidding and budget with ML/DL, RL, LLM and scaling laws in ads recommendation; the candidate's transf). Listed so you can override",
+    "tkey": "tiktok|machine-learning-engineer-graduate-monetization-technology-ads-core-global-2027-start-phd-graduate-global-monetization-product-and-technology-2027-start-phd"
+  },
+  "https://lifeattiktok.com/search/7668809845088504117": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Pays about $250K–$350K but the fit is weak (Ads Core ML research engineering on delivery, CTR/CVR ranking, bidding and traffic strategy with ML/RL/LLM; the candidate's modeling and dis). Listed so you can override",
+    "tkey": "tiktok|machine-learning-research-engineer-graduate-monetization-technology-ads-core-global-2027-start-phd"
+  },
+  "https://lifeattiktok.com/search/7668698260232702261": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Pays about $250K–$350K but the fit is weak (Inventory forecasting, auction optimization and delivery-quality ML for brand ads; the candidate's forecasting and estimator work (XGBoost, ). Listed so you can override",
+    "tkey": "tiktok|machine-learning-engineer-graduate-brand-ads-2027-start-phd"
+  },
+  "https://lifeattiktok.com/search/7669691057987520773": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Pays about $250K–$350K but the fit is weak (General-hire pool across TikTok's performance-ads ML teams (targeting, ranking, measurement, creative); broad applied-ML fit for the candida). Listed so you can override",
+    "tkey": "tiktok|general-hire-machine-learning-engineer-graduate-performance-monetization-2027-start-phd"
+  },
+  "https://lifeattiktok.com/search/7668389759463393589": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "PhD search/NLP/LLM role in Seattle with posted base $153.9K-$300.96K (est. $240K-$340K total), but the posting states the company does not provide sponsorship or any immigration-related benefits for this position",
+    "tkey": "tiktok|machine-learning-engineer-graduate-data-global-e-commerce-search-2027-start-phd"
+  },
+  "https://lifeattiktok.com/search/7668681119759616309": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "PhD research role on post-training of ad video generation models and reward models, but it carries the master's-level band: posted base $128K-$256K; estimated $210K-$290K total with a ~$250K midpoint, below the line",
+    "tkey": "tiktok|research-scientist-graduate-ads-creative-2027-start-phd"
+  },
+  "https://lifeattiktok.com/search/7673232905797880069": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "PhD-level but a data-analysis and A/B-testing role rather than ML research; posted base $95K-$216K, estimated $170K-$235K total, well below the line",
+    "tkey": "tiktok|data-science-graduate-advertisement-team-2027-start-phd"
+  },
+  "https://lifeattiktok.com/search/7670686314588801333": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Same self-evolving LLM-agent team as the Research Scientist req, but a Bachelor's/Master's-level req with posted base $128K-$316.8K; a PhD should spend one of the two allowed applications on the Research Scientist Graduate (Conversational AI) PhD req (A143674) instead",
+    "tkey": "tiktok|machine-learning-engineer-graduate-conversational-ai-2027-start"
+  },
+  "https://lifeattiktok.com/search/7669702699627661573": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "LLM-agent and post-training content, but a Master's-level req; posted base $128K-$256K, estimated $210K-$290K total with a ~$250K midpoint, just below the line",
+    "tkey": "tiktok|machine-learning-engineer-graduate-commercial-ai-crm-and-transaction-2027-start"
+  },
+  "https://lifeattiktok.com/search/7669908897587824949": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Pays about $285K–$420K but the fit is weak (PhD-level applied ML on merchant-creator recommendation and search plus LLM-driven merchant agents; quals ask for a PhD in CS, Engineering o). Listed so you can override",
+    "tkey": "tiktok|machine-learning-engineer-graduate-e-commerce-recommendation-search-alliance-2027-start-phd"
+  },
+  "https://lifeattiktok.com/search/7676650760662157621": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Pays about $250K–$345K but the fit is weak (PhD req for product knowledge-graph construction via text classification, matching and multimodal understanding; the candidate's transformer). Listed so you can override",
+    "tkey": "tiktok|machine-learning-engineer-graduate-e-commerce-knowledge-graph-2027-start-phd"
+  },
+  "https://lifeattiktok.com/search/7694346612567214389": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Pays about $250K–$345K but the fit is weak (PhD req on user-value modeling, uplift/LTV estimation and sequence modeling for TikTok Shop growth; the candidate's calibrated XGBoost and t). Listed so you can override",
+    "tkey": "tiktok|machine-learning-engineer-graduate-e-commerce-user-growth-2027-start-phd"
+  },
+  "https://lifeattiktok.com/search/7663389363824773381": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Pays about $285K–$420K but the fit is weak (PhD-only general-hire scientist req for the core recommendation-algorithm org, asking for applied-ML research plus PyTorch; the candidate's ). Listed so you can override",
+    "tkey": "tiktok|general-hire-machine-learning-scientist-graduate-tiktok-recommendation-2027-start-phd"
+  },
+  "https://lifeattiktok.com/search/7667346535273007413": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "PhD req, posted base $162K-$316.8K (est ~$260K-$360K total), but the posting states that the Company does not provide sponsorship or any immigration-related benefits",
+    "tkey": "tiktok|machine-learning-engineer-graduate-tiktok-data-search-visual-search-2027-start-phd"
+  },
+  "https://lifeattiktok.com/search/7667344111675246901": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "PhD req, posted base $162K-$316.8K (est ~$260K-$360K total), but the posting states that the Company does not provide sponsorship or any immigration-related benefits",
+    "tkey": "tiktok|machine-learning-engineer-graduate-tiktok-data-search-basic-ranking-2027-start-phd"
+  },
+  "https://lifeattiktok.com/search/7665793152026740997": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "PhD req (2027 summer start), posted base $162K-$316.8K (est ~$260K-$360K total), but the posting states that the Company does not provide sponsorship or any immigration-related benefits",
+    "tkey": "tiktok|machine-learning-engineer-graduate-tiktok-data-search-search-quality-2027-summer-start-phd"
+  },
+  "https://lifeattiktok.com/search/7664534268139571509": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "PhD req and the band clears (posted base $162K-$387.6K, est ~$285K-$420K), but the work is LLM inference-serving systems (TP/EP/DP for 200B+ models, CUDA/Triton kernels, scheduling and load balancing), not ML research; weak fit for a materials-ML profile with no kernel background",
+    "tkey": "tiktok|ai-infrastructure-engineer-graduate-algorithm-infrastructure-2027-start-phd"
+  },
+  "https://lifeattiktok.com/search/7670285949976201477": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "A different req from the master's-level one screened earlier (this is id 7670285949976201477, Multimedia AI team), but it is Bachelor's-level, not PhD; posted base $128K-$316.8K (est ~$230K-$350K on the band) yet PhD leveling isn't assured, the same issue as its sibling. The topic (SFT/DPO/PPO, reward modeling, evaluation pipelines) fits well, so worth asking a recruiter whether a PhD req exists",
+    "tkey": "tiktok|llm-post-training-engineer-graduate-research-product-2027-start"
+  },
+  "https://lifeattiktok.com/search/7663389956951918853": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Bachelor's/Master's-level sibling of the PhD general-hire Research Scientist req (added); posted base $128K-$316.8K (est ~$230K-$350K on the band) but PhD leveling isn't assured; apply to the PhD req instead",
+    "tkey": "tiktok|general-hire-research-scientist-graduate-tiktok-recommendation-2027-start"
+  },
+  "https://lifeattiktok.com/search/7663389745178757429": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Bachelor's/Master's-level sibling of the PhD general-hire Scientist reqs (added); posted base $128K-$316.8K (est ~$230K-$350K on the band) but PhD leveling isn't assured; apply to the PhD req instead",
+    "tkey": "tiktok|general-hire-machine-learning-engineer-graduate-tiktok-recommendation-2027-start"
+  },
+  "https://lifeattiktok.com/search/7695929967028750645": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Despite the Research Scientist title it is a Bachelor's-level req (Master's preferred); posted base $121.6K-$243.2K (Seattle), est ~$200K-$275K total with midpoint ~$237K, below the line",
+    "tkey": "tiktok|research-scientist-graduate-e-commerce-recommendation-region-2027-start"
+  },
+  "https://lifeattiktok.com/search/7668669015051405573": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Master's-level req (ad-video generation post-training and reward models); posted base $128K-$256K, est ~$210K-$290K total with midpoint ~$250K, just below the line",
+    "tkey": "tiktok|research-scientist-graduate-ads-creative-2027-start"
+  },
+  "https://lifeattiktok.com/search/7667769079948347701": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Master's-level sibling of the PhD Business Integrity req (added); posted base $128K-$256K, est ~$210K-$290K total with midpoint ~$250K, below the line; apply to the PhD req instead",
+    "tkey": "tiktok|research-engineer-graduate-monetization-technology-business-integrity-2027-start"
+  },
+  "https://lifeattiktok.com/search/7670685495206857013": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Bachelor's-level sibling of the Conversational AI PhD research scientist req (added); posted base $121.6K-$243.2K (Seattle), est ~$200K-$275K with midpoint ~$237K, below the line",
+    "tkey": "tiktok|machine-learning-engineer-graduate-conversational-ai-2027-start"
+  },
+  "https://lifeattiktok.com/search/7675843332462872885": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Bachelor's/Master's-level sibling of the Supply Chain LLM/Agent PhD req (added); posted base $121.6K-$243.2K (Seattle), est ~$200K-$275K with midpoint ~$237K, below the line",
+    "tkey": "tiktok|machine-learning-engineer-graduate-e-commerce-supply-chain-logistics-2027-start"
+  },
+  "https://lifeattiktok.com/search/7694352871949682997": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Bachelor's/Master's-level San Jose sibling of the Seattle PhD User Growth req (added); posted base $128K-$316.8K but PhD leveling isn't assured; apply to the PhD req instead",
+    "tkey": "tiktok|machine-learning-engineer-graduate-e-commerce-user-growth-2027-start"
+  },
+  "https://lifeattiktok.com/search/7670285949553707317": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Bachelor's-level req; posted base $121.6K-$243.2K (Seattle), est ~$200K-$275K total with midpoint ~$237K, below the line",
+    "tkey": "tiktok|machine-learning-engineer-graduate-e-commerce-recommendation-live-2027-start"
+  },
+  "https://lifeattiktok.com/search/7678145401619237173": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Bachelor's-level req; posted base $121.6K-$243.2K (Seattle), est ~$200K-$275K total with midpoint ~$237K, below the line",
+    "tkey": "tiktok|machine-learning-engineer-graduate-e-commerce-recommendation-video-2027-start"
+  },
+  "https://job-boards.greenhouse.io/deepmind/jobs/7339890": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Closed: The whole Greenhouse board token 'deepmind' is gone (boards-api and job-boards both 404; alternative tokens googledeepmind/google-deepmind also 404). deepmind.google/careers now sends 'View open roles' to Google Careers filtered to company=DeepMind, which has no public ATS API (the board's existing google_careers poller can cover it by adding 'DeepMind' queries or that company filter)",
+    "tkey": "google-deepmind|research-engineer-materials-science"
+  },
+  "https://jobs.lever.co/RadicalAI/025709b9-d365-4909-aecb-aba5669703da": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Closed: Radical AI deleted its Lever board: api.lever.co/v0/postings/RadicalAI?mode=json returns {ok:false, error:'Document not found'} (HTTP 200 body, 404 on the HTML board), and Ashby/Greenhouse tokens radical-ai/radicalai do not exist. radical-ai.com/careers is 404; the homepage's Careers link now points to a Nodi careers page (app.nodi.global/company/radical%20ai) that shows '0 Open Positions'",
+    "tkey": "radical-ai|ai-research-scientist-gnn-foundation-models"
+  },
+  "https://jobs.bytedance.com/en/position/7668433722454935861/detail": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "AR/VR perception and ML-accelerator hardware co-design for Pico; CV/hardware",
+    "tkey": "bytedance|ai-vision-research-engineer-graduate-pico-2027-start-phd"
+  },
+  "https://jobs.bytedance.com/en/position/7668365143156721973/detail": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Distributed NoSQL database systems research; wrong discipline",
+    "tkey": "bytedance|research-scientist-graduate-distributed-nosql-database-systems-2027-start-phd"
+  },
+  "https://jobs.bytedance.com/en/position/7668365756950137141/detail": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Distributed NoSQL database systems research; wrong discipline",
+    "tkey": "bytedance|research-scientist-graduate-distributed-nosql-database-systems-2027-start-phd"
+  },
+  "https://jobs.bytedance.com/en/position/7665108869591140613/detail": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Database infrastructure (multi-modal query processing, vector/agentic databases); wrong discipline",
+    "tkey": "bytedance|research-scientist-graduate-multi-modal-agentic-databases-2027-start-phd"
+  },
+  "https://jobs.bytedance.com/en/position/7665104241446652213/detail": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Database infrastructure (multi-modal query processing, vector/agentic databases); wrong discipline",
+    "tkey": "bytedance|research-scientist-graduate-multi-modal-agentic-databases-2027-start-phd"
+  },
+  "https://jobs.bytedance.com/en/position/7665836153219959093/detail": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "AR/VR computational imaging for Pico hardware; imaging/CV discipline",
+    "tkey": "bytedance|research-scientist-computational-imaging-graduate-pico-2027-start-phd-graduate-pico-lab-2027-start-phd"
+  },
+  "https://jobs.bytedance.com/en/position/7667334521286035765/detail": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Cloud compute infrastructure engineering",
+    "tkey": "bytedance|research-engineer-graduate-ai-infra-compute-2027-start-phd"
+  },
+  "https://jobs.bytedance.com/en/position/7667304540048787765/detail": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Cloud compute infrastructure engineering",
+    "tkey": "bytedance|research-engineer-graduate-ai-infra-compute-2027-start-phd"
+  },
+  "https://jobs.bytedance.com/en/position/7668862426676775173/detail": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Datacenter networking software",
+    "tkey": "bytedance|ai-llm-network-software-development-engineer-graduate-high-speed-network-2027-start-phd"
+  },
+  "https://jobs.bytedance.com/en/position/7669791940490168629/detail": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Bachelor's/Master's backend engineering req, base $128,000-$256,000",
+    "tkey": "bytedance|machine-learning-backend-engineer-graduate-aml-mldev-2027-start"
+  },
+  "https://jobs.bytedance.com/en/position/7667726338627356933/detail": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Bachelor's/Master's LLM inference-systems engineering req (KV cache, GPU clusters), base $128,000-$256,000; systems work",
+    "tkey": "bytedance|large-language-model-inference-system-engineer-graduate-applied-machine-learning-2027-start"
+  },
+  "https://jobs.bytedance.com/en/position/7667730992538585349/detail": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Bachelor's/Master's backend and service-mesh engineering req, base $128,000-$256,000",
+    "tkey": "bytedance|llm-backend-engineer-graduate-applied-machine-learning-2027-start"
+  },
+  "https://jobs.bytedance.com/en/position/7671102043532462389/detail": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Bachelor's/Master's computer-vision evaluation MLE req, base $128,000-$256,000",
+    "tkey": "bytedance|visual-generation-multimodal-evaluation-machine-learning-engineer-graduate-aml-ark-us-2027-start"
+  },
+  "https://jobs.bytedance.com/en/position/7672392998189959429/detail": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Bachelor's/Master's computer-vision evaluation MLE req, base $121,600-$243,200",
+    "tkey": "bytedance|visual-generation-multimodal-evaluation-machine-learning-engineer-graduate-aml-ark-us-2027-start"
+  },
+  "https://jobs.bytedance.com/en/position/7671107540954777861/detail": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Bachelor's/Master's data-lake and analytics engineering req, base $128,000-$256,000",
+    "tkey": "bytedance|data-lake-infrastructure-data-analytics-research-engineer-graduate-aml-ark-us-2027-start"
+  },
+  "https://jobs.bytedance.com/en/position/7672395094280063285/detail": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Bachelor's/Master's data-lake and analytics engineering req, base $121,600-$243,200",
+    "tkey": "bytedance|data-lake-infrastructure-data-analytics-research-engineer-graduate-aml-ark-us-2027-start"
+  },
+  "https://jobs.bytedance.com/en/position/7672398686110910773/detail": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Data-lake/lakehouse infrastructure engineering (SQL, OLAP, streaming) despite the PhD req; wrong discipline",
+    "tkey": "bytedance|research-engineer-data-lake-infrastructure-data-analytics-graduate-aml-ark-us-2027-start-phd"
+  },
+  "https://jobs.bytedance.com/en/position/7670354624860703029/detail": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Video codec hardware firmware and C-model engineering in San Diego",
+    "tkey": "bytedance|video-image-ai-ml-software-engineer-graduate-multimedia-2027-start-phd"
+  },
+  "https://jobs.bytedance.com/en/position/7673946040656267573/detail": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "DPU, cloud virtualization and networking hardware-software co-design",
+    "tkey": "bytedance|research-scientist-graduate-dpu-ai-infra-2027-start-phd"
+  },
+  "https://jobs.bytedance.com/en/position/7673941558289205509/detail": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "DPU, cloud virtualization and networking hardware-software co-design",
+    "tkey": "bytedance|research-scientist-graduate-dpu-ai-infra-2027-start-phd"
+  },
+  "https://jobs.bytedance.com/en/position/7626928937260665093/detail": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Video compression research, 2026 Start, San Diego",
+    "tkey": "bytedance|research-scientist-graduate-video-codec-algorithm-2026-start-phd"
+  },
+  "https://jobs.bytedance.com/en/position/7686733097398290693/detail": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Kubernetes LLM-inference control-plane (AIBrix) infrastructure engineering",
+    "tkey": "bytedance|software-engineer-graduate-ai-compute-2027-start-phd"
+  },
+  "https://jobs.bytedance.com/en/position/7686732729746950405/detail": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Kubernetes LLM-inference control-plane (AIBrix) infrastructure engineering",
+    "tkey": "bytedance|software-engineer-graduate-ai-compute-2027-start-phd"
+  },
+  "https://jobs.bytedance.com/en/position/7670374385110599989/detail": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Video codec hardware and video-quality research in the Multimedia Lab",
+    "tkey": "bytedance|research-scientist-graduate-video-and-edge-multimedia-lab-2027-start-phd"
+  },
+  "https://jobs.ashbyhq.com/mirror-physics/9c2e4898-a3f9-42b4-b38b-e1c380030ced": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Full-stack AI-systems engineering, not ML research (posting does offer visa sponsorship).",
+    "tkey": "mirror-physics|ai-native-engineer"
+  },
+  "https://jobs.ashbyhq.com/mirror-physics/b125270e-03b9-4cd8-be28-4c726c796c0a": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Requires multiple years of preclinical industry experience.",
+    "tkey": "mirror-physics|drug-discovery-scientist-engineer"
+  },
+  "https://jobs.ashbyhq.com/genesis-molecular-ai/b239a6b5-40f2-41fd-93e6-3b7ca2c7eac7": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Staff/principal level.",
+    "tkey": "genesis-molecular-ai|applied-ml-scientist-staff-principal"
+  },
+  "https://jobs.ashbyhq.com/chaidiscovery/dd8bf1b0-be34-42ba-94f7-76e6ebe204f6": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "ML infrastructure engineering.",
+    "tkey": "chai-discovery|research-engineer-ml-infrastructure"
+  },
+  "https://jobs.ashbyhq.com/chaidiscovery/bc55b169-d23c-4e50-ac80-8dbe7ed64b72": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Internship.",
+    "tkey": "chai-discovery|internship"
+  },
+  "https://jobs.ashbyhq.com/sandboxaq/0e90492a-f46b-45d0-8d5d-5a96143fb193": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Staff level.",
+    "tkey": "sandboxaq|staff-materials-research-scientist-pfas-alternative-discovery"
+  },
+  "https://jobs.ashbyhq.com/sandboxaq/aeb6fcd4-d665-4322-8486-916567f29fd2": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Senior title at a company not on the science list; cell biology.",
+    "tkey": "sandboxaq|senior-ml-research-engineer-virtual-cell"
+  },
+  "https://jobs.ashbyhq.com/sandboxaq/3b34aecf-e980-44f2-ab4b-b884a29297ca": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Engineering role at $122K-$228K base.",
+    "tkey": "sandboxaq|ai-engineer-agentic-frontier-group"
+  },
+  "https://jobs.ashbyhq.com/cuspai": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Non-research go-to-market roles; the only US openings.",
+    "tkey": "cuspai|scientific-developer-relations-manager-ecosystem-manager-labs-ecosystem-manager-partnerships-manager-us"
+  },
+  "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7983641003": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Quantum-computing theory, 3+ yrs, base $112K-$168K.",
+    "tkey": "samsung-semiconductor-sait-america-cambridge-ma|research-scientist-quantum-design-lab"
+  },
+  "https://job-boards.greenhouse.io/samsungresearchamerica": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Robotics and digital-health research only; nothing in materials or ML-for-science.",
+    "tkey": "samsung-research-america|researcher-research-engineer-robot-intelligence-staff-ai-research-engineer-digital-health"
+  },
+  "https://jobs.lever.co/tri": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Lever board has only interns, a robotics postdoc and senior automated-driving roles; no materials or energy openings tod",
+    "tkey": "toyota-research-institute|energy-materials-division-no-open-roles"
+  },
+  "https://citrine.io/careers": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Careers page lists nothing and embeds no ATS; the last Research Scientist II posting paid $90K-$115K base.",
+    "tkey": "citrine-informatics|no-open-roles"
+  },
+  "https://aionics.io/careers": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Careers page says 'No open roles at the moment.'",
+    "tkey": "aionics|no-open-roles"
+  },
+  "https://apply.workable.com/chemix": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Workable board returns 0 openings; the aggregator's Battery Data Scientist and Battery Modeling Engineer listings are go",
+    "tkey": "chemix|no-open-roles"
+  },
+  "https://rowansci.com": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "No careers page or hiring statement on rowansci.com; Ashby org 'rowan' is an unrelated data-center company.",
+    "tkey": "rowan|no-open-roles"
+  },
+  "https://jobs.intel.com/en/job/-/foundational-ai-research-scientist/41147/74326963808": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Both reqs removed (jobs.intel.com redirects to its 404 page); no open Intel Labs research scientist roles found.",
+    "tkey": "intel-labs|ai-research-scientist-foundational-ai-research-scientist"
+  },
+  "https://jobs.smartrecruiters.com/BoschGroup/744000155092369": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Time-series and sensor foundation models for ADAS; $165K-$195K base.",
+    "tkey": "bosch-research|ai-research-scientist-multimodal-foundational-models"
+  },
+  "https://jobs.smartrecruiters.com/BoschGroup/744000152321949": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Robotics/ADAS, 3 yrs R&D, $165K-$185K base.",
+    "tkey": "bosch-research|research-scientist-robotics-ai"
+  },
+  "https://careers.gene.com/us/en/job/202603-107717/Machine-Learning-Research-Scientist-Senior-Machine-Learning-Research-Scientist-Structure-and-Simulation-AI-for-Drug-Discovery": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Posting removed (HTTP 410).",
+    "tkey": "genentech|machine-learning-research-scientist-senior-ml-research-scientist-structure-and-simulation-ai-for-drug-discovery"
+  },
+  "https://apply.deshawresearch.com/careers/Register?pipelineId=912": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Wet-lab data-curation role wanting 5+ yrs pharma/biotech experience.",
+    "tkey": "d-e-shaw-research|scientist-drug-discovery-data-for-ai-ml"
+  },
+  "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Atomistic-Machine-Learning-TN-37830/1439260100": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Postdoc.",
+    "tkey": "oak-ridge-national-laboratory|postdoctoral-research-associate-atomistic-machine-learning"
+  },
+  "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016057006": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Postdoc at a national lab.",
+    "tkey": "lawrence-livermore-national-laboratory|computational-modeling-postdoctoral-research-staff-member-gpu-enabled-mlips"
+  },
+  "https://careers.jhuapl.edu/jobs/57812?lang=en-us": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Clearance-restricted defense lab.",
+    "tkey": "jhu-apl|2026-phd-graduate"
+  },
+  "https://academictransfer.com/en/jobs/364461/phd-position-agentic-ai-driven-experiments-for-materials-discovery": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "PhD studentship outside the US.",
+    "tkey": "differ-netherlands|phd-position-agentic-ai-driven-experiments-for-materials-discovery"
+  },
+  "https://researchersjob.com/postdoctoral-researcher-ref-postdoc-2026-14-nl-at-iciq-spain": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Postdoc outside the US.",
+    "tkey": "iciq-spain|postdoctoral-researcher-mlip-fine-tuning-software"
+  },
+  "https://en.moovijob.com/job-offers/universite-du-luxembourg/postdoc-in-machine-learning-for-molecules-and-materials": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Postdoc outside the US.",
+    "tkey": "university-of-luxembourg|postdoc-in-machine-learning-for-molecules-and-materials"
+  },
+  "https://jobs.ashbyhq.com/thinkingmachines": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "ML-infrastructure and crawling engineering reqs; same $350K-$475K band but not research fits.",
+    "tkey": "thinking-machines-lab|research-engineer-infrastructure-training-systems-kernels-numerics-inference-and-research-engineer-web-crawling"
+  },
+  "https://job-boards.greenhouse.io/xai/jobs/5252714007": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Distributed-systems infrastructure reqs requiring large-scale systems experience; not research roles.",
+    "tkey": "xai-spacexsi|evaluation-infrastructure-rl-training-framework-rl-inference-ml-infrastructure-engineer"
+  },
+  "https://job-boards.greenhouse.io/xai/jobs/4996796007": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Ads/recsys MLE roles.",
+    "tkey": "xai-spacexsi|machine-learning-engineer-ads-recommendation-systems"
+  },
+  "https://jobs.ashbyhq.com/cohere/2a989030-6d14-4924-88c1-d878911e26fa": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Requires 5+ years of production C++/Python inference work.",
+    "tkey": "cohere|member-of-technical-staff-model-efficiency"
+  },
+  "https://jobs.ashbyhq.com/perplexity/ab076e26-adf1-414f-a006-7b1bdc9247c8": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Fellowship program at $180K-$220K; Perplexity's Ashby board has no research scientist reqs.",
+    "tkey": "perplexity|perplexity-research-fellowship"
+  },
+  "https://job-boards.greenhouse.io/inflectionai/jobs/4693117006": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Principal level; Inflection's Greenhouse board (5 reqs) has only principal/staff roles.",
+    "tkey": "inflection-ai|principal-research-engineer-model-training-post-training"
+  },
+  "https://jobs.ashbyhq.com/reka": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Data-infra, applied and performance engineering reqs, remote, no pay.",
+    "tkey": "reka|member-of-technical-staff-data-intelligence-applied-ai-gpu-performance"
+  },
+  "https://jobs.ashbyhq.com/liquid-ai/f898850b-a1ca-4c9e-9e15-a9aa1ce306b6": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Customer-engagement post-training delivery roles that want hands-on LLM post-training ownership; no pay posted.",
+    "tkey": "liquid-ai|member-of-technical-staff-post-training-applied-text-audio-vision"
+  },
+  "https://jobs.ashbyhq.com/mistral.ai/4c19b931-3a95-48b3-ac96-9e4c52f5a603": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Infrastructure engineering reqs (Data Infrastructure asks 4+ years).",
+    "tkey": "mistral-ai|research-engineer-data-infrastructure-ml-platform-code-agents-infra-full-stack"
+  },
+  "https://jobs.ashbyhq.com/cerebras/9c7da4b8-446b-4bf2-8d07-23241590bf2e": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Kernel/compiler/systems engineering new-grad reqs (and Toronto seats), not ML research.",
+    "tkey": "cerebras-systems|kernel-engineer-new-grad-software-engineer-new-grad-2026-ml-systems-performance-engineer"
+  },
+  "https://explore.jobs.netflix.net/careers/job/790315989769": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Senior (L5/L6) ads and marketplace roles.",
+    "tkey": "netflix|machine-learning-scientist-5-ads-bidding-and-other-ml-scientist-5-6-ads-and-forecasting-reqs"
+  },
+  "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Applied-Research-Engineer_JR345672-1": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Production services/platform engineering role (Python, Linux, React), not research.",
+    "tkey": "salesforce|applied-research-engineer"
+  },
+  "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Internship.",
+    "tkey": "salesforce|summer-2027-intern-ai-research"
+  },
+  "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer_R171718": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Fraud/abuse MLE, 3+ years, base $125,600-$234,150.",
+    "tkey": "adobe|machine-learning-engineer-adobe-risk-platform"
+  },
+  "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Applied-and-Research-Scientist-Engineer_R172064": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Internship.",
+    "tkey": "adobe|2027-intern-applied-and-research-scientist-engineer"
+  },
+  "https://api.smartrecruiters.com/v1/companies/LinkedIn3/postings/744000143361119": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Senior/staff only; LinkedIn's SmartRecruiters board lists no PhD new-grad AI or research scientist reqs (only Summer 202",
+    "tkey": "linkedin|senior-applied-scientist-staff-applied-scientist-sunnyvale-mountain-view"
+  },
+  "https://microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/opportunities": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Only a postdoctoral req is listed for the AI for Science lab; MSR's US open positions are research internships; the Seni",
+    "tkey": "microsoft-research|ai-for-science-us-openings"
+  },
+  "https://apply.careers.microsoft.com/careers?query=applied+scientist&location=United+States": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Could not read Microsoft's new careers site (Eightfold API returns 403 'Not authorized'); per the brief, Microsoft L60/6",
+    "tkey": "microsoft|applied-scientist-ii-core-search-ai-redmond-and-other-new-grad-applied-scientist-reqs"
+  },
+  "https://jobs.anitab.org/companies/google-24698/jobs/86441603-material-science-research-engineer-deepmind": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Closed: the Google Careers version (posted 2026-07-15, $147K-$211K base + 15% bonus + equity, 2 years' experience requir",
+    "tkey": "google-deepmind|material-science-research-engineer-deepmind-google-careers-repost-mountain-view"
+  },
+  "https://careers.snap.com/jobs?role=Research+Scientist": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Mid-level SWE-track MLE reqs, not PhD research.",
+    "tkey": "snap|machine-learning-engineer-generative-ml-level-4-machine-learning-engineer-level-4"
+  },
+  "https://jobs.uber.com/en/jobs": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Senior or $161K-$211K roles; no 2027 PhD new-grad applied scientist req surfaced.",
+    "tkey": "uber|senior-applied-scientist-scientist-ii-tech-aggregator-copies"
+  },
+  "https://github.com/speedyapply/2027-AI-College-Jobs": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Plasma-process modeling at $138K-$190K base, below the line (surfaced by the web search).",
+    "tkey": "applied-materials|new-college-grad-physicist-scientist-iii-phd-2027-summer-cohort"
+  },
+  "https://draftkings.wd1.myworkdayjobs.com/en-US/campus_career_portal/job/Boston-MA/Data-Science-Engineer--December-2026-and-May-2027-Grads-_JR14959": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "sports-betting data-science engineer for BS/MS grads, pay far below the line",
+    "tkey": "draftkings|data-science-engineer-december-2026-grads"
+  },
+  "https://sanofi.wd3.myworkdayjobs.com/en-US/sanoficareers/job/Waltham-MA/XMLNAME-2027-Spring-Co-op-Process-and-CMC-Data-Science-Waltham-MA_R2854035-1": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "six-month co-op at $35–$60/hour that requires permanent US work authorization",
+    "tkey": "sanofi|2027-spring-co-op-process-and-cmc-data-science-waltham-ma"
+  },
+  "https://jobs.gusto.com/postings/cortrucent-security-ai-generalist-entry-level-48971303-29ee-4940-a7c3-b99ef5a0ffc4": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "entry-level 'AI generalist' at a small NJ security firm",
+    "tkey": "cortrucent|ai-generalist-entry-level"
+  },
+  "https://williamblair.com/Careers/job-description?gh_jid=5242280007": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "investment bank summer 2027 program",
+    "tkey": "william-blair|working-in-technology-wit-data-science-summer-2027"
+  },
+  "https://jobs.lever.co/glsllc/d81bfc16-2ba1-41ca-ab21-7d8cffac9e07": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "auto-lender data scientist",
+    "tkey": "global-lending-services|data-scientist-december-2026-may-2027-grads"
+  },
+  "https://jobs.ashbyhq.com/embedding-vc/5c8433ea-c7e6-4350-bbd5-2889e7fdb2b1": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "early-career AI engineer at a venture firm",
+    "tkey": "embedding-vc|ai-engineer-early-career"
+  },
+  "https://newrocket.com/careers/job?gh_jid=6163518004&gh_jid=6163518004": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "ServiceNow consultancy campus hire",
+    "tkey": "newrocket|ai-engineer-anthropic-campus-hire-us-west"
+  },
+  "https://pg.wd5.myworkdayjobs.com/en-US/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Science--Master-s-degree---2027-Grads-_R000157919": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "master's-level data science at a consumer-goods company",
+    "tkey": "p-g-procter-gamble|data-science-master-s-degree-2027-grads"
+  },
+  "https://pg.wd5.myworkdayjobs.com/en-US/1000/job/CINCINNATI-GENERAL-OFFICES/Data---AI-Engineering--2027-Grads-_R000157913": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "data-engineering new-grad role at a consumer-goods company",
+    "tkey": "p-g-procter-gamble|data-ai-engineering-2027-grads"
+  },
+  "https://kyndryl.wd5.myworkdayjobs.com/en-US/kyndrylearlycareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Associate-AI-Engineer_R-66739": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "IT consultancy early-career program",
+    "tkey": "kyndryl|early-career-consult-program-associate-ai-engineer"
+  },
+  "https://job-boards.greenhouse.io/newsbreak/jobs/4700278006": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "BS/MS ads-agent engineer, posted base $135K–$155K",
+    "tkey": "newsbreak|applied-ai-engineer-advertising-agents-new-grad"
+  },
+  "https://psu.wd1.myworkdayjobs.com/en-US/psu_staff/job/College-of-Medicine/Research-Data-Scientist---Molecular-and-Precision-Medicine---Medicine_REQ_0000077809-2": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "university staff position",
+    "tkey": "penn-state|research-data-scientist-molecular-and-precision-medicine-medicine"
+  },
+  "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "quantitative trading firm",
+    "tkey": "headlands-tech-holdings|research-developer-new-grad"
+  },
+  "https://job-boards.greenhouse.io/newsbreak/jobs/4694899006": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "BS/MS backend, ads and recsys engineer",
+    "tkey": "newsbreak|newsbreak-venture-new-grad-ai-growth-intelligence-engineer"
+  },
+  "https://job-boards.greenhouse.io/innodatainc/jobs/4307429009": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "generative-AI associate at a data-labeling vendor",
+    "tkey": "innodata|generative-ai-associate"
+  },
+  "https://jobs.ashbyhq.com/odysseyml/1af903b4-3cab-4d3b-8d8b-ce918fdf6a3d?embed=true": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "residency program",
+    "tkey": "odyssey|ai-resident"
+  },
+  "https://job-boards.greenhouse.io/newsbreak/jobs/4615879006": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "ML-infra software engineer, posted base $125K–$175K",
+    "tkey": "newsbreak|software-engineer-junior-new-grad-ml-infra"
+  },
+  "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Reston-VA/Artificial-Intelligence---Machine-Learning-Verification-and-Validation-Engineer_REQ_0000080734-1": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "university applied-research lab doing defense analytics",
+    "tkey": "pennsylvania-state-university|artificial-intelligence-machine-learning-verification-and-validation-engineer-information-science-division-all-domain-analytics-and-signatures-office"
+  },
+  "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "defense space startup, ITAR/clearance work",
+    "tkey": "true-anomaly|data-science-software-engineer-1-new-grad-data-science"
+  },
+  "https://careers.jhuapl.edu/jobs/59654?icims=1": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "JHU APL requires US citizenship and security-clearance eligibility",
+    "tkey": "johns-hopkins-applied-physics-laboratory|software-engineering-ml-data-scientist-new-grad-intelligence-systems"
+  },
+  "https://careers.jhuapl.edu/jobs/59818?icims=1": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "JHU APL requires US citizenship and security-clearance eligibility",
+    "tkey": "johns-hopkins-applied-physics-laboratory|data-scientist-engineer-new-grad-analytic-capabilities"
+  },
+  "https://careers.jhuapl.edu/jobs/59799?icims=1": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "JHU APL requires US citizenship and security-clearance eligibility",
+    "tkey": "johns-hopkins-applied-physics-laboratory|graduate-data-science-system-performance-evaluation"
+  },
+  "https://careers.jhuapl.edu/jobs/59888?icims=1": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "JHU APL requires US citizenship and security-clearance eligibility",
+    "tkey": "johns-hopkins-applied-physics-laboratory|machine-learning-phd-new-grad-machine-learning-and-artificial-intelligence"
+  },
+  "https://careers.jhuapl.edu/jobs/59889?icims=1": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "JHU APL requires US citizenship and security-clearance eligibility",
+    "tkey": "johns-hopkins-applied-physics-laboratory|phd-graduate-statistics-and-data-science"
+  },
+  "https://careers.jhuapl.edu/jobs/59581?icims=1": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "JHU APL requires US citizenship and security-clearance eligibility",
+    "tkey": "johns-hopkins-applied-physics-laboratory|graduate-engineer-physicist-computer-scientist-weapon-control"
+  },
+  "https://careers.jhuapl.edu/jobs/59848?icims=1": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "JHU APL requires US citizenship and security-clearance eligibility",
+    "tkey": "johns-hopkins-applied-physics-laboratory|artificial-intelligence-engineer-new-grad-intelligent-autonomous-systems"
+  },
+  "https://careers.jhuapl.edu/jobs/59691?icims=1": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "JHU APL requires US citizenship and security-clearance eligibility",
+    "tkey": "johns-hopkins-applied-physics-laboratory|software-development-graduate-ai"
+  },
+  "https://careers.jhuapl.edu/jobs/59459?icims=1": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "JHU APL requires US citizenship and security-clearance eligibility",
+    "tkey": "johns-hopkins-applied-physics-laboratory|robotics-researcher-research-and-exploratory-development-department-robotics-group"
+  },
+  "https://careers.jhuapl.edu/jobs/59918?icims=1": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "JHU APL requires US citizenship and security-clearance eligibility",
+    "tkey": "johns-hopkins-applied-physics-laboratory|data-scientist-new-grad-computer-scientist-decision-systems"
+  },
+  "https://careers.jhuapl.edu/jobs/60018?icims=1": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "JHU APL requires US citizenship and security-clearance eligibility",
+    "tkey": "johns-hopkins-applied-physics-laboratory|phd-graduate-artificial-intelligence-and-machine-learning-research-scientist"
+  },
+  "https://careers.jhuapl.edu/jobs/60075?icims=1": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "JHU APL requires US citizenship and security-clearance eligibility",
+    "tkey": "johns-hopkins-applied-physics-laboratory|ai-researcher-artificial-intelligence-and-complex-systems"
+  },
+  "https://careers.jhuapl.edu/jobs/60053?icims=1": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "JHU APL requires US citizenship and security-clearance eligibility",
+    "tkey": "johns-hopkins-applied-physics-laboratory|neural-engineering-researcher"
+  },
+  "https://newrocket.com/careers/job?gh_jid=6163544004&gh_jid=6163544004": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "ServiceNow consultancy",
+    "tkey": "newrocket|ai-engineer-graduate-level"
+  },
+  "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Data-Science-Graduate_1213631": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "duplicate of HPE Data Science Graduate req 1213631 (BS/MS data science, master's base $81.5K–$187.5K)",
+    "tkey": "hewlett-packard-enterprise|data-science-new-grad"
+  },
+  "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013255": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "bank; AI Engineer 1 graduate role",
+    "tkey": "american-express|ai-engineer-1-graduate"
+  },
+  "https://bah.wd1.myworkdayjobs.com/Confidential/job/Washington-DC/University--Quantum-Research-Professional_R0248108": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "defense consultancy, cleared work",
+    "tkey": "booz-allen|quantum-research-professional"
+  },
+  "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986505003": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "identity-verification data-scientist new grad, not research",
+    "tkey": "id-me|data-scientist-new-grad"
+  },
+  "https://careers.noblis.org/jobs/27812?icims=1": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "defense/government contractor",
+    "tkey": "noblis|artificial-intelligence-engineer"
+  },
+  "https://job-boards.greenhouse.io/evolver/jobs/4402412009": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "defense-adjacent research firm, cleared work",
+    "tkey": "evolver|research-scientist-autonomous-systems"
+  },
+  "https://job-boards.greenhouse.io/evolver/jobs/4402424009": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "defense-adjacent research firm, cleared work",
+    "tkey": "evolver|research-scientist-information-theory-and-statistical-inference"
+  },
+  "https://job-boards.greenhouse.io/chaosindustries/jobs/5237013007": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "defense company requiring a US citizen or permanent resident; base $150K–$170K",
+    "tkey": "chaos-industries|applied-ai-engineer"
+  },
+  "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-and-ML-Engineer_R0250044": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "defense consultancy, cleared work",
+    "tkey": "booz-allen|ai-and-ml-engineer"
+  },
+  "https://avathon.com/company/careers-job-listing?gh_jid=4736834005": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "associate-level AI engineer, below PhD level and pay",
+    "tkey": "avathon|associate-ai-engineer-physical-ai"
+  },
+  "https://assaabloy.jobs2web.com/job/Austin-AI-Scientist-TX-78753/1441539933?ats=successfactors": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "lock manufacturer AI scientist, industrial pay",
+    "tkey": "assa-abloy|ai-scientist"
+  },
+  "https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0?embed=true": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "ML-infra SWE for 2025/2026 grads, posted base $97.6K–$139K",
+    "tkey": "quora|software-engineer-new-grad-machine-learning-platform"
+  },
+  "https://imanagecom.applytojob.com/apply/2sEdqwy08T/Applied-AI-Engineer-New-Or-Recent-Grad": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "legal-software applied-AI engineer new grad",
+    "tkey": "imanage|applied-ai-engineer-new-grad"
+  },
+  "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Microelectronics-Device-Scientist_R016645": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Aerospace Corp, clearance-restricted",
+    "tkey": "the-aerospace-corporation|microelectronics-device-scientist"
+  },
+  "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8883870002": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "duplicate of the careers.duolingo.com posting for the same New PhD Graduate req (base $137.7K–$186.3K)",
+    "tkey": "duolingo|ai-research-engineer-new-grad"
+  },
+  "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Research-Science-Engineering_R265913": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "listing is actually an 'AMS CAD Engineer' EDA req at master's level, with export-licensing review for non-US persons",
+    "tkey": "analog-devices|research-science-engineering"
+  },
+  "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level---Compute-Platforms---SoC-MCU-Semiconductor-Systems-Researcher_JR-202621829": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "SoC/MCU embedded-hardware research; no immigration sponsorship and U.S.-Person requirement",
+    "tkey": "general-motors|semiconductors-and-compute-platforms-researcher-compute-platforms-soc-mcu-semiconductor-systems-researcher"
+  },
+  "https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5454172008": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "nonprofit research institute data scientist",
+    "tkey": "american-institutes-for-research|data-scientist-project-success-and-innovation"
+  },
+  "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-and-Simulation-Engineer_R016883": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Aerospace Corp, clearance-restricted",
+    "tkey": "the-aerospace-corporation|aerospace-software-and-simulation-engineer"
+  },
+  "https://job-boards.greenhouse.io/roboforce/jobs/5459229008": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "residency program",
+    "tkey": "roboforce|ai-resident"
+  },
+  "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Engineer--2027-New-College-Graduate-_JR-2604055": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "new-college-graduate software req (BS/MS/PhD) with posted base $72K–$141.7K",
+    "tkey": "globalfoundries|ai-software-engineer-new-grad"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "EDA research req requiring synthesis/physical-design/timing expertise and EDA-venue publications.",
+    "tkey": "nvidia|research-scientist-electronic-design-automation-new-college-grad-2026"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Deep-Learning-and-High-Performance-Computing-Engineering---China_JR2024107": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Shanghai/Beijing/Shenzhen resume-pipeline req, outside the US.",
+    "tkey": "nvidia|nvidia-2027-new-college-graduate-deep-learning-and-high-performance-computing-engineering-china"
+  },
+  "https://google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer-aimachine-learning-phd-early-career-2027-start": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "already on board (same Google job id 123087196289671878 as the board's existing Google row)",
+    "tkey": "google|software-engineer-ai-machine-learning-phd-early-career-2027-start"
+  },
+  "https://google.com/about/careers/applications/jobs/results/123087196289671878": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "already on board (Simplify row resolves to the same Google job id 123087196289671878 as the board's existing Google row)",
+    "tkey": "google|software-engineer-ai-machine-learning-phd"
+  },
+  "https://google.com/about/careers/applications/jobs/results/134313315235963590-student-researcher-phd-wintersummer-2027": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Student researcher internship for enrolled students, not full-time.",
+    "tkey": "google|student-researcher-phd-winter-summer-2027"
+  },
+  "https://google.com/about/careers/applications/jobs/results/131518356678156998-student-researcher-bsms-wintersummer-2027": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "BS/MS student researcher internship.",
+    "tkey": "google|student-researcher-bs-ms-winter-summer-2027"
+  },
+  "https://google.com/about/careers/applications/jobs/results/113245419391066822-vice-president-product-management-core-ai-foundations": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "VP product-management role asking for 20 years of experience.",
+    "tkey": "google|vice-president-product-management-core-ai-foundations"
+  },
+  "https://google.com/about/careers/applications/jobs/results/83535564552184518-student-researcher-phd-fall-2026": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Student researcher internship for fall 2026.",
+    "tkey": "google|student-researcher-phd-fall-2026"
+  },
+  "https://job-boards.greenhouse.io/lilasciences/jobs/4396760009": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Requires protein sequence/structure/function domain expertise; wrong discipline (base $176K-$304K).",
+    "tkey": "lila-sciences|machine-learning-scientist-i-ii-protein-design"
+  },
+  "https://job-boards.greenhouse.io/lilasciences/jobs/4400746009": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Cleanroom process role needing 5+ years hands-on; base $108K-$170K.",
+    "tkey": "lila-sciences|microfabrication-scientist-i-ii"
+  },
+  "https://job-boards.greenhouse.io/lilasciences/jobs/4392245009": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Requires prior ML for protein design/biologics and fluency in protein biology; wrong discipline.",
+    "tkey": "lila-sciences|ml-scientist-i-ii-ai-for-protein-engineering"
+  },
+  "https://job-boards.greenhouse.io/lilasciences/jobs/4324969009": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Requires hands-on ML for DNA/RNA sequence design; wrong discipline.",
+    "tkey": "lila-sciences|ml-scientist-nucleic-acid-design"
+  },
+  "https://job-boards.greenhouse.io/lilasciences/jobs/4423504009": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Hardware/instrumentation lab role (solid-state synthesis, building high-throughput rigs); base $108K-$170K.",
+    "tkey": "lila-sciences|platform-scientist-i-ii-functional-materials-instrumentation"
+  },
+  "https://job-boards.greenhouse.io/lilasciences/jobs/4384606009": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Hands-on XRF/SEM-EDS/WDS characterization lab role; base $108K-$170K.",
+    "tkey": "lila-sciences|scientist-i-ii-characterization-and-composition-analysis"
+  },
+  "https://job-boards.greenhouse.io/lilasciences/jobs/4378385009": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Hands-on XRD instrument and sample-prep role; base $108K-$170K.",
+    "tkey": "lila-sciences|scientist-i-ii-x-ray-diffraction-characterization"
+  },
+  "https://job-boards.greenhouse.io/lilasciences/jobs/4246305009": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Experimental magnetometry/PPMS characterization needing 1-5 years post-PhD; base $128K-$198K.",
+    "tkey": "lila-sciences|scientist-ii-senior-characterization-scientist-condensed-matter"
+  },
+  "https://job-boards.greenhouse.io/lilasciences/jobs/4395729009": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Requires a PhD centered on biological data (single-cell omics, perturbation screens) and mechanistic biology fluency; wr",
+    "tkey": "lila-sciences|scientist-ii-senior-scientist-bioml"
+  },
+  "https://job-boards.greenhouse.io/lilasciences/jobs/4378383009": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Hands-on SEM/TEM/micro-ED lab role; base $128K-$198K.",
+    "tkey": "lila-sciences|scientist-ii-senior-scientist-electron-diffraction-characterization"
+  },
+  "https://job-boards.greenhouse.io/lilasciences/jobs/4271809009": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Experimental solid-state synthesis (flux, vapor transport, glovebox) needing 1-5 years post-PhD and a portfolio of novel",
+    "tkey": "lila-sciences|scientist-ii-senior-scientist-solid-state-materials"
+  },
+  "https://job-boards.greenhouse.io/lilasciences/jobs/4383465009": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Photonic device/thin-film measurement lab role; base $128K-$170K.",
+    "tkey": "lila-sciences|scientist-ii-silicon-photonics"
+  },
+  "https://job-boards.greenhouse.io/lilasciences/jobs/4377096009": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "ETL/data-engineering role wanting 2-6 years of data engineering; base $144K-$240K.",
+    "tkey": "lila-sciences|senior-data-engineer-bioinformatics-cheminformatics-materials"
+  },
+  "https://job-boards.greenhouse.io/lilasciences/jobs/4392247009": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Senior IC requiring a protein-design track record with industry experience; wrong discipline (base $268K-$358K).",
+    "tkey": "lila-sciences|senior-ml-scientist-ai-for-protein-engineering"
+  },
+  "https://job-boards.greenhouse.io/lilasciences/jobs/4395725009": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Senior req for modeling high-dimensional perturbation/genetic biology data; wrong discipline (base $268K-$358K).",
+    "tkey": "lila-sciences|senior-ml-scientist-biological-systems"
+  },
+  "https://job-boards.greenhouse.io/anthropic/jobs/5437172008": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Customer-embedded applied AI/forward-deployed engineering role wanting 4+ years shipping production systems and life-sci",
+    "tkey": "anthropic|applied-ai-engineer-beneficial-deployments-life-sciences"
+  },
+  "https://job-boards.greenhouse.io/anthropic/jobs/5454650008": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Startup-facing technical-advisor role wanting 4+ years and deep life-sciences/biotech experience; not research ($280K-$3",
+    "tkey": "anthropic|applied-ai-engineer-startups-life-sciences"
+  },
+  "https://job-boards.greenhouse.io/anthropic/jobs/5454673008": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Startup-facing technical-advisor role wanting 4+ years plus hands-on hardware engineering in a physical discipline; not ",
+    "tkey": "anthropic|applied-ai-engineer-startups-physical-ai"
+  },
+  "https://job-boards.greenhouse.io/anthropic/jobs/5239733008": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Minimum quals require ML-for-biology work and biotech/pharma drug-discovery experience, preferred 5+ years; wrong discip",
+    "tkey": "anthropic|research-scientist-life-sciences"
+  },
+  "https://job-boards.greenhouse.io/anthropic/jobs/5387564008": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Bench medicinal chemist role requiring recent sustained hands-on synthesis and SAR work; wrong discipline ($300K-$320K).",
+    "tkey": "anthropic|research-scientist-life-sciences-chemistry"
+  },
+  "https://job-boards.greenhouse.io/anthropic/jobs/5357739008": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Requires an end-to-end computational-biology research track record with breadth across genomics, phylogenetics and seque",
+    "tkey": "anthropic|research-scientist-life-sciences-computational"
+  },
+  "https://job-boards.greenhouse.io/anthropic/jobs/5285250008": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Wet-lab biology PhD role (molecular biology, biochemistry, assay development); wrong discipline ($300K-$320K).",
+    "tkey": "anthropic|research-scientist-life-sciences-experimental-biology"
+  },
+  "https://jobs.ashbyhq.com/periodic-labs/e90c6050-e544-4a2b-ae30-7c41e5eb4f16": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Experimental PPMS/MPMS property-characterization role needing 5+ years hands-on ($250K-$350K + equity).",
+    "tkey": "periodic-labs|research-scientist-materials-characterization"
+  },
+  "https://jobs.ashbyhq.com/periodic-labs/7f36ea6e-3e67-40df-82c6-5540859a2ac5": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Experimental thin-film synthesis (sputtering, PLD, MBE) needing 5+ years hands-on ($250K-$350K + equity).",
+    "tkey": "periodic-labs|research-scientist-thin-films"
+  },
+  "https://jobs.ashbyhq.com/periodic-labs/95d290bd-6420-42e8-82a0-f0230722c19c": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Hands-on device fabrication and probe-station role wanting semiconductor industry experience ($220K-$300K + equity).",
+    "tkey": "periodic-labs|research-engineer-semiconductor"
+  },
+  "https://jobs.ashbyhq.com/periodic-labs/a16ee7dd-021d-4f37-823d-7a8b520c6d8a": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Hands-on thin-film lab automation and instrument integration role ($200K-$250K + equity).",
+    "tkey": "periodic-labs|research-engineer-lab-automation"
+  },
+  "https://jobs.ashbyhq.com/periodic-labs/98837207-657f-4116-a112-d8dc6184b49e": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Hands-on thin-film deposition role for recent PhDs; $180K-$225K + equity, below the line.",
+    "tkey": "periodic-labs|research-associate-thin-films"
+  },
+  "https://jobs.ashbyhq.com/openai/93f558c1-c944-4ddc-b102-addc9446de3d": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Leadership role in go-to-market analytics; not a research or new-grad role.",
+    "tkey": "openai|applied-data-science-insights-leader-gtm-intelligence-solutions-and-technical-success"
+  },
+  "https://jobs.ashbyhq.com/iambic-therapeutics/41e94f6a-c5ea-4c52-b527-e2976a08347d": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Immunology wet-lab role; posted $113K-$156K.",
+    "tkey": "iambic-therapeutics|research-scientist-i-ii-immunology"
+  },
+  "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5255784007": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Robotics/digital-twin engineering for lab automation; base $150K-$185K.",
+    "tkey": "xaira-therapeutics|robotics-systems-simulation-engineer"
+  },
+  "https://lifeattiktok.com/search/7667346543553710389": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Bachelor's/Master's-level req, base $128K-$256K, and the posting says no sponsorship.",
+    "tkey": "tiktok|machine-learning-engineer-graduate-tiktok-data-search-recommendation-2027-start"
+  },
+  "https://lifeattiktok.com/search/7668376903708281141": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Bachelor's/Master's-level req, base $121.6K-$243.2K, and the posting says no sponsorship.",
+    "tkey": "tiktok|machine-learning-engineer-graduate-tiktok-data-search-local-service-2027-start"
+  },
+  "https://lifeattiktok.com/search/7668384123840514309": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Bachelor's/Master's-level req, base $121.6K-$243.2K, and the posting says no sponsorship.",
+    "tkey": "tiktok|machine-learning-engineer-graduate-tiktok-data-search-recommendation-global-e-commerce-2027-start"
+  },
+  "https://lifeattiktok.com/search/7667837906192877829": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Design-engineering role, base $76K-$151.2K.",
+    "tkey": "tiktok|design-engineering-graduate-design-system-ai-workflow-2027-start"
+  },
+  "https://lifeattiktok.com/search/7668592348941273349": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Ads MLE at Bachelor's/Master's level, base $128K-$256K.",
+    "tkey": "tiktok|machine-learning-engineer-graduate-monetization-technology-ads-core-global-2027-start"
+  },
+  "https://lifeattiktok.com/search/7668629846058223877": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Ads MLE at Bachelor's/Master's level, base $128K-$256K.",
+    "tkey": "tiktok|machine-learning-engineer-graduate-ads-targeting-2027-start"
+  },
+  "https://lifeattiktok.com/search/7668660365135808821": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Ads MLE at Bachelor's level, base $128K-$256K.",
+    "tkey": "tiktok|machine-learning-engineer-graduate-ads-delivery-2027-start"
+  },
+  "https://lifeattiktok.com/search/7668693662561634613": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Ads infrastructure at Bachelor's/Master's level, base $128K-$256K.",
+    "tkey": "tiktok|ml-infra-engineer-graduate-ads-infra-2027-start"
+  },
+  "https://lifeattiktok.com/search/7668700671828707589": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "SRE/MLOps role at Bachelor's/Master's level, base $128K-$256K.",
+    "tkey": "tiktok|machine-learning-mlops-engineer-graduate-mlops-2027-start"
+  },
+  "https://lifeattiktok.com/search/7669698543896054069": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Ads MLE at Bachelor's-or-above level, base $128K-$256K.",
+    "tkey": "tiktok|machine-learning-engineer-graduate-search-ads-2027-start"
+  },
+  "https://lifeattiktok.com/search/7669700358734170373": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Ads MLE at Bachelor's-or-above level, base $128K-$256K.",
+    "tkey": "tiktok|machine-learning-engineer-graduate-ads-signal-measurement-2027-start"
+  },
+  "https://lifeattiktok.com/search/7669709290431236357": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Ads MLE at Bachelor's-or-above level, base $128K-$256K.",
+    "tkey": "tiktok|machine-learning-engineer-graduate-app-ads-and-gaming-2027-start"
+  },
+  "https://lifeattiktok.com/search/7669711968024430853": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Ads MLE at Bachelor's-or-above level, base $128K-$256K.",
+    "tkey": "tiktok|machine-learning-engineer-graduate-commerce-ads-2027-start"
+  },
+  "https://lifeattiktok.com/search/7670876337129425205": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Infrastructure role at Bachelor's/Master's level, base $128K-$256K.",
+    "tkey": "tiktok|recommendation-architecture-ai-ml-infrastructure-engineer-graduate-data-arch-tiktok-live-2027-start"
+  },
+  "https://lifeattiktok.com/search/7672532275557583157": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Recsys MLE at Bachelor's level, base $128K-$316.8K.",
+    "tkey": "tiktok|machine-learning-engineer-graduate-tiktok-vertical-recommendation-2027-start"
+  },
+  "https://lifeattiktok.com/search/7673672141010815237": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Master's-level product analytics role, base $95K-$216K.",
+    "tkey": "tiktok|data-scientist-graduate-multimedia-2027-start"
+  },
+  "https://lifeattiktok.com/search/7675844938504702213": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Bachelor's/Master's-level sibling of the PhD LLM/Agent req, base $128K-$316.8K.",
+    "tkey": "tiktok|machine-learning-engineer-graduate-e-commerce-supply-chain-logistics-2027-start"
+  },
+  "https://lifeattiktok.com/search/7686999927260105013": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Recsys MLE at Bachelor's level, base $128K-$316.8K.",
+    "tkey": "tiktok|machine-learning-engineer-graduate-e-commerce-recommendation-video-2027-start"
+  },
+  "https://lifeattiktok.com/search/7665989305914984709": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Bachelor's-level code-graph/static-analysis infra role, base $128K-$256K.",
+    "tkey": "tiktok|ai-systems-engineer-graduate-ai-code-infrastructure-agentic-ops-us-2027-start"
+  },
+  "https://lifeattiktok.com/search/7665797203155896581": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Bachelor's/Master's-level search MLE at $128K-$256K, and the posting says no sponsorship.",
+    "tkey": "tiktok|machine-learning-engineer-graduate-tiktok-data-search-search-quality-2027-start"
+  },
+  "https://lifeattiktok.com/search/7667344113001384197": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Bachelor's/Master's-level search MLE at $128K-$256K, and the posting says no sponsorship.",
+    "tkey": "tiktok|machine-learning-engineer-graduate-tiktok-data-search-basic-ranking-2027-start"
+  },
+  "https://lifeattiktok.com/search/7667349591747758341": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Bachelor's/Master's-level search MLE at $128K-$256K, and the posting says no sponsorship.",
+    "tkey": "tiktok|machine-learning-engineer-graduate-tiktok-data-search-visual-search-2027-start"
+  },
+  "https://lifeattiktok.com/search/7668390999147776309": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Bachelor's/Master's-level search MLE at $121.6K-$243.2K (Seattle), and the posting says no sponsorship.",
+    "tkey": "tiktok|machine-learning-engineer-graduate-data-global-e-commerce-search-2027-start"
+  },
+  "https://lifeattiktok.com/search/7668663594419374341": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Master's-level ads MLE (inventory forecasting, auction), base $128K-$256K.",
+    "tkey": "tiktok|machine-learning-engineer-graduate-brand-ads-2027-start"
+  },
+  "https://lifeattiktok.com/search/7669707604717209861": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Bachelor's-or-above ads MLE, base $128K-$256K.",
+    "tkey": "tiktok|machine-learning-engineer-graduate-lead-ads-2027-start"
+  },
+  "https://lifeattiktok.com/search/7669691374918011141": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Bachelor's-or-above ads MLE general hire, base $128K-$256K.",
+    "tkey": "tiktok|general-hire-machine-learning-engineer-graduate-performance-monetization-2027-start"
+  },
+  "https://lifeattiktok.com/search/7664978367107713333": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Bachelor's-level software/architecture infra role, base $128K-$256K.",
+    "tkey": "tiktok|ai-engineer-graduate-client-arch-2027-start"
+  },
+  "https://lifeattiktok.com/search/7672654026594093317": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Bachelor's-level training/serving infra and GPU systems role, base $128K-$316.8K.",
+    "tkey": "tiktok|ai-infra-engineer-graduate-recommendation-llm-2027-start"
+  },
+  "https://lifeattiktok.com/search/7670288355678177589": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Bachelor's-level product data-science role, base $95K-$216K.",
+    "tkey": "tiktok|data-scientist-graduate-multimedia-2027-start"
+  },
+  "https://lifeattiktok.com/search/7670335888371927349": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Video codec engineering (H.264/HEVC/AV1, C/C++) outside the candidate's field; base $122.6K-$301K in San Diego.",
+    "tkey": "tiktok|research-engineer-graduate-realtime-codec-optimizations-video-codec-2027-start-phd"
+  },
+  "https://lifeattiktok.com/search/7670681152383813893": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "folded into its sibling req on the board",
+    "tkey": "tiktok|research-scientist-graduate-conversational-ai-2027-start-phd"
+  },
+  "https://lifeattiktok.com/search/7685552743586826549": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "folded into its sibling req on the board",
+    "tkey": "tiktok|machine-learning-engineer-graduate-e-commerce-content-recommendation-generative-large-recommendation-model-2027-start-phd"
+  },
+  "https://lifeattiktok.com/search/7672877778696407301": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "folded into its sibling req on the board",
+    "tkey": "tiktok|machine-learning-engineer-graduate-e-commerce-recommendation-foundation-2027-start-phd"
+  },
+  "https://lifeattiktok.com/search/7675842865566222597": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "folded into its sibling req on the board",
+    "tkey": "tiktok|machine-learning-engineer-graduate-e-commerce-supply-chain-logistics-llm-agent-2027-start-phd"
+  },
+  "https://jobs.accel.com/companies/facebook-2-07d2eb1b-d3ad-4084-93df-74a124ac9233/jobs/80247080-ai-research-scientist-generative-ai-for-materials-discovery": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Closed as of 2026-10-26; same req as the Pasadena copy (base $154K–$217K plus equity, 3+ years of generative-modeling research required)",
+    "tkey": "meta|ai-research-scientist-generative-ai-for-materials-discovery-redmond-wa"
+  },
+  "https://jobs.accel.com/companies/facebook-2-07d2eb1b-d3ad-4084-93df-74a124ac9233/jobs/77325788-ai-research-scientist-agentic-ai-for-materials-discovery": {
+    "date": "2026-10-26",
+    "decision": "screened",
+    "reason": "Closed as of 2026-10-26; same req as the Pasadena copy",
+    "tkey": "meta|ai-research-scientist-agentic-ai-for-materials-discovery-redmond-wa"
+  },
+  "https://ziprecruiter.com/Jobs/Ai-For-Materials": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "aggregator search page; the req is closed on the employer mirror",
+    "tkey": "meta|ai-research-scientist-agentic-ai-for-materials-discovery"
+  },
+  "https://careers.conbio.org/job/1349634/materials-scientist-3-machine-learning-for-materials-discovery?TrackID=9": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "national lab pay band well below the line",
+    "tkey": "pacific-northwest-national-laboratory|materials-scientist-3-machine-learning-for-materials-discovery"
+  },
+  "https://getmereferred.com/us/job-listing/2026-new-college-grad-computational-chemist-materials-scientist-machine-learning-reactive-mlips-doctorate-degree-applied-materials-uscasantaclara-2-to-5-years-experience-fabedcc4-cf7e-4580-bdc5-313ec5c23dc4": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "Applied Materials new-grad bands run about $138K–$190K base, below the line; aggregator copy of a 2026 req",
+    "tkey": "applied-materials|2026-new-college-grad-computational-chemist-materials-scientist-machine-learning-reactive-mlips"
+  },
+  "https://ziprecruiter.com/Jobs/Applied-Scientist-New-Grad": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "aggregator search page; Applied Materials bands are below the line",
+    "tkey": "applied-materials|physicist-scientist-iii-phd-2027-summer-cohort-new-college-grad"
+  },
+  "https://jobpilot.suxrobgm.net/jobs/new-college-grad-physicist-scientist-iii-phd-2027-summer-coh-at-applied-materials-4083a6": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "aggregator copy; Applied Materials bands are below the line",
+    "tkey": "applied-materials|new-college-grad-physicist-scientist-iii-phd-2027-summer-cohort"
+  },
+  "https://zapply.jobs/jobs/c5202bdb-0fdb-49c0-90c5-2aca9784581b": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "aggregator copy of a role already on the board",
+    "tkey": "bytedance|ai-molecular-dynamics-algorithm-researcher-graduate-seed-ai-for-science-atomistic-ai"
+  },
+  "https://tallo.com/talent/job/technology/artificial-intelligence-engineer/md/laurel/2027-phd-graduate-artificial-a2bbd1ec": {
+    "date": "2026-10-26",
+    "decision": "dismissed",
+    "reason": "APL requires US citizenship and clearance eligibility",
+    "tkey": "johns-hopkins-university-applied-physics-laboratory|2027-phd-graduate-artificial-intelligence-and-machine-learning"
   }
 }

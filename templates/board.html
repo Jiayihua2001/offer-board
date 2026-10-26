@@ -202,6 +202,7 @@ details.screened summary span{font:400 .9375rem var(--sans);color:var(--muted);m
       <li><b id="nScreened">0</b><button type="button" class="linkish tally-link" id="openScreened">screened out up front</button></li>
     </ul>
     <p class="stamp"><span id="stampText"></span> <span id="saveNote"></span></p>
+    <p class="stamp"><a href="train.html" id="trainLink">Interview prep: today’s assignment, quiz and progress →</a></p>
   </header>
 
   <section class="controls" aria-label="Filter and sort roles">
@@ -302,7 +303,7 @@ details.screened summary span{font:400 .9375rem var(--sans);color:var(--muted);m
     </div>
     <div>
       <h3>Keeping it current</h3>
-      <p>A GitHub Action runs twice a day. It polls company job boards and the GitHub new-grad trackers, runs Claude web searches, screens every new posting against your offer line, location and visa needs, re-checks each link and drops closed roles. New roles also arrive as a GitHub issue, so you get an email.</p>
+      <p>A GitHub Action can run twice a day once the repository has an API key. It polls company job boards and the GitHub new-grad trackers, runs Claude web searches, screens every new posting against your offer line, location and visa needs, re-checks each link and drops closed roles. Without the key, open a Claude Code session on the repo and ask for a sweep: it runs the same sources and screens the backlog in parallel.</p>
       <p class="muted">Statuses and notes you set here save in this browser. Edit config.yaml to change the offer line, filters, companies or search queries.</p>
     </div>
   </section>
@@ -923,6 +924,7 @@ details.screened summary span{font:400 .9375rem var(--sans);color:var(--muted);m
   }
 
   /* ---------- start ---------- */
+  if (window.claude && typeof window.claude.use === "function" && $("#trainLink")) $("#trainLink").parentNode.hidden = true;
   initLocal();
   $("#stampText").textContent = "Updated " + BOARD.refreshedLabel + " by the GitHub workflow, which re-checks every link on each run. " + JOBS.length + " open US roles.";
   if ($("#cfgOffer")) $("#cfgOffer").textContent = "$" + BOARD.defaultOfferK + "K";

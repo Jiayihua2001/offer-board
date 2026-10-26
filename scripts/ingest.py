@@ -18,15 +18,19 @@ File format:
              "in_us": true, "open": true, "quant": false, "restricted": false,
              "sponsorship": "yes" | "no" | "unclear", "posted": "YYYY-MM-DD",
              "why": "...", "caveat": "..." } ],
-  "screened": [ { "company": "...", "role": "...", "url": "...", "reason": "..." } ]
+  "screened": [ { "company": "...", "role": "...", "url": "...", "reason": "..." } ],
+  "dismissed": [ { "company": "...", "role": "...", "url": "...", "reason": "..." } ],
+  "remove": [ { "url": "https://... (a role already on the board)", "reason": "..." } ]
 }
+"screened" entries are shown on the board with their reason; "dismissed" entries are only remembered;
+"remove" takes a role off the board (it moves to the screened list with the reason).
 """
 from __future__ import annotations
 
 import shutil
 
 from . import render
-from .common import DATA, job_key, load_config, load_json, save_json, today
+from .common import DATA, job_key, load_config, load_json, norm_url, save_json, today
 from .rules import decide, ident, same_role, tkey
 
 INBOX = DATA / "inbox"
@@ -89,6 +93,27 @@ def ingest(cfg: dict, jobs: list[dict], screened: list[dict], seen: dict, run_da
                                 "reason": reason[0].upper() + reason[1:] + "."})
             seen[job_key(company, role, s["url"])] = {"date": run_date, "decision": "screened", "reason": reason,
                                                       "tkey": tkey(company, role)}
+        # "remove": roles already on the board that a later, better-informed screen rejected.
+        for s in payload.get("remove") or []:
+            if not isinstance(s, dict) or not s.get("url"):
+                continue
+            target = norm_url(s["url"])
+            victims = [j for j in jobs if norm_url(j["url"]) == target]
+            for j in victims:
+                jobs.remove(j)
+                reason = str(s.get("reason") or "Removed after re-screening").strip().rstrip(".")
+                screened.insert(0, {"name": f"{j['company']}, {j['role']}", "url": j["url"], "date": run_date,
+                                    "reason": reason[0].upper() + reason[1:] + "."})
+                seen[job_key(j["company"], j["role"], j["url"])] = {"date": run_date, "decision": "screened", "reason": reason,
+                                                                   "tkey": tkey(j["company"], j["role"])}
+                log.info(f"REMOVED {j['company']}: {j['role']} ({reason})")
+        # "dismissed": clearly irrelevant postings. Remembered so they are never screened again, but not shown.
+        for s in payload.get("dismissed") or []:
+            if not isinstance(s, dict) or not s.get("url"):
+                continue
+            company, role = s.get("company", ""), s.get("role", "")
+            seen[job_key(company, role, s["url"])] = {"date": run_date, "decision": "dismissed",
+                                                      "reason": str(s.get("reason") or "")[:120], "tkey": tkey(company, role)}
         (INBOX / "processed").mkdir(parents=True, exist_ok=True)
         shutil.move(str(path), str(INBOX / "processed" / path.name))
         log.info(f"inbox {path.name}: {n_add} added, {n_skip} skipped")
@@ -104,8 +129,8 @@ def main() -> int:
     seen = load_json(DATA / "seen.json", {})
     state = load_json(DATA / "state.json", {})
     added = ingest(cfg, jobs, screened, seen, run_date, log)
-    reviewed = {s["url"] for s in screened} | {j["url"] for j in jobs}
-    state["review"] = [r for r in state.get("review", []) if r.get("url") not in reviewed]
+    reviewed = {norm_url(s["url"]) for s in screened} | {norm_url(j["url"]) for j in jobs} | set(seen)
+    state["review"] = [r for r in state.get("review", []) if norm_url(r.get("url", "")) not in reviewed]
     closed_recent = [s for s in screened if s.get("reason", "").startswith("Closed:")][:15]
     render.write_readme(render.readme_block(jobs, screened[:300], state.get("review", []), closed_recent, state, cfg))
     render.write_html(jobs, screened[:300], cfg, run_date)

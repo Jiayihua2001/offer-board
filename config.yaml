@@ -35,6 +35,10 @@ filters:
     - Amazon
     - Amazon Web Services
     - AWS
+  # Employers that match a quant name but are not trading firms (D. E. Shaw Research is the
+  # Anton computational-biochemistry lab). Remove an entry to exclude it again.
+  allow_companies:
+    - D. E. Shaw Research
   # Firms whose roles are always treated as quant/trading.
   quant_companies:
     - Jane Street
@@ -143,7 +147,13 @@ ai:
 sources:
   # Public applicant-tracking APIs, polled every run at no cost.
   greenhouse:
-    - {token: deepmind, company: Google DeepMind}
+    # DeepMind retired its Greenhouse board in Oct 2026; its roles now post on Google Careers (see google_careers queries).
+    - {token: xai, company: xAI}
+    - {token: togetherai, company: Together AI}
+    - {token: isomorphiclabs, company: Isomorphic Labs}
+    - {token: schrdinger, company: Schrödinger}
+    - {token: samsungsemiconductor, company: Samsung Semiconductor}
+    - {token: samsungresearchamerica, company: Samsung Research America}
     - {token: lilasciences, company: Lila Sciences}
     - {token: lila, company: Lila Sciences}
     - {token: anthropic, company: Anthropic}
@@ -156,18 +166,45 @@ sources:
     - {token: airbnb, company: Airbnb}
     - {token: stripe, company: Stripe}
   lever:
-    - {site: RadicalAI, company: Radical AI}
+    # Radical AI deleted its Lever board in Oct 2026; watch https://app.nodi.global/company/radical%20ai instead.
+    - {site: tri, company: Toyota Research Institute}
   ashby:
     - {org: periodic-labs, company: Periodic Labs}
     - {org: openai, company: OpenAI}
+    - {org: achira, company: Achira}
+    - {org: chaidiscovery, company: Chai Discovery}
+    - {org: genesis-molecular-ai, company: Genesis Molecular AI}
+    - {org: mirror-physics, company: Mirror Physics}
+    - {org: iambic-therapeutics, company: Iambic Therapeutics}
+    - {org: orbitalindustries, company: Orbital Materials (now Orbital Industries)}
+    - {org: cuspai, company: CuspAI}
+    - {org: sandboxaq, company: SandboxAQ}
+    - {org: thinkingmachines, company: Thinking Machines Lab}
+    - {org: character, company: Character.AI}
+    - {org: cerebras, company: Cerebras Systems}
+    - {org: liquid-ai, company: Liquid AI}
+    - {org: reka, company: Reka}
+    - {org: mistral.ai, company: Mistral AI}
+    - {org: ssi, company: Safe Superintelligence}
+    - {org: cohere, company: Cohere}
   workday:
     - company: NVIDIA
       host: nvidia.wd5.myworkdayjobs.com
       tenant: nvidia
       site: NVIDIAExternalCareerSite
       searches: ["new college grad research scientist", "PhD new college grad", "chemistry materials AI"]
+    - company: Adobe
+      host: adobe.wd5.myworkdayjobs.com
+      tenant: adobe
+      site: external_experienced
+      searches: ["research scientist machine learning", "university graduate machine learning PhD"]
+    - company: Salesforce
+      host: salesforce.wd12.myworkdayjobs.com
+      tenant: salesforce
+      site: External_Career_Site
+      searches: ["AI research scientist PhD", "research scientist machine learning"]
   google_careers:
-    queries: ["PhD 2027", "PhD Early Career", "Research Scientist PhD", "materials science machine learning"]
+    queries: ["PhD 2027", "PhD Early Career", "Research Scientist PhD", "materials science machine learning", "DeepMind research engineer", "DeepMind research scientist"]
   # Daily-updated GitHub new-grad trackers.
   speedyapply: true
   simplify: true
@@ -193,6 +230,7 @@ sources:
     - "materials informatics machine learning scientist job United States"
     - "Google DeepMind science research engineer Mountain View materials OR chemistry"
     - "Meta FAIR chemistry OR AI for science research job"
+    - "Meta Reality Labs Research materials discovery AI research scientist Pasadena OR Redmond"
 
 verify:
   # A role leaves the board after this many runs in a row where its page or
