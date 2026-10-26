@@ -1,0 +1,939 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Offer board, fall 2027</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Sans+Condensed:wght@500;600&display=swap">
+<style>
+:root{
+  --paper:#F2F5F1; --raise:#E7ECE6; --ink:#17202E; --muted:#56616F; --rule:#D2D9D1;
+  --above:#2446C6; --near:#0B7A73; --below:#8A94A1;
+  --line:#C2410C; --focus:#2446C6; --danger:#B42318;
+  --sans:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  --cond:"IBM Plex Sans Condensed","Arial Narrow","Roboto Condensed","IBM Plex Sans",system-ui,sans-serif;
+  color-scheme:light;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px);
+  padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --paper:#0E141D; --raise:#162030; --ink:#E4E9F0; --muted:#9AA5B4; --rule:#27323F;
+    --above:#8EA7FF; --near:#4CCBC0; --below:#6E7887;
+    --line:#FF8C4F; --focus:#8EA7FF; --danger:#FF8A80;
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#0E141D; --raise:#162030; --ink:#E4E9F0; --muted:#9AA5B4; --rule:#27323F;
+  --above:#8EA7FF; --near:#4CCBC0; --below:#6E7887;
+  --line:#FF8C4F; --focus:#8EA7FF; --danger:#FF8A80;
+  color-scheme:dark;
+}
+*,*::before,*::after{box-sizing:inherit}
+[hidden]{display:none!important}
+html{scroll-padding-top:env(safe-area-inset-top,0px);-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--paper);color:var(--ink);font:400 1rem/1.55 var(--sans);font-variant-numeric:tabular-nums}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--paper)}
+a{color:inherit;text-decoration-thickness:1px;text-underline-offset:.18em}
+a:hover{text-decoration-thickness:2px}
+:focus-visible{outline:2px solid var(--focus);outline-offset:2px;border-radius:2px}
+button{font:inherit;color:inherit}
+.wrap{max-width:72rem;margin:0 auto;padding:0 clamp(1rem,3vw,2rem)}
+
+/* Intro */
+.intro{padding:clamp(2rem,5vw,3.25rem) 0 1.25rem}
+h1{font:600 clamp(2.1rem,4.6vw,3rem)/1.04 var(--cond);letter-spacing:-.012em;margin:0 0 .7rem}
+.lede{font-size:1.125rem;line-height:1.5;max-width:38em;margin:0 0 1.1rem}
+.tally{display:flex;flex-wrap:wrap;gap:.35rem 1.75rem;margin:0;padding:0;list-style:none;font-size:.9375rem;color:var(--muted)}
+.tally b{font:600 1.5rem/1 var(--cond);color:var(--ink);margin-right:.3rem}
+.tally .k-above b{color:var(--above)}
+.tally .k-near b{color:var(--near)}
+.tally-link{font-size:.9375rem}
+.stamp{font-size:.875rem;color:var(--muted);margin:.9rem 0 0;max-width:46em}
+
+/* Controls */
+.controls{display:flex;flex-wrap:wrap;gap:.75rem 1.25rem;align-items:center;padding:1rem 0 .9rem;border-top:1px solid var(--rule)}
+.seg{display:inline-flex;flex-wrap:wrap;gap:2px;border:1px solid var(--rule);border-radius:999px;padding:2px;background:var(--raise)}
+.seg button{font-size:.875rem;border:0;background:transparent;color:var(--muted);padding:.32rem .8rem;border-radius:999px;cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--ink);color:var(--paper)}
+.checks{display:flex;flex-wrap:wrap;gap:.35rem .9rem;font-size:.875rem;color:var(--muted)}
+.checks label{display:inline-flex;align-items:center;gap:.35rem;cursor:pointer}
+.checks input{accent-color:var(--ink);margin:0}
+.field{display:inline-flex;align-items:center;gap:.4rem;font-size:.875rem;color:var(--muted)}
+select,input[type=search],input[type=number],input[type=url],textarea{font:inherit;color:var(--ink);background:var(--paper);border:1px solid var(--rule);border-radius:6px;padding:.32rem .5rem}
+input[type=search]{flex:1 1 13rem;min-width:0;max-width:22rem}
+.shown{font-size:.8125rem;color:var(--muted);margin-left:auto}
+
+/* Shared grid for the scale row and every role row */
+.grid{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr) 10rem;column-gap:1.5rem}
+
+/* Sticky scale */
+.chart{position:relative}
+.scale{position:sticky;top:env(safe-area-inset-top,0px);z-index:6;background:var(--paper);border-bottom:1px solid var(--rule)}
+.scale .grid{padding:.55rem 0 .5rem;align-items:end}
+.offer-ctl{display:flex;flex-wrap:wrap;align-items:baseline;gap:.2rem .55rem;font-size:.9375rem}
+.offer-ctl label{font-weight:500}
+.money{display:inline-flex;align-items:baseline;font:600 1.25rem/1 var(--cond);color:var(--line)}
+.money input{width:4.2rem;font:600 1.25rem/1 var(--cond);color:var(--line);background:transparent;border:0;border-bottom:2px solid var(--line);border-radius:0;padding:0 .1rem;text-align:right;-moz-appearance:textfield;appearance:textfield}
+.money input::-webkit-outer-spin-button,.money input::-webkit-inner-spin-button{-webkit-appearance:none;margin:0}
+.money .unit{font-size:1rem;margin-left:.15rem}
+.linkish{font-size:.8125rem;background:none;border:0;padding:0;color:var(--muted);text-decoration:underline;text-underline-offset:.18em;cursor:pointer}
+.linkish.danger{color:var(--danger)}
+.axis{position:relative;height:2.3rem}
+.axis .tick{position:absolute;bottom:0;transform:translateX(-50%);font:500 .75rem/1 var(--cond);color:var(--muted);white-space:nowrap;background:var(--paper);padding:.05rem .2rem;z-index:1}
+.axis .flag{position:absolute;top:0;transform:translateX(-50%);font:600 .8125rem/1 var(--cond);color:var(--line);white-space:nowrap}
+.axis::after{content:"";position:absolute;left:var(--x,50%);top:1.05rem;bottom:calc(-.5rem - 1px);border-left:2px solid var(--line);transform:translateX(-1px)}
+.colhead{font-size:.75rem;color:var(--muted)}
+
+/* Rows */
+.board{list-style:none;margin:0;padding:0}
+.row{border-bottom:1px solid var(--rule);padding:1rem 0}
+.row > .grid{align-items:start}
+.tier-above{--c:var(--above)}
+.tier-near{--c:var(--near)}
+.tier-below{--c:var(--below)}
+.company{font:600 1.0625rem/1.25 var(--cond);display:flex;flex-wrap:wrap;align-items:center;gap:.25rem .5rem}
+.tags{display:inline-flex;flex-wrap:wrap;gap:.3rem}
+.tag{font:500 .72rem/1 var(--sans);padding:.22rem .45rem;border-radius:999px;border:1px solid var(--rule);color:var(--muted)}
+.tag-verify{border-color:var(--line);color:var(--line)}
+.tag-mine{border-color:var(--above);color:var(--above)}
+.tag-new{background:var(--ink);border-color:var(--ink);color:var(--paper)}
+.tag-visa{border-color:var(--line);color:var(--line)}
+.visa{font-size:.8125rem;color:var(--muted);margin-top:.15rem}
+.visa b{font-weight:600;color:var(--ink)}
+.visa.v-ask b{color:var(--line)}
+.role{display:block;font-size:1rem;line-height:1.38;margin:.12rem 0 .3rem}
+a.role{text-decoration:none}
+a.role:hover{text-decoration:underline}
+.meta{display:flex;flex-wrap:wrap;gap:.1rem 1.1rem;font-size:.8125rem;color:var(--muted)}
+.more-btn{margin-top:.45rem;font-size:.8125rem;background:none;border:0;padding:0;text-decoration:underline;text-underline-offset:.18em;cursor:pointer}
+.rangecell{position:relative;grid-row:span 2;align-self:stretch;padding-top:.4rem}
+.rangecell::after{content:"";position:absolute;left:var(--x,50%);top:-1rem;bottom:-1rem;border-left:2px solid var(--line);transform:translateX(-1px);z-index:2;pointer-events:none}
+.range{position:relative;height:.7rem}
+.range .fill{position:absolute;top:0;height:100%;border-radius:2px;background:var(--c)}
+.range .mid{position:absolute;top:50%;width:.55rem;height:.55rem;border-radius:50%;background:var(--paper);border:2px solid var(--c);transform:translate(-50%,-50%)}
+.est{display:flex;flex-wrap:wrap;gap:.1rem .8rem;margin-top:.4rem;font:500 .8125rem/1.3 var(--cond);color:var(--muted)}
+.est span{position:relative;z-index:3;background:var(--paper);padding:0 .15rem;margin-left:-.15rem}
+.est .delta{color:var(--c);font-weight:600}
+.mine{display:flex;flex-direction:column;align-items:stretch;gap:.5rem}
+.fitwrap{display:flex;align-items:center;gap:.45rem;font-size:.75rem;color:var(--muted)}
+.fit{width:4.4rem;height:.9rem;flex:none}
+.fit .on{fill:var(--ink)}
+.fit .off{fill:none;stroke:var(--muted);stroke-width:1}
+select.status{font-size:.8125rem;width:100%}
+.more{grid-column:1 / 2;margin-top:.8rem;padding-left:.9rem;border-left:3px solid var(--rule);max-width:44rem}
+.more p{margin:0 0 .6rem}
+.more .caveat strong{font-weight:600}
+.facts{display:flex;flex-wrap:wrap;gap:.2rem 1.2rem;font-size:.8125rem;color:var(--muted)}
+.note-label{display:block;font-size:.8125rem;font-weight:500;margin:.2rem 0 .25rem}
+.more textarea{width:100%;min-height:3.2rem;resize:vertical;font-size:.875rem}
+.row.is-pass .who,.row.is-pass .rangecell .range,.row.is-pass .est{opacity:.5}
+.empty{padding:2rem 0;color:var(--muted)}
+.empty button{margin-left:.4rem}
+
+/* Check a posting */
+.panel{padding:2.25rem 0 1rem;border-top:1px solid var(--rule);margin-top:2.5rem}
+h2{font:600 1.5rem/1.15 var(--cond);margin:0 0 .5rem}
+h3{font:600 1.0625rem/1.25 var(--cond);margin:0 0 .35rem}
+.panel > p{max-width:40em;margin:0 0 1rem;color:var(--muted)}
+.check-form{display:grid;gap:.4rem;max-width:44rem}
+.check-form label{font-size:.875rem;font-weight:500}
+.check-form textarea{min-height:9rem;resize:vertical}
+.actions{display:flex;flex-wrap:wrap;align-items:center;gap:.6rem 1rem;margin-top:.4rem}
+.primary{background:var(--ink);color:var(--paper);border:0;border-radius:6px;padding:.5rem 1rem;font-weight:500;cursor:pointer}
+.primary[disabled]{opacity:.55;cursor:default}
+.ghost{background:none;border:1px solid var(--rule);border-radius:6px;padding:.45rem .9rem;cursor:pointer}
+.msg{font-size:.875rem;color:var(--muted)}
+.result{margin-top:1.2rem;max-width:44rem;padding:1rem 1.1rem;border:1px solid var(--rule);border-left:4px solid var(--c);border-radius:6px}
+.result p{margin:0 0 .55rem}
+.verdict{font:600 1.125rem var(--cond);color:var(--c);margin-right:.75rem}
+.result .delta{font:600 .9375rem var(--cond);color:var(--c)}
+
+/* Screened out */
+details.screened{max-width:52rem}
+details.screened summary{cursor:pointer;font:600 1.25rem/1.2 var(--cond)}
+details.screened summary span{font:400 .9375rem var(--sans);color:var(--muted);margin-left:.4rem}
+.screened ul{margin:1rem 0 0;padding:0;list-style:none}
+.screened li{padding:.65rem 0;border-bottom:1px solid var(--rule)}
+.screened li a{font-weight:500}
+.screened li p{margin:.15rem 0 0;font-size:.875rem;color:var(--muted)}
+
+/* Method */
+.method{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.75rem 2.5rem;padding-bottom:3rem}
+.method p{margin:0 0 .6rem;font-size:.9375rem;line-height:1.6}
+.method ul{margin:0;padding:0 0 0 1.05rem;font-size:.9375rem;line-height:1.6}
+.method li{margin:0 0 .35rem}
+.method .muted{color:var(--muted)}
+
+.toast{position:fixed;left:0;right:0;bottom:0;display:flex;justify-content:center;padding:0 1rem calc(env(safe-area-inset-bottom,0px) + .9rem);pointer-events:none;z-index:20}
+.toast span{background:var(--ink);color:var(--paper);font-size:.875rem;padding:.55rem .9rem;border-radius:6px;pointer-events:auto}
+
+@media (max-width:859px){
+  .grid{grid-template-columns:minmax(0,1fr);row-gap:.55rem}
+  .scale .grid{row-gap:.35rem}
+  .colhead{display:none}
+  .rangecell{grid-row:auto;align-self:auto;padding-top:.25rem}
+  .rangecell::after{top:0;bottom:auto;height:1.35rem}
+  .axis::after{bottom:calc(-.5rem - 1px)}
+  .mine{flex-direction:row;align-items:center;justify-content:space-between;gap:1rem}
+  select.status{width:auto;max-width:12rem}
+  .more{grid-column:1 / -1}
+  .method{grid-template-columns:minmax(0,1fr)}
+  .shown{margin-left:0;flex-basis:100%}
+  .seg{flex-wrap:nowrap;overflow-x:auto;max-width:100%;scrollbar-width:none}
+  .seg button{white-space:nowrap}
+}
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
+</style>
+</head>
+<body>
+<main class="wrap">
+  <header class="intro">
+    <h1>Offer board, fall 2027</h1>
+    <p class="lede">Full-time US roles for a May 2027 PhD, at employers that sponsor work visas, that pay about as much as your Amazon return offer or more. Roles that pay clearly less, sit outside the US, require citizenship or a green card, or sit in quant trading are screened out.</p>
+    <ul class="tally" aria-live="polite">
+      <li class="k-above"><b id="nAbove">0</b>above your line</li>
+      <li class="k-near"><b id="nNear">0</b>near it</li>
+      <li><b id="nBelow">0</b><span id="belowWord">below it, hidden</span></li>
+      <li><b id="nScreened">0</b><button type="button" class="linkish tally-link" id="openScreened">screened out up front</button></li>
+    </ul>
+    <p class="stamp"><span id="stampText"></span> <span id="saveNote"></span></p>
+  </header>
+
+  <section class="controls" aria-label="Filter and sort roles">
+    <div class="seg" role="group" aria-label="Track" id="tracks">
+      <button type="button" data-track="all" aria-pressed="true">All</button>
+      <button type="button" data-track="science" aria-pressed="false">Materials &amp; science AI</button>
+      <button type="button" data-track="llm" aria-pressed="false">LLMs &amp; applied ML</button>
+    </div>
+    <div class="checks" role="group" aria-label="Pay versus your offer">
+      <label><input type="checkbox" data-tier="above" checked> Above</label>
+      <label><input type="checkbox" data-tier="near" checked> Near</label>
+      <label><input type="checkbox" data-tier="below"> Below</label>
+    </div>
+    <label class="field">Sort
+      <select id="sort">
+        <option value="fit">Best fit first</option>
+        <option value="pay">Highest pay first</option>
+        <option value="company">Company A–Z</option>
+      </select>
+    </label>
+    <label class="field">Status
+      <select id="statusFilter">
+        <option value="active">Hide “Not for me”</option>
+        <option value="any">Any status</option>
+        <option value="">Not started</option>
+        <option value="saved">Saved</option>
+        <option value="applied">Applied</option>
+        <option value="interviewing">Interviewing</option>
+        <option value="offer">Offer</option>
+        <option value="pass">Not for me</option>
+      </select>
+    </label>
+    <input type="search" id="q" placeholder="Search company, role, city, skill" aria-label="Search roles">
+    <span class="shown" id="shown" aria-live="polite"></span>
+  </section>
+
+  <section class="chart" aria-label="Roles compared with your offer">
+    <div class="scale">
+      <div class="grid">
+        <div class="offer-ctl">
+          <label for="offer">Your offer line</label>
+          <span class="money">$<input id="offer" type="number" inputmode="numeric" min="100" max="1500" step="5" aria-describedby="offerHint"><span class="unit">K/yr</span></span>
+          <button type="button" class="linkish" id="resetOffer">Use the L5 estimate</button>
+          <span class="colhead" id="offerHint">Type your real number; every verdict updates.</span>
+        </div>
+        <div class="axis" id="axis" aria-hidden="true"></div>
+        <div class="colhead">Fit and your status</div>
+      </div>
+    </div>
+    <ol class="board" id="board"></ol>
+    <p class="empty" id="empty" hidden>No roles match these filters.<button type="button" class="linkish" id="resetFilters">Reset filters</button></p>
+  </section>
+
+  <section class="panel" id="check" hidden aria-labelledby="checkTitle">
+    <h2 id="checkTitle">Check a posting you found</h2>
+    <p>Paste the full text of any posting. Claude estimates year-1 pay at the PhD new-grad level, compares it with your offer line, checks location and visa terms, and rates the fit with your CV. Each check uses your own Claude usage.</p>
+    <div class="check-form">
+      <label for="jd">Posting text</label>
+      <textarea id="jd" placeholder="Paste the description, requirements and pay range if it lists one"></textarea>
+      <label for="jdUrl">Link to the posting (optional)</label>
+      <input id="jdUrl" type="url" placeholder="https://">
+      <div class="actions">
+        <button type="button" class="primary" id="checkBtn">Check posting</button>
+        <button type="button" class="ghost" id="stopBtn" hidden>Stop</button>
+        <span class="msg" id="checkMsg" role="status"></span>
+      </div>
+    </div>
+    <div id="checkResult"></div>
+  </section>
+
+  <section class="panel" aria-label="Screened out">
+    <details class="screened" id="screened">
+      <summary>Screened out, and why<span id="screenedCount"></span></summary>
+      <ul id="screenedList"></ul>
+    </details>
+  </section>
+
+  <section class="panel method" aria-label="How this board works">
+    <div>
+      <h3>How the numbers work</h3>
+      <p>Your offer line starts at <strong><span id="cfgOffer">$300K</span> a year</strong> (set in config.yaml), an estimate for Amazon Applied Scientist II (L5), where PhD new grads usually land. <a href="https://www.levels.fyi/companies/amazon/salaries/applied-scientist" target="_blank" rel="noopener noreferrer">Levels.fyi</a> puts the US L5 average near $308K (base about $166K, stock $108K, bonus $34K), and <a href="https://www.teamblind.com/post/tc-for-amazon-applied-scientist-l5-isihkwyk" target="_blank" rel="noopener noreferrer">Blind posters</a> quote an L5 band of roughly $318K–$419K. Some PhD hires are leveled L4, around $241K–$260K.</p>
+      <p>Each bar estimates year-1 total pay at the PhD new-grad level: the posted base where there is one, plus that employer’s usual bonus and equity. The dot marks the midpoint. <em>Above</em> means the midpoint is at least 10% over your line, <em>near</em> means 85–110%, and anything lower is hidden. Startup equity is counted at paper value, so discount it.</p>
+    </div>
+    <div>
+      <h3>Visa checks</h3>
+      <p>Every role is in the US. Each row shows whether the employer sponsors H-1B visas, based on its public Department of Labor filings or the posting itself. Rows tagged “Ask about visa” have a thin record, so ask before you invest time.</p>
+      <p>Four questions for every recruiter: Will you register me in the March 2027 H-1B lottery, and at what wage level? Are you enrolled in E-Verify, which STEM OPT requires? Do you file O-1 petitions for PhD hires? Would you still file if DHS finalizes its proposed fee on cap-subject H-1B petitions?</p>
+    </div>
+    <div>
+      <h3>Where these came from</h3>
+      <ul>
+        <li>Applicant-tracking APIs (Greenhouse, Lever, Ashby, Workday) for the companies listed in config.yaml.</li>
+        <li>Google’s careers search and NVIDIA’s Workday search.</li>
+        <li>The speedyapply and Simplify new-grad trackers on GitHub.</li>
+        <li>Claude web searches on a rotating set of queries.</li>
+        <li>Pay data: posted ranges, Levels.fyi and Blind. Visa data: Department of Labor H-1B filings.</li>
+      </ul>
+    </div>
+    <div>
+      <h3>Keeping it current</h3>
+      <p>A GitHub Action runs twice a day. It polls company job boards and the GitHub new-grad trackers, runs Claude web searches, screens every new posting against your offer line, location and visa needs, re-checks each link and drops closed roles. New roles also arrive as a GitHub issue, so you get an email.</p>
+      <p class="muted">Statuses and notes you set here save in this browser. Edit config.yaml to change the offer line, filters, companies or search queries.</p>
+    </div>
+  </section>
+</main>
+<div class="toast" id="toast" hidden><span id="toastText"></span></div>
+
+<script>window.BOARD_DATA = {"meta": {"refreshed": "2026-10-25", "refreshed_label": "Oct 25, 2026", "new_since": "2026-10-22", "offer_k": 300, "candidate": "PhD candidate in Materials Science & Engineering at Carnegie Mellon, graduating May 2027 (GPA 3.98). Research: ML for materials discovery; lead developer of GAtor 2.0, an open-source ML-accelerated crystal structure prediction engine (UMA, MACE and AIMNet2 ML interatomic potentials; evolutionary search scaled to hundreds of processes on Slurm/MPI clusters; PXRD matching with experimental partners). 2026 Amazon Applied Scientist intern: built a cost-aware LLM router across four models for product-policy classification (220K production cases), XGBoost and cross-attention transformer quality estimators with temperature-scaling calibration, LLM-vs-human label-disagreement diagnosis and prompt improvements. Projects: RAG-based LLM recommendation agent; BERT + PPO poker agent (best poster award). Strong Python, PyTorch, Hugging Face, distributed computing."}, "jobs": [{"id": "bytedance-qchem", "company": "ByteDance Seed", "track": "science", "role": "Research Scientist, Quantum Chemistry (Global Frontier Tech Program, 2027 start, PhD)", "location": "San Jose, CA", "base": "Base $218K–$480K, plus bonus and RSUs", "est": [300, 450], "fit": 5, "why": "Seed’s AI for Science team works on ML force fields, ML molecular dynamics and enhanced sampling for drug and materials discovery. That is the stack under GAtor 2.0 and your UMA, MACE and AIMNet2 work.", "caveat": "The band is very wide, so leveling decides the number. You must be able to start by the end of 2027. ByteDance and TikTok let you apply to at most two positions company-wide, so choose your two.", "posted": "Open now (2027-start req)", "source": "ByteDance careers", "url": "https://joinbytedance.com/search/7632426574734035253", "visa": ["yes", "ByteDance’s US entities file H-1B petitions every year (public Department of Labor data)."]}, {"id": "bytedance-infra", "company": "ByteDance Seed", "track": "llm", "role": "Research Engineer Graduate, Seed Model AI Foundation Model Infrastructure (2027 start, PhD)", "location": "Seattle, WA", "base": "Base $232.6K–$427.5K, plus bonus and RSUs", "est": [300, 420], "fit": 3, "why": "Distributed training, RL frameworks and high-performance inference for Seed’s foundation models. Scaling GAtor’s search to hundreds of MPI processes on Slurm clusters is your proof point.", "caveat": "Expect systems-heavy interviews. It counts toward the same two-application cap as every ByteDance and TikTok role.", "posted": "Spring 2026, still taking applications", "source": "TCV portfolio job board", "url": "https://portfoliojobs.tcv.com/companies/bytedance/jobs/72958826-research-scientist-graduate-seed-ai-foundation-model-infrastructure-2027-start-phd", "visa": ["yes", "ByteDance’s US entities file H-1B petitions every year (public Department of Labor data)."]}, {"id": "tiktok-tns", "company": "TikTok", "track": "llm", "role": "Machine Learning Scientist Graduate, Trust and Safety (2027 start, PhD)", "location": "Seattle, WA", "base": "Base $153.9K–$301K, plus bonus and RSUs", "est": [255, 330], "fit": 4, "why": "Content-understanding models, multimodal classifiers and LLMs that catch policy violations at scale. Your Amazon product–policy router, label-disagreement analysis and SOP-driven prompt fixes are the same problem.", "caveat": "Trust and safety work can mean daily exposure to disturbing content, which TikTok states up front. It uses one of your two ByteDance/TikTok applications.", "posted": "About Aug 2026", "source": "TikTok careers", "url": "https://lifeattiktok.com/search/7665985896410368261", "visa": ["yes", "TikTok’s US hiring now runs through the USDS joint venture or TT Commerce. The joint venture filed 315 H-1B labor applications in 2025; confirm which entity would hire you."]}, {"id": "google-swe-ml-phd", "company": "Google", "track": "llm", "role": "Software Engineer, AI/Machine Learning, PhD, Early Career (2027 start)", "location": "Sunnyvale, Seattle, Kirkland, New York and 6 more", "base": "Base $147K–$210K, plus 15% target bonus and equity", "est": [240, 310], "fit": 3, "why": "Google’s main pipeline for PhD ML hires. Team matching comes after the hiring committee, so you can steer toward Cloud AI, Gemini evaluation or science teams.", "caveat": "L4 is typical for PhD hires; use the Amazon offer to argue for L5.", "posted": "Aug 2026", "source": "Google careers", "url": "https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer", "visa": ["yes", "Google is one of the largest H-1B sponsors in the US."]}, {"id": "deepmind-materials-re", "company": "Google DeepMind", "track": "science", "role": "Research Engineer, Materials Science", "location": "Mountain View, CA", "base": "Base $141K–$202K, plus bonus and equity", "est": [230, 320], "fit": 5, "why": "Builds the experiment infrastructure and applies LLMs, LLM agents and ML force fields to materials problems. LLMs plus materials plus infrastructure is exactly your profile.", "caveat": "The application asks you to describe an ML-for-materials project, its scale, and how you evaluated it. GAtor 2.0 with UMA is a ready answer.", "posted": "May 2026, still taking applications", "source": "DeepMind’s Greenhouse board", "url": "https://job-boards.greenhouse.io/deepmind/jobs/7339890", "visa": ["yes", "Hired through Google, one of the largest H-1B sponsors in the US."]}, {"id": "meta-rs-ml", "company": "Meta", "track": "llm", "role": "Research Scientist, Machine Learning (PhD), university grad", "location": "Sunnyvale, CA and 7 more", "base": "Meta posts base only, up to about $181K on recent listings, plus bonus and equity", "est": [250, 320], "fit": 3, "why": "Meta’s standing PhD-grad research req feeds applied ML teams such as ranking, integrity and GenAI, which sit close to your Amazon work.", "caveat": "Meta’s posted base understates total pay because equity is a large share.", "posted": "Listed on Meta’s Students & Grads page", "source": "Meta careers", "url": "https://www.metacareers.com/students-and-grads", "visa": ["yes", "Meta is one of the largest H-1B sponsors in the US."]}, {"id": "meta-fair-chem-re", "company": "Meta FAIR", "track": "science", "role": "Research Engineer, AI for Chemistry", "location": "Seattle, WA", "base": "Base up to $208K, plus bonus and equity", "est": [250, 340], "fit": 5, "why": "FAIR Chemistry builds UMA, the potential that powers GAtor 2.0. This role leads ab initio simulation, data generation and ML modeling for display materials with Reality Labs Research, and asks for ML, GNN and DFT experience.", "caveat": "Asks for 1+ year of industry experience, so lean on your Amazon internship and GAtor ownership. FAIR Chemistry’s manager, Zack Ulissi, is an adjunct in CMU ChemE, so a warm intro through your department is realistic.", "posted": "Live on Meta’s site", "source": "Meta careers", "url": "https://metacareers.com/v2/jobs/3846804338907958", "visa": ["yes", "Meta is one of the largest H-1B sponsors in the US."]}, {"id": "nvidia-genai-ncg", "company": "NVIDIA", "track": "science", "role": "Research Scientist, Fundamental Generative AI (new college grad)", "location": "Santa Clara, CA", "base": "Base $168K–$264.5K, plus equity", "est": [270, 360], "fit": 3, "why": "NVIDIA Research’s generative AI team explicitly covers GenAI for science, including generative models for chemistry and materials data. Generative crystal structure prediction is a credible angle from GAtor.", "caveat": "A research-scientist bar: they want an outstanding publication record, ideally at ML venues. It carries the 2026 new-grad label, so ask about a mid-2027 start.", "posted": "Sep 30, 2026", "source": "AnitaB.org board (NVIDIA Workday)", "url": "https://jobs.anitab.org/companies/nvidia/jobs/95232560-research-scientist-fundamental-generative-ai-new-college-grad-2026", "visa": ["yes", "NVIDIA files H-1B petitions every year (public Department of Labor data)."], "added": "2026-10-25"}, {"id": "periodic-materials-data", "company": "Periodic Labs", "track": "science", "role": "Research Scientist / Research Engineer, Materials Data", "location": "Menlo Park, CA", "base": "Base $250K–$350K, plus equity", "est": [280, 420], "fit": 5, "why": "Half research with lab and computational scientists, half fixing the data their LLM agents depend on: reading agent traces, finding failure modes and turning them into evaluations. Your LLM–human label-disagreement work at Amazon plus materials depth is close to a perfect match.", "caveat": "Asks for 4+ years of research or industry experience in materials science; your PhD research years should count, so say so explicitly. Early-stage equity is illiquid.", "posted": "Sep 1, 2026", "source": "a16z portfolio job board", "url": "https://jobs.a16z.com/jobs/periodic-labs/research-scientist-research-engineer-materials-data--ats-mn7ddw8dg6yjkd5er8t6hxq99x8e6krx", "visa": ["stated", "Periodic’s postings say it sponsors visas."]}, {"id": "periodic-midtraining", "company": "Periodic Labs", "track": "llm", "role": "Research Scientist / Research Engineer, Midtraining", "location": "Menlo Park, CA", "base": "Base $250K–$350K, plus equity", "est": [280, 420], "fit": 3, "why": "Midtraining LLMs on scientific data. Fine-tuning experience plus real materials knowledge is a rare combination for this team.", "caveat": "Expect large-scale training questions; your experience is fine-tuning rather than pretraining.", "posted": "About Sep 30, 2026", "source": "a16z portfolio job board", "url": "https://jobs.a16z.com/jobs/periodic-labs/research-scientist-research-engineer-midtraining--ats-mn783xrp2jmjq4cp3mdjvsjbp98fc7j7", "visa": ["stated", "Periodic’s postings say it sponsors visas."]}, {"id": "lila-ccmp", "company": "Lila Sciences", "track": "science", "role": "Research Scientist, Computational Condensed Matter Physics", "location": "Cambridge, MA", "base": "Base $176K–$304K, plus bonus and equity", "est": [220, 330], "fit": 4, "why": "First-principles modeling, atomistic simulation, scientific ML and agentic AI inside an autonomous-lab company.", "caveat": "The focus is quantum and electronic materials rather than molecular crystals.", "posted": "Jul 29, 2026", "source": "General Catalyst portfolio job board", "url": "https://jobs.generalcatalyst.com/companies/lila-sciences-2/jobs/87897567-research-scientist-computational-condensed-matter-physics", "visa": ["yes", "Lila filed 22 H-1B labor applications in 2026, but no green-card filings are on record yet."]}, {"id": "radical-gnn", "company": "Radical AI", "track": "science", "role": "AI Research Scientist, GNN / Foundation Models", "location": "New York, NY", "base": "Base listed as $100K–$300K, plus equity", "est": [210, 320], "fit": 5, "why": "Building a universal ML interatomic potential that drives a self-driving materials lab. MLIPs, DFT data and HPC training are the core of your CV.", "caveat": "Hiring at senior, staff and principal levels and asks for 3+ years of AI research, so expect leveling questions. A small company, so equity carries a lot of the pay.", "posted": "Live on Radical’s Lever board", "source": "Radical AI on Lever", "url": "https://jobs.lever.co/RadicalAI/025709b9-d365-4909-aecb-aba5669703da", "visa": ["ask", "Only two H-1B transfers are on record and no new lottery cases, so ask before you invest time."]}], "screened": [{"date": "2026-10-25", "name": "Quant and trading roles (Jane Street, Citadel, Citadel Securities, SIG, Hudson River Trading)", "reason": "Left off the board by request.", "url": "https://www.tradermath.org/salaries/quant-researcher"}, {"date": "2026-10-25", "name": "Meta FAIR, AI Research Scientist, FAIR Chemistry (New York)", "reason": "Closed: the posting stopped accepting applications.", "url": "https://jobs.accel.com/companies/facebook-2-07d2eb1b-d3ad-4084-93df-74a124ac9233/jobs/86456920-ai-research-scientist-fair-chemistry"}, {"date": "2026-10-25", "name": "Lila Sciences, ML Research Scientist I/II, Multimodal Data Extraction", "reason": "Closed: no longer accepting applications.", "url": "https://startup.jobs/ml-research-scientist-i-ii-multimodal-data-extraction-lila-sciences-7844988"}, {"date": "2026-10-25", "name": "NVIDIA, AI Scientist, Agentic AI for Science (new grad)", "reason": "Couldn’t confirm it’s still open: applications were only guaranteed until Feb 14, 2026, and its senior sibling has closed.", "url": "https://inferencejobs.com/companies/nvidia/jobs/ai-scientist-agentic-ai-for-science-phd-new-college-grad-2026"}, {"date": "2026-10-25", "name": "Periodic Labs, Research Scientist, Condensed Matter Theory", "reason": "Couldn’t confirm it on Periodic’s own board, and it wants a condensed-matter theory PhD.", "url": "https://www.startuphub.ai/jobs/periodic-labs/research-scientist-condensed-matter-theory-db3a63"}, {"date": "2026-10-25", "name": "TikTok, LLM Post-Training Engineer Graduate (2027 start)", "reason": "Still open, but it’s a master’s-level req, so it would likely be leveled below an L5 PhD offer.", "url": "https://lifeattiktok.com/search/7673672141012093189"}, {"date": "2026-10-25", "name": "TikTok, Business Integrity research scientist and E-commerce LLM/agent engineer (2027 start, PhD)", "reason": "Couldn’t confirm them on TikTok’s own site. With the two-application cap, the confirmed ByteDance and TikTok roles above are better uses of your slots.", "url": "https://www.themuse.com/jobs/tiktok/research-scientist-graduate-business-integrity-2027-start-phd"}, {"date": "2026-10-25", "name": "Microsoft, Applied Scientist II (AI Development Acceleration Program)", "reason": "Posted base $100.6K–$199K. Microsoft’s new-grad applied-scientist packages typically land well under an Amazon L5 package.", "url": "https://jobs.anitab.org/companies/microsoft/jobs/56602222-applied-scientist-ii-microsoft-ai-development-acceleration-program-redmond"}, {"date": "2026-10-25", "name": "Microsoft Research AI for Science, materials roles (MatterGen and MatterSim team)", "reason": "Outside the US (Cambridge, UK and Berlin), and UK and EU pay converts to well below a Seattle offer.", "url": "https://jobs.anitab.org/companies/microsoft/jobs/81414595-ai-for-science-residency-machine-learning-resident"}, {"date": "2026-10-25", "name": "Google DeepMind, London materials roles (Material Intelligence; Semiconductor Materials)", "reason": "Outside the US (London), and the semiconductor role asks for 2+ years leading a research agenda.", "url": "https://job-boards.greenhouse.io/deepmind/jobs/7353237"}, {"date": "2026-10-25", "name": "Periodic Labs, Multiphysics Simulation Scientist and Forward Deployed Engineer (Physics & Simulation)", "reason": "Base $160K–$220K and $180K–$250K.", "url": "https://www.inferencejobs.com/companies/periodic-labs"}, {"date": "2026-10-25", "name": "Lila Sciences, Scientist II and Computational Scientist I/II roles", "reason": "Base roughly $118K–$198K.", "url": "https://startup.jobs/computational-scientist-i-ii-soft-matter-formulations-solids-and-melts-lila-sciences-8807717"}, {"date": "2026-10-25", "name": "Argonne National Laboratory, AI and autonomous-lab materials scientist", "reason": "Base $116K–$181K.", "url": "https://www.careercircle.com/jobs/all/all/usa/il/lemont/fcaef6f9-4a20-4973-8e36-611a2a297001"}, {"date": "2026-10-25", "name": "OpenAI Residency", "reason": "$18.3K a month for a six-month program, and the 2026 cycle is closed. Worth it only as a pivot into frontier-lab research.", "url": "https://openai.com/residency"}, {"date": "2026-10-25", "name": "NVIDIA ALCHEMI senior roles (chemistry and materials software)", "reason": "Pay is fine, but they ask for 5–8+ years of experience. Revisit after a couple of years in industry.", "url": "https://inferencejobs.com/companies/nvidia/jobs/senior-machine-learning-engineer-chemistry-and-materials-science"}]};</script>
+<script>
+(function () {
+  "use strict";
+
+  var DATA = window.BOARD_DATA || { meta: {}, jobs: [], screened: [] };
+  var META = DATA.meta || {};
+  var BOARD = {
+    refreshed: META.refreshed || "", refreshedLabel: META.refreshed_label || META.refreshed || "",
+    newSince: META.new_since || "9999-12-31", defaultOfferK: Number(META.offer_k) || 300
+  };
+
+  var TRACKS = { science: "Materials & science AI", llm: "LLMs & applied ML" };
+
+  var STATUSES = [["", "Not started"], ["saved", "Saved"], ["applied", "Applied"], ["interviewing", "Interviewing"], ["offer", "Offer"], ["pass", "Not for me"]];
+
+  var JOBS = DATA.jobs || [];
+  var SCREENED = DATA.screened || [];
+  var VISA_TEXT = { yes: "sponsors", stated: "says it sponsors", ask: "ask first" };
+  var CANDIDATE = META.candidate || "";
+
+  /* ---------- state ---------- */
+  var state = { track: "all", tiers: { above: true, near: true, below: false }, sort: "fit", status: "active", q: "", expanded: {} };
+  var store = { mode: "none", offerK: null, statuses: {}, notes: {}, custom: {} };
+  var dbCol = null;
+  var writeChains = {};
+  var noteTimers = {};
+  var dirtyNotes = {};
+  var LS_KEY = "offer-board:v1";
+
+  /* ---------- helpers ---------- */
+  function $(sel) { return document.querySelector(sel); }
+  function el(tag, attrs) {
+    var n = document.createElement(tag);
+    if (attrs) {
+      Object.keys(attrs).forEach(function (k) {
+        var v = attrs[k];
+        if (v === null || v === undefined || v === false) return;
+        if (k === "class") n.className = v; else n.setAttribute(k, v === true ? "" : String(v));
+      });
+    }
+    for (var i = 2; i < arguments.length; i++) {
+      var kid = arguments[i];
+      if (kid === null || kid === undefined || kid === false) continue;
+      n.append(kid.nodeType ? kid : document.createTextNode(String(kid)));
+    }
+    return n;
+  }
+  function fmtK(k) { return "$" + Math.round(k) + "K"; }
+  function offerK() { var b = Number(store.offerK); return (store.offerK !== null && b >= 50 && b <= 2000) ? b : BOARD.defaultOfferK; }
+  function midOf(j) { return (j.est[0] + j.est[1]) / 2; }
+  function sortFit(j) { return j.fit - (j.stretch ? 1 : 0); }
+  function visaOf(j) { return (j.visa && j.visa.length === 2) ? j.visa : ["ask", "No sponsorship record found yet; ask the recruiter."]; }
+  function visaFromSponsorship(sp) { return sp === "yes" ? ["stated", "The posting says it sponsors, per your check."] : ["ask", "The posting didn’t say; ask the recruiter."]; }
+  function tierOf(j) { var r = midOf(j) / offerK(); return r >= 1.10 ? "above" : (r >= 0.85 ? "near" : "below"); }
+  function deltaPct(j) { return Math.round((midOf(j) / offerK() - 1) * 100); }
+  function deltaLabel(j) { var d = deltaPct(j); return d === 0 ? "even with your offer" : (d > 0 ? "+" : "\u2212") + Math.abs(d) + "% vs offer"; }
+  function deltaWords(j) { var d = deltaPct(j); return d === 0 ? "about even with your offer" : "about " + Math.abs(d) + " percent " + (d > 0 ? "above" : "below") + " your offer"; }
+  function clamp(v, a, b) { return Math.max(a, Math.min(b, v)); }
+  function todayISO() { var d = new Date(); return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0"); }
+  function safeUrl(u) { return (typeof u === "string" && u.length < 600 && /^https?:\/\/\S+$/i.test(u)) ? u : ""; }
+  function allJobs() { return JOBS.concat(Object.keys(store.custom).map(function (k) { return store.custom[k]; })); }
+  function domainFor(list) {
+    var lo = 150, hi = 600, b = offerK();
+    list.forEach(function (j) { lo = Math.min(lo, Math.floor(j.est[0] / 50) * 50); hi = Math.max(hi, Math.ceil(j.est[1] / 50) * 50); });
+    lo = Math.max(0, Math.min(lo, Math.floor(b * 0.75 / 50) * 50));
+    hi = Math.max(hi, Math.ceil(b * 1.25 / 50) * 50);
+    return [lo, hi];
+  }
+  function pct(v, dom) { return clamp((v - dom[0]) / (dom[1] - dom[0]) * 100, 0, 100); }
+
+  var SVGNS = "http://www.w3.org/2000/svg";
+  function fitHex(n) {
+    var svg = document.createElementNS(SVGNS, "svg");
+    svg.setAttribute("viewBox", "0 0 70 14");
+    svg.setAttribute("class", "fit");
+    svg.setAttribute("role", "img");
+    svg.setAttribute("aria-label", "Fit " + n + " of 5");
+    for (var i = 0; i < 5; i++) {
+      var cx = 7 + i * 14, pts = [];
+      for (var k = 0; k < 6; k++) {
+        var a = (-90 + 60 * k) * Math.PI / 180;
+        pts.push((cx + 5.6 * Math.cos(a)).toFixed(2) + "," + (7 + 5.6 * Math.sin(a)).toFixed(2));
+      }
+      var p = document.createElementNS(SVGNS, "polygon");
+      p.setAttribute("points", pts.join(" "));
+      p.setAttribute("class", i < n ? "on" : "off");
+      svg.appendChild(p);
+    }
+    return svg;
+  }
+
+  var toastTimer = null;
+  function toast(msg) {
+    $("#toastText").textContent = msg;
+    $("#toast").hidden = false;
+    clearTimeout(toastTimer);
+    toastTimer = setTimeout(function () { $("#toast").hidden = true; }, 3200);
+  }
+
+  /* ---------- persistence ---------- */
+  function cleanResult(r) {
+    if (!r || typeof r !== "object") return null;
+    function s(v, n) { return (typeof v === "string" ? v : "").trim().slice(0, n); }
+    var lo = Number(r.estLowK), hi = Number(r.estHighK);
+    if (!isFinite(lo) || !isFinite(hi) || lo <= 0 || hi <= 0) return null;
+    if (lo > hi) { var t = lo; lo = hi; hi = t; }
+    lo = clamp(lo, 30, 3000); hi = clamp(hi, 30, 3000);
+    var fit = Math.round(Number(r.fit));
+    if (!(fit >= 1 && fit <= 5)) fit = 3;
+    var track = ["science", "llm"].indexOf(r.track) >= 0 ? r.track : "llm";
+    return {
+      company: s(r.company, 120) || "Unknown company", role: s(r.role, 200) || "Untitled role",
+      location: s(r.location, 120) || "Location not stated", postedPay: s(r.postedPay, 160) || "Not listed",
+      est: [Math.round(lo), Math.round(hi)], fit: fit, track: track, why: s(r.why, 600), caveat: s(r.caveats, 400),
+      sponsorship: ["yes", "no", "unclear"].indexOf(r.sponsorship) >= 0 ? r.sponsorship : "unclear",
+      restricted: r.restricted === true, inUS: r.inUS !== false, quant: r.quant === true
+    };
+  }
+  function sanitizeCustom(j, id) {
+    if (!j || typeof j !== "object" || !/^c_[a-z0-9]+$/.test(id)) return null;
+    var c = cleanResult({ company: j.company, role: j.role, location: j.location, postedPay: j.base, estLowK: j.est && j.est[0], estHighK: j.est && j.est[1], fit: j.fit, track: j.track, why: j.why, caveats: j.caveat, sponsorship: j.sponsorship });
+    if (!c) return null;
+    return {
+      id: id, company: c.company, role: c.role, location: c.location, base: c.postedPay, est: c.est, fit: c.fit, track: c.track,
+      why: c.why || "Added from a posting you checked.", caveat: c.caveat, url: safeUrl(j.url), posted: "",
+      source: "Checked by you", custom: true, added: typeof j.added === "string" ? j.added.slice(0, 10) : "",
+      sponsorship: c.sponsorship, visa: visaFromSponsorship(c.sponsorship)
+    };
+  }
+  function customBody(j) {
+    return { job: { company: j.company, role: j.role, location: j.location, base: j.base, est: j.est, fit: j.fit, track: j.track, why: j.why, caveat: j.caveat, url: j.url || "", added: j.added || "", sponsorship: j.sponsorship || "unclear" } };
+  }
+
+  function initLocal() {
+    try {
+      var k = "__offer_board_probe";
+      localStorage.setItem(k, "1");
+      localStorage.removeItem(k);
+      store.mode = "local";
+    } catch (e) { store.mode = "none"; return; }
+    try {
+      var raw = localStorage.getItem(LS_KEY);
+      if (!raw) return;
+      var d = JSON.parse(raw) || {};
+      store.offerK = typeof d.offerK === "number" ? d.offerK : null;
+      store.statuses = d.statuses && typeof d.statuses === "object" ? d.statuses : {};
+      store.notes = d.notes && typeof d.notes === "object" ? d.notes : {};
+      store.custom = {};
+      Object.keys(d.custom || {}).forEach(function (id) { var c = sanitizeCustom(d.custom[id], id); if (c) store.custom[id] = c; });
+    } catch (e) { /* start fresh */ }
+  }
+  function saveLocal() {
+    if (store.mode !== "local") return;
+    try {
+      var custom = {};
+      Object.keys(store.custom).forEach(function (id) { custom[id] = customBody(store.custom[id]).job; });
+      localStorage.setItem(LS_KEY, JSON.stringify({ offerK: store.offerK, statuses: store.statuses, notes: store.notes, custom: custom }));
+    } catch (e) { store.mode = "none"; updateSaveNote(); }
+  }
+  function persist(docId, body) {
+    if (store.mode === "db" && dbCol) {
+      var ref = dbCol.doc(docId);
+      writeChains[docId] = (writeChains[docId] || Promise.resolve())
+        .then(function () { return ref.set(body); })
+        .catch(function (err) { console.warn("save failed", err); toast("Couldn’t save that change. Check your connection and try again."); });
+      return;
+    }
+    saveLocal();
+  }
+  function removeDoc(docId) {
+    if (store.mode === "db" && dbCol) {
+      var ref = dbCol.doc(docId);
+      writeChains[docId] = (writeChains[docId] || Promise.resolve())
+        .then(function () { return ref.delete(); })
+        .catch(function (err) { console.warn("delete failed", err); toast("Couldn’t remove that. Try again."); });
+      return;
+    }
+    saveLocal();
+  }
+  function persistTracker(id) { persist("t_" + id, { status: store.statuses[id] || "", note: store.notes[id] || "" }); }
+
+  function updateSaveNote() {
+    var t = store.mode === "db" ? "Statuses, notes and your offer number save privately to your Claude account."
+      : store.mode === "local" ? "Statuses, notes and your offer number save in this browser only."
+      : "Statuses and notes won’t be saved on this device.";
+    $("#saveNote").textContent = t;
+  }
+
+  function signature(s) {
+    var st = Object.keys(s.statuses).sort().map(function (k) { return k + ":" + s.statuses[k]; }).join("|");
+    return [s.offerK, st, Object.keys(s.custom).sort().join(",")].join("#");
+  }
+  function applyRemote(next) {
+    var before = signature(store);
+    store.offerK = next.offerK;
+    store.statuses = next.statuses;
+    store.custom = next.custom;
+    Object.keys(next.notes).forEach(function (k) { if (!dirtyNotes[k]) store.notes[k] = next.notes[k]; });
+    syncOfferInput();
+    if (signature(store) !== before) render(); else syncNotes();
+  }
+  function syncNotes() {
+    var tas = document.querySelectorAll("textarea[data-note]");
+    for (var i = 0; i < tas.length; i++) {
+      var ta = tas[i], id = ta.getAttribute("data-note");
+      if (document.activeElement !== ta && !dirtyNotes[id]) ta.value = store.notes[id] || "";
+    }
+  }
+
+  function connect() {
+    var c = window.claude;
+    if (!c || typeof c.use !== "function") return;
+    Promise.all([c.use("db"), c.use("user")]).then(function (caps) {
+      var db = caps[0], user = caps[1];
+      if (!db || !user) return null;
+      return user.id().then(function (uid) {
+        if (!uid) return;
+        var col;
+        try { col = db.collection("data/users/" + uid); } catch (e) { return; }
+        var first = true;
+        col.onSnapshot(function (snap) {
+          var next = { offerK: null, statuses: {}, notes: {}, custom: {} };
+          snap.docs.forEach(function (d) {
+            var data = d.data() || {};
+            if (d.id === "settings") {
+              next.offerK = typeof data.offerK === "number" ? data.offerK : null;
+            } else if (d.id.indexOf("t_") === 0) {
+              var jid = d.id.slice(2);
+              next.statuses[jid] = typeof data.status === "string" ? data.status : "";
+              next.notes[jid] = typeof data.note === "string" ? data.note.slice(0, 2000) : "";
+            } else if (d.id.indexOf("c_") === 0) {
+              var cj = sanitizeCustom(data.job, d.id);
+              if (cj) next.custom[d.id] = cj;
+            }
+          });
+          if (first) {
+            first = false;
+            dbCol = col;
+            store.mode = "db";
+            updateSaveNote();
+          }
+          applyRemote(next);
+        }, function (err) {
+          console.warn("db subscription ended", err);
+          if (dbCol) {
+            dbCol = null;
+            initLocal();
+            updateSaveNote();
+            render();
+            toast("Lost the connection to your saved data. Changes now save in this browser.");
+          }
+        });
+      });
+    }).catch(function (e) { console.warn("capabilities unavailable", e); });
+  }
+
+  /* ---------- actions ---------- */
+  function setStatus(id, v) {
+    store.statuses[id] = v;
+    persistTracker(id);
+    render();
+    var row = document.querySelector('.row[data-id="' + id + '"] select.status');
+    if (row) row.focus();
+  }
+  function queueNote(id, v) {
+    store.notes[id] = v.slice(0, 2000);
+    dirtyNotes[id] = true;
+    clearTimeout(noteTimers[id]);
+    noteTimers[id] = setTimeout(function () { flushNote(id); }, 900);
+  }
+  function flushNote(id) {
+    if (!dirtyNotes[id]) return;
+    clearTimeout(noteTimers[id]);
+    delete dirtyNotes[id];
+    persistTracker(id);
+  }
+  function addCustom(base, url) {
+    var id = "c_" + Date.now().toString(36);
+    var job = {
+      id: id, company: base.company, role: base.role, location: base.location, base: base.base, est: base.est, fit: base.fit,
+      track: base.track, why: base.why || "Added from a posting you checked.", caveat: base.caveat, url: safeUrl(url),
+      posted: "", source: "Checked by you", custom: true, added: todayISO(),
+      sponsorship: base.sponsorship || "unclear", visa: visaFromSponsorship(base.sponsorship)
+    };
+    store.custom[id] = job;
+    persist(id, customBody(job));
+    render();
+    toast("Added to your board.");
+  }
+  function removeCustom(id) {
+    delete store.custom[id];
+    delete store.statuses[id];
+    delete store.notes[id];
+    delete state.expanded[id];
+    removeDoc(id);
+    removeDoc("t_" + id);
+    render();
+    toast("Removed from your board.");
+  }
+
+  /* ---------- rendering ---------- */
+  function visibleJobs() {
+    var q = state.q.trim().toLowerCase();
+    var list = allJobs().filter(function (j) {
+      if (state.track !== "all" && j.track !== state.track) return false;
+      if (!state.tiers[tierOf(j)]) return false;
+      var st = store.statuses[j.id] || "";
+      if (state.status === "active" && st === "pass") return false;
+      if (state.status !== "active" && state.status !== "any" && st !== state.status) return false;
+      if (q) {
+        var hay = [j.company, j.role, j.location, j.why, j.caveat, TRACKS[j.track] || ""].join(" ").toLowerCase();
+        if (hay.indexOf(q) < 0) return false;
+      }
+      return true;
+    });
+    if (state.sort === "pay") list.sort(function (a, b) { return midOf(b) - midOf(a); });
+    else if (state.sort === "company") list.sort(function (a, b) { return a.company.localeCompare(b.company) || a.role.localeCompare(b.role); });
+    else list.sort(function (a, b) { return (sortFit(b) - sortFit(a)) || (midOf(b) - midOf(a)); });
+    return list;
+  }
+
+  function renderAxis(dom, x) {
+    var axis = $("#axis");
+    axis.textContent = "";
+    axis.style.setProperty("--x", x + "%");
+    var span = dom[1] - dom[0], step = span > 700 ? 200 : 100;
+    for (var v = Math.floor(dom[0] / step) * step + step; v < dom[1]; v += step) {
+      var t = el("span", { class: "tick" }, "$" + v + "K");
+      t.style.left = pct(v, dom) + "%";
+      axis.appendChild(t);
+    }
+    var flag = el("span", { class: "flag" }, "Your offer " + fmtK(offerK()));
+    flag.style.left = clamp(x, 9, 91) + "%";
+    axis.appendChild(flag);
+  }
+
+  function renderTally(all) {
+    var a = 0, n = 0, b = 0;
+    all.forEach(function (j) { var t = tierOf(j); if (t === "above") a++; else if (t === "near") n++; else b++; });
+    $("#nAbove").textContent = a;
+    $("#nNear").textContent = n;
+    $("#nBelow").textContent = b;
+    $("#nScreened").textContent = SCREENED.length;
+    $("#belowWord").textContent = state.tiers.below ? "below it, shown" : "below it, hidden";
+  }
+
+  function rowFor(j, dom, x) {
+    var t = tierOf(j), st = store.statuses[j.id] || "";
+    var li = el("li", { class: "row tier-" + t + (st === "pass" ? " is-pass" : ""), "data-id": j.id });
+    var grid = el("div", { class: "grid" });
+
+    var tags = el("span", { class: "tags" });
+    if (j.stretch) tags.appendChild(el("span", { class: "tag" }, "Stretch"));
+    if (j.verify) tags.appendChild(el("span", { class: "tag tag-verify" }, "Check it’s open"));
+    if (j.custom) tags.appendChild(el("span", { class: "tag tag-mine" }, "Added by you"));
+    var visa = visaOf(j);
+    if (visa[0] === "ask") tags.appendChild(el("span", { class: "tag tag-visa" }, "Ask about visa"));
+    if (j.added && j.added >= BOARD.newSince) tags.appendChild(el("span", { class: "tag tag-new" }, "New"));
+    if (j.stale) tags.appendChild(el("span", { class: "tag tag-verify" }, "Not confirmed open lately"));
+
+    var roleNode = j.url
+      ? el("a", { class: "role", href: j.url, target: "_blank", rel: "noopener noreferrer" }, j.role)
+      : el("span", { class: "role" }, j.role);
+    var moreId = "more-" + j.id;
+    var open = !!state.expanded[j.id];
+    var btn = el("button", { class: "more-btn", type: "button", "aria-expanded": open ? "true" : "false", "aria-controls": moreId }, open ? "Hide details" : "Why it fits");
+    var who = el("div", { class: "who" },
+      el("div", { class: "company" }, el("span", null, j.company), tags.childNodes.length ? tags : null),
+      roleNode,
+      el("div", { class: "meta" }, el("span", null, j.location), el("span", null, j.base)),
+      el("div", { class: "visa v-" + visa[0] }, "H-1B: ", el("b", null, VISA_TEXT[visa[0]] || "ask first")),
+      btn);
+
+    var lo = pct(j.est[0], dom), hi = pct(j.est[1], dom);
+    var fill = el("span", { class: "fill" });
+    fill.style.left = lo + "%";
+    fill.style.width = Math.max(1, hi - lo) + "%";
+    var mid = el("span", { class: "mid" });
+    mid.style.left = ((lo + hi) / 2) + "%";
+    var rangeCell = el("div", { class: "rangecell" },
+      el("div", { class: "range", role: "img", "aria-label": "Estimated " + fmtK(j.est[0]) + " to " + fmtK(j.est[1]) + " a year, " + deltaWords(j) }, fill, mid),
+      el("div", { class: "est" }, el("span", null, "est. " + fmtK(j.est[0]) + "–" + fmtK(j.est[1])), el("span", { class: "delta" }, deltaLabel(j))));
+    rangeCell.style.setProperty("--x", x + "%");
+
+    var sel = el("select", { class: "status", "aria-label": "Your status for " + j.company + ", " + j.role });
+    STATUSES.forEach(function (s) { var o = el("option", { value: s[0] }, s[1]); if (s[0] === st) o.selected = true; sel.appendChild(o); });
+    sel.addEventListener("change", function () { setStatus(j.id, sel.value); });
+    var mine = el("div", { class: "mine" }, el("div", { class: "fitwrap" }, el("span", null, "Fit"), fitHex(j.fit)), sel);
+
+    grid.appendChild(who);
+    grid.appendChild(rangeCell);
+    grid.appendChild(mine);
+
+    var more = el("div", { class: "more", id: moreId });
+    more.hidden = !open;
+    if (j.why) more.appendChild(el("p", { class: "why" }, j.why));
+    if (j.caveat) more.appendChild(el("p", { class: "caveat" }, el("strong", null, "Watch for: "), j.caveat));
+    more.appendChild(el("p", null, el("strong", null, "Visa: "), visa[1]));
+    var facts = el("p", { class: "facts" });
+    facts.appendChild(el("span", null, "Track: " + (TRACKS[j.track] || "Other")));
+    if (j.posted) facts.appendChild(el("span", null, "Posted: " + j.posted));
+    facts.appendChild(el("span", null, "Found via " + j.source));
+    if (!j.custom) facts.appendChild(el("span", null, "Link checked " + BOARD.refreshedLabel));
+    if (j.alt) facts.appendChild(el("a", { href: j.alt, target: "_blank", rel: "noopener noreferrer" }, j.altLabel || "Another listing"));
+    more.appendChild(facts);
+    var noteId = "note-" + j.id;
+    var ta = el("textarea", { id: noteId, rows: "2", "data-note": j.id, placeholder: "Recruiter, referral, deadline, anything to remember" });
+    ta.value = store.notes[j.id] || "";
+    ta.addEventListener("input", function () { queueNote(j.id, ta.value); });
+    ta.addEventListener("blur", function () { flushNote(j.id); });
+    more.appendChild(el("label", { class: "note-label", for: noteId }, "Your notes"));
+    more.appendChild(ta);
+    if (j.custom) {
+      var rm = el("button", { type: "button", class: "linkish danger" }, "Remove from board");
+      rm.addEventListener("click", function () { removeCustom(j.id); });
+      more.appendChild(el("p", null, rm));
+    }
+    grid.appendChild(more);
+
+    btn.addEventListener("click", function () {
+      var willOpen = more.hidden;
+      more.hidden = !willOpen;
+      btn.setAttribute("aria-expanded", willOpen ? "true" : "false");
+      btn.textContent = willOpen ? "Hide details" : "Why it fits";
+      if (willOpen) state.expanded[j.id] = true; else delete state.expanded[j.id];
+    });
+
+    li.appendChild(grid);
+    return li;
+  }
+
+  function render() {
+    var all = allJobs();
+    var dom = domainFor(all);
+    var x = pct(offerK(), dom);
+    renderAxis(dom, x);
+    renderTally(all);
+    var list = visibleJobs();
+    var board = $("#board");
+    board.textContent = "";
+    list.forEach(function (j) { board.appendChild(rowFor(j, dom, x)); });
+    $("#empty").hidden = list.length > 0;
+    $("#shown").textContent = "Showing " + list.length + " of " + all.length + " roles";
+  }
+
+  function renderScreened() {
+    var ul = $("#screenedList");
+    ul.textContent = "";
+    SCREENED.forEach(function (s) {
+      ul.appendChild(el("li", null,
+        el("a", { href: s.url, target: "_blank", rel: "noopener noreferrer" }, s.name),
+        el("p", null, s.reason)));
+    });
+    $("#screenedCount").textContent = SCREENED.length + " roles";
+  }
+
+  function syncOfferInput() {
+    var inp = $("#offer");
+    if (document.activeElement !== inp) inp.value = offerK();
+  }
+
+  /* ---------- check a posting ---------- */
+  function buildPrompt(text) {
+    return [
+      "You screen job postings for one candidate who already holds a full-time return offer.",
+      "",
+      "Candidate: " + CANDIDATE,
+      "Their offer: about $" + offerK() + "K total pay per year (Amazon Applied Scientist, PhD new grad).",
+      "",
+      "Read the posting below. Estimate year-1 total pay (base plus typical bonus plus equity per year) for this candidate if hired at the PhD new-grad level. Use the posting’s own pay range when it has one; otherwise use what this employer typically pays PhD new grads in this kind of role. Rate fit with the candidate’s background from 1 (poor) to 5 (excellent).",
+      "",
+      "Also report, from the posting text only: sponsorship is \"yes\" if it says the employer sponsors work visas such as H-1B, \"no\" if it says it will not sponsor or requires existing work authorization, otherwise \"unclear\"; restricted is true if it requires US citizenship, US permanent residency, or a security clearance; inUS is false if the role is based outside the United States; quant is true if it is a quantitative trading or quant research role at a trading firm or hedge fund.",
+      "",
+      "Reply with only a JSON object in exactly this shape, no other text:",
+      "{\"company\":\"...\",\"role\":\"...\",\"location\":\"...\",\"postedPay\":\"pay as stated in the posting, or Not listed\",\"estLowK\":250,\"estHighK\":320,\"fit\":4,\"track\":\"science or llm\",\"sponsorship\":\"yes or no or unclear\",\"restricted\":false,\"inUS\":true,\"quant\":false,\"why\":\"one or two sentences on fit\",\"caveats\":\"one sentence on risks such as seniority, start date or pay uncertainty\"}",
+      "",
+      "Posting:",
+      "<<<",
+      text,
+      ">>>"
+    ].join("\n");
+  }
+
+  function showResult(c, url, canSave) {
+    var box = $("#checkResult");
+    box.textContent = "";
+    var job = { company: c.company, role: c.role, location: c.location, base: c.postedPay, est: c.est, fit: c.fit, track: c.track, why: c.why, caveat: c.caveat, sponsorship: c.sponsorship };
+    var t = tierOf(job);
+    var blocked = !c.inUS ? "Screened out: based outside the US"
+      : (c.restricted ? "Screened out: requires US citizenship, a green card or a clearance"
+      : (c.sponsorship === "no" ? "Screened out: says it won’t sponsor visas"
+      : (c.quant ? "Screened out: quant or trading role" : "")));
+    var verdict = blocked || (t === "above" ? "Above your line" : (t === "near" ? "Near your line" : "Below your line"));
+    if (blocked) { t = "below"; canSave = false; }
+    var card = el("div", { class: "result tier-" + t },
+      el("p", null, el("span", { class: "verdict" }, verdict), el("span", { class: "delta" }, deltaLabel(job))),
+      el("p", null, el("strong", null, c.company), " ", c.role),
+      el("p", { class: "facts" }, el("span", null, c.location), el("span", null, "Posted pay: " + c.postedPay), el("span", null, "est. " + fmtK(c.est[0]) + "–" + fmtK(c.est[1])), el("span", null, "Visa: " + (c.sponsorship === "yes" ? "posting says it sponsors" : (c.sponsorship === "no" ? "won’t sponsor" : "not stated")))),
+      el("div", { class: "fitwrap" }, el("span", null, "Fit"), fitHex(c.fit)));
+    if (c.why) card.appendChild(el("p", { style: "margin-top:.6rem" }, c.why));
+    if (c.caveat) card.appendChild(el("p", { class: "caveat" }, el("strong", null, "Watch for: "), c.caveat));
+    if (canSave) {
+      var add = el("button", { type: "button", class: "primary" }, "Add to my board");
+      add.addEventListener("click", function () {
+        addCustom(job, url);
+        add.disabled = true;
+        add.textContent = "Added to your board";
+      });
+      card.appendChild(el("p", null, add));
+    }
+    box.appendChild(card);
+  }
+
+  function setupCheck() {
+    var c = window.claude;
+    if (!c || typeof c.use !== "function") return;
+    c.use("sample").then(function (sample) {
+      if (!sample || typeof sample.json !== "function") return;
+      $("#check").hidden = false;
+      var btn = $("#checkBtn"), stop = $("#stopBtn"), msg = $("#checkMsg");
+      var ctl = null, blocked = false;
+      function setMsg(t) { msg.textContent = t; }
+      btn.addEventListener("click", function () {
+        if (blocked) return;
+        var text = $("#jd").value.trim();
+        if (text.length < 200) { setMsg("Paste the full posting, including responsibilities and pay if it lists any."); return; }
+        ctl = new AbortController();
+        btn.disabled = true;
+        stop.hidden = false;
+        $("#checkResult").textContent = "";
+        setMsg("Reading the posting. This can take up to a minute.");
+        sample.json(buildPrompt(text.slice(0, 30000)), { signal: ctl.signal }).then(function (r) {
+          var cleaned = cleanResult(r);
+          if (!cleaned) { setMsg("The answer came back incomplete. Try again, or trim the posting to its main sections."); return; }
+          setMsg("");
+          showResult(cleaned, $("#jdUrl").value.trim(), store.mode !== "none");
+        }).catch(function (e) {
+          var code = e && e.code;
+          if (code === "cancelled") setMsg("Stopped.");
+          else if (["not_granted", "sampling_disabled", "not_declared", "capability_disabled", "capability_removed"].indexOf(code) >= 0) {
+            blocked = true;
+            setMsg("Checking postings needs permission to use Claude from this page, so it’s off for this visit.");
+          }
+          else if (code === "rate_limited") setMsg("Too many checks at once. Wait a minute, then try again.");
+          else if (code === "invalid_json") setMsg("The answer wasn’t in the expected format. Try again.");
+          else if (code === "prompt_too_large") setMsg("That posting is too long. Paste just the description and requirements.");
+          else if (code === "refused") setMsg("Claude declined to assess this text. Paste a different part of the posting.");
+          else if (code === "session_expired") setMsg("Your session expired. Sign in again, then retry.");
+          else setMsg("Couldn’t reach Claude just now. Try again in a moment.");
+        }).then(function () {
+          btn.disabled = blocked;
+          stop.hidden = true;
+          ctl = null;
+        });
+      });
+      stop.addEventListener("click", function () { if (ctl) ctl.abort(); });
+    }).catch(function () { /* feature stays hidden */ });
+  }
+
+  /* ---------- wiring ---------- */
+  function wire() {
+    var trackBtns = document.querySelectorAll("#tracks button");
+    Array.prototype.forEach.call(trackBtns, function (b) {
+      b.addEventListener("click", function () {
+        state.track = b.getAttribute("data-track");
+        Array.prototype.forEach.call(trackBtns, function (o) { o.setAttribute("aria-pressed", o === b ? "true" : "false"); });
+        render();
+      });
+    });
+    Array.prototype.forEach.call(document.querySelectorAll("input[data-tier]"), function (cb) {
+      cb.addEventListener("change", function () { state.tiers[cb.getAttribute("data-tier")] = cb.checked; render(); });
+    });
+    $("#sort").addEventListener("change", function (e) { state.sort = e.target.value; render(); });
+    $("#statusFilter").addEventListener("change", function (e) { state.status = e.target.value; render(); });
+    var qTimer = null;
+    $("#q").addEventListener("input", function (e) {
+      clearTimeout(qTimer);
+      qTimer = setTimeout(function () { state.q = e.target.value; render(); }, 150);
+    });
+    $("#openScreened").addEventListener("click", function () {
+      var det = $("#screened");
+      det.open = true;
+      det.scrollIntoView({ block: "start" });
+    });
+    $("#resetFilters").addEventListener("click", function () {
+      state.track = "all"; state.tiers = { above: true, near: true, below: false }; state.sort = "fit"; state.status = "active"; state.q = "";
+      Array.prototype.forEach.call(trackBtns, function (o) { o.setAttribute("aria-pressed", o.getAttribute("data-track") === "all" ? "true" : "false"); });
+      Array.prototype.forEach.call(document.querySelectorAll("input[data-tier]"), function (cb) { cb.checked = state.tiers[cb.getAttribute("data-tier")]; });
+      $("#sort").value = "fit"; $("#statusFilter").value = "active"; $("#q").value = "";
+      render();
+    });
+
+    var offer = $("#offer"), offerTimer = null;
+    offer.addEventListener("input", function () {
+      clearTimeout(offerTimer);
+      offerTimer = setTimeout(function () {
+        var v = Number(offer.value);
+        if (!(v >= 50 && v <= 2000)) return;
+        store.offerK = Math.round(v);
+        render();
+        persist("settings", { offerK: store.offerK });
+      }, 450);
+    });
+    offer.addEventListener("blur", function () { offer.value = offerK(); });
+    $("#resetOffer").addEventListener("click", function () {
+      store.offerK = null;
+      offer.value = BOARD.defaultOfferK;
+      render();
+      persist("settings", { offerK: null });
+    });
+  }
+
+  /* ---------- start ---------- */
+  initLocal();
+  $("#stampText").textContent = "Updated " + BOARD.refreshedLabel + " by the GitHub workflow, which re-checks every link on each run. " + JOBS.length + " open US roles.";
+  if ($("#cfgOffer")) $("#cfgOffer").textContent = "$" + BOARD.defaultOfferK + "K";
+  updateSaveNote();
+  wire();
+  syncOfferInput();
+  renderScreened();
+  render();
+  connect();
+  setupCheck();
+})();
+</script>
+</body>
+</html>

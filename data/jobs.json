@@ -1,0 +1,364 @@
+[
+  {
+    "id": "bytedance-qchem",
+    "company": "ByteDance Seed",
+    "track": "science",
+    "role": "Research Scientist, Quantum Chemistry (Global Frontier Tech Program, 2027 start, PhD)",
+    "location": "San Jose, CA",
+    "base": "Base $218K–$480K, plus bonus and RSUs",
+    "est": [
+      300,
+      450
+    ],
+    "fit": 5,
+    "why": "Seed’s AI for Science team works on ML force fields, ML molecular dynamics and enhanced sampling for drug and materials discovery. That is the stack under GAtor 2.0 and your UMA, MACE and AIMNet2 work.",
+    "caveat": "The band is very wide, so leveling decides the number. You must be able to start by the end of 2027. ByteDance and TikTok let you apply to at most two positions company-wide, so choose your two.",
+    "posted": "Open now (2027-start req)",
+    "source": "ByteDance careers",
+    "url": "https://joinbytedance.com/search/7632426574734035253",
+    "visa": [
+      "yes",
+      "ByteDance’s US entities file H-1B petitions every year (public Department of Labor data)."
+    ],
+    "ats": null,
+    "first_seen": "2026-10-25",
+    "last_checked": "2026-10-25",
+    "last_open": "2026-10-25",
+    "check_failures": 0,
+    "added": null
+  },
+  {
+    "id": "bytedance-infra",
+    "company": "ByteDance Seed",
+    "track": "llm",
+    "role": "Research Engineer Graduate, Seed Model AI Foundation Model Infrastructure (2027 start, PhD)",
+    "location": "Seattle, WA",
+    "base": "Base $232.6K–$427.5K, plus bonus and RSUs",
+    "est": [
+      300,
+      420
+    ],
+    "fit": 3,
+    "why": "Distributed training, RL frameworks and high-performance inference for Seed’s foundation models. Scaling GAtor’s search to hundreds of MPI processes on Slurm clusters is your proof point.",
+    "caveat": "Expect systems-heavy interviews. It counts toward the same two-application cap as every ByteDance and TikTok role.",
+    "posted": "Spring 2026, still taking applications",
+    "source": "TCV portfolio job board",
+    "url": "https://portfoliojobs.tcv.com/companies/bytedance/jobs/72958826-research-scientist-graduate-seed-ai-foundation-model-infrastructure-2027-start-phd",
+    "visa": [
+      "yes",
+      "ByteDance’s US entities file H-1B petitions every year (public Department of Labor data)."
+    ],
+    "ats": null,
+    "first_seen": "2026-10-25",
+    "last_checked": "2026-10-25",
+    "last_open": "2026-10-25",
+    "check_failures": 0,
+    "added": null
+  },
+  {
+    "id": "tiktok-tns",
+    "company": "TikTok",
+    "track": "llm",
+    "role": "Machine Learning Scientist Graduate, Trust and Safety (2027 start, PhD)",
+    "location": "Seattle, WA",
+    "base": "Base $153.9K–$301K, plus bonus and RSUs",
+    "est": [
+      255,
+      330
+    ],
+    "fit": 4,
+    "why": "Content-understanding models, multimodal classifiers and LLMs that catch policy violations at scale. Your Amazon product–policy router, label-disagreement analysis and SOP-driven prompt fixes are the same problem.",
+    "caveat": "Trust and safety work can mean daily exposure to disturbing content, which TikTok states up front. It uses one of your two ByteDance/TikTok applications.",
+    "posted": "About Aug 2026",
+    "source": "TikTok careers",
+    "url": "https://lifeattiktok.com/search/7665985896410368261",
+    "visa": [
+      "yes",
+      "TikTok’s US hiring now runs through the USDS joint venture or TT Commerce. The joint venture filed 315 H-1B labor applications in 2025; confirm which entity would hire you."
+    ],
+    "ats": null,
+    "first_seen": "2026-10-25",
+    "last_checked": "2026-10-25",
+    "last_open": "2026-10-25",
+    "check_failures": 0,
+    "added": null
+  },
+  {
+    "id": "google-swe-ml-phd",
+    "company": "Google",
+    "track": "llm",
+    "role": "Software Engineer, AI/Machine Learning, PhD, Early Career (2027 start)",
+    "location": "Sunnyvale, Seattle, Kirkland, New York and 6 more",
+    "base": "Base $147K–$210K, plus 15% target bonus and equity",
+    "est": [
+      240,
+      310
+    ],
+    "fit": 3,
+    "why": "Google’s main pipeline for PhD ML hires. Team matching comes after the hiring committee, so you can steer toward Cloud AI, Gemini evaluation or science teams.",
+    "caveat": "L4 is typical for PhD hires; use the Amazon offer to argue for L5.",
+    "posted": "Aug 2026",
+    "source": "Google careers",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer",
+    "visa": [
+      "yes",
+      "Google is one of the largest H-1B sponsors in the US."
+    ],
+    "ats": null,
+    "first_seen": "2026-10-25",
+    "last_checked": "2026-10-25",
+    "last_open": "2026-10-25",
+    "check_failures": 0,
+    "added": null
+  },
+  {
+    "id": "deepmind-materials-re",
+    "company": "Google DeepMind",
+    "track": "science",
+    "role": "Research Engineer, Materials Science",
+    "location": "Mountain View, CA",
+    "base": "Base $141K–$202K, plus bonus and equity",
+    "est": [
+      230,
+      320
+    ],
+    "fit": 5,
+    "why": "Builds the experiment infrastructure and applies LLMs, LLM agents and ML force fields to materials problems. LLMs plus materials plus infrastructure is exactly your profile.",
+    "caveat": "The application asks you to describe an ML-for-materials project, its scale, and how you evaluated it. GAtor 2.0 with UMA is a ready answer.",
+    "posted": "May 2026, still taking applications",
+    "source": "DeepMind’s Greenhouse board",
+    "url": "https://job-boards.greenhouse.io/deepmind/jobs/7339890",
+    "visa": [
+      "yes",
+      "Hired through Google, one of the largest H-1B sponsors in the US."
+    ],
+    "ats": {
+      "type": "greenhouse",
+      "token": "deepmind",
+      "id": "7339890"
+    },
+    "first_seen": "2026-10-25",
+    "last_checked": "2026-10-25",
+    "last_open": "2026-10-25",
+    "check_failures": 0,
+    "added": null
+  },
+  {
+    "id": "meta-rs-ml",
+    "company": "Meta",
+    "track": "llm",
+    "role": "Research Scientist, Machine Learning (PhD), university grad",
+    "location": "Sunnyvale, CA and 7 more",
+    "base": "Meta posts base only, up to about $181K on recent listings, plus bonus and equity",
+    "est": [
+      250,
+      320
+    ],
+    "fit": 3,
+    "why": "Meta’s standing PhD-grad research req feeds applied ML teams such as ranking, integrity and GenAI, which sit close to your Amazon work.",
+    "caveat": "Meta’s posted base understates total pay because equity is a large share.",
+    "posted": "Listed on Meta’s Students & Grads page",
+    "source": "Meta careers",
+    "url": "https://www.metacareers.com/students-and-grads",
+    "visa": [
+      "yes",
+      "Meta is one of the largest H-1B sponsors in the US."
+    ],
+    "ats": null,
+    "first_seen": "2026-10-25",
+    "last_checked": "2026-10-25",
+    "last_open": "2026-10-25",
+    "check_failures": 0,
+    "added": null
+  },
+  {
+    "id": "meta-fair-chem-re",
+    "company": "Meta FAIR",
+    "track": "science",
+    "role": "Research Engineer, AI for Chemistry",
+    "location": "Seattle, WA",
+    "base": "Base up to $208K, plus bonus and equity",
+    "est": [
+      250,
+      340
+    ],
+    "fit": 5,
+    "why": "FAIR Chemistry builds UMA, the potential that powers GAtor 2.0. This role leads ab initio simulation, data generation and ML modeling for display materials with Reality Labs Research, and asks for ML, GNN and DFT experience.",
+    "caveat": "Asks for 1+ year of industry experience, so lean on your Amazon internship and GAtor ownership. FAIR Chemistry’s manager, Zack Ulissi, is an adjunct in CMU ChemE, so a warm intro through your department is realistic.",
+    "posted": "Live on Meta’s site",
+    "source": "Meta careers",
+    "url": "https://metacareers.com/v2/jobs/3846804338907958",
+    "visa": [
+      "yes",
+      "Meta is one of the largest H-1B sponsors in the US."
+    ],
+    "ats": null,
+    "first_seen": "2026-10-25",
+    "last_checked": "2026-10-25",
+    "last_open": "2026-10-25",
+    "check_failures": 0,
+    "added": null
+  },
+  {
+    "id": "nvidia-genai-ncg",
+    "company": "NVIDIA",
+    "track": "science",
+    "added": "2026-10-25",
+    "role": "Research Scientist, Fundamental Generative AI (new college grad)",
+    "location": "Santa Clara, CA",
+    "base": "Base $168K–$264.5K, plus equity",
+    "est": [
+      270,
+      360
+    ],
+    "fit": 3,
+    "why": "NVIDIA Research’s generative AI team explicitly covers GenAI for science, including generative models for chemistry and materials data. Generative crystal structure prediction is a credible angle from GAtor.",
+    "caveat": "A research-scientist bar: they want an outstanding publication record, ideally at ML venues. It carries the 2026 new-grad label, so ask about a mid-2027 start.",
+    "posted": "Sep 30, 2026",
+    "source": "AnitaB.org board (NVIDIA Workday)",
+    "url": "https://jobs.anitab.org/companies/nvidia/jobs/95232560-research-scientist-fundamental-generative-ai-new-college-grad-2026",
+    "visa": [
+      "yes",
+      "NVIDIA files H-1B petitions every year (public Department of Labor data)."
+    ],
+    "ats": {
+      "type": "workday",
+      "host": "nvidia.wd5.myworkdayjobs.com",
+      "tenant": "nvidia",
+      "site": "NVIDIAExternalCareerSite",
+      "path": "/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2026739"
+    },
+    "first_seen": "2026-10-25",
+    "last_checked": "2026-10-25",
+    "last_open": "2026-10-25",
+    "check_failures": 0
+  },
+  {
+    "id": "periodic-materials-data",
+    "company": "Periodic Labs",
+    "track": "science",
+    "role": "Research Scientist / Research Engineer, Materials Data",
+    "location": "Menlo Park, CA",
+    "base": "Base $250K–$350K, plus equity",
+    "est": [
+      280,
+      420
+    ],
+    "fit": 5,
+    "why": "Half research with lab and computational scientists, half fixing the data their LLM agents depend on: reading agent traces, finding failure modes and turning them into evaluations. Your LLM–human label-disagreement work at Amazon plus materials depth is close to a perfect match.",
+    "caveat": "Asks for 4+ years of research or industry experience in materials science; your PhD research years should count, so say so explicitly. Early-stage equity is illiquid.",
+    "posted": "Sep 1, 2026",
+    "source": "a16z portfolio job board",
+    "url": "https://jobs.a16z.com/jobs/periodic-labs/research-scientist-research-engineer-materials-data--ats-mn7ddw8dg6yjkd5er8t6hxq99x8e6krx",
+    "visa": [
+      "stated",
+      "Periodic’s postings say it sponsors visas."
+    ],
+    "ats": {
+      "type": "ashby",
+      "org": "periodic-labs",
+      "id": "c4e0774f-0f3e-4ea7-be27-fb89130c0d01"
+    },
+    "first_seen": "2026-10-25",
+    "last_checked": "2026-10-25",
+    "last_open": "2026-10-25",
+    "check_failures": 0,
+    "added": null
+  },
+  {
+    "id": "periodic-midtraining",
+    "company": "Periodic Labs",
+    "track": "llm",
+    "role": "Research Scientist / Research Engineer, Midtraining",
+    "location": "Menlo Park, CA",
+    "base": "Base $250K–$350K, plus equity",
+    "est": [
+      280,
+      420
+    ],
+    "fit": 3,
+    "why": "Midtraining LLMs on scientific data. Fine-tuning experience plus real materials knowledge is a rare combination for this team.",
+    "caveat": "Expect large-scale training questions; your experience is fine-tuning rather than pretraining.",
+    "posted": "About Sep 30, 2026",
+    "source": "a16z portfolio job board",
+    "url": "https://jobs.a16z.com/jobs/periodic-labs/research-scientist-research-engineer-midtraining--ats-mn783xrp2jmjq4cp3mdjvsjbp98fc7j7",
+    "visa": [
+      "stated",
+      "Periodic’s postings say it sponsors visas."
+    ],
+    "ats": {
+      "type": "ashby",
+      "org": "periodic-labs",
+      "id": "168dbf20-2230-49a0-9f00-f2ff58dad5c8"
+    },
+    "first_seen": "2026-10-25",
+    "last_checked": "2026-10-25",
+    "last_open": "2026-10-25",
+    "check_failures": 0,
+    "added": null
+  },
+  {
+    "id": "lila-ccmp",
+    "company": "Lila Sciences",
+    "track": "science",
+    "role": "Research Scientist, Computational Condensed Matter Physics",
+    "location": "Cambridge, MA",
+    "base": "Base $176K–$304K, plus bonus and equity",
+    "est": [
+      220,
+      330
+    ],
+    "fit": 4,
+    "why": "First-principles modeling, atomistic simulation, scientific ML and agentic AI inside an autonomous-lab company.",
+    "caveat": "The focus is quantum and electronic materials rather than molecular crystals.",
+    "posted": "Jul 29, 2026",
+    "source": "General Catalyst portfolio job board",
+    "url": "https://jobs.generalcatalyst.com/companies/lila-sciences-2/jobs/87897567-research-scientist-computational-condensed-matter-physics",
+    "visa": [
+      "yes",
+      "Lila filed 22 H-1B labor applications in 2026, but no green-card filings are on record yet."
+    ],
+    "ats": {
+      "type": "greenhouse",
+      "token": "lilasciences",
+      "id": "4324886009"
+    },
+    "first_seen": "2026-10-25",
+    "last_checked": "2026-10-25",
+    "last_open": "2026-10-25",
+    "check_failures": 0,
+    "added": null
+  },
+  {
+    "id": "radical-gnn",
+    "company": "Radical AI",
+    "track": "science",
+    "role": "AI Research Scientist, GNN / Foundation Models",
+    "location": "New York, NY",
+    "base": "Base listed as $100K–$300K, plus equity",
+    "est": [
+      210,
+      320
+    ],
+    "fit": 5,
+    "why": "Building a universal ML interatomic potential that drives a self-driving materials lab. MLIPs, DFT data and HPC training are the core of your CV.",
+    "caveat": "Hiring at senior, staff and principal levels and asks for 3+ years of AI research, so expect leveling questions. A small company, so equity carries a lot of the pay.",
+    "posted": "Live on Radical’s Lever board",
+    "source": "Radical AI on Lever",
+    "url": "https://jobs.lever.co/RadicalAI/025709b9-d365-4909-aecb-aba5669703da",
+    "visa": [
+      "ask",
+      "Only two H-1B transfers are on record and no new lottery cases, so ask before you invest time."
+    ],
+    "ats": {
+      "type": "lever",
+      "site": "RadicalAI",
+      "id": "025709b9-d365-4909-aecb-aba5669703da"
+    },
+    "first_seen": "2026-10-25",
+    "last_checked": "2026-10-25",
+    "last_open": "2026-10-25",
+    "check_failures": 0,
+    "added": null
+  }
+]

@@ -1,0 +1,205 @@
+# Offer board settings. The GitHub workflow reads this file on every run,
+# so edit it here and commit; the next run picks it up.
+
+# Your Amazon return offer, total pay per year in $K. Replace with your real number.
+offer_line_k: 300
+offer_description: "Amazon Applied Scientist (PhD new grad)"
+
+# A role is "above" your line when its estimated midpoint is at least 110% of
+# the offer, "near" between 85% and 110%. Anything lower is screened out.
+tiers:
+  above: 1.10
+  near: 0.85
+
+# Sent to Claude when it screens a posting. Keep it to the facts that matter for fit.
+candidate_profile: >-
+  PhD candidate in Materials Science & Engineering at Carnegie Mellon, graduating May 2027
+  (GPA 3.98). Research: ML for materials discovery; lead developer of GAtor 2.0, an open-source
+  ML-accelerated crystal structure prediction engine (UMA, MACE and AIMNet2 ML interatomic
+  potentials; evolutionary search scaled to hundreds of processes on Slurm/MPI clusters; PXRD
+  matching with experimental partners). 2026 Amazon Applied Scientist intern: built a cost-aware
+  LLM router across four models for product-policy classification (220K production cases),
+  XGBoost and cross-attention transformer quality estimators with temperature-scaling
+  calibration, LLM-vs-human label-disagreement diagnosis and prompt improvements. Projects:
+  RAG-based LLM recommendation agent; BERT + PPO poker agent (best poster award). Strong Python,
+  PyTorch, Hugging Face, distributed computing.
+
+filters:
+  us_only: true
+  # Drop roles that say they won't sponsor work visas or that require US
+  # citizenship, permanent residency or a security clearance.
+  require_visa_sponsorship: true
+  exclude_quant: true
+  # Other roles at your current employer don't help as competing offers.
+  exclude_companies:
+    - Amazon
+    - Amazon Web Services
+    - AWS
+  # Firms whose roles are always treated as quant/trading.
+  quant_companies:
+    - Jane Street
+    - Citadel
+    - Citadel Securities
+    - Susquehanna
+    - SIG
+    - Hudson River Trading
+    - HRT
+    - Two Sigma
+    - D. E. Shaw
+    - DE Shaw
+    - Jump Trading
+    - Optiver
+    - IMC
+    - DRW
+    - Five Rings
+    - Akuna Capital
+    - Belvedere Trading
+    - Tower Research
+    - Millennium
+    - Point72
+    - Cubist
+    - Balyasny
+    - Schonfeld
+    - AQR
+    - Man Group
+    - Arrowstreet
+    - Renaissance Technologies
+    - Virtu
+    - Flow Traders
+    - Old Mission
+    - XTX Markets
+    - Squarepoint
+    - Radix Trading
+    - Voleon
+  # Small AI-for-science companies rarely label roles "new grad", so roles there
+  # are screened even without PhD/new-grad wording (and senior titles are allowed
+  # through as stretch roles).
+  science_companies:
+    - Periodic Labs
+    - Lila Sciences
+    - Radical AI
+    - Google DeepMind
+    - Orbital Materials
+    - CuspAI
+    - Mirror Physics
+    - Achira
+    - Isomorphic Labs
+    - Chai Discovery
+    - Xaira Therapeutics
+    - Genesis Molecular AI
+    - Iambic Therapeutics
+    - Rowan
+  # Employers with a long public record of H-1B filings. When a posting is
+  # silent on sponsorship, these get "sponsors"; everyone else gets "ask first".
+  known_sponsors:
+    - Google
+    - Google DeepMind
+    - DeepMind
+    - Meta
+    - Meta FAIR
+    - NVIDIA
+    - ByteDance
+    - ByteDance Seed
+    - TikTok
+    - Amazon
+    - Apple
+    - Microsoft
+    - Databricks
+    - Anthropic
+    - OpenAI
+    - Snap
+    - Pinterest
+    - Airbnb
+    - Uber
+    - LinkedIn
+    - Waymo
+    - Salesforce
+    - Adobe
+    - Lila Sciences
+    - Periodic Labs
+
+ai:
+  enabled: true
+  # Spending stops for the month once this is reached (the deterministic sources
+  # and link checks keep running). Max 20x credits are $200/month and don't roll over.
+  monthly_budget_usd: 100
+  discover_model: claude-haiku-5-5
+  # Every new posting is triaged by the cheap model; only the ones that pass
+  # get a second, final screen from the stronger model.
+  triage_model: claude-haiku-5-5
+  screen_model: claude-sonnet-5-5
+  # Server-side search tool version. web_search_20260318 is the newest at the time of writing.
+  web_search_tool: web_search_20250305
+  searches_per_query: 3
+  queries_per_run: 10
+  max_screen_per_run: 150
+  # USD per million tokens, from platform.claude.com/docs/en/about-claude/pricing (Oct 2026).
+  prices:
+    claude-haiku-5-5: {input: 0.10, output: 0.50}
+    claude-sonnet-5-5: {input: 2.00, output: 10.00}
+    claude-opus-5-5: {input: 4.00, output: 20.00}
+  web_search_per_request: 0.01
+
+sources:
+  # Public applicant-tracking APIs, polled every run at no cost.
+  greenhouse:
+    - {token: deepmind, company: Google DeepMind}
+    - {token: lilasciences, company: Lila Sciences}
+    - {token: lila, company: Lila Sciences}
+    - {token: anthropic, company: Anthropic}
+    - {token: databricks, company: Databricks}
+    - {token: scaleai, company: Scale AI}
+    - {token: waymo, company: Waymo}
+    - {token: figma, company: Figma}
+    - {token: roblox, company: Roblox}
+    - {token: pinterest, company: Pinterest}
+    - {token: airbnb, company: Airbnb}
+    - {token: stripe, company: Stripe}
+  lever:
+    - {site: RadicalAI, company: Radical AI}
+  ashby:
+    - {org: periodic-labs, company: Periodic Labs}
+    - {org: openai, company: OpenAI}
+  workday:
+    - company: NVIDIA
+      host: nvidia.wd5.myworkdayjobs.com
+      tenant: nvidia
+      site: NVIDIAExternalCareerSite
+      searches: ["new college grad research scientist", "PhD new college grad", "chemistry materials AI"]
+  google_careers:
+    queries: ["PhD 2027", "PhD Early Career", "Research Scientist PhD", "materials science machine learning"]
+  # Daily-updated GitHub new-grad trackers.
+  speedyapply: true
+  simplify: true
+  # Claude web searches, rotated so every query runs about once a day.
+  discovery_queries:
+    - "AI for materials discovery research scientist new grad PhD 2027 United States"
+    - "machine learning interatomic potential research scientist job"
+    - "crystal structure prediction machine learning job"
+    - "AI for science research scientist PhD 2027 start United States"
+    - "\"2027 Start (PhD)\" research scientist AI for Science ByteDance OR TikTok"
+    - "\"2027 Start\" PhD LLM research scientist TikTok trust and safety OR integrity"
+    - "LLM applied scientist PhD new grad 2027 United States"
+    - "research scientist PhD university graduate 2027 machine learning Meta OR Google OR NVIDIA OR Apple"
+    - "autonomous lab materials AI startup hiring research scientist"
+    - "agentic AI for science research scientist job United States"
+    - "computational chemistry machine learning scientist job PhD"
+    - "Apple AIML research scientist PhD new grad 2027"
+    - "Microsoft Research AI for Science researcher United States"
+    - "foundation model for materials or chemistry research engineer job"
+    - "quantum chemistry machine learning research scientist job United States"
+    - "Snap OR Adobe OR Netflix research scientist PhD 2027"
+    - "LLM evaluation OR post-training research scientist PhD new grad 2027"
+    - "materials informatics machine learning scientist job United States"
+    - "Google DeepMind science research engineer Mountain View materials OR chemistry"
+    - "Meta FAIR chemistry OR AI for science research job"
+
+verify:
+  # A role leaves the board after this many runs in a row where its page or
+  # applicant-tracking record says it is closed.
+  close_after_failures: 2
+  # Flag a role "stale" when no run has confirmed it open for this many days.
+  stale_after_days: 21
+
+notify:
+  github_issue: true

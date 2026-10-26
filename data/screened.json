@@ -1,0 +1,92 @@
+[
+  {
+    "date": "2026-10-25",
+    "name": "Quant and trading roles (Jane Street, Citadel, Citadel Securities, SIG, Hudson River Trading)",
+    "reason": "Left off the board by request.",
+    "url": "https://www.tradermath.org/salaries/quant-researcher"
+  },
+  {
+    "date": "2026-10-25",
+    "name": "Meta FAIR, AI Research Scientist, FAIR Chemistry (New York)",
+    "reason": "Closed: the posting stopped accepting applications.",
+    "url": "https://jobs.accel.com/companies/facebook-2-07d2eb1b-d3ad-4084-93df-74a124ac9233/jobs/86456920-ai-research-scientist-fair-chemistry"
+  },
+  {
+    "date": "2026-10-25",
+    "name": "Lila Sciences, ML Research Scientist I/II, Multimodal Data Extraction",
+    "reason": "Closed: no longer accepting applications.",
+    "url": "https://startup.jobs/ml-research-scientist-i-ii-multimodal-data-extraction-lila-sciences-7844988"
+  },
+  {
+    "date": "2026-10-25",
+    "name": "NVIDIA, AI Scientist, Agentic AI for Science (new grad)",
+    "reason": "Couldn’t confirm it’s still open: applications were only guaranteed until Feb 14, 2026, and its senior sibling has closed.",
+    "url": "https://inferencejobs.com/companies/nvidia/jobs/ai-scientist-agentic-ai-for-science-phd-new-college-grad-2026"
+  },
+  {
+    "date": "2026-10-25",
+    "name": "Periodic Labs, Research Scientist, Condensed Matter Theory",
+    "reason": "Couldn’t confirm it on Periodic’s own board, and it wants a condensed-matter theory PhD.",
+    "url": "https://www.startuphub.ai/jobs/periodic-labs/research-scientist-condensed-matter-theory-db3a63"
+  },
+  {
+    "date": "2026-10-25",
+    "name": "TikTok, LLM Post-Training Engineer Graduate (2027 start)",
+    "reason": "Still open, but it’s a master’s-level req, so it would likely be leveled below an L5 PhD offer.",
+    "url": "https://lifeattiktok.com/search/7673672141012093189"
+  },
+  {
+    "date": "2026-10-25",
+    "name": "TikTok, Business Integrity research scientist and E-commerce LLM/agent engineer (2027 start, PhD)",
+    "reason": "Couldn’t confirm them on TikTok’s own site. With the two-application cap, the confirmed ByteDance and TikTok roles above are better uses of your slots.",
+    "url": "https://www.themuse.com/jobs/tiktok/research-scientist-graduate-business-integrity-2027-start-phd"
+  },
+  {
+    "date": "2026-10-25",
+    "name": "Microsoft, Applied Scientist II (AI Development Acceleration Program)",
+    "reason": "Posted base $100.6K–$199K. Microsoft’s new-grad applied-scientist packages typically land well under an Amazon L5 package.",
+    "url": "https://jobs.anitab.org/companies/microsoft/jobs/56602222-applied-scientist-ii-microsoft-ai-development-acceleration-program-redmond"
+  },
+  {
+    "date": "2026-10-25",
+    "name": "Microsoft Research AI for Science, materials roles (MatterGen and MatterSim team)",
+    "reason": "Outside the US (Cambridge, UK and Berlin), and UK and EU pay converts to well below a Seattle offer.",
+    "url": "https://jobs.anitab.org/companies/microsoft/jobs/81414595-ai-for-science-residency-machine-learning-resident"
+  },
+  {
+    "date": "2026-10-25",
+    "name": "Google DeepMind, London materials roles (Material Intelligence; Semiconductor Materials)",
+    "reason": "Outside the US (London), and the semiconductor role asks for 2+ years leading a research agenda.",
+    "url": "https://job-boards.greenhouse.io/deepmind/jobs/7353237"
+  },
+  {
+    "date": "2026-10-25",
+    "name": "Periodic Labs, Multiphysics Simulation Scientist and Forward Deployed Engineer (Physics & Simulation)",
+    "reason": "Base $160K–$220K and $180K–$250K.",
+    "url": "https://www.inferencejobs.com/companies/periodic-labs"
+  },
+  {
+    "date": "2026-10-25",
+    "name": "Lila Sciences, Scientist II and Computational Scientist I/II roles",
+    "reason": "Base roughly $118K–$198K.",
+    "url": "https://startup.jobs/computational-scientist-i-ii-soft-matter-formulations-solids-and-melts-lila-sciences-8807717"
+  },
+  {
+    "date": "2026-10-25",
+    "name": "Argonne National Laboratory, AI and autonomous-lab materials scientist",
+    "reason": "Base $116K–$181K.",
+    "url": "https://www.careercircle.com/jobs/all/all/usa/il/lemont/fcaef6f9-4a20-4973-8e36-611a2a297001"
+  },
+  {
+    "date": "2026-10-25",
+    "name": "OpenAI Residency",
+    "reason": "$18.3K a month for a six-month program, and the 2026 cycle is closed. Worth it only as a pivot into frontier-lab research.",
+    "url": "https://openai.com/residency"
+  },
+  {
+    "date": "2026-10-25",
+    "name": "NVIDIA ALCHEMI senior roles (chemistry and materials software)",
+    "reason": "Pay is fine, but they ask for 5–8+ years of experience. Revisit after a couple of years in industry.",
+    "url": "https://inferencejobs.com/companies/nvidia/jobs/senior-machine-learning-engineer-chemistry-and-materials-science"
+  }
+]
