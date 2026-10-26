@@ -1,0 +1,18 @@
+{
+  "id": "lc-accounts-merge",
+  "title": "Accounts Merge",
+  "track": "leetcode",
+  "module": "lc-trees-graphs",
+  "order": 7,
+  "difficulty": "medium",
+  "minutes": 35,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["union-find", "graph", "hash map"],
+  "hints": [
+    "Emails are the nodes and each account links all of its emails together. Every connected component is one person. Which structure merges sets and finds a representative cheaply?",
+    "Union-find keyed by email (or by account index). Union the first email of each account with every other email in it, and remember email -> name.",
+    "After all the unions, group the emails by their root, sort each group, and prepend the name of any account that owns one of them. Path compression plus union by size keeps it near-linear."
+  ],
+  "timeout": 30
+}

@@ -1,0 +1,18 @@
+{
+  "id": "lc-partition-equal-subset-sum",
+  "title": "Partition Equal Subset Sum",
+  "track": "leetcode",
+  "module": "lc-dp",
+  "order": 5,
+  "difficulty": "medium",
+  "minutes": 30,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["DP", "0/1 knapsack", "bitset"],
+  "hints": [
+    "Two equal halves means some subset sums to total / 2. If the total is odd, stop. Otherwise this is subset-sum with target total / 2, which is a 0/1 knapsack.",
+    "reachable[t] = can some subset sum to t. For each number x, set reachable[t] |= reachable[t - x] for t from target down to x. Why does the loop direction matter?",
+    "The same thing in one line per number with a Python int as a bitset: bits |= bits << x, and the answer is (bits >> target) & 1."
+  ],
+  "timeout": 30
+}

@@ -1,0 +1,18 @@
+{
+  "id": "lc-sliding-window-maximum",
+  "title": "Sliding Window Maximum",
+  "track": "leetcode",
+  "module": "lc-stack-queue",
+  "order": 4,
+  "difficulty": "hard",
+  "minutes": 35,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["monotonic deque", "sliding window", "heap"],
+  "hints": [
+    "Taking max over each window is O(nk). A max-heap of (value, index) with lazy deletion (pop while the top index has left the window) gives O(n log n); that is already a respectable answer.",
+    "For O(n): when a new element arrives, any older element that is smaller can never be a window maximum again, because the new one outlives it. So the candidates, oldest to newest, have decreasing values.",
+    "Keep a deque of indices with decreasing values. For each i: pop from the back while nums[back] <= nums[i], push i, pop the front if it is <= i - k, and once i >= k - 1 the front is the window maximum."
+  ],
+  "timeout": 30
+}

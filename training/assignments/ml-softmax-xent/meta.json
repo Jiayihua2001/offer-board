@@ -1,0 +1,18 @@
+{
+  "id": "ml-softmax-xent",
+  "title": "Stable softmax and cross-entropy, with gradients",
+  "track": "ml",
+  "module": "ml-linear",
+  "order": 3,
+  "difficulty": "medium",
+  "minutes": 35,
+  "runtime": "numpy",
+  "kind": "code",
+  "tags": ["softmax", "cross-entropy", "numerical stability", "gradients"],
+  "hints": [
+    "exp(z) overflows for z > ~709. Softmax is invariant to subtracting a constant per row, so subtract the row max first.",
+    "log(softmax(z)) = z - logsumexp(z). Compute it directly instead of taking the log of a probability that may have underflowed to 0.",
+    "For one-hot targets, d(loss)/d(logits) = (softmax(z) - onehot) / N when the loss is the mean over N rows."
+  ],
+  "timeout": 30
+}

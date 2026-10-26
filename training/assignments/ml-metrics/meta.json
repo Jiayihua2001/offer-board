@@ -1,0 +1,18 @@
+{
+  "id": "ml-metrics",
+  "title": "Classification metrics from scratch",
+  "track": "ml",
+  "module": "ml-eval",
+  "order": 1,
+  "difficulty": "medium",
+  "minutes": 40,
+  "runtime": "numpy",
+  "kind": "code",
+  "tags": ["precision", "recall", "F1", "ROC AUC", "log-loss", "confusion matrix"],
+  "hints": [
+    "The confusion matrix in one line: np.add.at(cm, (y_true, y_pred), 1), or np.bincount(y_true * C + y_pred, minlength=C * C).reshape(C, C). Then tp = diag, predicted counts = column sums, true counts = row sums.",
+    "AUC is the probability that a random positive scores above a random negative, with ties counting one half. Rank the scores with average ranks for ties: AUC = (sum of positive ranks - n_pos (n_pos + 1) / 2) / (n_pos n_neg). np.unique(scores, return_inverse=True, return_counts=True) gives each tie group; its average rank is (first + last) / 2.",
+    "Divide safely: np.divide(a, b, out=np.zeros_like(a, dtype=float), where=b > 0) returns 0 where the denominator is 0. For log-loss, clip p to [eps, 1 - eps] before the log."
+  ],
+  "timeout": 30
+}

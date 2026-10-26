@@ -1,0 +1,18 @@
+{
+  "id": "lc-n-queens",
+  "title": "N-Queens",
+  "track": "leetcode",
+  "module": "lc-backtracking",
+  "order": 5,
+  "difficulty": "medium",
+  "minutes": 35,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["backtracking", "pruning", "bits"],
+  "hints": [
+    "Exactly one queen per row is forced, so the search is: for each row, choose a column that no earlier queen attacks. What three things must be free?",
+    "Track the used columns, diagonals (r - c) and anti-diagonals (r + c) in three sets; add before recursing, remove afterwards. Checking a square is then O(1).",
+    "count_n_queens is the number of leaves at depth n; solve_n_queens stops at the first leaf (return True up the stack, or use a generator). Bitmasks for the three sets make it very fast."
+  ],
+  "timeout": 30
+}

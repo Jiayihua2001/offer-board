@@ -1,0 +1,18 @@
+{
+  "id": "ml-kmeans",
+  "title": "k-means with k-means++ initialization",
+  "track": "ml",
+  "module": "ml-classic",
+  "order": 1,
+  "difficulty": "medium",
+  "minutes": 40,
+  "runtime": "numpy",
+  "kind": "code",
+  "tags": ["k-means", "clustering", "k-means++", "Lloyd's algorithm"],
+  "hints": [
+    "Squared distances from every point to every centroid in one shot: ((X[:, None, :] - C[None, :, :]) ** 2).sum(-1) has shape (N, k); labels are its argmin over axis 1.",
+    "k-means++: pick the first centroid uniformly, then repeatedly pick a data point with probability proportional to its squared distance to the nearest centroid chosen so far (rng.choice(N, p=d2 / d2.sum())). Keep d2 as the running minimum.",
+    "Lloyd's loop: assign, record the inertia, move each centroid to the mean of its points (keep the old centroid if a cluster is empty), stop when the centroids move less than tol. Each of the two steps can only lower the objective, which is why the history never goes up."
+  ],
+  "timeout": 30
+}

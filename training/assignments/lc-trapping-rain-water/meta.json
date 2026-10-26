@@ -1,0 +1,18 @@
+{
+  "id": "lc-trapping-rain-water",
+  "title": "Trapping Rain Water",
+  "track": "leetcode",
+  "module": "lc-arrays",
+  "order": 7,
+  "difficulty": "hard",
+  "minutes": 40,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["two pointers", "prefix max", "array"],
+  "hints": [
+    "Water standing on top of column i rises to min(highest wall to its left, highest wall to its right), minus height[i] if that is positive. Finding both walls per column by scanning is O(n^2).",
+    "Precompute left_max[i] and right_max[i] in two passes: O(n) time, O(n) extra space. That is a fine interview answer; the follow-up is O(1) space.",
+    "Two pointers from both ends with running left_max and right_max. Whichever side is lower is settled: its water level is bounded by its own running max because the other side has a wall at least that high. Move that pointer and add its water."
+  ],
+  "timeout": 30
+}

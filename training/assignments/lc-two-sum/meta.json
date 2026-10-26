@@ -1,0 +1,16 @@
+{
+  "id": "lc-two-sum",
+  "title": "Two Sum",
+  "track": "leetcode",
+  "module": "lc-arrays",
+  "order": 1,
+  "difficulty": "easy",
+  "minutes": 15,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["hash map", "array"],
+  "hints": [
+    "The brute force checks every pair, which is O(n^2). What would let you check 'have I already seen target minus this number?' in O(1)?",
+    "One pass: store each number's index in a dict as you go, and look up the complement before inserting the current number."
+  ]
+}

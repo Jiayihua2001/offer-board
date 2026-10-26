@@ -1,0 +1,18 @@
+{
+  "id": "tf-blocked-attention-online-softmax",
+  "title": "Blocked attention with online softmax (the FlashAttention idea)",
+  "track": "transformer",
+  "module": "tf-modern",
+  "order": 3,
+  "difficulty": "hard",
+  "minutes": 50,
+  "runtime": "numpy",
+  "kind": "code",
+  "tags": ["flashattention", "online softmax", "memory", "attention"],
+  "hints": [
+    "Keep three running quantities per query row: the max m (start at -inf), the softmax denominator l (start at 0) and the unnormalised output acc (zeros, shape (T_q, d_v)).",
+    "For each key block: s = q @ k_blk.T / sqrt(d); m_new = maximum(m, s.max(1)); corr = exp(m - m_new); p = exp(s - m_new[:, None]); l = l * corr + p.sum(1); acc = acc * corr[:, None] + p @ v_blk; m = m_new.",
+    "After the last block: out = acc / l[:, None] and lse = m + log(l). Slicing k[start:start + block_size] handles a last block that is shorter than block_size."
+  ],
+  "timeout": 30
+}

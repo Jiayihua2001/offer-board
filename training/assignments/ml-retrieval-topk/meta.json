@@ -1,0 +1,18 @@
+{
+  "id": "ml-retrieval-topk",
+  "title": "Embedding retrieval: cosine top-k and MMR re-ranking",
+  "track": "ml",
+  "module": "ml-applied",
+  "order": 3,
+  "difficulty": "medium",
+  "minutes": 35,
+  "runtime": "numpy",
+  "kind": "code",
+  "tags": ["retrieval", "cosine similarity", "argpartition", "MMR", "RAG"],
+  "hints": [
+    "Cosine similarity of unit vectors is a dot product: normalize the documents once, normalize the query, then sims = docs_n @ q_n is the whole score vector. Guard the norm with np.maximum(norm, eps) so a zero row stays zero instead of becoming nan.",
+    "np.argpartition(-sims, k - 1)[:k] finds the k largest in O(n) but in no particular order; sort just those k by score to return them ranked.",
+    "MMR is greedy: start with the most relevant document, then repeatedly add the unselected document maximizing lam * sim(q, d) - (1 - lam) * max_{s in selected} sim(d, s). Keep a running vector of each document's maximum similarity to the selected set and update it with np.maximum after every pick, so each step is O(n d)."
+  ],
+  "timeout": 30
+}

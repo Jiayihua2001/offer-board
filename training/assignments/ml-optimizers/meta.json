@@ -1,0 +1,18 @@
+{
+  "id": "ml-optimizers",
+  "title": "SGD with momentum, Adam, and a warmup-cosine schedule",
+  "track": "ml",
+  "module": "ml-linear",
+  "order": 4,
+  "difficulty": "medium",
+  "minutes": 40,
+  "runtime": "numpy",
+  "kind": "code",
+  "tags": ["optimizers", "momentum", "Adam", "learning rate schedule", "bias correction"],
+  "hints": [
+    "Each optimizer is an object that owns its state (velocity, or m, v and a step counter) and reads self.lr on every step, so a schedule can change opt.lr between steps. Create the state lazily on the first call, shaped like the parameter.",
+    "SGD momentum, PyTorch convention: v = momentum * v + g, then p = p - lr * v. Adam: m = b1 m + (1 - b1) g, v = b2 v + (1 - b2) g^2, then divide by (1 - b1^t) and (1 - b2^t) before p -= lr * m_hat / (sqrt(v_hat) + eps). Count t from 1.",
+    "Warmup-cosine: for step <= warmup_steps the lr is lr_max * step / warmup_steps; after that progress = (step - warmup_steps) / (total_steps - warmup_steps) clipped to [0, 1] and lr = lr_min + 0.5 * (lr_max - lr_min) * (1 + cos(pi * progress))."
+  ],
+  "timeout": 30
+}

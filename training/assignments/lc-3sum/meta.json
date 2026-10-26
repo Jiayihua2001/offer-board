@@ -1,0 +1,18 @@
+{
+  "id": "lc-3sum",
+  "title": "3Sum",
+  "track": "leetcode",
+  "module": "lc-arrays",
+  "order": 4,
+  "difficulty": "medium",
+  "minutes": 35,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["two pointers", "sorting", "array"],
+  "hints": [
+    "Fix the first number nums[i]; what remains is Two Sum for target -nums[i] on the rest. With a hash set that is already O(n^2), but removing duplicate triplets gets messy.",
+    "Sort first. For each i, run two pointers lo = i + 1 and hi = n - 1 inward: if the sum is too small move lo, if too large move hi. Sorted order makes each move safe.",
+    "Deduplicate by skipping: if nums[i] == nums[i - 1] continue, and after recording a triplet advance lo while nums[lo] == nums[lo - 1] (and hi likewise)."
+  ],
+  "timeout": 30
+}

@@ -1,0 +1,18 @@
+{
+  "id": "lc-word-break",
+  "title": "Word Break",
+  "track": "leetcode",
+  "module": "lc-dp",
+  "order": 4,
+  "difficulty": "medium",
+  "minutes": 30,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["DP", "strings", "hash set"],
+  "hints": [
+    "Plain recursion ('try every dictionary word as the next piece') re-solves the same suffix many times; on 'aaaa...ab' with words a, aa, aaa it is exponential. What is the repeated subproblem?",
+    "dp[i] = can s[:i] be segmented. dp[0] = True and dp[i] = any(dp[j] and s[j:i] in words for j < i). Put the dictionary in a set.",
+    "Only j in [i - max_word_len, i) can work, which makes it O(n * max_len) substring checks instead of O(n^2). Use the set; never scan the list."
+  ],
+  "timeout": 30
+}

@@ -1,0 +1,18 @@
+{
+  "id": "tf-attention-backward",
+  "title": "Backprop through attention",
+  "track": "transformer",
+  "module": "tf-attention",
+  "order": 3,
+  "difficulty": "hard",
+  "minutes": 60,
+  "runtime": "numpy",
+  "kind": "code",
+  "tags": ["attention", "backpropagation", "softmax", "gradients"],
+  "hints": [
+    "Walk backwards through out = w @ v: d_v = w^T @ d_out and d_w = d_out @ v^T. Transpose the last two axes with np.swapaxes so batch and head dims broadcast.",
+    "Softmax backward, row by row: d_s = w * (d_w - sum(d_w * w, axis=-1, keepdims=True)). Masked entries have w = 0, so they get d_s = 0 for free.",
+    "The scores were s = q @ k^T / sqrt(d_k), so d_q = d_s @ k / sqrt(d_k) and d_k = d_s^T @ q / sqrt(d_k)."
+  ],
+  "timeout": 30
+}

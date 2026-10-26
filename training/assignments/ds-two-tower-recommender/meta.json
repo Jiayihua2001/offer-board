@@ -1,0 +1,23 @@
+{
+  "id": "ds-two-tower-recommender",
+  "title": "Design retrieval and ranking for a short-video feed",
+  "track": "design",
+  "module": "ds-core",
+  "order": 6,
+  "difficulty": "medium",
+  "minutes": 30,
+  "runtime": "python",
+  "kind": "written",
+  "tags": ["recommendation", "retrieval", "ranking", "system design"],
+  "hints": [
+    "Write the latency budget per stage before choosing models. If ranking gets 50 ms for 1,000 candidates on one GPU, what model size and batch does that allow, and what has to be precomputed?",
+    "The training data is produced by the current system. Where does that bias the labels (position, exposure, popularity), and what does each of your two stages need as negatives?"
+  ],
+  "rubric": [
+    "Defines the objective and constraints in numbers: the engagement target, freshness and diversity requirements, QPS, and the p99 latency budget split across retrieval, ranking and re-ranking.",
+    "Designs candidate generation with a two-tower model: in-batch negatives with a sampling-bias correction, an approximate nearest-neighbour index over precomputed item embeddings, and extra candidate sources for fresh and cold-start items.",
+    "Designs the ranker as a multi-task model over explicit labels (click, completion, watch time, skip, share), names the features including the user history sequence, and explains how the heads are combined, calibrated and re-ranked for diversity.",
+    "Specifies the training data pipeline: impression logs with delayed labels, negative sampling per stage, position-bias handling, deduplication, continuous or daily retraining, and the scale of the embedding tables.",
+    "Covers serving and evaluation: feature store and precomputation, caching, offline metrics per stage (recall@k, AUC or NDCG), online A/B tests with retention and policy guardrails, and the cold-start plan for new users and new uploads."
+  ]
+}

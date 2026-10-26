@@ -1,0 +1,23 @@
+{
+  "id": "ds-llm-router",
+  "title": "Design a cost-aware LLM routing system",
+  "track": "design",
+  "module": "ds-core",
+  "order": 1,
+  "difficulty": "medium",
+  "minutes": 30,
+  "runtime": "python",
+  "kind": "written",
+  "tags": ["system design", "LLM", "evaluation"],
+  "hints": [
+    "Start from the requirement: what accuracy must the cheapest acceptable path hit, and what is the latency and cost budget per request?",
+    "A router needs a signal that predicts 'will the small model get this right?' before you pay for the big one. What features or models give you that signal, and how do you calibrate them?"
+  ],
+  "rubric": [
+    "States requirements and constraints up front: accuracy target, cost and latency budgets, traffic volume, and what a wrong answer costs.",
+    "Proposes a concrete routing policy (cascade, learned router, or confidence threshold) and explains how the threshold is set from a validation set.",
+    "Covers evaluation: offline replay on labeled data, the cost/accuracy frontier, and an online A/B with guardrail metrics.",
+    "Discusses calibration and drift: temperature scaling or similar, monitoring label disagreement, and when to retrain the router.",
+    "Names the failure modes (prompt injection, distribution shift, model updates changing behavior) and a mitigation for each."
+  ]
+}

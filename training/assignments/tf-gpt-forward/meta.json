@@ -1,0 +1,18 @@
+{
+  "id": "tf-gpt-forward",
+  "title": "The full GPT forward pass and loss",
+  "track": "transformer",
+  "module": "tf-blocks",
+  "order": 3,
+  "difficulty": "medium",
+  "minutes": 45,
+  "runtime": "numpy",
+  "kind": "code",
+  "tags": ["gpt", "language model", "cross-entropy", "weight tying"],
+  "hints": [
+    "Embeddings: x = wte[tokens] + wpe[:T]; the positional rows broadcast over the batch.",
+    "Loop over params['blocks'] with causal_mask(T) and params['n_heads'], then apply the final LayerNorm with lnf_g and lnf_b.",
+    "Tied output projection: logits = x @ wte.T. For the loss, compute a stable log-softmax (subtract the max, then z - log(sum(exp(z)))), pick the target entries with np.take_along_axis and average over every position."
+  ],
+  "timeout": 30
+}

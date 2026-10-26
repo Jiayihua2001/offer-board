@@ -1,0 +1,18 @@
+{
+  "id": "ml-micrograd",
+  "title": "A tiny scalar autograd engine",
+  "track": "ml",
+  "module": "ml-nets",
+  "order": 2,
+  "difficulty": "hard",
+  "minutes": 50,
+  "runtime": "numpy",
+  "kind": "code",
+  "tags": ["autograd", "backpropagation", "computational graph", "topological sort"],
+  "hints": [
+    "Every operation builds a new Value that remembers its inputs (_prev) and a closure _backward that, given the output's grad, adds the local derivative times out.grad onto each input's grad. For a * b: a.grad += b.data * out.grad and b.grad += a.data * out.grad.",
+    "Accumulate with += rather than =. A variable used twice (a * a + a) receives a gradient from each use and the total is their sum. That is also why the caller must zero grads between backward passes.",
+    "backward(): build a topological order of the graph by depth-first search from the root (append a node after visiting all its children), set root.grad = 1, then call node._backward() for every node in reverse order. Each node's grad is complete before its own _backward runs."
+  ],
+  "timeout": 30
+}

@@ -1,0 +1,18 @@
+{
+  "id": "ml-stratified-kfold",
+  "title": "Stratified and grouped cross-validation splits",
+  "track": "ml",
+  "module": "ml-eval",
+  "order": 3,
+  "difficulty": "easy",
+  "minutes": 30,
+  "runtime": "numpy",
+  "kind": "code",
+  "tags": ["cross-validation", "stratification", "group k-fold", "data leakage"],
+  "hints": [
+    "Stratified: for each class, take its indices, shuffle them with rng.permutation, and deal them round-robin to the k folds (fold_of[idx[i]] = i % k). Every fold then gets n_c // k or n_c // k + 1 members of class c.",
+    "Keep one array fold_of of length N. Fold f's test set is np.flatnonzero(fold_of == f) and its train set is np.flatnonzero(fold_of != f); that makes coverage and disjointness automatic.",
+    "Group k-fold: count the samples per group, visit groups from largest to smallest, and put each one into the fold that currently has the fewest samples. A group lives in exactly one fold, so it can never appear in both train and test."
+  ],
+  "timeout": 30
+}

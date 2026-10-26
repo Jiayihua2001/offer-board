@@ -1,0 +1,18 @@
+{
+  "id": "lc-koko-eating-bananas",
+  "title": "Koko Eating Bananas",
+  "track": "leetcode",
+  "module": "lc-search-sort",
+  "order": 2,
+  "difficulty": "medium",
+  "minutes": 25,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["binary search", "binary search on the answer"],
+  "hints": [
+    "Trying every speed k = 1, 2, 3, ... and checking each in O(n) works but is O(n * max(piles)). What property of 'speed k is fast enough' lets you skip most speeds?",
+    "Feasibility is monotone: if speed k finishes within h hours, every speed above k does too. A monotone yes/no predicate over a range of integers is exactly what binary search needs.",
+    "Hours needed at speed k is sum(ceil(p / k)) over the piles, which is (p + k - 1) // k in integers. Binary search k over [1, max(piles)] for the smallest feasible value."
+  ],
+  "timeout": 30
+}

@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "title": "Interview prep",
+  "blurb": "Daily practice for PhD research scientist and applied scientist loops: coding rounds, ML fundamentals, and building a transformer from scratch.",
+  "tracks": [
+    {
+      "id": "leetcode",
+      "title": "Coding interviews",
+      "short": "Coding",
+      "blurb": "LeetCode-style problems grouped by pattern. Aim for a clean solution with the right complexity in 25 to 35 minutes, talking through it the way you would on a call.",
+      "modules": [
+        {"id": "lc-arrays", "title": "Arrays, hashing, two pointers, sliding window"},
+        {"id": "lc-search-sort", "title": "Binary search, sorting, heaps"},
+        {"id": "lc-stack-queue", "title": "Stacks, queues, linked lists, design"},
+        {"id": "lc-trees-graphs", "title": "Trees and graphs"},
+        {"id": "lc-dp", "title": "Dynamic programming"},
+        {"id": "lc-backtracking", "title": "Backtracking, tries, bits, math"}
+      ]
+    },
+    {
+      "id": "ml",
+      "title": "ML fundamentals",
+      "short": "ML",
+      "blurb": "Implement the core algorithms from scratch in NumPy, the way ML coding rounds ask for them, and be able to explain every design choice.",
+      "modules": [
+        {"id": "ml-linear", "title": "Linear models and optimization"},
+        {"id": "ml-nets", "title": "Neural network building blocks"},
+        {"id": "ml-classic", "title": "Classic algorithms"},
+        {"id": "ml-eval", "title": "Evaluation and calibration"},
+        {"id": "ml-applied", "title": "Applied patterns"}
+      ]
+    },
+    {
+      "id": "transformer",
+      "title": "Build a transformer",
+      "short": "Transformer",
+      "blurb": "From a byte-pair tokenizer to a trained GPT, one piece at a time. NumPy for the mechanics, PyTorch for training.",
+      "modules": [
+        {"id": "tf-tokens", "title": "Tokens and embeddings"},
+        {"id": "tf-attention", "title": "Attention"},
+        {"id": "tf-blocks", "title": "Blocks and the full model"},
+        {"id": "tf-training", "title": "Training and inference"},
+        {"id": "tf-modern", "title": "Modern variants"}
+      ]
+    },
+    {
+      "id": "design",
+      "title": "ML system and research design",
+      "short": "Design",
+      "blurb": "Open-ended prompts scored against a rubric. Write or talk through the answer in 30 minutes, then grade yourself or have Claude grade it.",
+      "modules": [
+        {"id": "ds-core", "title": "Design prompts"}
+      ]
+    }
+  ]
+}

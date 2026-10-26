@@ -1,0 +1,18 @@
+{
+  "id": "ml-linear-regression",
+  "title": "Linear regression: closed form and gradient descent",
+  "track": "ml",
+  "module": "ml-linear",
+  "order": 1,
+  "difficulty": "easy",
+  "minutes": 30,
+  "runtime": "numpy",
+  "kind": "code",
+  "tags": ["linear regression", "least squares", "gradient descent", "normal equations"],
+  "hints": [
+    "Prepend a column of ones to X so the intercept is just another weight: Xb = np.hstack([np.ones((N, 1)), X]). Then the model is Xb @ w and w[0] is the bias.",
+    "The closed form minimizes ||Xb w - y||^2. np.linalg.lstsq(Xb, y, rcond=None) solves it and stays finite when X^T X is singular; np.linalg.solve(Xb.T @ Xb, Xb.T @ y) only works when it is invertible.",
+    "For GD, the loss mean((Xb w - y)^2) has gradient (2 / N) * Xb.T @ (Xb @ w - y). Record the loss every iteration, then step w -= lr * grad. On standardized features lr = 0.1 converges in a few hundred steps."
+  ],
+  "timeout": 30
+}

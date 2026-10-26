@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "settings": {
+    "goal": "Ready for research scientist and applied scientist interview loops",
+    "start_date": "2026-10-26",
+    "target_date": "2027-01-31",
+    "rotation": ["leetcode", "ml", "transformer", "leetcode", "ml", "transformer", "review"],
+    "quiz_per_day": 6,
+    "mock_minutes": 45
+  },
+  "events": []
+}

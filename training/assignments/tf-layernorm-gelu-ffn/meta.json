@@ -1,0 +1,18 @@
+{
+  "id": "tf-layernorm-gelu-ffn",
+  "title": "LayerNorm, GELU and the feed-forward block",
+  "track": "transformer",
+  "module": "tf-blocks",
+  "order": 1,
+  "difficulty": "easy",
+  "minutes": 30,
+  "runtime": "numpy",
+  "kind": "code",
+  "tags": ["layernorm", "gelu", "feed-forward", "broadcasting"],
+  "hints": [
+    "LayerNorm normalizes each token's vector over the last axis: mean(-1, keepdims=True) and var(-1, keepdims=True) (population variance), then (x - mean) / sqrt(var + eps) * g + b.",
+    "GELU, tanh form: 0.5 * x * (1 + tanh(sqrt(2 / pi) * (x + 0.044715 * x ** 3))).",
+    "The feed-forward block is two matmuls with the nonlinearity in between, gelu(x @ W1 + b1) @ W2 + b2, with a hidden width of 4 * d_model."
+  ],
+  "timeout": 30
+}

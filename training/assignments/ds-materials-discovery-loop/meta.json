@@ -1,0 +1,23 @@
+{
+  "id": "ds-materials-discovery-loop",
+  "title": "Design an active-learning loop for battery cathode discovery",
+  "track": "design",
+  "module": "ds-core",
+  "order": 2,
+  "difficulty": "hard",
+  "minutes": 30,
+  "runtime": "python",
+  "kind": "written",
+  "tags": ["active learning", "materials", "MLIP", "DFT"],
+  "hints": [
+    "The expensive step is DFT, so judge every design decision by what it does to the number of on-hull hits per DFT relaxation. Write that ratio down for the random baseline first, then say what each component changes it to.",
+    "The surrogate's top-ranked candidates are exactly where its errors are largest (winner's curse). What in the acquisition rule and the batch composition stops you from spending a week's budget on one over-optimistic corner of the space?"
+  ],
+  "rubric": [
+    "States the target in numbers (hull-distance threshold, voltage window, capacity, volume change, DFT relaxations per round) and defines the random-screening discovery rate as the baseline to beat.",
+    "Describes the surrogate stack concretely: MLIP relaxation, formation-energy and voltage prediction, an uncertainty estimate (ensemble or committee), and deduplication by structure matching before anything is ranked.",
+    "Gives an acquisition rule that combines predicted stability, uncertainty and diversity, with a batch size and a reserved exploration slice, and explains how the convex hull is rebuilt after each round.",
+    "Covers the feedback loop: DFT settings consistent with the reference hull, fine-tuning the MLIP on each round's results, a held-out check on the newest round for distribution shift, and a stopping rule.",
+    "Names failure modes (the search exploiting holes in the potential, duplicate structures, hull reference mismatch, batch collapse onto one chemistry) with a mitigation for each."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "tf-rope",
+  "title": "Rotary position embeddings",
+  "track": "transformer",
+  "module": "tf-modern",
+  "order": 1,
+  "difficulty": "medium",
+  "minutes": 40,
+  "runtime": "numpy",
+  "kind": "code",
+  "tags": ["rope", "positional encoding", "rotation"],
+  "hints": [
+    "Frequencies: inv_freq = base ** (-np.arange(0, d, 2) / d), shape (d/2,). The angle table is positions[:, None] * inv_freq[None, :], shape (T, d/2).",
+    "Take the even and odd columns x[..., 0::2] and x[..., 1::2] as the two coordinates of each pair and rotate: (x1 * cos - x2 * sin, x1 * sin + x2 * cos).",
+    "Interleave the two halves back with np.stack((r1, r2), axis=-1).reshape(x.shape)."
+  ],
+  "timeout": 30
+}

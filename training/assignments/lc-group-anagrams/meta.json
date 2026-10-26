@@ -1,0 +1,18 @@
+{
+  "id": "lc-group-anagrams",
+  "title": "Group Anagrams",
+  "track": "leetcode",
+  "module": "lc-arrays",
+  "order": 2,
+  "difficulty": "easy",
+  "minutes": 20,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["hash map", "string", "sorting"],
+  "hints": [
+    "Two words are anagrams exactly when they have the same letter counts. Can you compute one value from a word so that anagrams, and only anagrams, produce the same value?",
+    "Comparing every pair of words is O(n^2 k). A canonical key per word turns it into a single pass over the input.",
+    "Use the sorted word (or a tuple of 26 letter counts) as a dict key and append each word to its bucket; return the buckets."
+  ],
+  "timeout": 30
+}

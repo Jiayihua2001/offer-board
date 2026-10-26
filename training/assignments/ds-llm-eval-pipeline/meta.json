@@ -1,0 +1,23 @@
+{
+  "id": "ds-llm-eval-pipeline",
+  "title": "Design the evaluation pipeline for an LLM classifier replacing human reviewers",
+  "track": "design",
+  "module": "ds-core",
+  "order": 3,
+  "difficulty": "medium",
+  "minutes": 30,
+  "runtime": "python",
+  "kind": "written",
+  "tags": ["evaluation", "LLM", "labeling", "A/B testing"],
+  "hints": [
+    "Human agreement is the ceiling. Compute model-human kappa and human-human kappa on the same items, per category; the gap between them is what the release decision rests on.",
+    "The rarest category sets the sample size. Work out how many labeled positives you need for the recall interval you want, then design the sampling to get them without labeling 100,000 random items."
+  ],
+  "rubric": [
+    "Translates the business bar into measurable quantities: per-category precision and recall targets with confidence intervals, a non-inferiority margin against the median reviewer, and a cost model per decision.",
+    "Designs a gold set with stratified and confidence-enriched sampling, multiple annotators plus adjudication, a sample-size argument for the rarest category, and a rule that keeps it out of prompts and training data.",
+    "Reports agreement correctly: Cohen's or Fleiss' kappa for model-human and human-human on the same items, per category, with error attribution from adjudication rather than treating every disagreement as a model error.",
+    "Specifies a release gate: a shadow deployment, a statistical test for non-inferiority, per-category floors, threshold and calibration frozen before the test, and a canary rollout with rollback criteria.",
+    "Covers post-launch audits: a sampling scheme (random plus confidence-weighted plus appeals), drift and version-change triggers for re-gating, and how audited labels feed back into the model."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "tf-sampling-kv-cache",
+  "title": "Sampling strategies and a KV cache",
+  "track": "transformer",
+  "module": "tf-training",
+  "order": 2,
+  "difficulty": "medium",
+  "minutes": 50,
+  "runtime": "numpy",
+  "kind": "code",
+  "tags": ["sampling", "top-k", "top-p", "kv cache", "inference"],
+  "hints": [
+    "sample_next: divide the logits by the temperature; top-k sets everything below the k-th largest logit to -inf; top-p sorts the probabilities descending, takes their cumulative sum and keeps the shortest prefix whose sum is >= p (np.searchsorted on the cumsum, plus one), then renormalises and draws with rng.choice.",
+    "A cache is, per layer, the K and V of every token seen so far, shaped (H, T_past, d_head). A cached step computes q, k, v only for the new tokens, concatenates the new k and v onto the cache, and attends with the new queries against the full K and V.",
+    "The new tokens sit at positions T_past..T_past+t_new-1 (that is what wpe is indexed with), and the mask for them is j <= T_past + i. generate: prefill the prompt once, then feed one token per step; without the cache, call gpt_forward on the whole sequence every step."
+  ],
+  "timeout": 30
+}

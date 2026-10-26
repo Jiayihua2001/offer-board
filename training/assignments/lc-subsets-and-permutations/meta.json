@@ -1,0 +1,18 @@
+{
+  "id": "lc-subsets-and-permutations",
+  "title": "Subsets and Permutations",
+  "track": "leetcode",
+  "module": "lc-backtracking",
+  "order": 1,
+  "difficulty": "easy",
+  "minutes": 25,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["backtracking", "recursion"],
+  "hints": [
+    "Both are 'extend a partial answer, recurse, undo' problems. For subsets each element is either in or out; for permutations each position picks one element not used yet.",
+    "Subsets: recurse with a start index so each element is considered once, recording the path at every node (or loop over bitmasks 0 .. 2^n - 1). Permutations: keep a used array, or swap elements into place.",
+    "Append a copy (path[:]) when recording an answer; appending the live list is the classic bug that returns many identical lists."
+  ],
+  "timeout": 30
+}

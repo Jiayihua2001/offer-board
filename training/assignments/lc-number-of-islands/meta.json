@@ -1,0 +1,18 @@
+{
+  "id": "lc-number-of-islands",
+  "title": "Number of Islands",
+  "track": "leetcode",
+  "module": "lc-trees-graphs",
+  "order": 4,
+  "difficulty": "medium",
+  "minutes": 30,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["grid", "BFS", "DFS", "flood fill"],
+  "hints": [
+    "Each island is a connected component of land cells under 4-directional adjacency. How do you count connected components?",
+    "Scan the grid; every time you meet a land cell you have not visited, that is a new island. Flood-fill from it so the rest of that island is never counted again.",
+    "Flood fill with a queue or an explicit stack (recursion on a 300 x 300 all-land grid exceeds Python's stack). Overwriting visited '1' cells with '0' avoids a separate visited set."
+  ],
+  "timeout": 30
+}

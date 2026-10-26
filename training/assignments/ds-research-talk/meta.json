@@ -1,0 +1,23 @@
+{
+  "id": "ds-research-talk",
+  "title": "Plan a 30-minute research talk on an ML-accelerated crystal structure prediction engine",
+  "track": "design",
+  "module": "ds-core",
+  "order": 7,
+  "difficulty": "medium",
+  "minutes": 30,
+  "runtime": "python",
+  "kind": "written",
+  "tags": ["research talk", "communication", "materials"],
+  "hints": [
+    "Write the one-sentence claim first, then cut every slide that does not support it. The 2-minute motivation is the claim plus why each half of the room should care, not the history of the field.",
+    "List the five questions you least want to be asked. For each, write the honest answer in two sentences and decide which one belongs on a limitations slide before anyone asks it."
+  ],
+  "rubric": [
+    "The motivation takes at most 2 minutes and states the one question the talk answers in words both audiences can repeat, with the headline result given up front rather than saved for the end.",
+    "The talk is built around one key figure that shows the main claim against a baseline at equal compute with uncertainty, and the plan says what is said while it is on screen and how it is made legible for both audiences.",
+    "Every number in the plan is sourced (benchmark, baseline, DFT verification status) and a limitations slide names where the engine fails before the questions do.",
+    "The plan names one concrete thing each half of the audience can reuse (a method, a benchmark, a tool, a validation protocol) and what was deliberately cut to fit 30 minutes.",
+    "The plan prepares at least five hostile questions with two-sentence answers that concede what is true and point to data, and states a rule for handling a question the speaker cannot answer."
+  ]
+}

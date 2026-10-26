@@ -1,0 +1,23 @@
+{
+  "id": "ds-rag-scientific-qa",
+  "title": "Design retrieval-augmented QA over 2 million materials papers",
+  "track": "design",
+  "module": "ds-core",
+  "order": 5,
+  "difficulty": "medium",
+  "minutes": 30,
+  "runtime": "python",
+  "kind": "written",
+  "tags": ["RAG", "retrieval", "LLM", "evaluation"],
+  "hints": [
+    "Separate the two failures: the answer was not retrieved, or it was retrieved and the model still got it wrong. Your evaluation has to tell them apart, which means gold passages, not just gold answers.",
+    "Do the index math first: 2 million papers at about 15,000 tokens each is 30 billion tokens. How many chunks is that, how large is the vector index, and what does that imply about approximate search and reranking?"
+  ],
+  "rubric": [
+    "States requirements with numbers: query types, p95 latency, freshness, the citation requirement, and an explicit policy for abstaining versus answering.",
+    "Works through the corpus arithmetic (tokens, chunks, index size) and chooses a chunking, embedding and index strategy (hybrid sparse plus dense, approximate nearest-neighbour search, reranking) that fits the stated budget.",
+    "Describes the query path end to end: normalization of chemical formulas, units and synonyms, candidate retrieval, cross-encoder reranking, context assembly with citations, and generation with abstention.",
+    "Designs the evaluation set and metrics: gold passages plus expert answers, retrieval recall@k and MRR, answer faithfulness and correctness, citation precision, and validation of any LLM judge against experts.",
+    "Covers operations: weekly ingestion and index refresh, deduplication of preprints and versions, user feedback and audit loops, monitoring of retrieval-quality drift, and prompt injection through paper text."
+  ]
+}

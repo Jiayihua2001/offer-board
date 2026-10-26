@@ -1,0 +1,18 @@
+{
+  "id": "lc-network-delay-time",
+  "title": "Network Delay Time",
+  "track": "leetcode",
+  "module": "lc-trees-graphs",
+  "order": 6,
+  "difficulty": "medium",
+  "minutes": 30,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["graph", "Dijkstra", "heap", "shortest path"],
+  "hints": [
+    "The signal reaches each node at the length of its shortest path from k. Which algorithm computes single-source shortest paths when all weights are non-negative?",
+    "Dijkstra with a min-heap of (distance, node). Pop the smallest; if its distance is larger than the one already recorded for that node, the entry is stale, so skip it.",
+    "The answer is the largest finalised distance, or -1 if fewer than n nodes were ever settled. Nodes are 1-indexed; an adjacency list of size n + 1 avoids off-by-ones."
+  ],
+  "timeout": 30
+}

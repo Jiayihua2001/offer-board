@@ -1,0 +1,18 @@
+{
+  "id": "lc-max-path-sum",
+  "title": "Binary Tree Maximum Path Sum",
+  "track": "leetcode",
+  "module": "lc-trees-graphs",
+  "order": 3,
+  "difficulty": "hard",
+  "minutes": 40,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["tree", "DFS", "post-order", "DP on trees"],
+  "hints": [
+    "Every path has a highest node where it 'turns'. If you knew, for every node, the best downward path that starts there, could you score each node as the turning point?",
+    "Post-order: gain(node) = node.val + max(0, gain(left), gain(right)). A negative branch is worth dropping entirely, which is what the clamp at 0 does.",
+    "The best path turning at a node is node.val + max(0, left gain) + max(0, right gain). Update a global best with that at every node, but return only the single-branch gain upward."
+  ],
+  "timeout": 30
+}

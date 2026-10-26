@@ -1,0 +1,18 @@
+{
+  "id": "ml-decision-tree",
+  "title": "A CART decision tree classifier",
+  "track": "ml",
+  "module": "ml-classic",
+  "order": 4,
+  "difficulty": "hard",
+  "minutes": 50,
+  "runtime": "numpy",
+  "kind": "code",
+  "tags": ["decision tree", "CART", "Gini impurity", "recursion"],
+  "hints": [
+    "Gini of a label vector: counts = np.unique(y, return_counts=True)[1]; p = counts / counts.sum(); gini = 1 - (p ** 2).sum(). The gain of a split is gini(parent) - (n_left * gini(left) + n_right * gini(right)) / n.",
+    "Per feature: sort the values, one-hot the sorted labels, and take a cumulative sum. Row i of the cumsum holds the class counts of the first i + 1 points, so every candidate split's left and right Gini comes from one vectorized expression. Only positions where the value changes are candidates; the threshold is the midpoint.",
+    "Build recursively: stop and return a leaf {'value': majority} when the node is pure, depth == max_depth, fewer than 2 * min_samples_leaf samples, or no split has positive gain. Otherwise recurse on x[:, f] <= t and x[:, f] > t with depth + 1."
+  ],
+  "timeout": 30
+}

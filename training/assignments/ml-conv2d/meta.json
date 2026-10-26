@@ -1,0 +1,18 @@
+{
+  "id": "ml-conv2d",
+  "title": "2-D convolution from scratch",
+  "track": "ml",
+  "module": "ml-nets",
+  "order": 4,
+  "difficulty": "medium",
+  "minutes": 45,
+  "runtime": "numpy",
+  "kind": "code",
+  "tags": ["convolution", "CNN", "im2col", "broadcasting"],
+  "hints": [
+    "Pad first: xp = np.pad(x, ((0, 0), (0, 0), (p, p), (p, p))). Output size per axis is (n + 2p - k) // stride + 1.",
+    "Loop over output positions (i, j) only. The patch xp[:, :, i*s:i*s+kH, j*s:j*s+kW] has shape (N, C, kH, kW); contract it with w (F, C, kH, kW) over (C, kH, kW) in one call: np.tensordot(patch, w, axes=([1, 2, 3], [1, 2, 3])) gives (N, F).",
+    "im2col removes the loop entirely: gather every patch into a matrix of shape (N * H_out * W_out, C * kH * kW) and multiply by w reshaped to (C * kH * kW, F). The row index encodes (n, i, j), so reshape and transpose the product back to (N, F, H_out, W_out)."
+  ],
+  "timeout": 30
+}

@@ -1,0 +1,18 @@
+{
+  "id": "tf-scaled-dot-product-attention",
+  "title": "Scaled dot-product attention with a causal mask",
+  "track": "transformer",
+  "module": "tf-attention",
+  "order": 1,
+  "difficulty": "medium",
+  "minutes": 35,
+  "runtime": "numpy",
+  "kind": "code",
+  "tags": ["attention", "softmax", "masking"],
+  "hints": [
+    "Scores are Q @ K^T / sqrt(d_k). Shapes: (T_q, d) @ (d, T_k) -> (T_q, T_k). Use np.matmul or @ so leading batch dimensions broadcast.",
+    "Apply the mask by setting masked scores to a very negative number (like -1e9) before the softmax, so they become exactly 0 after exp.",
+    "A causal mask lets position i attend to positions j <= i: np.tril(np.ones((T, T), dtype=bool))."
+  ],
+  "timeout": 30
+}

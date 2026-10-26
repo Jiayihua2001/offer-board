@@ -1,0 +1,18 @@
+{
+  "id": "lc-kth-largest-quickselect",
+  "title": "Kth Largest Element in an Array",
+  "track": "leetcode",
+  "module": "lc-search-sort",
+  "order": 3,
+  "difficulty": "medium",
+  "minutes": 30,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["quickselect", "heap", "partition", "sorting"],
+  "hints": [
+    "sorted(nums)[-k] is O(n log n) and is the right first answer. A min-heap that never grows past k elements gives O(n log k). The interviewer will then ask for average O(n).",
+    "Quickselect: pick a pivot, partition the array into values below, equal to and above it, and recurse only into the one part that contains the k-th largest position. Average O(n) because the expected work halves each round.",
+    "Choose the pivot at random and partition three ways (less, equal, greater): with only two parts, an array full of duplicates degrades to O(n^2)."
+  ],
+  "timeout": 30
+}

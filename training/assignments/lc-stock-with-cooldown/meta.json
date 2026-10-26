@@ -1,0 +1,18 @@
+{
+  "id": "lc-stock-with-cooldown",
+  "title": "Best Time to Buy and Sell Stock with Cooldown",
+  "track": "leetcode",
+  "module": "lc-dp",
+  "order": 6,
+  "difficulty": "medium",
+  "minutes": 30,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["DP", "state machine"],
+  "hints": [
+    "At the end of each day you are in one of three states: holding a share, just sold (so tomorrow is a cooldown), or free with no share. Draw the transitions between them.",
+    "hold = max(hold, rest - price); sold = hold + price; rest = max(rest, sold), each computed from yesterday's values. Start with hold = -prices[0], sold = -inf, rest = 0.",
+    "Only yesterday's three values are needed, so three variables and one pass. The answer is max(sold, rest) on the last day, never hold."
+  ],
+  "timeout": 30
+}

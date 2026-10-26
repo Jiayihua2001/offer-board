@@ -1,0 +1,18 @@
+{
+  "id": "ml-mlp-backprop",
+  "title": "Two-layer MLP: forward and backward by hand",
+  "track": "ml",
+  "module": "ml-nets",
+  "order": 1,
+  "difficulty": "medium",
+  "minutes": 45,
+  "runtime": "numpy",
+  "kind": "code",
+  "tags": ["MLP", "backpropagation", "ReLU", "softmax", "gradient check"],
+  "hints": [
+    "Forward: h_pre = X @ W1 + b1, h = max(h_pre, 0), logits = h @ W2 + b2. Keep X, h_pre and h in the cache; backward needs them.",
+    "Start the backward pass from d(loss)/d(logits) = (softmax(logits) - onehot(y)) / N. For a linear layer out = inp @ W + b: dW = inp.T @ dout, db = dout.sum(axis=0), dinp = dout @ W.T.",
+    "ReLU's derivative is the mask (h_pre > 0), so dh_pre = dh * (h_pre > 0). Then apply the linear-layer rule again with X as the input to get dW1 and db1."
+  ],
+  "timeout": 30
+}

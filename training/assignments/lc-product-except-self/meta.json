@@ -1,0 +1,18 @@
+{
+  "id": "lc-product-except-self",
+  "title": "Product of Array Except Self",
+  "track": "leetcode",
+  "module": "lc-arrays",
+  "order": 5,
+  "difficulty": "medium",
+  "minutes": 25,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["prefix sum", "array"],
+  "hints": [
+    "Division is off the table (and it breaks on zeros anyway). The answer at i is the product of everything to the left of i times the product of everything to the right of i.",
+    "Two passes with a prefix-product array and a suffix-product array give O(n) time and O(n) extra space. Can you drop one of the arrays?",
+    "Write the prefix products straight into the output array left to right, then sweep right to left carrying the running suffix product in one variable and multiplying it in."
+  ],
+  "timeout": 30
+}

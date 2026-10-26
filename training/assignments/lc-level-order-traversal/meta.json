@@ -1,0 +1,18 @@
+{
+  "id": "lc-level-order-traversal",
+  "title": "Binary Tree Level Order Traversal",
+  "track": "leetcode",
+  "module": "lc-trees-graphs",
+  "order": 1,
+  "difficulty": "easy",
+  "minutes": 20,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["tree", "BFS", "queue"],
+  "hints": [
+    "A depth-first walk visits nodes in the wrong order for this output. Which traversal naturally visits a tree one level at a time?",
+    "Use a queue (collections.deque). The only real question is how to know where one level ends and the next begins.",
+    "At the start of each round record the queue's length: exactly that many pops belong to the current level. Collect their values, push their children, and the queue then holds precisely the next level."
+  ],
+  "timeout": 30
+}

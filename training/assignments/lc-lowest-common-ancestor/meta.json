@@ -1,0 +1,18 @@
+{
+  "id": "lc-lowest-common-ancestor",
+  "title": "Lowest Common Ancestor of a Binary Tree",
+  "track": "leetcode",
+  "module": "lc-trees-graphs",
+  "order": 2,
+  "difficulty": "medium",
+  "minutes": 30,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["tree", "recursion", "post-order"],
+  "hints": [
+    "The LCA is the deepest node whose subtree contains both p and q. What would each subtree have to report upward for its parent to decide?",
+    "Think post-order: ask the left and right subtrees first, then combine. A subtree that contains neither node reports None.",
+    "Return the node itself when it is p or q (a node is its own ancestor). If both the left and the right call return something, the current node is the answer; otherwise pass up whichever side is non-None."
+  ],
+  "timeout": 30
+}

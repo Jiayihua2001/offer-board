@@ -1,0 +1,18 @@
+{
+  "id": "tf-embeddings-positional",
+  "title": "Token embeddings and sinusoidal positional encoding",
+  "track": "transformer",
+  "module": "tf-tokens",
+  "order": 2,
+  "difficulty": "easy",
+  "minutes": 30,
+  "runtime": "numpy",
+  "kind": "code",
+  "tags": ["embeddings", "positional encoding", "broadcasting"],
+  "hints": [
+    "An embedding lookup is fancy indexing: E[tokens] works for any shape of tokens and returns tokens.shape + (d,).",
+    "Build the angle table by broadcasting a (T, 1) column of positions against a (1, d/2) row of inverse frequencies 10000 ** (-np.arange(0, d, 2) / d).",
+    "Fill the even columns with np.sin(angles) and the odd columns with np.cos(angles) through the slices pe[:, 0::2] and pe[:, 1::2]. Adding positions is E[tokens] + P[:T], which broadcasts over the batch."
+  ],
+  "timeout": 30
+}

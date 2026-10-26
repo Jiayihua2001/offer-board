@@ -1,0 +1,18 @@
+{
+  "id": "lc-implement-trie",
+  "title": "Implement Trie",
+  "track": "leetcode",
+  "module": "lc-backtracking",
+  "order": 3,
+  "difficulty": "easy",
+  "minutes": 20,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["trie", "design", "strings"],
+  "hints": [
+    "A trie is a tree whose edges are characters; each node also records whether some inserted word ends there. search and starts_with walk the same path and differ only in what they check at the end.",
+    "Each node holds a dict of children and an is_end flag. insert walks the path, creating nodes as needed; a helper that returns the node reached by a string (or None) serves both queries.",
+    "search returns node is not None and node.is_end; starts_with returns node is not None. Both are O(len(string)) no matter how many words are stored."
+  ],
+  "timeout": 30
+}

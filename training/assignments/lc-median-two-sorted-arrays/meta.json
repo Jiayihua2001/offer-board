@@ -1,0 +1,18 @@
+{
+  "id": "lc-median-two-sorted-arrays",
+  "title": "Median of Two Sorted Arrays",
+  "track": "leetcode",
+  "module": "lc-search-sort",
+  "order": 6,
+  "difficulty": "hard",
+  "minutes": 45,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["binary search", "partition", "divide and conquer"],
+  "hints": [
+    "Merging the two arrays (or just sorted(a + b)) is O(m + n) and gives the answer; say it, then aim for O(log(min(m, n))). The median splits the combined values into a left half and a right half; you only need the boundary values, not the order inside each half.",
+    "Choose i, how many elements of the shorter array a go to the left half; that forces j = (m + n + 1) // 2 - i elements from b. The split is correct when a[i-1] <= b[j] and b[j-1] <= a[i]. If a[i-1] > b[j], i is too big; otherwise too small. Binary search i over [0, m].",
+    "Treat missing neighbours at the array edges as -inf / +inf. For an odd total the median is max(a[i-1], b[j-1]); for an even total average that with min(a[i], b[j])."
+  ],
+  "timeout": 30
+}

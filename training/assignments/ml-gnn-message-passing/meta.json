@@ -1,0 +1,18 @@
+{
+  "id": "ml-gnn-message-passing",
+  "title": "A graph convolution layer and message passing",
+  "track": "ml",
+  "module": "ml-applied",
+  "order": 2,
+  "difficulty": "medium",
+  "minutes": 40,
+  "runtime": "numpy",
+  "kind": "code",
+  "tags": ["GNN", "GCN", "message passing", "permutation equivariance", "graph pooling"],
+  "hints": [
+    "Add self-loops first: A_tilde = A + I. Degrees d = A_tilde.sum(1). Then A_hat = A_tilde * d[:, None] ** -0.5 * d[None, :] ** -0.5, which is D^-1/2 A_tilde D^-1/2 without building a diagonal matrix.",
+    "A GCN layer is two matrix products: A_hat @ (X @ W) + b, then the activation. Row i of A_hat @ (X W) is the degree-normalized sum of the messages X_j W from i's neighbors and itself.",
+    "Permutation equivariance comes for free if every operation is either per-node (X @ W, activation) or aggregation through A_hat: relabeling nodes permutes both A_hat's rows and columns and X's rows, so the output rows are permuted the same way. Mean pooling over rows then makes the readout invariant."
+  ],
+  "timeout": 30
+}

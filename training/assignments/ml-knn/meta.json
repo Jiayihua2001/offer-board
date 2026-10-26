@@ -1,0 +1,18 @@
+{
+  "id": "ml-knn",
+  "title": "k-nearest neighbors, vectorized",
+  "track": "ml",
+  "module": "ml-classic",
+  "order": 2,
+  "difficulty": "easy",
+  "minutes": 30,
+  "runtime": "numpy",
+  "kind": "code",
+  "tags": ["k-NN", "pairwise distances", "broadcasting", "argpartition"],
+  "hints": [
+    "||a - b||^2 = ||a||^2 - 2 a.b + ||b||^2. With A (n, d) and B (m, d): (A**2).sum(1)[:, None] - 2 * A @ B.T + (B**2).sum(1)[None, :] gives the full (n, m) matrix with one matrix product. Clip at 0: rounding can make a true 0 come out as -1e-15.",
+    "The k nearest training rows for every test row at once: np.argpartition(D, k - 1, axis=1)[:, :k] on the (m_test, n_train) distance matrix, or np.argsort if k is small relative to n.",
+    "Vote without loops: map labels to 0..C-1 with np.unique(return_inverse=True), one-hot the neighbor labels to (m_test, k, C), sum over k, then argmax over C. argmax returns the first maximum, so with classes in sorted order the tie goes to the smallest label."
+  ],
+  "timeout": 30
+}

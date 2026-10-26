@@ -1,0 +1,18 @@
+{
+  "id": "lc-word-search-ii",
+  "title": "Word Search II",
+  "track": "leetcode",
+  "module": "lc-backtracking",
+  "order": 4,
+  "difficulty": "hard",
+  "minutes": 45,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["trie", "backtracking", "DFS", "pruning"],
+  "hints": [
+    "Running Word Search I once per word repeats the same board walks for every word that shares a prefix. Which structure shares prefixes?",
+    "Put all the words in a trie and DFS from every cell, stepping down the trie as you step across the board; stop the moment the trie has no child for the next letter.",
+    "When you reach a node that ends a word, record it and clear the marker so it is not reported twice; then delete trie nodes that lead nowhere any more. Without that pruning, a board of all 'a' with the words a, aa, ..., aaaaaaaaaaaa never finishes."
+  ],
+  "timeout": 30
+}

@@ -1,0 +1,18 @@
+{
+  "id": "ml-pca-svd",
+  "title": "PCA via SVD",
+  "track": "ml",
+  "module": "ml-classic",
+  "order": 3,
+  "difficulty": "medium",
+  "minutes": 35,
+  "runtime": "numpy",
+  "kind": "code",
+  "tags": ["PCA", "SVD", "dimensionality reduction", "linear algebra"],
+  "hints": [
+    "Center first: Xc = X - X.mean(0). Then U, S, Vt = np.linalg.svd(Xc, full_matrices=False). The rows of Vt are the principal directions, already sorted by singular value.",
+    "The variance along component i is S[i]**2 / (N - 1), because Xc.T @ Xc / (N - 1) = V diag(S^2 / (N - 1)) V.T. The ratio divides by the total over all D components, not just the ones you keep.",
+    "transform is (X - mean) @ components.T; inverse_transform is Z @ components + mean. With all components kept the round trip is exact because V is orthonormal."
+  ],
+  "timeout": 30
+}

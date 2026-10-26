@@ -1,0 +1,18 @@
+{
+  "id": "lc-daily-temperatures",
+  "title": "Daily Temperatures",
+  "track": "leetcode",
+  "module": "lc-stack-queue",
+  "order": 1,
+  "difficulty": "medium",
+  "minutes": 25,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["monotonic stack", "array"],
+  "hints": [
+    "Brute force scans forward from each day until a warmer one: O(n^2) on a falling sequence. As you sweep left to right, which earlier days are still waiting for their answer, and in what order do they get resolved?",
+    "The waiting days form a stack whose temperatures are non-increasing from bottom to top. A new warmer day resolves the top of the stack first, then the next, as long as they are colder than today.",
+    "Keep a stack of indices. For each day i: while the stack top is colder than temps[i], pop it and set answer[top] = i - top. Then push i. Every index is pushed and popped at most once, so it is O(n)."
+  ],
+  "timeout": 30
+}

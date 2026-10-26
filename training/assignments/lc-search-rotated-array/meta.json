@@ -1,0 +1,18 @@
+{
+  "id": "lc-search-rotated-array",
+  "title": "Search in Rotated Sorted Array",
+  "track": "leetcode",
+  "module": "lc-search-sort",
+  "order": 1,
+  "difficulty": "medium",
+  "minutes": 25,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["binary search", "array"],
+  "hints": [
+    "A linear scan is O(n) per query and the tests run thousands of queries. The array is 'almost sorted': which property of a sorted array does binary search really need?",
+    "Split at mid. At least one of the two halves, nums[lo..mid] or nums[mid..hi], is sorted in the ordinary way. Compare nums[lo] with nums[mid] to tell which.",
+    "If the left half is sorted and nums[lo] <= target < nums[mid], search it; otherwise search the right half. Mirror the logic when the right half is the sorted one."
+  ],
+  "timeout": 30
+}

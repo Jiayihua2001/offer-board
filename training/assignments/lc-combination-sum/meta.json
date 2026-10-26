@@ -1,0 +1,18 @@
+{
+  "id": "lc-combination-sum",
+  "title": "Combination Sum",
+  "track": "leetcode",
+  "module": "lc-backtracking",
+  "order": 2,
+  "difficulty": "medium",
+  "minutes": 30,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["backtracking", "recursion", "pruning"],
+  "hints": [
+    "Build a combination one number at a time and recurse with the remaining target. To avoid producing [2, 3] and [3, 2] separately, never go back to an earlier candidate.",
+    "Pass a start index: at each level loop over candidates[start:], and recurse with the same index (reuse allowed), not start + 1.",
+    "Sort the candidates and break out of the loop as soon as a candidate exceeds the remaining target; that prunes whole subtrees. Record path[:] when the remainder hits 0."
+  ],
+  "timeout": 30
+}

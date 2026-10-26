@@ -1,0 +1,18 @@
+{
+  "id": "lc-course-schedule",
+  "title": "Course Schedule II",
+  "track": "leetcode",
+  "module": "lc-trees-graphs",
+  "order": 5,
+  "difficulty": "medium",
+  "minutes": 30,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["graph", "topological sort", "BFS", "Kahn's algorithm"],
+  "hints": [
+    "Model courses as nodes and each pair [a, b] as a directed edge b -> a. A valid order exists exactly when this graph has no cycle. Which course can always be taken first?",
+    "Kahn's algorithm: compute in-degrees, start a queue with every course of in-degree 0, and repeatedly pop one, append it to the order, and decrement its dependants' in-degrees, pushing those that reach 0.",
+    "If the order ends up shorter than num_courses, the leftover courses sit on or behind a cycle: return []. A three-colour DFS also works, but on 10^5 nodes it needs an explicit stack in Python."
+  ],
+  "timeout": 30
+}

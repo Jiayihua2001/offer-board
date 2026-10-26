@@ -1,0 +1,18 @@
+{
+  "id": "lc-merge-k-sorted-lists",
+  "title": "Merge k Sorted Lists",
+  "track": "leetcode",
+  "module": "lc-stack-queue",
+  "order": 5,
+  "difficulty": "medium",
+  "minutes": 30,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["heap", "linked list", "divide and conquer"],
+  "hints": [
+    "Collecting every value, sorting and rebuilding a list is O(N log N) and worth saying first. Merging the lists one after another into an accumulator is O(N k), which the large test rejects. The inputs are already sorted; what does that let you avoid?",
+    "At every step the next output node is the smallest among the k current heads. A min-heap over the heads answers that in O(log k), so the total is O(N log k). Pairwise merging in a tournament (divide and conquer) gets the same bound.",
+    "Push (value, list_index, node) for each non-empty head; pop the smallest, append its node to the output via a dummy head, and push that list's next node. The index breaks ties so two nodes are never compared."
+  ],
+  "timeout": 30
+}

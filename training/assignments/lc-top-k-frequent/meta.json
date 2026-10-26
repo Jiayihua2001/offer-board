@@ -1,0 +1,18 @@
+{
+  "id": "lc-top-k-frequent",
+  "title": "Top K Frequent Elements",
+  "track": "leetcode",
+  "module": "lc-search-sort",
+  "order": 4,
+  "difficulty": "medium",
+  "minutes": 25,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["heap", "bucket sort", "hash map"],
+  "hints": [
+    "Count first: one dict pass gives (value -> frequency). Now the problem is 'k largest frequencies' over the distinct values, and sorting them is O(d log d).",
+    "A min-heap of size k over (frequency, value) pairs is O(d log k): push every distinct value, pop whenever the heap exceeds k. What survives is the top k.",
+    "Frequencies are integers in [1, n], so bucket them: buckets[f] holds the values with frequency f. Walk the buckets from n down to 1 until you have k values. That is O(n) with no comparisons at all."
+  ],
+  "timeout": 30
+}

@@ -1,0 +1,18 @@
+{
+  "id": "lc-longest-substring-no-repeat",
+  "title": "Longest Substring Without Repeating Characters",
+  "track": "leetcode",
+  "module": "lc-arrays",
+  "order": 3,
+  "difficulty": "medium",
+  "minutes": 25,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["sliding window", "hash map", "string"],
+  "hints": [
+    "Brute force: for every start index extend to the right until a character repeats, tracking the best length with a set. That is O(n^2). Which work is repeated between neighbouring starts?",
+    "Keep a window [left, right] that always holds distinct characters. Extending right by one can invalidate the window only through the new character s[right].",
+    "Store the last index where each character was seen. When s[right] was last seen at p >= left, jump left to p + 1. Never move left backwards (try 'abba' by hand)."
+  ],
+  "timeout": 30
+}

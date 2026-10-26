@@ -1,0 +1,18 @@
+{
+  "id": "tf-lora",
+  "title": "LoRA on a linear layer",
+  "track": "transformer",
+  "module": "tf-modern",
+  "order": 2,
+  "difficulty": "medium",
+  "minutes": 35,
+  "runtime": "torch",
+  "kind": "code",
+  "tags": ["lora", "fine-tuning", "pytorch", "low-rank"],
+  "hints": [
+    "Freeze the base with p.requires_grad_(False). Create A = nn.Parameter(torch.randn(r, in_features) / sqrt(in_features)) and B = nn.Parameter(torch.zeros(out_features, r)); B = 0 makes the update start at exactly zero.",
+    "forward: base(x) + (x @ A.T @ B.T) * (alpha / r). Two thin matmuls; never form the (out, in) product during training.",
+    "merge: under torch.no_grad(), base.weight += (B @ A) * scaling and set a flag so forward skips the LoRA path; unmerge subtracts the same thing and clears the flag."
+  ],
+  "timeout": 60
+}

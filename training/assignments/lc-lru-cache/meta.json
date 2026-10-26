@@ -1,0 +1,18 @@
+{
+  "id": "lc-lru-cache",
+  "title": "LRU Cache",
+  "track": "leetcode",
+  "module": "lc-stack-queue",
+  "order": 3,
+  "difficulty": "medium",
+  "minutes": 35,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["design", "hash map", "linked list"],
+  "hints": [
+    "You need three O(1) operations: find an entry by key, move an entry to the most-recent position, and remove the least-recent entry. A dict gives you the first; a list gives neither of the other two in O(1).",
+    "A doubly linked list ordered by recency supports unlink and insert-at-front in O(1) once you hold the node, and the dict maps key -> node. Sentinel head and tail nodes remove every edge case.",
+    "get: if present, unlink the node and reinsert it at the front, return its value. put: if present, update the value and move to front; otherwise create a node at the front and, if over capacity, unlink the node before the tail and delete its key from the dict."
+  ],
+  "timeout": 30
+}

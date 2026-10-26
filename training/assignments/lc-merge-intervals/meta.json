@@ -1,0 +1,18 @@
+{
+  "id": "lc-merge-intervals",
+  "title": "Merge Intervals",
+  "track": "leetcode",
+  "module": "lc-search-sort",
+  "order": 5,
+  "difficulty": "medium",
+  "minutes": 20,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["sorting", "sweep", "intervals"],
+  "hints": [
+    "Merging pairs until nothing changes works but is O(n^2) or worse. What order of processing guarantees that an interval can only overlap the most recently merged one?",
+    "Sort by start. Then every interval either overlaps the last interval in your result (start <= its end) or begins strictly after it.",
+    "Keep an output list; for each interval in sorted order, if it overlaps the last output interval extend that end with max(ends), otherwise append it. Touching intervals ([1,4] and [4,5]) merge."
+  ],
+  "timeout": 30
+}

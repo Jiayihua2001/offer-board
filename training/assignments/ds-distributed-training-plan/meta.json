@@ -1,0 +1,23 @@
+{
+  "id": "ds-distributed-training-plan",
+  "title": "Plan the training of a 7B decoder on 64 GPUs",
+  "track": "design",
+  "module": "ds-core",
+  "order": 4,
+  "difficulty": "hard",
+  "minutes": 30,
+  "runtime": "python",
+  "kind": "written",
+  "tags": ["distributed training", "systems", "LLM"],
+  "hints": [
+    "Start from bytes per parameter: weights, gradients, fp32 master weights and the two Adam moments in mixed precision. Does the full state fit on one 80 GB GPU? That answer decides the parallelism.",
+    "Write the FLOP count as 6 x N x D and divide by the cluster's achieved, not peak, throughput. Then ask how often a 64-GPU job fails in practice and what each restart costs in lost work."
+  ],
+  "rubric": [
+    "Computes the per-device memory: about 16 bytes per parameter for weights, gradients, master weights and Adam state (around 112 GB for 7B), activation memory per token and layer, and concludes that the state must be sharded.",
+    "Chooses and justifies a parallelism layout (for example FSDP or ZeRO-3 across all 64 GPUs, with or without tensor parallelism inside a node), with a micro-batch, a global batch in tokens, and the communication volume per step compared with compute.",
+    "Estimates throughput from 6ND FLOPs and a stated MFU (40 to 50%), giving tokens per second and days to finish, and checks it against the 8-week window with the failure rate included.",
+    "Specifies checkpointing: a frequency derived from the expected failure rate, checkpoint size and write time, asynchronous saving, and resumable data-loader state so a restart neither repeats nor skips data.",
+    "Describes failure handling and monitoring: detection of hung or failed ranks, elastic restart, a loss-spike playbook (lower lr, skip the batch, roll back), and the metrics to watch (MFU, loss, gradient norm, throughput)."
+  ]
+}

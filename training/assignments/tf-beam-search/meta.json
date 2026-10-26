@@ -1,0 +1,18 @@
+{
+  "id": "tf-beam-search",
+  "title": "Beam search with length normalization",
+  "track": "transformer",
+  "module": "tf-training",
+  "order": 3,
+  "difficulty": "medium",
+  "minutes": 40,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["decoding", "beam search", "length penalty"],
+  "hints": [
+    "Keep `live` as a list of (tokens, total log-prob). Each round expands every live hypothesis with every next token, sorts all candidates by total log-prob and keeps the best beam_width.",
+    "A kept candidate whose last token is eos moves to `finished` and is never expanded again. Stop when nothing is live or after max_len rounds; whatever is still live then counts as finished too.",
+    "Rank candidates inside a round by the raw total (they all have the same length); compare finished hypotheses by logp / n ** alpha with n the number of generated tokens."
+  ],
+  "timeout": 30
+}

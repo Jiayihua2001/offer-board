@@ -1,0 +1,18 @@
+{
+  "id": "tf-bpe-tokenizer",
+  "title": "Byte-pair encoding from scratch",
+  "track": "transformer",
+  "module": "tf-tokens",
+  "order": 1,
+  "difficulty": "medium",
+  "minutes": 45,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["tokenization", "bpe", "bytes"],
+  "hints": [
+    "Work on list(text.encode('utf-8')). Count adjacent pairs with zip(ids, ids[1:]) and a Counter; every overlapping occurrence counts.",
+    "min(counts, key=lambda p: (-counts[p], p)) picks the most frequent pair with the lexicographic tie-break in one line.",
+    "Merging is one left-to-right pass with an index that jumps by 2 on a match and by 1 otherwise. encode is that same pass applied once per merge, in training order, and the decoding vocab is vocab[256 + i] = vocab[a] + vocab[b]."
+  ],
+  "timeout": 30
+}

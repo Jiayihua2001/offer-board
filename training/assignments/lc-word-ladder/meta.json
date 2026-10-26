@@ -1,0 +1,18 @@
+{
+  "id": "lc-word-ladder",
+  "title": "Word Ladder",
+  "track": "leetcode",
+  "module": "lc-trees-graphs",
+  "order": 8,
+  "difficulty": "hard",
+  "minutes": 40,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["BFS", "graph", "string"],
+  "hints": [
+    "Each word is a node and two words are adjacent when they differ in exactly one letter. The shortest chain is a shortest path in an unweighted graph, so BFS. The real question is how to find neighbours fast.",
+    "Comparing every pair of words costs O(N^2 * L). Instead bucket the words by wildcard pattern: 'hot' belongs to '*ot', 'h*t' and 'ho*'. Two words are adjacent iff they share a bucket.",
+    "BFS from begin_word, expanding each word through its L patterns, and empty a bucket after using it (or keep a visited set) so no word is expanded twice. Return the level at which end_word is dequeued, counting begin_word as level 1."
+  ],
+  "timeout": 30
+}

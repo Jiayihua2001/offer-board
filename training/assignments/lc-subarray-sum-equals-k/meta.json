@@ -1,0 +1,18 @@
+{
+  "id": "lc-subarray-sum-equals-k",
+  "title": "Subarray Sum Equals K",
+  "track": "leetcode",
+  "module": "lc-arrays",
+  "order": 6,
+  "difficulty": "medium",
+  "minutes": 25,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["prefix sum", "hash map", "array"],
+  "hints": [
+    "A sliding window needs the sum to grow as the window grows; negatives break that. Write sum(nums[i:j]) as a difference of two prefix sums P[j] - P[i].",
+    "So you need, for each j, the number of earlier i with P[i] == P[j] - k. 'How many times have I seen this value' is a hash map of counts.",
+    "One pass: running sum P, dict count with count[0] = 1 for the empty prefix; add count[P - k] to the answer, then increment count[P]."
+  ],
+  "timeout": 30
+}

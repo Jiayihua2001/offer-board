@@ -1,0 +1,18 @@
+{
+  "id": "tf-multi-head-attention",
+  "title": "Multi-head attention",
+  "track": "transformer",
+  "module": "tf-attention",
+  "order": 2,
+  "difficulty": "medium",
+  "minutes": 40,
+  "runtime": "numpy",
+  "kind": "code",
+  "tags": ["attention", "multi-head", "reshape"],
+  "hints": [
+    "Project once with the full (d_model, d_model) matrices, then split: x.reshape(B, T, H, d_head) followed by transpose(0, 2, 1, 3) gives (B, H, T, d_head). Reshaping straight to (B, H, T, d_head) scrambles tokens across heads.",
+    "The provided attention() broadcasts over the leading (B, H) dims, so one call handles every head, and the scale inside it uses d_head, not d_model.",
+    "Merge with the inverse moves, transpose(0, 2, 1, 3) then reshape(B, T, d_model), and finish with @ Wo."
+  ],
+  "timeout": 30
+}

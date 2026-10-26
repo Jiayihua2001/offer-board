@@ -1,0 +1,18 @@
+{
+  "id": "ml-train-loop-torch",
+  "title": "A complete PyTorch training loop with early stopping",
+  "track": "ml",
+  "module": "ml-applied",
+  "order": 1,
+  "difficulty": "medium",
+  "minutes": 45,
+  "runtime": "torch",
+  "kind": "code",
+  "tags": ["PyTorch", "training loop", "early stopping", "train/eval mode", "validation"],
+  "hints": [
+    "One epoch: model.train(); perm = torch.randperm(N); for each slice of perm of size batch_size: optimizer.zero_grad(); loss = loss_fn(model(X[idx]), y[idx]); loss.backward(); optimizer.step(). Accumulate loss.item() * len(idx) and divide by N at the end.",
+    "evaluate: model.eval() and with torch.no_grad(): one forward pass over the whole set; return loss.item() and (logits.argmax(1) == y).float().mean().item(). The tests check both the mode flag and that grad is disabled inside the forward.",
+    "Early stopping: keep best_loss, best_epoch and a copy of the best state_dict ({k: v.clone() ...}). After each epoch, if val_loss < best_loss reset the counter, else increment it and stop when it reaches patience. Before returning, model.load_state_dict(best_state)."
+  ],
+  "timeout": 90
+}

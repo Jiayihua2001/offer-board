@@ -1,0 +1,18 @@
+{
+  "id": "tf-train-tiny-gpt",
+  "title": "Train a tiny GPT in PyTorch",
+  "track": "transformer",
+  "module": "tf-training",
+  "order": 1,
+  "difficulty": "hard",
+  "minutes": 60,
+  "runtime": "torch",
+  "kind": "code",
+  "tags": ["pytorch", "gpt", "training loop", "nn.Module"],
+  "hints": [
+    "Block = x + attn(ln1(x)), then x + mlp(ln2(x)). Keep a tril buffer for the causal mask and masked_fill(~tril, -inf) before the softmax. If you use nn.MultiheadAttention(batch_first=True), its attn_mask is True where attention is NOT allowed, and pass need_weights=False.",
+    "Loss: F.cross_entropy(logits.reshape(-1, V), y.reshape(-1), ignore_index=-100). make_batch already sets the digits-and-separator positions of y to -100.",
+    "AdamW at lr 1e-3 with batch 64 and gradient clipping at 1.0 solves this in a few hundred steps. Initialise Linear and Embedding weights with std 0.02, zero the biases, and tie lm_head.weight = tok_emb.weight."
+  ],
+  "timeout": 120
+}

@@ -1,0 +1,18 @@
+{
+  "id": "lc-min-stack",
+  "title": "Min Stack",
+  "track": "leetcode",
+  "module": "lc-stack-queue",
+  "order": 2,
+  "difficulty": "easy",
+  "minutes": 20,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["stack", "design"],
+  "hints": [
+    "Scanning the stack for the minimum makes get_min O(n). The minimum only changes when the stack changes, and a pop restores whatever the minimum was before the matching push. What could you remember at push time?",
+    "Store, next to each value, the minimum of the stack at the moment that value was pushed. Popping then restores the earlier minimum for free.",
+    "Either push (value, current_min) pairs onto one list, or keep a second 'min stack' that only receives a value when it is <= the current minimum (and pops when the popped value equals its top). Use <=, not <, so duplicates of the minimum work."
+  ],
+  "timeout": 30
+}

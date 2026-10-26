@@ -1,0 +1,18 @@
+{
+  "id": "ml-logistic-regression",
+  "title": "Logistic regression with L2, stable and from scratch",
+  "track": "ml",
+  "module": "ml-linear",
+  "order": 2,
+  "difficulty": "medium",
+  "minutes": 40,
+  "runtime": "numpy",
+  "kind": "code",
+  "tags": ["logistic regression", "sigmoid", "log-loss", "L2 regularization", "numerical stability"],
+  "hints": [
+    "np.exp(-z) overflows for z < -709. A sigmoid that never overflows uses e = np.exp(-np.abs(z)): for z >= 0 it is 1 / (1 + e), for z < 0 it is e / (1 + e). Or use 0.5 * (1 + np.tanh(z / 2)).",
+    "Do not compute log(p) and log(1 - p). The per-sample loss is softplus(z) - y * z where softplus(z) = log(1 + exp(z)) = np.logaddexp(0, z), which is stable for any z.",
+    "The gradient of the mean log-loss is X.T @ (p - y) / N for w and mean(p - y) for b, with p = sigmoid(X @ w + b). Add l2 * w (and nothing for b) for the penalty (l2 / 2) * ||w||^2."
+  ],
+  "timeout": 30
+}

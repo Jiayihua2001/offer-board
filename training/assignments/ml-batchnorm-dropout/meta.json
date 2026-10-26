@@ -1,0 +1,18 @@
+{
+  "id": "ml-batchnorm-dropout",
+  "title": "Batch norm and inverted dropout, train and eval modes",
+  "track": "ml",
+  "module": "ml-nets",
+  "order": 3,
+  "difficulty": "medium",
+  "minutes": 35,
+  "runtime": "numpy",
+  "kind": "code",
+  "tags": ["batch normalization", "dropout", "regularization", "train/eval mode"],
+  "hints": [
+    "Training: mu = x.mean(0), var = x.var(0) (biased, divide by N), x_hat = (x - mu) / sqrt(var + eps), out = gamma * x_hat + beta. Eval: the same formula with running_mean and running_var in place of the batch statistics.",
+    "Running stats are an exponential moving average, PyTorch convention: running = (1 - momentum) * running + momentum * batch_stat, and the batch variance fed into it is the unbiased one (multiply the biased variance by N / (N - 1)). Return new arrays; do not mutate the inputs.",
+    "Inverted dropout: mask = rng.random(x.shape) >= p, out = x * mask / (1 - p) in training so E[out] = x; in eval return x unchanged with a mask of ones."
+  ],
+  "timeout": 30
+}

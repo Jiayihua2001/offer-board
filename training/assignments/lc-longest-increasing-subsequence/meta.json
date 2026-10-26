@@ -1,0 +1,18 @@
+{
+  "id": "lc-longest-increasing-subsequence",
+  "title": "Longest Increasing Subsequence",
+  "track": "leetcode",
+  "module": "lc-dp",
+  "order": 2,
+  "difficulty": "medium",
+  "minutes": 30,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["DP", "binary search", "patience sorting"],
+  "hints": [
+    "The O(n^2) DP: dp[i] = 1 + max(dp[j] for j < i if nums[j] < nums[i]). Get that working first; it is what most candidates are expected to reach quickly.",
+    "For O(n log n) keep tails[k] = the smallest value that can end an increasing subsequence of length k + 1. Why does tails stay sorted as you process the numbers?",
+    "For each x, binary-search the first tails entry >= x (bisect_left) and overwrite it; if there is none, append. len(tails) is the answer. Strictly increasing means bisect_left, not bisect_right."
+  ],
+  "timeout": 30
+}

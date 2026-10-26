@@ -1,0 +1,18 @@
+{
+  "id": "ml-temperature-scaling",
+  "title": "Temperature scaling and expected calibration error",
+  "track": "ml",
+  "module": "ml-eval",
+  "order": 2,
+  "difficulty": "medium",
+  "minutes": 40,
+  "runtime": "numpy",
+  "kind": "code",
+  "tags": ["calibration", "temperature scaling", "ECE", "reliability diagram", "1-D optimization"],
+  "hints": [
+    "nll(logits, y, T) is the mean cross-entropy of softmax(logits / T): use the provided log_softmax on logits / T and pick out the label column with np.arange(N), y.",
+    "The NLL is a smooth function of a single scalar, so any bracketing search works. Search over log T between log(lo) and log(hi): evaluate a coarse grid, then refine around the best point with golden-section or ternary search until the bracket is narrower than tol.",
+    "ECE: confidence = probs.max(1), correct = probs.argmax(1) == y. Bin the confidences into n_bins equal-width bins on (0, 1]; for each non-empty bin add (count / N) * |mean(correct) - mean(confidence)|."
+  ],
+  "timeout": 30
+}

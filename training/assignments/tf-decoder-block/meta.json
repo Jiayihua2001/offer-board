@@ -1,0 +1,18 @@
+{
+  "id": "tf-decoder-block",
+  "title": "A pre-norm decoder block",
+  "track": "transformer",
+  "module": "tf-blocks",
+  "order": 2,
+  "difficulty": "medium",
+  "minutes": 40,
+  "runtime": "numpy",
+  "kind": "code",
+  "tags": ["decoder block", "residual", "pre-norm"],
+  "hints": [
+    "Pre-norm means the LayerNorm is applied to the input of each sub-layer, not to the sum: h = x + mha(ln1(x)).",
+    "Pass the mask straight through to mha; the FFN is position-wise and needs no mask.",
+    "Second half: out = h + ffn(ln2(h)). Nothing else: no final norm and no dropout in this version."
+  ],
+  "timeout": 30
+}

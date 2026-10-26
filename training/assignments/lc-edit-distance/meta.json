@@ -1,0 +1,18 @@
+{
+  "id": "lc-edit-distance",
+  "title": "Edit Distance",
+  "track": "leetcode",
+  "module": "lc-dp",
+  "order": 3,
+  "difficulty": "medium",
+  "minutes": 35,
+  "runtime": "python",
+  "kind": "code",
+  "tags": ["DP", "strings", "2D DP"],
+  "hints": [
+    "Define dp[i][j] as the distance between the first i characters of word1 and the first j characters of word2. What are dp[i][0] and dp[0][j]?",
+    "If the last characters match, dp[i][j] = dp[i-1][j-1]; otherwise 1 + min(dp[i-1][j] (delete), dp[i][j-1] (insert), dp[i-1][j-1] (replace)).",
+    "Each row needs only the previous row, so two rows (or one row plus a saved diagonal value) give O(min(m, n)) space when you iterate over the longer string."
+  ],
+  "timeout": 30
+}
