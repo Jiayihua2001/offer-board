@@ -1,9 +1,248 @@
 {
-  "runs": 1,
+  "runs": 2,
   "spend": {
-    "2026-10": 0.5059
+    "2026-10": 0.9272
   },
-  "discovery_cursor": 10,
-  "review": [],
-  "last_run": "2026-10-26 18:49 UTC"
+  "discovery_cursor": 20,
+  "review": [
+    {
+      "company": "xAI",
+      "title": "AI Tutor - Materials Science",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4925823007",
+      "location": "Remote International",
+      "source": "Greenhouse (xai)"
+    },
+    {
+      "company": "xAI",
+      "title": "AI Tutor - Physics",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4925832007",
+      "location": "Remote International",
+      "source": "Greenhouse (xai)"
+    },
+    {
+      "company": "Isomorphic Labs",
+      "title": "Research Leader (DMPK), Cambridge, MA",
+      "url": "https://job-boards.greenhouse.io/isomorphiclabs/jobs/6140840004",
+      "location": "Cambridge, MA",
+      "source": "Greenhouse (isomorphiclabs)"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "AI Residency Program, Physical Sciences ",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4444240009",
+      "location": "Cambridge, MA USA",
+      "source": "Greenhouse (lilasciences)"
+    },
+    {
+      "company": "Achira",
+      "title": "Machine Learning Research Engineer (MLRE) - GPUs",
+      "url": "https://jobs.ashbyhq.com/achira/f7893ad8-8da1-4ae3-b56b-151feb17d324",
+      "location": "San Francisco Office",
+      "source": "Ashby (achira)"
+    },
+    {
+      "company": "Achira",
+      "title": "Machine Learning Research Engineer (MLRE) - Workflows/Systems",
+      "url": "https://jobs.ashbyhq.com/achira/bb70d7b1-6da0-4271-85b6-caec85254dea",
+      "location": "San Francisco Office",
+      "source": "Ashby (achira)"
+    },
+    {
+      "company": "Chai Discovery",
+      "title": "Forward-Deployed Scientist",
+      "url": "https://jobs.ashbyhq.com/chaidiscovery/e60e0d79-622d-4251-b056-d380484d9dab",
+      "location": "San Francisco office",
+      "source": "Ashby (chaidiscovery)"
+    },
+    {
+      "company": "Chai Discovery",
+      "title": "Scientist, Protein Design",
+      "url": "https://jobs.ashbyhq.com/chaidiscovery/9cc94a28-cac9-48a4-a44c-685a870b6288",
+      "location": "San Francisco office",
+      "source": "Ashby (chaidiscovery)"
+    },
+    {
+      "company": "Chai Discovery",
+      "title": "Software Engineer, Developer & Research Platform",
+      "url": "https://jobs.ashbyhq.com/chaidiscovery/9be875bd-46f0-4653-9851-88e2ce49eb64",
+      "location": "San Francisco office",
+      "source": "Ashby (chaidiscovery)"
+    },
+    {
+      "company": "Chai Discovery",
+      "title": "Software Engineer, AI Platform",
+      "url": "https://jobs.ashbyhq.com/chaidiscovery/ad8dd3de-8139-4385-8c5a-566a359e9be0",
+      "location": "San Francisco office",
+      "source": "Ashby (chaidiscovery)"
+    },
+    {
+      "company": "Genesis Molecular AI",
+      "title": "Machine Learning Infrastructure Engineer",
+      "url": "https://jobs.ashbyhq.com/genesis-molecular-ai/388e7964-e9a3-4620-89ae-ff21fe6444cc",
+      "location": "San Mateo, CA",
+      "source": "Ashby (genesis-molecular-ai)"
+    },
+    {
+      "company": "Iambic Therapeutics",
+      "title": "Machine Learning Scientist – Clinical Prediction",
+      "url": "https://jobs.ashbyhq.com/iambic-therapeutics/e418c9bf-4fe6-4484-92ad-e9a320557815",
+      "location": "Boston Office",
+      "source": "Ashby (iambic-therapeutics)"
+    },
+    {
+      "company": "Iambic Therapeutics",
+      "title": "Research Scientist II/Senior, Computational Chemistry",
+      "url": "https://jobs.ashbyhq.com/iambic-therapeutics/6236b729-9139-4971-8a31-3f5a9add1ed4",
+      "location": "San Diego HQ",
+      "source": "Ashby (iambic-therapeutics)"
+    },
+    {
+      "company": "Iambic Therapeutics",
+      "title": "Sr Associate Scientist I or II, Medicinal Chemistry ",
+      "url": "https://jobs.ashbyhq.com/iambic-therapeutics/6ba365c2-2542-41c0-9674-ec529ea4a218",
+      "location": "San Diego HQ",
+      "source": "Ashby (iambic-therapeutics)"
+    },
+    {
+      "company": "Iambic Therapeutics",
+      "title": "Sr. Associate Scientist I / II – High Throughput Chemistry",
+      "url": "https://jobs.ashbyhq.com/iambic-therapeutics/3e8cd097-a214-42cf-ab17-06dbbd159a1d",
+      "location": "San Diego HQ",
+      "source": "Ashby (iambic-therapeutics)"
+    },
+    {
+      "company": "SandboxAQ",
+      "title": "Machine Learning Scientist – Generative Molecular Design",
+      "url": "https://jobs.ashbyhq.com/sandboxaq/f6d8bdb1-75e5-4abe-94ea-285a7c2aa359",
+      "location": "United States",
+      "source": "Ashby (sandboxaq)"
+    },
+    {
+      "company": "SandboxAQ",
+      "title": "Machine Learning Scientist, Generative Molecular Design (Material Discovery)",
+      "url": "https://jobs.ashbyhq.com/sandboxaq/8579117b-a05a-4b64-9595-58fb5e83c685",
+      "location": "United States",
+      "source": "Ashby (sandboxaq)"
+    },
+    {
+      "company": "SandboxAQ",
+      "title": "Computational Chemist - Machine Learned Force Fields, Material Discovery",
+      "url": "https://jobs.ashbyhq.com/sandboxaq/b33383d4-18c9-4eea-acab-6fdd713f5174",
+      "location": "United States",
+      "source": "Ashby (sandboxaq)"
+    },
+    {
+      "company": "SandboxAQ",
+      "title": "Machine Learning Scientist - Molecular Force Fields",
+      "url": "https://jobs.ashbyhq.com/sandboxaq/2ecf82f8-6bab-48d5-b34a-e1c745b7fc60",
+      "location": "United States",
+      "source": "Ashby (sandboxaq)"
+    },
+    {
+      "company": "Thinking Machines Lab",
+      "title": "Research Lead, Tinker, Fine-tuning Science",
+      "url": "https://jobs.ashbyhq.com/thinkingmachines/4e3a366f-eb0f-4ea9-8cf9-9c2f911f279c",
+      "location": "San Francisco",
+      "source": "Ashby (thinkingmachines)"
+    },
+    {
+      "company": "University of Florida",
+      "title": "Post Doctoral Associate, Center for Molecular Magnetic Quantum Materials (M2QM)",
+      "url": "https://www.ziprecruiter.com/Jobs/Computational-Materials-Dft",
+      "location": "Gainesville, FL",
+      "source": "Claude web search: quantum chemistry machine learning research scientist job Un"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Research Scientist Graduate (Seed Large Language Model LLM) - 2027 Start",
+      "url": "https://portfoliojobs.tcv.com/companies/bytedance/jobs/72958870-research-scientist-graduate-seed-large-language-model-llm-2027-start",
+      "location": "United States (city per pay band; US listings include San Jose and Seattle)",
+      "source": "Claude web search: LLM evaluation OR post-training research scientist PhD new g"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance",
+      "url": "https://lifeattiktok.com/search/7669910326745434421",
+      "location": "Seattle, WA",
+      "source": "Simplify new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Live",
+      "url": "https://lifeattiktok.com/search/7670285495593273605",
+      "location": "San Jose, CA",
+      "source": "Simplify new-grad list"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Data Lake Infrastructure & Data Analytics Research Engineer Graduate - Applied Machine Learning Ark",
+      "url": "https://jobs.bytedance.com/en/position/7671108456554432773/detail",
+      "location": "San Jose, CA",
+      "source": "Simplify new-grad list"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Agent Evaluation & Evolution Researcher Graduate - Applied Machine Learning Ark",
+      "url": "https://jobs.bytedance.com/en/position/7672391176102676741/detail",
+      "location": "Seattle, WA",
+      "source": "Simplify new-grad list"
+    },
+    {
+      "company": "ByteDance",
+      "title": "AI/LLM Network Software Development Engineer Graduate - High Speed Network - PhD",
+      "url": "https://jobs.bytedance.com/en/position/7668855566150732037/detail",
+      "location": "Seattle, WA",
+      "source": "Simplify new-grad list"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Research Scientist Graduate - Seed AI Foundation Model Infrastructure - PhD",
+      "url": "https://jobs.bytedance.com/en/position/7673264681083898165/detail",
+      "location": "San Jose, CA",
+      "source": "Simplify new-grad list"
+    },
+    {
+      "company": "DraftKings",
+      "title": "Data Science Engineer",
+      "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Science-Engineer--December-2026-and-May-2027-Grads-_JR14959",
+      "location": "Boston, MA",
+      "source": "Simplify new-grad list"
+    },
+    {
+      "company": "Adobe",
+      "title": "Machine Learning Engineer New Grad",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085",
+      "location": "Seattle, WA; SF; Austin, TX; San Jose, CA; Waltham, MA; NYC; Lehi, UT",
+      "source": "Simplify new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate - E-Commerce User Growth",
+      "url": "https://lifeattiktok.com/search/7694353236283935029",
+      "location": "Seattle, WA",
+      "source": "Simplify new-grad list"
+    },
+    {
+      "company": "Brain Co.",
+      "title": "Machine Learning Engineer New Grad",
+      "url": "https://jobs.ashbyhq.com/brainco/4c9f8f00-0caf-4927-80da-02a3e53cb0cd/application?embed=true",
+      "location": "SF",
+      "source": "Simplify new-grad list"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Research Scientist",
+      "url": "https://jobs.bytedance.com/en/position/7698902624389482757/detail",
+      "location": "San Jose, CA",
+      "source": "Simplify new-grad list"
+    },
+    {
+      "company": "Fermilab",
+      "title": "Artificial Intelligence Associate",
+      "url": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/AI-Associates_R_009869",
+      "location": "Batavia, IL",
+      "source": "Simplify new-grad list"
+    }
+  ],
+  "last_run": "2026-10-27 05:21 UTC"
 }

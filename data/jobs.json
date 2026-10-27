@@ -22,8 +22,8 @@
     ],
     "ats": null,
     "first_seen": "2026-10-25",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
     "check_failures": 0,
     "added": null,
     "stale": false
@@ -51,8 +51,8 @@
     ],
     "ats": null,
     "first_seen": "2026-10-25",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
     "check_failures": 0,
     "added": null,
     "stale": false
@@ -80,8 +80,8 @@
     ],
     "ats": null,
     "first_seen": "2026-10-25",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
     "check_failures": 0,
     "added": null,
     "stale": false
@@ -109,8 +109,8 @@
     ],
     "ats": null,
     "first_seen": "2026-10-25",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
     "check_failures": 0,
     "added": null,
     "stale": false
@@ -138,7 +138,7 @@
     ],
     "ats": null,
     "first_seen": "2026-10-25",
-    "last_checked": "2026-10-26",
+    "last_checked": "2026-10-27",
     "last_open": "2026-10-25",
     "check_failures": 0,
     "added": null,
@@ -167,7 +167,7 @@
     ],
     "ats": null,
     "first_seen": "2026-10-25",
-    "last_checked": "2026-10-26",
+    "last_checked": "2026-10-27",
     "last_open": "2026-10-25",
     "check_failures": 0,
     "added": null,
@@ -203,8 +203,8 @@
       "path": "/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2026739"
     },
     "first_seen": "2026-10-25",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
     "check_failures": 0,
     "stale": false
   },
@@ -235,8 +235,8 @@
       "id": "c4e0774f-0f3e-4ea7-be27-fb89130c0d01"
     },
     "first_seen": "2026-10-25",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
     "check_failures": 0,
     "added": null,
     "stale": false
@@ -268,8 +268,8 @@
       "id": "168dbf20-2230-49a0-9f00-f2ff58dad5c8"
     },
     "first_seen": "2026-10-25",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
     "check_failures": 0,
     "added": null,
     "stale": false
@@ -301,8 +301,8 @@
       "id": "4324886009"
     },
     "first_seen": "2026-10-25",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
     "check_failures": 0,
     "added": null,
     "stale": false
@@ -335,9 +335,10 @@
     },
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "Snowflake",
@@ -367,9 +368,10 @@
     },
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "ByteDance",
@@ -395,9 +397,10 @@
     "ats": null,
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "ByteDance",
@@ -423,9 +426,10 @@
     "ats": null,
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "Achira",
@@ -455,9 +459,10 @@
     },
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "D. E. Shaw Research",
@@ -483,9 +488,10 @@
     "ats": null,
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "Thinking Machines Lab",
@@ -515,9 +521,10 @@
     },
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "Thinking Machines Lab",
@@ -547,9 +554,10 @@
     },
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
+    "last_checked": "2026-10-27",
     "last_open": "2026-10-26",
-    "check_failures": 0
+    "check_failures": 1,
+    "stale": false
   },
   {
     "company": "D. E. Shaw Research",
@@ -575,9 +583,10 @@
     "ats": null,
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "Character.AI",
@@ -607,9 +616,10 @@
     },
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "Periodic Labs",
@@ -639,9 +649,10 @@
     },
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "xAI (SpaceXSI)",
@@ -671,9 +682,10 @@
     },
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "Chai Discovery",
@@ -703,9 +715,10 @@
     },
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "TikTok",
@@ -731,9 +744,10 @@
     "ats": null,
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "TikTok",
@@ -759,9 +773,10 @@
     "ats": null,
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "ByteDance",
@@ -787,9 +802,10 @@
     "ats": null,
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "Genesis Molecular AI",
@@ -819,10 +835,11 @@
     },
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
     "check_failures": 0,
-    "stretch": true
+    "stretch": true,
+    "stale": false
   },
   {
     "company": "Apple",
@@ -848,9 +865,10 @@
     "ats": null,
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "Apple",
@@ -876,9 +894,10 @@
     "ats": null,
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "Lila Sciences",
@@ -908,9 +927,10 @@
     },
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "Google",
@@ -936,9 +956,10 @@
     "ats": null,
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "Achira",
@@ -968,9 +989,10 @@
     },
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "Achira",
@@ -1000,9 +1022,10 @@
     },
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "Lila Sciences",
@@ -1032,9 +1055,10 @@
     },
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "Thinking Machines Lab",
@@ -1064,9 +1088,10 @@
     },
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "Thinking Machines Lab",
@@ -1096,9 +1121,10 @@
     },
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "Anthropic",
@@ -1128,9 +1154,10 @@
     },
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "Character.AI",
@@ -1160,9 +1187,10 @@
     },
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "TikTok",
@@ -1188,9 +1216,10 @@
     "ats": null,
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "TikTok",
@@ -1216,9 +1245,10 @@
     "ats": null,
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "xAI (SpaceXSI)",
@@ -1248,9 +1278,10 @@
     },
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "TikTok",
@@ -1276,9 +1307,10 @@
     "ats": null,
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "Safe Superintelligence (SSI)",
@@ -1308,9 +1340,10 @@
     },
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
+    "last_checked": "2026-10-27",
     "last_open": "2026-10-26",
-    "check_failures": 0
+    "check_failures": 1,
+    "stale": false
   },
   {
     "company": "TikTok",
@@ -1336,9 +1369,10 @@
     "ats": null,
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "Periodic Labs",
@@ -1368,9 +1402,10 @@
     },
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "TikTok",
@@ -1396,9 +1431,10 @@
     "ats": null,
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "xAI (SpaceXSI)",
@@ -1428,9 +1464,10 @@
     },
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "Waymo",
@@ -1456,9 +1493,10 @@
     "ats": null,
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "TikTok",
@@ -1484,9 +1522,10 @@
     "ats": null,
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "ByteDance",
@@ -1512,9 +1551,10 @@
     "ats": null,
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "NVIDIA",
@@ -1546,9 +1586,10 @@
     },
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "NVIDIA",
@@ -1580,9 +1621,10 @@
     },
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "TikTok",
@@ -1608,9 +1650,10 @@
     "ats": null,
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "Apple",
@@ -1636,9 +1679,10 @@
     "ats": null,
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "Apple",
@@ -1664,9 +1708,10 @@
     "ats": null,
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "Apple",
@@ -1692,9 +1737,10 @@
     "ats": null,
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "Together AI",
@@ -1724,9 +1770,10 @@
     },
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "Mistral AI",
@@ -1756,9 +1803,10 @@
     },
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "TikTok",
@@ -1784,9 +1832,10 @@
     "ats": null,
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "TikTok",
@@ -1812,9 +1861,10 @@
     "ats": null,
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "TikTok",
@@ -1840,9 +1890,10 @@
     "ats": null,
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "TikTok",
@@ -1868,9 +1919,10 @@
     "ats": null,
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "TikTok",
@@ -1896,9 +1948,10 @@
     "ats": null,
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "TikTok",
@@ -1924,9 +1977,10 @@
     "ats": null,
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "Liquid AI",
@@ -1956,9 +2010,10 @@
     },
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
-    "check_failures": 0
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "Cerebras Systems",
@@ -1988,8 +2043,99 @@
     },
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
-    "last_checked": "2026-10-26",
-    "last_open": "2026-10-26",
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0,
+    "stale": false
+  },
+  {
+    "company": "Meta",
+    "role": "AI Research Scientist, FAIR Chemistry",
+    "est": [
+      220,
+      330
+    ],
+    "id": "meta-ai-research-scientist-fair-chemi-885309",
+    "track": "science",
+    "location": "New York, NY",
+    "base": "Pay not listed in the posting",
+    "fit": 5,
+    "why": "FAIR Chemistry builds ML interatomic potentials and datasets (the UMA, OMat and OMol line of work), and the candidate has used UMA, MACE and AIMNet2 as lead developer of GAtor 2.0. Their ML-accelerated crystal structure prediction, large-scale HPC and PyTorch skills, and experimental PXRD collaborations match the team's materials-discovery focus.",
+    "caveat": "The posting text was unavailable and only a Glassdoor search-results URL was given, so the specific role, whether it is still open, and the pay are unverified. Sponsorship is not confirmed in the text, though Meta generally sponsors H-1B, and the estimate is based on typical Meta research scientist new-grad pay, which can vary widely by level (E4 vs E5).",
+    "posted": "",
+    "source": "Claude web search: computational chemistry machine learning scientist job PhD",
+    "url": "https://www.glassdoor.com/Job/new-york-computational-chemistry-jobs-SRCH_IL.0,8_IC1132348_KO9,32.htm",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-10-27",
+    "first_seen": "2026-10-27",
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0
+  },
+  {
+    "company": "ByteDance",
+    "role": "Research Scientist Graduate (Seed Model - LLM) - 2027 Start (PhD)",
+    "est": [
+      250,
+      400
+    ],
+    "id": "bytedance-research-scientist-graduate-seed-9d941b",
+    "track": "llm",
+    "location": "California (team also covers San Jose and Seattle)",
+    "base": "Pay not listed in the posting",
+    "fit": 4,
+    "why": "The Seed LLM team's focus on instruction tuning, preference alignment and model optimization matches the candidate's Amazon internship work on LLM routing, quality estimators with calibration, and diagnosing LLM-vs-human label disagreement. Their PyTorch/Hugging Face skills and large-scale distributed work on Slurm/MPI clusters with ML potentials support the large-scale training requirement, though they have no pretraining or LLM-paper track record.",
+    "caveat": "The posting does not mention visa sponsorship, and it asks for an onboarding date by end of year, which conflicts with the candidate's May 2027 graduation. The pay range is estimated from typical ByteDance PhD new-grad compensation, not stated.",
+    "posted": "2026-10-25",
+    "source": "Claude web search: LLM evaluation OR post-training research scientist PhD new g",
+    "url": "https://zapply.jobs/jobs/8c4759dd-7347-4a8c-89ae-43b6f8af8c98/",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-10-27",
+    "first_seen": "2026-10-27",
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
+    "check_failures": 0
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Research Scientist PhD New Grad - Autonomous Systems and Physical AI Research",
+    "est": [
+      220,
+      330
+    ],
+    "id": "nvidia-research-scientist-phd-new-grad--50f866",
+    "track": "science",
+    "location": "Santa Clara, CA",
+    "base": "Pay not listed in the posting",
+    "fit": 3,
+    "why": "The candidate's PhD-level ML research, PyTorch expertise, and experience scaling GAtor 2.0 with ML interatomic potentials on large MPI/Slurm clusters match NVIDIA's research-scientist profile. Their Amazon LLM routing and transformer-based quality estimation work adds applied ML depth. However, the focus on autonomous systems and physical AI (robotics, perception, simulation) is not directly their domain.",
+    "caveat": "The page text was unavailable, so sponsorship, the exact team, the start date, and pay are unverified. The pay estimate rests on NVIDIA's typical PhD new-grad packages (base around $150-200K plus RSUs), and the role's autonomy/robotics focus may favor candidates with direct robotics, RL, or vision publications.",
+    "posted": "2026-10-07",
+    "source": "Simplify new-grad list",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": {
+      "type": "workday",
+      "host": "nvidia.wd5.myworkdayjobs.com",
+      "tenant": "nvidia",
+      "site": "NVIDIAExternalCareerSite",
+      "path": "/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551"
+    },
+    "added": "2026-10-27",
+    "first_seen": "2026-10-27",
+    "last_checked": "2026-10-27",
+    "last_open": "2026-10-27",
     "check_failures": 0
   }
 ]

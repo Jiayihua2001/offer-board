@@ -2503,5 +2503,107 @@
     "decision": "dismissed",
     "reason": "APL requires US citizenship and clearance eligibility",
     "tkey": "johns-hopkins-university-applied-physics-laboratory|2027-phd-graduate-artificial-intelligence-and-machine-learning"
+  },
+  "https://job-boards.greenhouse.io/isomorphiclabs/jobs/6131996004": {
+    "date": "2026-10-27",
+    "decision": "screened",
+    "reason": "needs more experience than a new PhD",
+    "tkey": "isomorphic-labs|research-leader-senior-scientist-in-vitro-cellular-pharmacology-cambridge-ma"
+  },
+  "https://job-boards.greenhouse.io/isomorphiclabs/jobs/6132115004": {
+    "date": "2026-10-27",
+    "decision": "screened",
+    "reason": "needs more experience than a new PhD",
+    "tkey": "isomorphic-labs|research-leader-senior-scientist-in-vivo-pharmacology-translational-sciences-cambridge-ma"
+  },
+  "https://job-boards.greenhouse.io/isomorphiclabs/jobs/6140839004": {
+    "date": "2026-10-27",
+    "decision": "screened",
+    "reason": "needs more experience than a new PhD",
+    "tkey": "isomorphic-labs|research-leader-senior-scientist-medicinal-drug-design-cambridge-ma"
+  },
+  "https://job-boards.greenhouse.io/isomorphiclabs/jobs/6188302004": {
+    "date": "2026-10-27",
+    "decision": "screened",
+    "reason": "needs more experience than a new PhD",
+    "tkey": "isomorphic-labs|research-leader-toxicology-cambridge-ma"
+  },
+  "https://jobs.ashbyhq.com/iambic-therapeutics/5044f2a9-6624-4192-a222-ac147a735f69": {
+    "date": "2026-10-27",
+    "decision": "screened",
+    "reason": "estimated $88K–$128K, below your line",
+    "tkey": "iambic-therapeutics|senior-associate-scientist-i-ii-purification-sciences"
+  },
+  "https://glassdoor.com/Job/new-york-computational-chemistry-jobs-SRCH_IL.0,8_IC1132348_KO9,32.htm": {
+    "date": "2026-10-27",
+    "decision": "added",
+    "reason": "",
+    "tkey": "meta|ai-research-scientist-fair-chemistry"
+  },
+  "https://zapply.jobs/jobs/eab54fed-026e-4901-8ff6-752a4e7532c3": {
+    "date": "2026-10-27",
+    "decision": "screened",
+    "reason": "estimated $190K–$250K, below your line",
+    "tkey": "applied-materials|ai-materials-research-engineer"
+  },
+  "https://clearancejobs.com/jobs/9010373/materials-and-chemistry-ai-scientist": {
+    "date": "2026-10-27",
+    "decision": "screened",
+    "reason": "requires US citizenship, a green card or a clearance",
+    "tkey": "mitre-corporation|materials-and-chemistry-ai-scientist"
+  },
+  "https://zapply.jobs/jobs/8c4759dd-7347-4a8c-89ae-43b6f8af8c98": {
+    "date": "2026-10-27",
+    "decision": "added",
+    "reason": "",
+    "tkey": "bytedance|research-scientist-graduate-seed-model-llm-2027-start-phd"
+  },
+  "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Science--Master-s-degree---2027-Grads-_R000157919": {
+    "date": "2026-10-27",
+    "decision": "screened",
+    "reason": "estimated $105K–$140K, below your line",
+    "tkey": "procter-gamble|data-science-new-grad-master-s-degree"
+  },
+  "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data---AI-Engineering--2027-Grads-_R000157913": {
+    "date": "2026-10-27",
+    "decision": "screened",
+    "reason": "estimated $130K–$175K, below your line",
+    "tkey": "procter-gamble|data-and-ai-engineering-new-grad"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473": {
+    "date": "2026-10-27",
+    "decision": "screened",
+    "reason": "estimated $200K–$300K, below your line",
+    "tkey": "nvidia|research-scientist-new-grad-robotics-research"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551": {
+    "date": "2026-10-27",
+    "decision": "added",
+    "reason": "",
+    "tkey": "nvidia|research-scientist-phd-new-grad-autonomous-systems-and-physical-ai-research"
+  },
+  "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/Entry-Level---AI-Machine-Learning-Researcher_JR-202621753": {
+    "date": "2026-10-27",
+    "decision": "screened",
+    "reason": "estimated $200K–$260K, below your line",
+    "tkey": "general-motors|ai-machine-learning-researcher"
+  },
+  "https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3?embed=true": {
+    "date": "2026-10-27",
+    "decision": "screened",
+    "reason": "estimated $180K–$260K, below your line",
+    "tkey": "quora|machine-learning-engineer-new-grad"
+  },
+  "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineer--2027-New-College-Graduate-_JR-2604163": {
+    "date": "2026-10-27",
+    "decision": "screened",
+    "reason": "estimated $120K–$165K, below your line",
+    "tkey": "globalfoundries|ai-ml-systems-engineer-new-grad"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Performance-LLM-Training-Engineer---New-College-Grad-2027_JR2028237": {
+    "date": "2026-10-27",
+    "decision": "screened",
+    "reason": "estimated $200K–$300K, below your line",
+    "tkey": "nvidia|high-performance-llm-training-engineer-new-grad"
   }
 }
