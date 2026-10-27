@@ -527,39 +527,6 @@
     "stale": false
   },
   {
-    "company": "Thinking Machines Lab",
-    "role": "Research, Post-Training",
-    "est": [
-      370,
-      520
-    ],
-    "id": "thinking-machines-lab-research-post-training-e99c29",
-    "track": "llm",
-    "location": "San Francisco, CA",
-    "base": "$350,000 - $475,000 base; sponsors visas",
-    "fit": 4,
-    "why": "Owns post-training recipes, evals and data iteration for frontier models; the candidate's LLM routing, quality estimation and prompt-improvement work plus PyTorch/HF skills map onto the recipe-and-evals loop described.",
-    "caveat": "Evergreen expression-of-interest req (no guaranteed immediate opening); minimum is a bachelor's with PhD preferred, so a new PhD competes with experienced researchers for a $350K-$475K base band; equity on top is not quantified.",
-    "posted": "2026-08-04",
-    "source": "Claude Code sweep 2026-10-26",
-    "url": "https://jobs.ashbyhq.com/thinkingmachines/3efb6896-4840-4f90-8798-2ce49fa146e5",
-    "visa": [
-      "stated",
-      "The posting says it sponsors visas."
-    ],
-    "ats": {
-      "type": "ashby",
-      "org": "thinkingmachines",
-      "id": "3efb6896-4840-4f90-8798-2ce49fa146e5"
-    },
-    "added": "2026-10-26",
-    "first_seen": "2026-10-26",
-    "last_checked": "2026-10-27",
-    "last_open": "2026-10-26",
-    "check_failures": 1,
-    "stale": false
-  },
-  {
     "company": "D. E. Shaw Research",
     "role": "Force Field Developer",
     "est": [
@@ -1313,39 +1280,6 @@
     "stale": false
   },
   {
-    "company": "Safe Superintelligence (SSI)",
-    "role": "Member of Technical Staff",
-    "est": [
-      250,
-      420
-    ],
-    "id": "safe-superintelligence-s-member-of-technical-staff-7a1111",
-    "track": "llm",
-    "location": "Palo Alto, CA (or Tel Aviv)",
-    "base": "$100K - $500K base; offers equity",
-    "fit": 3,
-    "why": "Single generic research/engineering req with no stated seniority bar; strong PyTorch, distributed training and LLM-evaluation experience are the only public signals it screens on.",
-    "caveat": "The posting lists no requirements or team, the $100K-$500K band says nothing about leveling, sponsorship is not stated, and the Ashby API lists zero public jobs so the req is effectively unlisted.",
-    "posted": "",
-    "source": "Claude Code sweep 2026-10-26",
-    "url": "https://jobs.ashbyhq.com/ssi/b91659e4-9352-46fa-b3c5-4fb28827eb2e",
-    "visa": [
-      "ask",
-      "The posting doesn’t say; ask the recruiter."
-    ],
-    "ats": {
-      "type": "ashby",
-      "org": "ssi",
-      "id": "b91659e4-9352-46fa-b3c5-4fb28827eb2e"
-    },
-    "added": "2026-10-26",
-    "first_seen": "2026-10-26",
-    "last_checked": "2026-10-27",
-    "last_open": "2026-10-26",
-    "check_failures": 1,
-    "stale": false
-  },
-  {
     "company": "TikTok",
     "role": "Machine Learning Engineer Graduate (E-Commerce Content Recommendation - Generative & Large Recommendation Model) - 2027 Start (PhD)",
     "est": [
@@ -2074,7 +2008,8 @@
     "first_seen": "2026-10-27",
     "last_checked": "2026-10-27",
     "last_open": "2026-10-27",
-    "check_failures": 0
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "ByteDance",
@@ -2102,7 +2037,8 @@
     "first_seen": "2026-10-27",
     "last_checked": "2026-10-27",
     "last_open": "2026-10-27",
-    "check_failures": 0
+    "check_failures": 0,
+    "stale": false
   },
   {
     "company": "NVIDIA",
@@ -2136,6 +2072,7 @@
     "first_seen": "2026-10-27",
     "last_checked": "2026-10-27",
     "last_open": "2026-10-27",
-    "check_failures": 0
+    "check_failures": 0,
+    "stale": false
   }
 ]

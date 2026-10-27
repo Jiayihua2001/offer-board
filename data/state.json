@@ -1,9 +1,9 @@
 {
-  "runs": 2,
+  "runs": 3,
   "spend": {
-    "2026-10": 0.9272
+    "2026-10": 1.313
   },
-  "discovery_cursor": 20,
+  "discovery_cursor": 9,
   "review": [
     {
       "company": "xAI",
@@ -27,11 +27,18 @@
       "source": "Greenhouse (isomorphiclabs)"
     },
     {
-      "company": "Lila Sciences",
-      "title": "AI Residency Program, Physical Sciences ",
-      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4444240009",
-      "location": "Cambridge, MA USA",
-      "source": "Greenhouse (lilasciences)"
+      "company": "Schrödinger",
+      "title": "Computational Chemist",
+      "url": "https://job-boards.greenhouse.io/schrdinger/jobs/8045317003",
+      "location": "New York; Cambridge, MA; San Diego; Portland",
+      "source": "Greenhouse (schrdinger)"
+    },
+    {
+      "company": "Schrödinger",
+      "title": "Computational Chemist, Target Druggability and Structure-Based Design",
+      "url": "https://job-boards.greenhouse.io/schrdinger/jobs/8045314003",
+      "location": "New York; Cambridge, MA; San Diego; Portland",
+      "source": "Greenhouse (schrdinger)"
     },
     {
       "company": "Achira",
@@ -74,13 +81,6 @@
       "url": "https://jobs.ashbyhq.com/chaidiscovery/ad8dd3de-8139-4385-8c5a-566a359e9be0",
       "location": "San Francisco office",
       "source": "Ashby (chaidiscovery)"
-    },
-    {
-      "company": "Genesis Molecular AI",
-      "title": "Machine Learning Infrastructure Engineer",
-      "url": "https://jobs.ashbyhq.com/genesis-molecular-ai/388e7964-e9a3-4620-89ae-ff21fe6444cc",
-      "location": "San Mateo, CA",
-      "source": "Ashby (genesis-molecular-ai)"
     },
     {
       "company": "Iambic Therapeutics",
@@ -146,18 +146,32 @@
       "source": "Ashby (thinkingmachines)"
     },
     {
-      "company": "University of Florida",
-      "title": "Post Doctoral Associate, Center for Molecular Magnetic Quantum Materials (M2QM)",
-      "url": "https://www.ziprecruiter.com/Jobs/Computational-Materials-Dft",
-      "location": "Gainesville, FL",
-      "source": "Claude web search: quantum chemistry machine learning research scientist job Un"
+      "company": "Genentech (Roche)",
+      "title": "Machine Learning Scientist, Scientific Reasoning Models, AI for Drug Discovery",
+      "url": "https://www.indeed.com/q-machine-learning-materials-science-jobs.html",
+      "location": "New York, NY",
+      "source": "Claude web search: AI for science research scientist PhD 2027 start United Stat"
+    },
+    {
+      "company": "TikTok (AML-Ark-US)",
+      "title": "Agent Evaluation & Evolution Researcher Graduate (AML-Ark-US) - 2027 Start (PhD)",
+      "url": "https://career.virginia.edu/jobs/tiktok-inc-agent-evaluation-evolution-researcher-graduate-aml-ark-us-2027-start-phd/",
+      "location": "San Jose, CA",
+      "source": "Claude web search: \"2027 Start\" PhD LLM research scientist TikTok trust and saf"
     },
     {
       "company": "ByteDance",
-      "title": "Research Scientist Graduate (Seed Large Language Model LLM) - 2027 Start",
-      "url": "https://portfoliojobs.tcv.com/companies/bytedance/jobs/72958870-research-scientist-graduate-seed-large-language-model-llm-2027-start",
-      "location": "United States (city per pay band; US listings include San Jose and Seattle)",
-      "source": "Claude web search: LLM evaluation OR post-training research scientist PhD new g"
+      "title": "Graduate LLM Research Scientist",
+      "url": "https://simplify.jobs/p/5ca5638a-d91f-4bd1-99cb-21e31590271d/Graduate-LLM-Research-Scientist",
+      "location": "San Jose, CA",
+      "source": "Claude web search: \"2027 Start\" PhD LLM research scientist TikTok trust and saf"
+    },
+    {
+      "company": "Google DeepMind",
+      "title": "Research Scientist, Agent Post Training, DeepMind",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/130223234522981062-research-scientist-agent-post-training-deepmind",
+      "location": "Mountain View, CA, USA",
+      "source": "Claude web search: research scientist PhD university graduate 2027 machine lear"
     },
     {
       "company": "TikTok",
@@ -202,13 +216,6 @@
       "source": "Simplify new-grad list"
     },
     {
-      "company": "DraftKings",
-      "title": "Data Science Engineer",
-      "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Science-Engineer--December-2026-and-May-2027-Grads-_JR14959",
-      "location": "Boston, MA",
-      "source": "Simplify new-grad list"
-    },
-    {
       "company": "Adobe",
       "title": "Machine Learning Engineer New Grad",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085",
@@ -223,26 +230,12 @@
       "source": "Simplify new-grad list"
     },
     {
-      "company": "Brain Co.",
-      "title": "Machine Learning Engineer New Grad",
-      "url": "https://jobs.ashbyhq.com/brainco/4c9f8f00-0caf-4927-80da-02a3e53cb0cd/application?embed=true",
-      "location": "SF",
-      "source": "Simplify new-grad list"
-    },
-    {
       "company": "ByteDance",
       "title": "Research Scientist",
       "url": "https://jobs.bytedance.com/en/position/7698902624389482757/detail",
       "location": "San Jose, CA",
       "source": "Simplify new-grad list"
-    },
-    {
-      "company": "Fermilab",
-      "title": "Artificial Intelligence Associate",
-      "url": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/AI-Associates_R_009869",
-      "location": "Batavia, IL",
-      "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-10-27 05:21 UTC"
+  "last_run": "2026-10-27 18:06 UTC"
 }

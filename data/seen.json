@@ -243,9 +243,8 @@
     "tkey": "thinking-machines-lab|research-post-training-evals"
   },
   "https://jobs.ashbyhq.com/thinkingmachines/3efb6896-4840-4f90-8798-2ce49fa146e5": {
-    "date": "2026-10-26",
-    "decision": "added",
-    "reason": "",
+    "date": "2026-10-27",
+    "decision": "closed",
     "tkey": "thinking-machines-lab|research-post-training"
   },
   "https://apply.deshawresearch.com/careers/Register?pipelineId=661": {
@@ -393,9 +392,8 @@
     "tkey": "tiktok|ai-infra-engineer-graduate-recommendation-llm-2027-start-phd"
   },
   "https://jobs.ashbyhq.com/ssi/b91659e4-9352-46fa-b3c5-4fb28827eb2e": {
-    "date": "2026-10-26",
-    "decision": "added",
-    "reason": "",
+    "date": "2026-10-27",
+    "decision": "closed",
     "tkey": "safe-superintelligence-ssi|member-of-technical-staff"
   },
   "https://lifeattiktok.com/search/7685552742819842357": {
@@ -2605,5 +2603,29 @@
     "decision": "screened",
     "reason": "estimated $200K–$300K, below your line",
     "tkey": "nvidia|high-performance-llm-training-engineer-new-grad"
+  },
+  "https://jobs.ashbyhq.com/genesis-molecular-ai/388e7964-e9a3-4620-89ae-ff21fe6444cc": {
+    "date": "2026-10-27",
+    "decision": "screened",
+    "reason": "needs more experience than a new PhD",
+    "tkey": "genesis-molecular-ai|machine-learning-infrastructure-engineer"
+  },
+  "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Science-Engineer--December-2026-and-May-2027-Grads-_JR14959": {
+    "date": "2026-10-27",
+    "decision": "screened",
+    "reason": "estimated $170K–$220K, below your line",
+    "tkey": "draftkings|data-science-engineer"
+  },
+  "https://jobs.ashbyhq.com/brainco/4c9f8f00-0caf-4927-80da-02a3e53cb0cd?embed=true": {
+    "date": "2026-10-27",
+    "decision": "screened",
+    "reason": "estimated $210K–$290K, below your line",
+    "tkey": "brain-co|machine-learning-engineer-new-grad"
+  },
+  "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/AI-Associates_R_009869": {
+    "date": "2026-10-27",
+    "decision": "screened",
+    "reason": "estimated $95K–$130K, below your line",
+    "tkey": "fermilab|artificial-intelligence-associate"
   }
 }
