@@ -205,7 +205,7 @@
     "first_seen": "2026-10-25",
     "last_checked": "2026-10-28",
     "last_open": "2026-10-28",
-    "check_failures": 0,
+    "check_failures": 1,
     "stale": false
   },
   {
@@ -1247,7 +1247,7 @@
     "first_seen": "2026-10-26",
     "last_checked": "2026-10-28",
     "last_open": "2026-10-28",
-    "check_failures": 0,
+    "check_failures": 1,
     "stale": false
   },
   {
@@ -2092,6 +2092,35 @@
     "posted": "",
     "source": "Claude web search: agentic AI for science research scientist job United States",
     "url": "https://www.indeed.com/q-phd-machine-learning-jobs.html",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-10-28",
+    "first_seen": "2026-10-28",
+    "last_checked": "2026-10-28",
+    "last_open": "2026-10-28",
+    "check_failures": 0,
+    "stale": false
+  },
+  {
+    "company": "TikTok (ByteDance)",
+    "role": "Research Scientist – TikTok Recommendation (NextGen LLM), 2027 Start (PhD)",
+    "est": [
+      250,
+      400
+    ],
+    "id": "tiktok-bytedance-research-scientist-tiktok-recomm-cae731",
+    "track": "llm",
+    "location": "San Jose, CA",
+    "base": "Pay not listed in the posting",
+    "fit": 4,
+    "why": "The LLM-for-recommendation focus matches the candidate's Amazon internship (cost-aware LLM router, transformer and XGBoost quality estimators, calibration on 220K production cases) and their RAG-based LLM recommendation agent. Strong PyTorch, Hugging Face and large-scale distributed computing experience from GAtor 2.0 suit a PhD research scientist role.",
+    "caveat": "The page text was unavailable, so the pay figure is estimated from typical ByteDance PhD new-grad packages, and neither visa sponsorship nor the posting's open status could be confirmed (ByteDance has historically sponsored H-1B).",
+    "posted": "",
+    "source": "Claude web search: AI for science research scientist PhD 2027 start United Stat",
+    "url": "https://www.indeed.com/q-artificial-intelligence-scientist-jobs.html",
     "visa": [
       "yes",
       "Files H-1B petitions regularly (public Department of Labor data)."

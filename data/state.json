@@ -1,21 +1,14 @@
 {
-  "runs": 4,
+  "runs": 5,
   "spend": {
-    "2026-10": 1.7002
+    "2026-10": 2.0811
   },
-  "discovery_cursor": 19,
+  "discovery_cursor": 8,
   "review": [
     {
       "company": "xAI",
       "title": "AI Tutor - Materials Science",
       "url": "https://job-boards.greenhouse.io/xai/jobs/4925823007",
-      "location": "Remote International",
-      "source": "Greenhouse (xai)"
-    },
-    {
-      "company": "xAI",
-      "title": "AI Tutor, Physics - Temporary",
-      "url": "https://job-boards.greenhouse.io/xai/jobs/4925832007",
       "location": "Remote International",
       "source": "Greenhouse (xai)"
     },
@@ -139,32 +132,39 @@
       "source": "Ashby (thinkingmachines)"
     },
     {
-      "company": "UDC (OLED materials)",
-      "title": "Research Scientist – Applied Artificial Intelligence in Chemistry",
-      "url": "https://careers.oled.com/jobs/631986-research-scientist-applied-artificial-intelligence-in-chemistry",
-      "location": "UDC Headquarters, United States",
-      "source": "Claude web search: quantum chemistry machine learning research scientist job Un"
+      "company": "Meta",
+      "title": "AI Research Scientist — Generative AI for Materials Discovery",
+      "url": "https://www.metacareers.com/profile/job_details/968722059080516/",
+      "location": "Redmond, WA (+1 location listed)",
+      "source": "Claude web search: Meta Reality Labs Research materials discovery AI research s"
     },
     {
-      "company": "Adobe",
-      "title": "2026 University Graduate - Applied Research Scientist",
-      "url": "https://jobright.ai/jobs/info/68d21452a54edb3bf3e19565",
+      "company": "TikTok Inc.",
+      "title": "Agent Evaluation & Evolution Researcher Graduate (AML-Ark-US) – 2027 Start (PhD)",
+      "url": "https://career.virginia.edu/jobs/tiktok-inc-agent-evaluation-evolution-researcher-graduate-aml-ark-us-2027-start-phd/",
       "location": "San Jose, CA",
-      "source": "Claude web search: Snap OR Adobe OR Netflix research scientist PhD 2027"
+      "source": "Claude web search: \"2027 Start\" PhD LLM research scientist TikTok trust and saf"
     },
     {
-      "company": "Netflix",
-      "title": "Research Scientist (L4) - New Grad PhD",
-      "url": "https://startup.jobs/research-scientist-l4-new-grad-phd-netflix-3781083",
-      "location": "Los Gatos, CA",
-      "source": "Claude web search: Snap OR Adobe OR Netflix research scientist PhD 2027"
+      "company": "ByteDance",
+      "title": "Graduate LLM Research Scientist (Seed)",
+      "url": "https://simplify.jobs/p/5ca5638a-d91f-4bd1-99cb-21e31590271d/Graduate-LLM-Research-Scientist",
+      "location": "San Jose, CA, USA",
+      "source": "Claude web search: \"2027 Start\" PhD LLM research scientist TikTok trust and saf"
     },
     {
-      "company": "Freudenberg Home and Cleaning Solutions",
-      "title": "Materials Informatics Scientist",
-      "url": "https://workopia.io/jobs/a80ce95c8be4b3262ee7301c1212e824",
-      "location": "Plymouth, MI, United States (hybrid)",
-      "source": "Claude web search: materials informatics machine learning scientist job United "
+      "company": "NVIDIA",
+      "title": "Research Scientist, Security and Privacy – PhD New College Grad 2026",
+      "url": "https://jobs.nvidia.com/careers/job/893392138974",
+      "location": "Westford, MA",
+      "source": "Claude web search: research scientist PhD university graduate 2027 machine lear"
+    },
+    {
+      "company": "Samsung AI Research Center",
+      "title": "2027 Health AI Scholar - Digital Health Algorithms Team",
+      "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002",
+      "location": "Mountain View, CA",
+      "source": "speedyapply 2027 AI new-grad list"
     },
     {
       "company": "TikTok",
@@ -209,13 +209,6 @@
       "source": "Simplify new-grad list"
     },
     {
-      "company": "Adobe",
-      "title": "Machine Learning Engineer New Grad",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085",
-      "location": "Seattle, WA; SF; Austin, TX; San Jose, CA; Waltham, MA; NYC; Lehi, UT",
-      "source": "Simplify new-grad list"
-    },
-    {
       "company": "TikTok",
       "title": "Machine Learning Engineer Graduate - E-Commerce User Growth",
       "url": "https://lifeattiktok.com/search/7694353236283935029",
@@ -230,19 +223,19 @@
       "source": "Simplify new-grad list"
     },
     {
-      "company": "Samsung Research America",
-      "title": "Health AI Scholar - Digital Health Algorithms Team",
-      "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002",
-      "location": "Mountain View, CA",
-      "source": "Simplify new-grad list"
-    },
-    {
       "company": "SambaNova Systems",
       "title": "ML Infrastructure Engineer New Grad",
       "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004",
       "location": "Austin, TX; San Jose, CA",
       "source": "Simplify new-grad list"
+    },
+    {
+      "company": "Shield AI",
+      "title": "Perception Engineer - Multimodal & Embodied AI",
+      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/99726ac8-75b2-4719-b0ea-e470cda3148b/application?embed=true",
+      "location": "San Diego, CA",
+      "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-10-28 05:57 UTC"
+  "last_run": "2026-10-28 18:28 UTC"
 }

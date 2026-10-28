@@ -2657,5 +2657,29 @@
     "decision": "screened",
     "reason": "estimated $170K–$260K, below your line",
     "tkey": "goaly|ai-research-scientist-early-career"
+  },
+  "https://job-boards.greenhouse.io/xai/jobs/4925832007": {
+    "date": "2026-10-28",
+    "decision": "screened",
+    "reason": "says it won’t sponsor visas",
+    "tkey": "xai|ai-tutor-physics-temporary"
+  },
+  "https://indeed.com/q-artificial-intelligence-scientist-jobs.html": {
+    "date": "2026-10-28",
+    "decision": "added",
+    "reason": "",
+    "tkey": "tiktok-bytedance|research-scientist-tiktok-recommendation-nextgen-llm-2027-start-phd"
+  },
+  "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085": {
+    "date": "2026-10-28",
+    "decision": "screened",
+    "reason": "estimated $200K–$270K, below your line",
+    "tkey": "adobe|machine-learning-engineer-new-grad"
+  },
+  "https://jobs.lever.co/nio-usa/aeb18492-fd65-481d-88a3-00dcceb55840/apply": {
+    "date": "2026-10-28",
+    "decision": "screened",
+    "reason": "estimated $170K–$230K, below your line",
+    "tkey": "nio|ai-robotics-researcher"
   }
 }
