@@ -1,9 +1,9 @@
 {
-  "runs": 3,
+  "runs": 4,
   "spend": {
-    "2026-10": 1.313
+    "2026-10": 1.7002
   },
-  "discovery_cursor": 9,
+  "discovery_cursor": 19,
   "review": [
     {
       "company": "xAI",
@@ -14,17 +14,10 @@
     },
     {
       "company": "xAI",
-      "title": "AI Tutor - Physics",
+      "title": "AI Tutor, Physics - Temporary",
       "url": "https://job-boards.greenhouse.io/xai/jobs/4925832007",
       "location": "Remote International",
       "source": "Greenhouse (xai)"
-    },
-    {
-      "company": "Isomorphic Labs",
-      "title": "Research Leader (DMPK), Cambridge, MA",
-      "url": "https://job-boards.greenhouse.io/isomorphiclabs/jobs/6140840004",
-      "location": "Cambridge, MA",
-      "source": "Greenhouse (isomorphiclabs)"
     },
     {
       "company": "Schrödinger",
@@ -146,32 +139,32 @@
       "source": "Ashby (thinkingmachines)"
     },
     {
-      "company": "Genentech (Roche)",
-      "title": "Machine Learning Scientist, Scientific Reasoning Models, AI for Drug Discovery",
-      "url": "https://www.indeed.com/q-machine-learning-materials-science-jobs.html",
-      "location": "New York, NY",
-      "source": "Claude web search: AI for science research scientist PhD 2027 start United Stat"
+      "company": "UDC (OLED materials)",
+      "title": "Research Scientist – Applied Artificial Intelligence in Chemistry",
+      "url": "https://careers.oled.com/jobs/631986-research-scientist-applied-artificial-intelligence-in-chemistry",
+      "location": "UDC Headquarters, United States",
+      "source": "Claude web search: quantum chemistry machine learning research scientist job Un"
     },
     {
-      "company": "TikTok (AML-Ark-US)",
-      "title": "Agent Evaluation & Evolution Researcher Graduate (AML-Ark-US) - 2027 Start (PhD)",
-      "url": "https://career.virginia.edu/jobs/tiktok-inc-agent-evaluation-evolution-researcher-graduate-aml-ark-us-2027-start-phd/",
+      "company": "Adobe",
+      "title": "2026 University Graduate - Applied Research Scientist",
+      "url": "https://jobright.ai/jobs/info/68d21452a54edb3bf3e19565",
       "location": "San Jose, CA",
-      "source": "Claude web search: \"2027 Start\" PhD LLM research scientist TikTok trust and saf"
+      "source": "Claude web search: Snap OR Adobe OR Netflix research scientist PhD 2027"
     },
     {
-      "company": "ByteDance",
-      "title": "Graduate LLM Research Scientist",
-      "url": "https://simplify.jobs/p/5ca5638a-d91f-4bd1-99cb-21e31590271d/Graduate-LLM-Research-Scientist",
-      "location": "San Jose, CA",
-      "source": "Claude web search: \"2027 Start\" PhD LLM research scientist TikTok trust and saf"
+      "company": "Netflix",
+      "title": "Research Scientist (L4) - New Grad PhD",
+      "url": "https://startup.jobs/research-scientist-l4-new-grad-phd-netflix-3781083",
+      "location": "Los Gatos, CA",
+      "source": "Claude web search: Snap OR Adobe OR Netflix research scientist PhD 2027"
     },
     {
-      "company": "Google DeepMind",
-      "title": "Research Scientist, Agent Post Training, DeepMind",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/130223234522981062-research-scientist-agent-post-training-deepmind",
-      "location": "Mountain View, CA, USA",
-      "source": "Claude web search: research scientist PhD university graduate 2027 machine lear"
+      "company": "Freudenberg Home and Cleaning Solutions",
+      "title": "Materials Informatics Scientist",
+      "url": "https://workopia.io/jobs/a80ce95c8be4b3262ee7301c1212e824",
+      "location": "Plymouth, MI, United States (hybrid)",
+      "source": "Claude web search: materials informatics machine learning scientist job United "
     },
     {
       "company": "TikTok",
@@ -235,7 +228,21 @@
       "url": "https://jobs.bytedance.com/en/position/7698902624389482757/detail",
       "location": "San Jose, CA",
       "source": "Simplify new-grad list"
+    },
+    {
+      "company": "Samsung Research America",
+      "title": "Health AI Scholar - Digital Health Algorithms Team",
+      "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002",
+      "location": "Mountain View, CA",
+      "source": "Simplify new-grad list"
+    },
+    {
+      "company": "SambaNova Systems",
+      "title": "ML Infrastructure Engineer New Grad",
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004",
+      "location": "Austin, TX; San Jose, CA",
+      "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-10-27 18:06 UTC"
+  "last_run": "2026-10-28 05:57 UTC"
 }

@@ -2627,5 +2627,35 @@
     "decision": "screened",
     "reason": "estimated $95K–$130K, below your line",
     "tkey": "fermilab|artificial-intelligence-associate"
+  },
+  "https://job-boards.greenhouse.io/isomorphiclabs/jobs/6140840004": {
+    "date": "2026-10-28",
+    "decision": "screened",
+    "reason": "needs more experience than a new PhD",
+    "tkey": "isomorphic-labs|research-leader-dmpk-cambridge-ma"
+  },
+  "https://indeed.com/q-phd-machine-learning-jobs.html": {
+    "date": "2026-10-28",
+    "decision": "added",
+    "reason": "",
+    "tkey": "bytedance|machine-learning-research-scientist-atomistic-ai-2026-start-phd"
+  },
+  "https://indeed.com/q-chemistry-material-scientist-phd-jobs.html": {
+    "date": "2026-10-28",
+    "decision": "screened",
+    "reason": "estimated $200K–$290K, below your line",
+    "tkey": "google-deepmind|material-science-research-engineer"
+  },
+  "https://google.com/about/careers/applications/jobs/results/130223234522981062-research-scientist-agent-post-training-deepmind": {
+    "date": "2026-10-28",
+    "decision": "screened",
+    "reason": "posting is closed",
+    "tkey": "google-deepmind|research-scientist-agent-post-training"
+  },
+  "https://jobs.ashbyhq.com/goaly/ffc80152-df35-45d6-8c2c-36ea8b67eb37?embed=true": {
+    "date": "2026-10-28",
+    "decision": "screened",
+    "reason": "estimated $170K–$260K, below your line",
+    "tkey": "goaly|ai-research-scientist-early-career"
   }
 }
