@@ -81,7 +81,7 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 
 <!-- BOARD:START -->
 
-**68 open roles** · 18 above your $300K line · 50 near it · last run 2026-10-29 06:03 UTC · AI spend this month $2.46 of $100
+**68 open roles** · 18 above your $300K line · 50 near it · last run 2026-10-29 18:35 UTC · AI spend this month $2.83 of $100
 
 ### Above your offer line
 
@@ -173,7 +173,6 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | Achira | [Machine Learning Research Engineer (MLRE) - Workflows/Systems](https://jobs.ashbyhq.com/achira/bb70d7b1-6da0-4271-85b6-caec85254dea) | San Francisco Office | Ashby (achira) |
 | Chai Discovery | [Forward-Deployed Scientist](https://jobs.ashbyhq.com/chaidiscovery/e60e0d79-622d-4251-b056-d380484d9dab) | San Francisco office | Ashby (chaidiscovery) |
 | Chai Discovery | [Scientist, Protein Design](https://jobs.ashbyhq.com/chaidiscovery/9cc94a28-cac9-48a4-a44c-685a870b6288) | San Francisco office | Ashby (chaidiscovery) |
-| Chai Discovery | [Software Engineer, Developer & Research Platform](https://jobs.ashbyhq.com/chaidiscovery/9be875bd-46f0-4653-9851-88e2ce49eb64) | San Francisco office | Ashby (chaidiscovery) |
 | Chai Discovery | [Software Engineer, AI Platform](https://jobs.ashbyhq.com/chaidiscovery/ad8dd3de-8139-4385-8c5a-566a359e9be0) | San Francisco office | Ashby (chaidiscovery) |
 | Iambic Therapeutics | [Machine Learning Scientist – Clinical Prediction](https://jobs.ashbyhq.com/iambic-therapeutics/e418c9bf-4fe6-4484-92ad-e9a320557815) | Boston Office | Ashby (iambic-therapeutics) |
 | Iambic Therapeutics | [Research Scientist II/Senior, Computational Chemistry](https://jobs.ashbyhq.com/iambic-therapeutics/6236b729-9139-4971-8a31-3f5a9add1ed4) | San Diego HQ | Ashby (iambic-therapeutics) |
@@ -185,9 +184,9 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | SandboxAQ | [Machine Learning Scientist - Molecular Force Fields](https://jobs.ashbyhq.com/sandboxaq/2ecf82f8-6bab-48d5-b34a-e1c745b7fc60) | United States | Ashby (sandboxaq) |
 | Thinking Machines Lab | [Research Lead, Tinker, Fine-tuning Science](https://jobs.ashbyhq.com/thinkingmachines/4e3a366f-eb0f-4ea9-8cf9-9c2f911f279c) | San Francisco | Ashby (thinkingmachines) |
 | NVIDIA | [Research Scientist, Fundamental Generative AI - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698) | US, CA, Santa Clara | Workday (NVIDIA) |
-| Dynamical | [Founding Research Scientist, Materials and AI](https://dynamicalsystems.ai/careers) | New York, NY (in person) | Claude web search: autonomous lab materials AI startup hiring research scientis |
-| NVIDIA | [AI Scientist, Agentic AI for Science - PhD New College Grad 2026](https://workopia.io/jobs/02d8eeb55c41f3f9b476cc336f063434) | CA, United States | Claude web search: agentic AI for science research scientist job United States |
-| Freudenberg Home and Cleaning Solutions | [Materials Informatics Scientist](https://workopia.io/jobs/a80ce95c8be4b3262ee7301c1212e824) | Plymouth, MI (hybrid) | Claude web search: materials informatics machine learning scientist job United  |
+| Meta | [AI Research Scientist - Machine Learning for Behavioral AI (materials generative role)](https://www.careerbuilder.com/job-details/ai-research-scientist-machine-learning-for-behavioral-ai-pasadena-ca--faca4a74-67b5-4cb1-b087-d7b10ff0899e) | Pasadena, CA | Claude web search: Meta Reality Labs Research materials discovery AI research s |
+| ByteDance | [Research Scientist (Seed Model-Alignment & Preparedness) - 2027 Start (PhD)](https://www.recruit.net/job/research-scientist-seed-model-alignment-jobs/F936AE1AC5B60845) | San Jose, CA, USA | Claude web search: "2027 Start (PhD)" research scientist AI for Science ByteDan |
+| TikTok (ByteDance) | [Research Scientist Graduate (Seed-Multimodal Interaction and World Model) - 2027 Start (PhD)](https://cdc.wpi.edu/jobs/tiktok-inc-research-scientist-graduate-seed-multimodal-interaction-and-world-model-2027-start-phd/) | San Jose, CA | Claude web search: "2027 Start (PhD)" research scientist AI for Science ByteDan |
 | Samsung AI Research Center | [2027 Health AI Scholar - Digital Health Algorithms Team](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002) | Mountain View, CA | speedyapply 2027 AI new-grad list |
 | TikTok | [Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance](https://lifeattiktok.com/search/7669910326745434421) | Seattle, WA | Simplify new-grad list |
 | TikTok | [Machine Learning Engineer Graduate - E-Commerce Recommendation Live](https://lifeattiktok.com/search/7670285495593273605) | San Jose, CA | Simplify new-grad list |
@@ -198,7 +197,6 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | TikTok | [Machine Learning Engineer Graduate - E-Commerce User Growth](https://lifeattiktok.com/search/7694353236283935029) | Seattle, WA | Simplify new-grad list |
 | ByteDance | [Research Scientist](https://jobs.bytedance.com/en/position/7698902624389482757/detail) | San Jose, CA | Simplify new-grad list |
 | SambaNova Systems | [ML Infrastructure Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004) | Austin, TX; San Jose, CA | Simplify new-grad list |
-| University Corporation for Atmospheric Research | [Data Science Student Assistant 3](https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/Data-Science-Student-Assistant-III_REQ-2026-202-1) | Boulder, CO | Simplify new-grad list |
 
 ### Closed recently
 
@@ -212,8 +210,12 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 - Meta FAIR, AI Research Scientist, FAIR Chemistry (New York) (2026-10-25)
 - Lila Sciences, ML Research Scientist I/II, Multimodal Data Extraction (2026-10-25)
 
-<details><summary>Screened out (182)</summary>
+<details><summary>Screened out (186)</summary>
 
+- [Smith+Nephew, R&D Engineer - Data Science](https://smithnephew.wd5.myworkdayjobs.com/en-US/external/job/Pittsburgh-PA/R-D-Engineer---Data-Science_R90815): Estimated $120K–$160K, below your line.
+- [TikTok USDS Joint Venture, Machine Learning Engineer Graduate (Risk & Integrity) - 2027 Start (PhD)](https://jobpilot.suxrobgm.net/jobs/machine-learning-engineer-graduate-risk-integrity-2027-start-at-tiktok-usds-joint-venture-ae1bb2): Estimated $137K–$259K, below your line.
+- [Schrödinger, Crystal Structure Prediction Scientist](https://job-boards.greenhouse.io/schrdinger/jobs/6078438003): Estimated $160K–$200K, below your line.
+- [Chai Discovery, Software Engineer, Developer & Research Platform](https://jobs.ashbyhq.com/chaidiscovery/9be875bd-46f0-4653-9851-88e2ce49eb64): Needs more experience than a new PhD.
 - [Shield AI, Perception Engineer - Multimodal & Embodied AI](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/99726ac8-75b2-4719-b0ea-e470cda3148b/application?embed=true): Estimated $190K–$260K, below your line.
 - [xAI (SpaceXSI), Member of Technical Staff - Model Training](https://job-boards.greenhouse.io/xai/jobs/5086324007): Closed: the posting stopped showing as open (checked 2026-10-29).
 - [NVIDIA, Research Scientist, Fundamental Generative AI (new college grad)](https://jobs.anitab.org/companies/nvidia/jobs/95232560-research-scientist-fundamental-generative-ai-new-college-grad-2026): Closed: the posting stopped showing as open (checked 2026-10-29).

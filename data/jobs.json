@@ -1968,7 +1968,7 @@
     "added": "2026-10-27",
     "first_seen": "2026-10-27",
     "last_checked": "2026-10-29",
-    "last_open": "2026-10-28",
+    "last_open": "2026-10-29",
     "check_failures": 0,
     "stale": false
   },
@@ -2091,6 +2091,7 @@
     "first_seen": "2026-10-29",
     "last_checked": "2026-10-29",
     "last_open": "2026-10-29",
-    "check_failures": 0
+    "check_failures": 0,
+    "stale": false
   }
 ]

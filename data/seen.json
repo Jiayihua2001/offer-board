@@ -2697,5 +2697,35 @@
     "decision": "screened",
     "reason": "estimated $190K–$260K, below your line",
     "tkey": "shield-ai|perception-engineer-multimodal-embodied-ai"
+  },
+  "https://jobs.ashbyhq.com/chaidiscovery/9be875bd-46f0-4653-9851-88e2ce49eb64": {
+    "date": "2026-10-29",
+    "decision": "screened",
+    "reason": "needs more experience than a new PhD",
+    "tkey": "chai-discovery|software-engineer-developer-research-platform"
+  },
+  "https://job-boards.greenhouse.io/schrdinger/jobs/6078438003": {
+    "date": "2026-10-29",
+    "decision": "screened",
+    "reason": "estimated $160K–$200K, below your line",
+    "tkey": "schr-dinger|crystal-structure-prediction-scientist"
+  },
+  "https://jobpilot.suxrobgm.net/jobs/machine-learning-engineer-graduate-risk-integrity-2027-start-at-tiktok-usds-joint-venture-ae1bb2": {
+    "date": "2026-10-29",
+    "decision": "screened",
+    "reason": "estimated $137K–$259K, below your line",
+    "tkey": "tiktok-usds-joint-venture|machine-learning-engineer-graduate-risk-integrity-2027-start-phd"
+  },
+  "https://smithnephew.wd5.myworkdayjobs.com/en-US/external/job/Pittsburgh-PA/R-D-Engineer---Data-Science_R90815": {
+    "date": "2026-10-29",
+    "decision": "screened",
+    "reason": "estimated $120K–$160K, below your line",
+    "tkey": "smith-nephew|r-d-engineer-data-science"
+  },
+  "https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/Data-Science-Student-Assistant-III_REQ-2026-202-1": {
+    "date": "2026-10-29",
+    "decision": "screened",
+    "reason": "needs more experience than a new PhD",
+    "tkey": "university-corporation-for-atmospheric-research|data-science-student-assistant-3"
   }
 }
