@@ -380,9 +380,8 @@
     "tkey": "tiktok|general-hire-research-scientist-graduate-tiktok-recommendation-2027-start-phd"
   },
   "https://job-boards.greenhouse.io/xai/jobs/5086324007": {
-    "date": "2026-10-26",
-    "decision": "added",
-    "reason": "",
+    "date": "2026-10-29",
+    "decision": "closed",
     "tkey": "xai-spacexsi|member-of-technical-staff-model-training"
   },
   "https://lifeattiktok.com/search/7672656091025066293": {
@@ -2681,5 +2680,22 @@
     "decision": "screened",
     "reason": "estimated $170K–$230K, below your line",
     "tkey": "nio|ai-robotics-researcher"
+  },
+  "https://jobs.anitab.org/companies/nvidia/jobs/95232560-research-scientist-fundamental-generative-ai-new-college-grad-2026": {
+    "date": "2026-10-29",
+    "decision": "closed",
+    "tkey": "nvidia|research-scientist-fundamental-generative-ai-new-college-grad"
+  },
+  "https://metacareers.com/profile/job_details/968722059080516": {
+    "date": "2026-10-29",
+    "decision": "added",
+    "reason": "",
+    "tkey": "meta|ai-research-scientist-generative-ai-for-materials-discovery"
+  },
+  "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/99726ac8-75b2-4719-b0ea-e470cda3148b?embed=true": {
+    "date": "2026-10-29",
+    "decision": "screened",
+    "reason": "estimated $190K–$260K, below your line",
+    "tkey": "shield-ai|perception-engineer-multimodal-embodied-ai"
   }
 }

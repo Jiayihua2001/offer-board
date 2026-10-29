@@ -1,9 +1,9 @@
 {
-  "runs": 5,
+  "runs": 6,
   "spend": {
-    "2026-10": 2.0811
+    "2026-10": 2.4581
   },
-  "discovery_cursor": 8,
+  "discovery_cursor": 18,
   "review": [
     {
       "company": "xAI",
@@ -132,32 +132,32 @@
       "source": "Ashby (thinkingmachines)"
     },
     {
-      "company": "Meta",
-      "title": "AI Research Scientist — Generative AI for Materials Discovery",
-      "url": "https://www.metacareers.com/profile/job_details/968722059080516/",
-      "location": "Redmond, WA (+1 location listed)",
-      "source": "Claude web search: Meta Reality Labs Research materials discovery AI research s"
+      "company": "NVIDIA",
+      "title": "Research Scientist, Fundamental Generative AI - New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698",
+      "location": "US, CA, Santa Clara",
+      "source": "Workday (NVIDIA)"
     },
     {
-      "company": "TikTok Inc.",
-      "title": "Agent Evaluation & Evolution Researcher Graduate (AML-Ark-US) – 2027 Start (PhD)",
-      "url": "https://career.virginia.edu/jobs/tiktok-inc-agent-evaluation-evolution-researcher-graduate-aml-ark-us-2027-start-phd/",
-      "location": "San Jose, CA",
-      "source": "Claude web search: \"2027 Start\" PhD LLM research scientist TikTok trust and saf"
-    },
-    {
-      "company": "ByteDance",
-      "title": "Graduate LLM Research Scientist (Seed)",
-      "url": "https://simplify.jobs/p/5ca5638a-d91f-4bd1-99cb-21e31590271d/Graduate-LLM-Research-Scientist",
-      "location": "San Jose, CA, USA",
-      "source": "Claude web search: \"2027 Start\" PhD LLM research scientist TikTok trust and saf"
+      "company": "Dynamical",
+      "title": "Founding Research Scientist, Materials and AI",
+      "url": "https://dynamicalsystems.ai/careers",
+      "location": "New York, NY (in person)",
+      "source": "Claude web search: autonomous lab materials AI startup hiring research scientis"
     },
     {
       "company": "NVIDIA",
-      "title": "Research Scientist, Security and Privacy – PhD New College Grad 2026",
-      "url": "https://jobs.nvidia.com/careers/job/893392138974",
-      "location": "Westford, MA",
-      "source": "Claude web search: research scientist PhD university graduate 2027 machine lear"
+      "title": "AI Scientist, Agentic AI for Science - PhD New College Grad 2026",
+      "url": "https://workopia.io/jobs/02d8eeb55c41f3f9b476cc336f063434",
+      "location": "CA, United States",
+      "source": "Claude web search: agentic AI for science research scientist job United States"
+    },
+    {
+      "company": "Freudenberg Home and Cleaning Solutions",
+      "title": "Materials Informatics Scientist",
+      "url": "https://workopia.io/jobs/a80ce95c8be4b3262ee7301c1212e824",
+      "location": "Plymouth, MI (hybrid)",
+      "source": "Claude web search: materials informatics machine learning scientist job United "
     },
     {
       "company": "Samsung AI Research Center",
@@ -230,12 +230,12 @@
       "source": "Simplify new-grad list"
     },
     {
-      "company": "Shield AI",
-      "title": "Perception Engineer - Multimodal & Embodied AI",
-      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/99726ac8-75b2-4719-b0ea-e470cda3148b/application?embed=true",
-      "location": "San Diego, CA",
+      "company": "University Corporation for Atmospheric Research",
+      "title": "Data Science Student Assistant 3",
+      "url": "https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/Data-Science-Student-Assistant-III_REQ-2026-202-1",
+      "location": "Boulder, CO",
       "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-10-28 18:28 UTC"
+  "last_run": "2026-10-29 06:03 UTC"
 }
