@@ -2757,5 +2757,23 @@
     "decision": "screened",
     "reason": "needs more experience than a new PhD",
     "tkey": "zoom|ai-engineer"
+  },
+  "https://vertexcareers-atriumworks.icims.com/jobs/11290/molecular-and-cell-biology-research-scientist-%28contract%29/job": {
+    "date": "2026-10-30",
+    "decision": "screened",
+    "reason": "estimated $100K–$130K, below your line",
+    "tkey": "atrium-works|molecular-and-cell-biology-research-scientist-contract"
+  },
+  "https://micron.wd1.myworkdayjobs.com/en-US/external/job/Boise-ID---Main-Site/New-College-Grad---Data-Scientist--AI-for-Business-Functions_JR115682": {
+    "date": "2026-10-30",
+    "decision": "screened",
+    "reason": "estimated $160K–$210K, below your line",
+    "tkey": "micron-technology|new-college-grad-data-scientist-ai-for-business-functions"
+  },
+  "https://jobs.bytedance.com/en/position/7672391176102676741/detail": {
+    "date": "2026-10-30",
+    "decision": "added",
+    "reason": "",
+    "tkey": "bytedance|agent-evaluation-evolution-researcher-graduate-applied-machine-learning-ark"
   }
 }

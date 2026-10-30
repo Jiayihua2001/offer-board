@@ -2093,5 +2093,33 @@
     "last_open": "2026-10-29",
     "check_failures": 0,
     "stale": false
+  },
+  {
+    "company": "ByteDance",
+    "role": "Agent Evaluation & Evolution Researcher Graduate - Applied Machine Learning Ark",
+    "est": [
+      280,
+      360
+    ],
+    "id": "bytedance-agent-evaluation-evolution-resea-7647ee",
+    "track": "llm",
+    "location": "Seattle, WA",
+    "base": "$153,900 - $300,960 base annually",
+    "fit": 4,
+    "why": "The role's focus on LLM agent evaluation, automated judging, and failure analysis matches the candidate's Amazon work on cost-aware LLM routing, calibrated quality estimators, and LLM-vs-human label-disagreement diagnosis, plus their RAG agent project and distributed-computing experience.",
+    "caveat": "The posting never states whether ByteDance sponsors H-1B visas, which the candidate requires, so this must be confirmed with the recruiter before investing in the application.",
+    "posted": "2026-08-11",
+    "source": "Simplify new-grad list",
+    "url": "https://jobs.bytedance.com/en/position/7672391176102676741/detail",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-10-30",
+    "first_seen": "2026-10-30",
+    "last_checked": "2026-10-30",
+    "last_open": "2026-10-30",
+    "check_failures": 0
   }
 ]

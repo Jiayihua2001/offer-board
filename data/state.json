@@ -1,9 +1,9 @@
 {
-  "runs": 8,
+  "runs": 9,
   "spend": {
-    "2026-10": 3.2104
+    "2026-10": 3.5924
   },
-  "discovery_cursor": 17,
+  "discovery_cursor": 6,
   "review": [
     {
       "company": "xAI",
@@ -39,6 +39,20 @@
       "url": "https://job-boards.greenhouse.io/schrdinger/jobs/8086074003",
       "location": "New York; Portland",
       "source": "Greenhouse (schrdinger)"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "Senior Scientist, Analytical Chemistry",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4192713009",
+      "location": "Cambridge, MA USA",
+      "source": "Greenhouse (lilasciences)"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Research Resident",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+      "location": "San Francisco, CA | New York City, NY",
+      "source": "Greenhouse (anthropic)"
     },
     {
       "company": "Anthropic",
@@ -153,11 +167,11 @@
       "source": "Workday (NVIDIA)"
     },
     {
-      "company": "Netflix",
-      "title": "Research Scientist (L4) - New Grad PhD",
-      "url": "https://startup.jobs/research-scientist-l4-new-grad-phd-netflix-3781083",
-      "location": "Los Gatos, CA (on-site)",
-      "source": "Claude web search: Snap OR Adobe OR Netflix research scientist PhD 2027"
+      "company": "Lawrence Livermore National Laboratory",
+      "title": "SI/ML Computational Biologist - Academic Graduate Appointee",
+      "url": "https://jobs.smartrecruiters.com/LLNL/3743990016508836-si-ml-computational-biologist-academic-graduate-appointee-?oga=true",
+      "location": "Livermore, CA",
+      "source": "speedyapply 2027 AI new-grad list"
     },
     {
       "company": "Samsung AI Research Center",
@@ -189,13 +203,6 @@
     },
     {
       "company": "ByteDance",
-      "title": "Agent Evaluation & Evolution Researcher Graduate - Applied Machine Learning Ark",
-      "url": "https://jobs.bytedance.com/en/position/7672391176102676741/detail",
-      "location": "Seattle, WA",
-      "source": "Simplify new-grad list"
-    },
-    {
-      "company": "ByteDance",
       "title": "AI/LLM Network Software Development Engineer Graduate - High Speed Network - PhD",
       "url": "https://jobs.bytedance.com/en/position/7668855566150732037/detail",
       "location": "Seattle, WA",
@@ -223,5 +230,5 @@
       "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-10-30 06:03 UTC"
+  "last_run": "2026-10-30 18:07 UTC"
 }

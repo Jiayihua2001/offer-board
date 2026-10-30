@@ -81,7 +81,7 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 
 <!-- BOARD:START -->
 
-**68 open roles** · 18 above your $300K line · 50 near it · last run 2026-10-30 06:03 UTC · AI spend this month $3.21 of $100
+**69 open roles** · 18 above your $300K line · 51 near it · last run 2026-10-30 18:07 UTC · AI spend this month $3.59 of $100
 
 ### Above your offer line
 
@@ -122,6 +122,7 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 | TikTok | [Machine Learning Engineer Graduate (E-Commerce Supply Chain & Logistics - LLM/Agent) - 2027 Start (PhD)](https://lifeattiktok.com/search/7675841339440941317) | San Jose, CA; Seattle, WA | $250K–$400K (+8%) | ●●●● | sponsors | 2026-08-21 |
 | ByteDance | [Research Scientist Graduate (Seed Model - LLM) - 2027 Start (PhD)](https://zapply.jobs/jobs/8c4759dd-7347-4a8c-89ae-43b6f8af8c98/) **New** | California (team also covers San Jose and Seattle) | $250K–$400K (+8%) | ●●●● | sponsors | 2026-10-25 |
 | TikTok (ByteDance) | [Research Scientist – TikTok Recommendation (NextGen LLM), 2027 Start (PhD)](https://www.indeed.com/q-artificial-intelligence-scientist-jobs.html) **New** | San Jose, CA | $250K–$400K (+8%) | ●●●● | sponsors |  |
+| ByteDance | [Agent Evaluation & Evolution Researcher Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7672391176102676741/detail) **New** | Seattle, WA | $280K–$360K (+7%) | ●●●● | sponsors | 2026-08-11 |
 | ByteDance | [Agent Evaluation & Evolution Researcher Graduate (AML-Ark-US) - 2027 Start (PhD)](https://jobs.bytedance.com/en/position/7671095905295075637/detail) | San Jose, CA | $210K–$410K (+3%) | ●●●● | sponsors | 2026-08-10 |
 | Apple | [AIML - Machine Learning Researcher, Post-Training for Foundation Models](https://jobs.apple.com/en-us/details/200645804-0836) | Cupertino, CA | $250K–$340K (-2%) | ●●●● | sponsors | 2026-02-06 |
 | Apple | [AIML Researcher/Engineer - Foundation Model Post-Training](https://jobs.apple.com/en-us/details/200662944-0836) | Cupertino, CA; New York, NY; Seattle, WA | $250K–$340K (-2%) | ●●●● | sponsors | 2026-05-27 |
@@ -171,6 +172,8 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | Schrödinger | [Computational Chemist, Target Druggability and Structure-Based Design](https://job-boards.greenhouse.io/schrdinger/jobs/8045314003) | New York; Cambridge, MA; San Diego; Portland | Greenhouse (schrdinger) |
 | Schrödinger | [Computational Materials Science, Formulations](https://job-boards.greenhouse.io/schrdinger/jobs/8086902003) | New York; Portland | Greenhouse (schrdinger) |
 | Schrödinger | [Computational Materials Scientist, Atomic Layer Processing and Chemical Reactivity](https://job-boards.greenhouse.io/schrdinger/jobs/8086074003) | New York; Portland | Greenhouse (schrdinger) |
+| Lila Sciences | [Senior Scientist, Analytical Chemistry](https://job-boards.greenhouse.io/lilasciences/jobs/4192713009) | Cambridge, MA USA | Greenhouse (lilasciences) |
+| Anthropic | [Anthropic Research Resident](https://job-boards.greenhouse.io/anthropic/jobs/5438311008) | San Francisco, CA \| New York City, NY | Greenhouse (anthropic) |
 | Anthropic | [Research Scientist, Life Sciences (Large Molecules, Antibody Design) ](https://job-boards.greenhouse.io/anthropic/jobs/5467092008) | San Francisco, CA | Greenhouse (anthropic) |
 | Anthropic | [Research Scientist, Life Sciences (Large Molecules, Process Development) ](https://job-boards.greenhouse.io/anthropic/jobs/5467099008) | San Francisco, CA | Greenhouse (anthropic) |
 | Achira | [Machine Learning Research Engineer (MLRE) - GPUs](https://jobs.ashbyhq.com/achira/f7893ad8-8da1-4ae3-b56b-151feb17d324) | San Francisco Office | Ashby (achira) |
@@ -187,12 +190,11 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | SandboxAQ | [Machine Learning Scientist - Molecular Force Fields](https://jobs.ashbyhq.com/sandboxaq/2ecf82f8-6bab-48d5-b34a-e1c745b7fc60) | United States | Ashby (sandboxaq) |
 | Thinking Machines Lab | [Research Lead, Tinker, Fine-tuning Science](https://jobs.ashbyhq.com/thinkingmachines/4e3a366f-eb0f-4ea9-8cf9-9c2f911f279c) | San Francisco | Ashby (thinkingmachines) |
 | NVIDIA | [Research Scientist, Fundamental Generative AI - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698) | US, CA, Santa Clara | Workday (NVIDIA) |
-| Netflix | [Research Scientist (L4) - New Grad PhD](https://startup.jobs/research-scientist-l4-new-grad-phd-netflix-3781083) | Los Gatos, CA (on-site) | Claude web search: Snap OR Adobe OR Netflix research scientist PhD 2027 |
+| Lawrence Livermore National Laboratory | [SI/ML Computational Biologist - Academic Graduate Appointee](https://jobs.smartrecruiters.com/LLNL/3743990016508836-si-ml-computational-biologist-academic-graduate-appointee-?oga=true) | Livermore, CA | speedyapply 2027 AI new-grad list |
 | Samsung AI Research Center | [2027 Health AI Scholar - Digital Health Algorithms Team](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002) | Mountain View, CA | speedyapply 2027 AI new-grad list |
 | TikTok | [Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance](https://lifeattiktok.com/search/7669910326745434421) | Seattle, WA | Simplify new-grad list |
 | TikTok | [Machine Learning Engineer Graduate - E-Commerce Recommendation Live](https://lifeattiktok.com/search/7670285495593273605) | San Jose, CA | Simplify new-grad list |
 | ByteDance | [Data Lake Infrastructure & Data Analytics Research Engineer Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671108456554432773/detail) | San Jose, CA | Simplify new-grad list |
-| ByteDance | [Agent Evaluation & Evolution Researcher Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7672391176102676741/detail) | Seattle, WA | Simplify new-grad list |
 | ByteDance | [AI/LLM Network Software Development Engineer Graduate - High Speed Network - PhD](https://jobs.bytedance.com/en/position/7668855566150732037/detail) | Seattle, WA | Simplify new-grad list |
 | ByteDance | [Research Scientist Graduate - Seed AI Foundation Model Infrastructure - PhD](https://jobs.bytedance.com/en/position/7673264681083898165/detail) | San Jose, CA | Simplify new-grad list |
 | TikTok | [Machine Learning Engineer Graduate - E-Commerce User Growth](https://lifeattiktok.com/search/7694353236283935029) | Seattle, WA | Simplify new-grad list |
@@ -210,8 +212,9 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 - Meta FAIR, AI Research Scientist, FAIR Chemistry (New York) (2026-10-25)
 - Lila Sciences, ML Research Scientist I/II, Multimodal Data Extraction (2026-10-25)
 
-<details><summary>Screened out (190)</summary>
+<details><summary>Screened out (191)</summary>
 
+- [Micron Technology, New College Grad - Data Scientist - AI for Business Functions](https://micron.wd1.myworkdayjobs.com/en-US/external/job/Boise-ID---Main-Site/New-College-Grad---Data-Scientist--AI-for-Business-Functions_JR115682): Estimated $160K–$210K, below your line.
 - [Zoom, AI Engineer](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/AI-Engineer_R19823-1): Needs more experience than a new PhD.
 - [SambaNova Systems, ML Infrastructure Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004): Estimated $210K–$270K, below your line.
 - [Applied Materials, AI Materials Research Engineer (New College Grad)](https://www.dreamworkhq.com/job/f1e58aad-eac2-462f-bcde-4cf278b8758b): Estimated $175K–$220K, below your line.
