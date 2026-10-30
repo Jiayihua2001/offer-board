@@ -81,7 +81,7 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 
 <!-- BOARD:START -->
 
-**68 open roles** · 18 above your $300K line · 50 near it · last run 2026-10-29 18:35 UTC · AI spend this month $2.83 of $100
+**68 open roles** · 18 above your $300K line · 50 near it · last run 2026-10-30 06:03 UTC · AI spend this month $3.21 of $100
 
 ### Above your offer line
 
@@ -89,86 +89,90 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 |---|---|---|---|---|---|---|
 | ByteDance Seed | [Research Scientist, Quantum Chemistry (Global Frontier Tech Program, 2027 start, PhD)](https://joinbytedance.com/search/7632426574734035253) | San Jose, CA | $300K–$450K (+25%) | ●●●●● | sponsors | Open now (2027-start req) |
 | Periodic Labs | [Research Scientist / Research Engineer, Materials Data](https://jobs.a16z.com/jobs/periodic-labs/research-scientist-research-engineer-materials-data--ats-mn7ddw8dg6yjkd5er8t6hxq99x8e6krx) | Menlo Park, CA | $280K–$420K (+17%) | ●●●●● | says it sponsors | Sep 1, 2026 |
-| D. E. Shaw Research | [Machine Learning Researcher and Engineer](https://apply.deshawresearch.com/careers/Register?pipelineId=597&source=DESRES+Website) **New** | New York, NY | $400K–$600K (+67%) | ●●●● | says it sponsors |  |
-| Thinking Machines Lab | [Research, Post-Training Evals](https://jobs.ashbyhq.com/thinkingmachines/602f2a99-34eb-4fde-9eec-b4945ee4aab6) **New** | San Francisco, CA | $370K–$520K (+48%) | ●●●● | says it sponsors | 2026-08-27 |
-| D. E. Shaw Research | [Force Field Developer](https://apply.deshawresearch.com/careers/Register?pipelineId=661&source=DESRES+Website) **New** | New York, NY | $300K–$450K (+25%) | ●●●● | says it sponsors |  |
-| Character.AI | [Research Engineer, Post-Training (All Industry Levels)](https://jobs.ashbyhq.com/character/449bf7c1-41d7-47a4-89a7-0ee0b31f5918) **New** | Redwood City, CA or New York, NY | $280K–$450K (+22%) | ●●●● | **ask first** | 2024-01-24 |
-| Periodic Labs | [Research Scientist, Data](https://jobs.ashbyhq.com/periodic-labs/d039ec58-a97d-47e1-b1e5-db003d772f77) **New** | Menlo Park, CA | $280K–$420K (+17%) | ●●●● | says it sponsors | 2026-07-25 |
-| xAI (SpaceXSI) | [Post-Training and RL](https://job-boards.greenhouse.io/xai/jobs/5114737007) **New** | Palo Alto, CA | $260K–$420K (+13%) | ●●●● | **ask first** |  |
-| Thinking Machines Lab | [Research, Finetuning Science](https://jobs.ashbyhq.com/thinkingmachines/0a71cb88-068b-4ac6-9912-e498c49b1343) **New** | San Francisco, CA | $370K–$520K (+48%) | ●●● | says it sponsors | 2026-09-16 |
-| Thinking Machines Lab | [Research, Pre-Training Data](https://jobs.ashbyhq.com/thinkingmachines/27ec4240-9f70-4ebe-abc0-a7336358a9a4) **New** | San Francisco, CA | $370K–$520K (+48%) | ●●● | says it sponsors | 2026-08-04 |
-| Anthropic | [Research Scientist, Life Sciences (Computational Chemistry)](https://job-boards.greenhouse.io/anthropic/jobs/5461863008) **New** | San Francisco, CA | $340K–$460K (+33%) | ●●● | says it sponsors | 2026-10-25 |
-| Character.AI | [Research Engineer, AI Safety & Alignment](https://jobs.ashbyhq.com/character/a7ddb640-466f-4a1f-9a94-7465006aad05) **New** | Redwood City, CA | $280K–$450K (+22%) | ●●● | **ask first** | 2025-10-03 |
+| D. E. Shaw Research | [Machine Learning Researcher and Engineer](https://apply.deshawresearch.com/careers/Register?pipelineId=597&source=DESRES+Website) | New York, NY | $400K–$600K (+67%) | ●●●● | says it sponsors |  |
+| Thinking Machines Lab | [Research, Post-Training Evals](https://jobs.ashbyhq.com/thinkingmachines/602f2a99-34eb-4fde-9eec-b4945ee4aab6) | San Francisco, CA | $370K–$520K (+48%) | ●●●● | says it sponsors | 2026-08-27 |
+| D. E. Shaw Research | [Force Field Developer](https://apply.deshawresearch.com/careers/Register?pipelineId=661&source=DESRES+Website) | New York, NY | $300K–$450K (+25%) | ●●●● | says it sponsors |  |
+| Character.AI | [Research Engineer, Post-Training (All Industry Levels)](https://jobs.ashbyhq.com/character/449bf7c1-41d7-47a4-89a7-0ee0b31f5918) | Redwood City, CA or New York, NY | $280K–$450K (+22%) | ●●●● | **ask first** | 2024-01-24 |
+| Periodic Labs | [Research Scientist, Data](https://jobs.ashbyhq.com/periodic-labs/d039ec58-a97d-47e1-b1e5-db003d772f77) | Menlo Park, CA | $280K–$420K (+17%) | ●●●● | says it sponsors | 2026-07-25 |
+| xAI (SpaceXSI) | [Post-Training and RL](https://job-boards.greenhouse.io/xai/jobs/5114737007) | Palo Alto, CA | $260K–$420K (+13%) | ●●●● | **ask first** |  |
+| Thinking Machines Lab | [Research, Finetuning Science](https://jobs.ashbyhq.com/thinkingmachines/0a71cb88-068b-4ac6-9912-e498c49b1343) | San Francisco, CA | $370K–$520K (+48%) | ●●● | says it sponsors | 2026-09-16 |
+| Thinking Machines Lab | [Research, Pre-Training Data](https://jobs.ashbyhq.com/thinkingmachines/27ec4240-9f70-4ebe-abc0-a7336358a9a4) | San Francisco, CA | $370K–$520K (+48%) | ●●● | says it sponsors | 2026-08-04 |
+| Anthropic | [Research Scientist, Life Sciences (Computational Chemistry)](https://job-boards.greenhouse.io/anthropic/jobs/5461863008) | San Francisco, CA | $340K–$460K (+33%) | ●●● | says it sponsors | 2026-10-25 |
+| Character.AI | [Research Engineer, AI Safety & Alignment](https://jobs.ashbyhq.com/character/a7ddb640-466f-4a1f-9a94-7465006aad05) | Redwood City, CA | $280K–$450K (+22%) | ●●● | **ask first** | 2025-10-03 |
 | ByteDance Seed | [Research Engineer Graduate, Seed Model AI Foundation Model Infrastructure (2027 start, PhD)](https://portfoliojobs.tcv.com/companies/bytedance/jobs/72958826-research-scientist-graduate-seed-ai-foundation-model-infrastructure-2027-start-phd) | Seattle, WA | $300K–$420K (+20%) | ●●● | sponsors | Spring 2026, still taking applications |
-| TikTok | [Research Scientist/Software Engineer, Neural Graphics and World Models - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://lifeattiktok.com/search/7668854153882011957) **New** | San Jose, CA | $285K–$420K (+18%) | ●●● | sponsors | 2026-08-20 |
-| TikTok | [(General Hire) Research Scientist Graduate(TikTok Recommendation) - 2027 Start (PhD)](https://lifeattiktok.com/search/7663388039600883973) **New** | San Jose, CA | $285K–$420K (+18%) | ●●● | sponsors | 2026-08-03 |
+| TikTok | [Research Scientist/Software Engineer, Neural Graphics and World Models - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://lifeattiktok.com/search/7668854153882011957) | San Jose, CA | $285K–$420K (+18%) | ●●● | sponsors | 2026-08-20 |
+| TikTok | [(General Hire) Research Scientist Graduate(TikTok Recommendation) - 2027 Start (PhD)](https://lifeattiktok.com/search/7663388039600883973) | San Jose, CA | $285K–$420K (+18%) | ●●● | sponsors | 2026-08-03 |
 | Periodic Labs | [Research Scientist / Research Engineer, Midtraining](https://jobs.a16z.com/jobs/periodic-labs/research-scientist-research-engineer-midtraining--ats-mn783xrp2jmjq4cp3mdjvsjbp98fc7j7) | Menlo Park, CA | $280K–$420K (+17%) | ●●● | says it sponsors | About Sep 30, 2026 |
-| TikTok | [AI Infra Engineer Graduate (Recommendation & LLM) 2027 Start (PhD)](https://lifeattiktok.com/search/7672656091025066293) **New** | San Jose, CA | $280K–$400K (+13%) | ●●● | sponsors | 2026-08-12 |
-| TikTok | [Machine Learning Engineer Graduate (E-Commerce Content Recommendation - Generative & Large Recommendation Model) - 2027 Start (PhD)](https://lifeattiktok.com/search/7685552742819842357) **New** | San Jose, CA; Seattle, WA | $240K–$420K (+10%) | ●●● | sponsors | 2026-09-16 |
+| TikTok | [AI Infra Engineer Graduate (Recommendation & LLM) 2027 Start (PhD)](https://lifeattiktok.com/search/7672656091025066293) | San Jose, CA | $280K–$400K (+13%) | ●●● | sponsors | 2026-08-12 |
+| TikTok | [Machine Learning Engineer Graduate (E-Commerce Content Recommendation - Generative & Large Recommendation Model) - 2027 Start (PhD)](https://lifeattiktok.com/search/7685552742819842357) | San Jose, CA; Seattle, WA | $240K–$420K (+10%) | ●●● | sponsors | 2026-09-16 |
 
 ### Near your offer line
 
 | Company | Role | Location | Est. year-1 pay (vs offer) | Fit | H-1B | Posted |
 |---|---|---|---|---|---|---|
-| ByteDance | [Research Scientist Graduate (Seed Quantum Chemistry and Machine Learning) - 2027 Start (PhD)](https://jobs.bytedance.com/en/position/7668595575944186117/detail) **New** | San Jose, CA | $210K–$410K (+3%) | ●●●●● | sponsors | 2026-08-19 |
+| ByteDance | [Research Scientist Graduate (Seed Quantum Chemistry and Machine Learning) - 2027 Start (PhD)](https://jobs.bytedance.com/en/position/7668595575944186117/detail) | San Jose, CA | $210K–$410K (+3%) | ●●●●● | sponsors | 2026-08-19 |
 | Meta FAIR | [Research Engineer, AI for Chemistry](https://metacareers.com/v2/jobs/3846804338907958) | Seattle, WA | $250K–$340K (-2%) | ●●●●● | sponsors | Live on Meta’s site |
-| ByteDance | [AI Molecular Dynamics Algorithm Researcher Graduate (Seed AI for Science - Atomistic AI) - 2027 Start (PhD)](https://jobs.bytedance.com/en/position/7670550401380878645/detail) **New** | Seattle, WA | $200K–$390K (-2%) | ●●●●● | sponsors | 2026-08-07 |
+| ByteDance | [AI Molecular Dynamics Algorithm Researcher Graduate (Seed AI for Science - Atomistic AI) - 2027 Start (PhD)](https://jobs.bytedance.com/en/position/7670550401380878645/detail) | Seattle, WA | $200K–$390K (-2%) | ●●●●● | sponsors | 2026-08-07 |
 | ByteDance | [Machine Learning Research Scientist - Atomistic AI - 2026 Start (PhD)](https://www.indeed.com/q-phd-machine-learning-jobs.html) **New** | Seattle, WA | $230K–$350K (-3%) | ●●●●● | sponsors |  |
-| Achira | [ML Research Scientist (MLRS) - Representation Learning for Molecular AI](https://jobs.ashbyhq.com/achira/fd1bf203-29bc-454a-9140-378a21bbc173) **New** | San Francisco, CA | $220K–$330K (-8%) | ●●●●● | **ask first** | 2026-06-30 |
+| Achira | [ML Research Scientist (MLRS) - Representation Learning for Molecular AI](https://jobs.ashbyhq.com/achira/fd1bf203-29bc-454a-9140-378a21bbc173) | San Francisco, CA | $220K–$330K (-8%) | ●●●●● | **ask first** | 2026-06-30 |
 | Meta | [AI Research Scientist, FAIR Chemistry](https://www.glassdoor.com/Job/new-york-computational-chemistry-jobs-SRCH_IL.0,8_IC1132348_KO9,32.htm) **New** | New York, NY | $220K–$330K (-8%) | ●●●●● | sponsors |  |
 | Meta | [AI Research Scientist — Generative AI for Materials Discovery](https://www.metacareers.com/profile/job_details/968722059080516/) **New** | Not stated (Meta research teams for this area are typically in Menlo Park, CA or New York, NY) | $220K–$330K (-8%) | ●●●●● | sponsors |  |
-| Chai Discovery | [Research Scientist](https://jobs.ashbyhq.com/chaidiscovery/19fcda8f-b68a-465a-a960-edc49c7ecdb9) **New** | San Francisco, CA | $250K–$400K (+8%) | ●●●● | **ask first** | 2026-03-06 |
-| TikTok | [Research Scientist Graduate (Conversational AI) - 2027 Start (PhD)](https://lifeattiktok.com/search/7670685496821713205) **New** | San Jose, CA; Seattle, WA | $250K–$400K (+8%) | ●●●● | sponsors | 2026-08-07 |
-| TikTok | [Machine Learning Engineer Graduate (E-Commerce Supply Chain & Logistics - LLM/Agent) - 2027 Start (PhD)](https://lifeattiktok.com/search/7675841339440941317) **New** | San Jose, CA; Seattle, WA | $250K–$400K (+8%) | ●●●● | sponsors | 2026-08-21 |
+| Chai Discovery | [Research Scientist](https://jobs.ashbyhq.com/chaidiscovery/19fcda8f-b68a-465a-a960-edc49c7ecdb9) | San Francisco, CA | $250K–$400K (+8%) | ●●●● | **ask first** | 2026-03-06 |
+| TikTok | [Research Scientist Graduate (Conversational AI) - 2027 Start (PhD)](https://lifeattiktok.com/search/7670685496821713205) | San Jose, CA; Seattle, WA | $250K–$400K (+8%) | ●●●● | sponsors | 2026-08-07 |
+| TikTok | [Machine Learning Engineer Graduate (E-Commerce Supply Chain & Logistics - LLM/Agent) - 2027 Start (PhD)](https://lifeattiktok.com/search/7675841339440941317) | San Jose, CA; Seattle, WA | $250K–$400K (+8%) | ●●●● | sponsors | 2026-08-21 |
 | ByteDance | [Research Scientist Graduate (Seed Model - LLM) - 2027 Start (PhD)](https://zapply.jobs/jobs/8c4759dd-7347-4a8c-89ae-43b6f8af8c98/) **New** | California (team also covers San Jose and Seattle) | $250K–$400K (+8%) | ●●●● | sponsors | 2026-10-25 |
 | TikTok (ByteDance) | [Research Scientist – TikTok Recommendation (NextGen LLM), 2027 Start (PhD)](https://www.indeed.com/q-artificial-intelligence-scientist-jobs.html) **New** | San Jose, CA | $250K–$400K (+8%) | ●●●● | sponsors |  |
-| ByteDance | [Agent Evaluation & Evolution Researcher Graduate (AML-Ark-US) - 2027 Start (PhD)](https://jobs.bytedance.com/en/position/7671095905295075637/detail) **New** | San Jose, CA | $210K–$410K (+3%) | ●●●● | sponsors | 2026-08-10 |
-| Apple | [AIML - Machine Learning Researcher, Post-Training for Foundation Models](https://jobs.apple.com/en-us/details/200645804-0836) **New** | Cupertino, CA | $250K–$340K (-2%) | ●●●● | sponsors | 2026-02-06 |
-| Apple | [AIML Researcher/Engineer - Foundation Model Post-Training](https://jobs.apple.com/en-us/details/200662944-0836) **New** | Cupertino, CA; New York, NY; Seattle, WA | $250K–$340K (-2%) | ●●●● | sponsors | 2026-05-27 |
-| Lila Sciences | [Machine Learning Engineer, Physical Sciences AI](https://job-boards.greenhouse.io/lilasciences/jobs/4116513009) **New** | Cambridge, MA / San Francisco, CA | $240K–$350K (-2%) | ●●●● | sponsors | 2026-02-03 |
+| ByteDance | [Agent Evaluation & Evolution Researcher Graduate (AML-Ark-US) - 2027 Start (PhD)](https://jobs.bytedance.com/en/position/7671095905295075637/detail) | San Jose, CA | $210K–$410K (+3%) | ●●●● | sponsors | 2026-08-10 |
+| Apple | [AIML - Machine Learning Researcher, Post-Training for Foundation Models](https://jobs.apple.com/en-us/details/200645804-0836) | Cupertino, CA | $250K–$340K (-2%) | ●●●● | sponsors | 2026-02-06 |
+| Apple | [AIML Researcher/Engineer - Foundation Model Post-Training](https://jobs.apple.com/en-us/details/200662944-0836) | Cupertino, CA; New York, NY; Seattle, WA | $250K–$340K (-2%) | ●●●● | sponsors | 2026-05-27 |
+| Lila Sciences | [Machine Learning Engineer, Physical Sciences AI](https://job-boards.greenhouse.io/lilasciences/jobs/4116513009) | Cambridge, MA / San Francisco, CA | $240K–$350K (-2%) | ●●●● | sponsors | 2026-02-03 |
 | TikTok | [Machine Learning Scientist Graduate, Trust and Safety (2027 start, PhD)](https://lifeattiktok.com/search/7665985896410368261) | Seattle, WA | $255K–$330K (-3%) | ●●●● | sponsors | About Aug 2026 |
-| Google | [Research Scientist, Science AI, Google Research](https://www.google.com/about/careers/applications/jobs/results/91797366327124678-research-scientist-science-ai-google-research) **New** | Cambridge, MA | $250K–$330K (-3%) | ●●●● | sponsors |  |
-| Snowflake | [AI Research Scientist - New Grad - Agents & Reinforcement Learning](https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698) **New** | Bellevue, WA | $230K–$330K (-7%) | ●●●● | **ask first** | 2026-09-05 |
+| Google | [Research Scientist, Science AI, Google Research](https://www.google.com/about/careers/applications/jobs/results/91797366327124678-research-scientist-science-ai-google-research) | Cambridge, MA | $250K–$330K (-3%) | ●●●● | sponsors |  |
+| Snowflake | [AI Research Scientist - New Grad - Agents & Reinforcement Learning](https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698) | Bellevue, WA | $230K–$330K (-7%) | ●●●● | **ask first** | 2026-09-05 |
 | Lila Sciences | [Research Scientist, Computational Condensed Matter Physics](https://jobs.generalcatalyst.com/companies/lila-sciences-2/jobs/87897567-research-scientist-computational-condensed-matter-physics) | Cambridge, MA | $220K–$330K (-8%) | ●●●● | sponsors | Jul 29, 2026 |
-| Achira | [ML Research Scientist (MLRS) - Generative AI](https://jobs.ashbyhq.com/achira/083f473d-0204-4822-a62b-ea2dcfab50d4) **New** | San Francisco, CA | $220K–$330K (-8%) | ●●●● | **ask first** | 2026-06-30 |
-| Achira | [Machine Learning Research Engineer (MLRE) - Research](https://jobs.ashbyhq.com/achira/08b9b6bd-9f8f-4a7d-9fdd-48bb19affe20) **New** | San Francisco, CA | $220K–$330K (-8%) | ●●●● | **ask first** | 2026-04-29 |
-| Lila Sciences | [Senior / Engineer II, AI Lab Research Engineer](https://job-boards.greenhouse.io/lilasciences/jobs/4029507009) **New** | Cambridge, MA / San Francisco, CA | $210K–$330K (-10%) | ●●●● | sponsors | 2025-10-06 |
-| Periodic Labs | [Research Scientist, Scaling RL](https://jobs.ashbyhq.com/periodic-labs/20b122c9-b8ec-4fb0-aaf4-9b45902affe0) **New** | Menlo Park, CA | $260K–$390K (+8%) | ●●● | says it sponsors | 2026-10-01 |
-| TikTok | [Machine Learning Engineer Graduate (E-Commerce Recommendation Foundation)- 2027 Start (PhD)](https://lifeattiktok.com/search/7672879948538284341) **New** | San Jose, CA; Seattle, WA | $250K–$400K (+8%) | ●●● | sponsors | 2026-08-13 |
-| xAI (SpaceXSI) | [Mid-training](https://job-boards.greenhouse.io/xai/jobs/4965893007) **New** | Palo Alto, CA | $250K–$380K (+5%) | ●●● | **ask first** |  |
-| Waymo | [Machine Learning Engineer Perception LLM/VLM (PhD, New Grad)](https://careers.withwaymo.com/jobs?gh_jid=7488508) **New** | Mountain View, CA / San Francisco, CA | $260K–$360K (+3%) | ●●● | sponsors | 2025-12-22 |
-| TikTok | [Research Engineer Graduate (Monetization Technology - Business Integrity) - 2027 Start (PhD)](https://lifeattiktok.com/search/7667767820142643461) **New** | San Jose, CA | $260K–$360K (+3%) | ●●● | sponsors | 2026-08-03 |
-| ByteDance | [Machine Learning Engineer Graduate (E-Commerce Risk Control) - 2027 Start (PhD)](https://jobs.bytedance.com/en/position/7675473897004861749/detail) **New** | San Jose, CA | $210K–$400K (+2%) | ●●● | sponsors | 2026-08-25 |
-| NVIDIA | [Research Scientist, ML Systems - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--ML-Systems---New-College-Grad-2026_JR2010161) **New** | Santa Clara, CA (also Westford, MA; Austin, TX; Seattle, WA) | $260K–$350K (+2%) | ●●● | sponsors | 2026-01-09 |
-| NVIDIA | [Research Scientist, Physical AI - Foundation Models - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032) **New** | Santa Clara, CA | $260K–$350K (+2%) | ●●● | sponsors | 2026-09-23 |
-| Genesis Molecular AI | [ML Research Scientist, Foundation Models (Senior / Staff / Principal)](https://jobs.ashbyhq.com/genesis-molecular-ai/c1c47745-4e5c-4e0e-9d71-16d7ea28895a) **New**, stretch | San Mateo, CA | $240K–$360K (0%) | ●●●● | **ask first** | 2025-07-30 |
-| TikTok | [Research Scientist Graduate (Monetization Technology - Business Integrity) - 2027 Start (PhD)](https://lifeattiktok.com/search/7667766028122048773) **New** | San Jose, CA | $250K–$350K (0%) | ●●● | sponsors | 2026-07-30 |
-| Apple | [AIML - ML Researcher, AFM](https://jobs.apple.com/en-us/details/200607600-0836) **New** | Cupertino, CA; New York, NY; Seattle, WA | $250K–$340K (-2%) | ●●● | sponsors | 2026-06-24 |
-| Apple | [ML Researcher, Apple Foundation Models](https://jobs.apple.com/en-us/details/200664386-2621) **New** | New York City Metro Area, NY | $250K–$340K (-2%) | ●●● | sponsors | 2026-06-08 |
-| Apple | [Research Scientist/Engineer - LLM Efficiency](https://jobs.apple.com/en-us/details/200631342-3760) **New** | Santa Clara, CA | $250K–$340K (-2%) | ●●● | sponsors | 2026-10-12 |
-| Together AI | [Research Engineer, Large-Scale Training](https://job-boards.greenhouse.io/togetherai/jobs/5199554007) **New** | San Francisco, CA | $240K–$340K (-3%) | ●●● | **ask first** | 2026-09-23 |
-| Mistral AI | [Applied Scientist](https://jobs.ashbyhq.com/mistral.ai/5d15e1fe-789d-451d-8521-568906620c21) **New** | Palo Alto, CA (also New York, NY) | $230K–$350K (-3%) | ●●● | **ask first** | 2026-08-03 |
-| TikTok | [Research Scientist Graduate (E-Commerce Recommendation Region) - 2027 Start (PhD)](https://lifeattiktok.com/search/7695927144126253317) **New** | Seattle, WA | $240K–$340K (-3%) | ●●● | sponsors | 2026-10-14 |
-| TikTok | [Machine Learning Engineer Graduate (E-Commerce Recommendation Mall) - 2027 Start (PhD)](https://lifeattiktok.com/search/7672883737036654853) **New** | Seattle, WA | $240K–$340K (-3%) | ●●● | sponsors | 2026-08-13 |
-| TikTok | [Machine Learning Engineer Graduate (E-Commerce Governance) - 2027 Start (PhD)](https://lifeattiktok.com/search/7672928557537954053) **New** | Seattle, WA | $240K–$340K (-3%) | ●●● | sponsors | 2026-08-13 |
-| TikTok | [Neural Graphics and World Models Research Scientist/Software Engineer Graduate (TikTok, Engine&Tools) - 2027 Start (PhD)](https://lifeattiktok.com/search/7668831188103481605) **New** | San Jose, CA | $230K–$350K (-3%) | ●●● | sponsors | 2026-08-03 |
-| TikTok | [Research Engineer Graduate (Agentic Arch) - 2027 Start (PhD)](https://lifeattiktok.com/search/7669824354636613941) **New** | San Jose, CA | $230K–$350K (-3%) | ●●● | sponsors | 2026-08-04 |
+| Achira | [ML Research Scientist (MLRS) - Generative AI](https://jobs.ashbyhq.com/achira/083f473d-0204-4822-a62b-ea2dcfab50d4) | San Francisco, CA | $220K–$330K (-8%) | ●●●● | **ask first** | 2026-06-30 |
+| Achira | [Machine Learning Research Engineer (MLRE) - Research](https://jobs.ashbyhq.com/achira/08b9b6bd-9f8f-4a7d-9fdd-48bb19affe20) | San Francisco, CA | $220K–$330K (-8%) | ●●●● | **ask first** | 2026-04-29 |
+| Lila Sciences | [Senior / Engineer II, AI Lab Research Engineer](https://job-boards.greenhouse.io/lilasciences/jobs/4029507009) | Cambridge, MA / San Francisco, CA | $210K–$330K (-10%) | ●●●● | sponsors | 2025-10-06 |
+| Periodic Labs | [Research Scientist, Scaling RL](https://jobs.ashbyhq.com/periodic-labs/20b122c9-b8ec-4fb0-aaf4-9b45902affe0) | Menlo Park, CA | $260K–$390K (+8%) | ●●● | says it sponsors | 2026-10-01 |
+| TikTok | [Machine Learning Engineer Graduate (E-Commerce Recommendation Foundation)- 2027 Start (PhD)](https://lifeattiktok.com/search/7672879948538284341) | San Jose, CA; Seattle, WA | $250K–$400K (+8%) | ●●● | sponsors | 2026-08-13 |
+| xAI (SpaceXSI) | [Mid-training](https://job-boards.greenhouse.io/xai/jobs/4965893007) | Palo Alto, CA | $250K–$380K (+5%) | ●●● | **ask first** |  |
+| Waymo | [Machine Learning Engineer Perception LLM/VLM (PhD, New Grad)](https://careers.withwaymo.com/jobs?gh_jid=7488508) | Mountain View, CA / San Francisco, CA | $260K–$360K (+3%) | ●●● | sponsors | 2025-12-22 |
+| TikTok | [Research Engineer Graduate (Monetization Technology - Business Integrity) - 2027 Start (PhD)](https://lifeattiktok.com/search/7667767820142643461) | San Jose, CA | $260K–$360K (+3%) | ●●● | sponsors | 2026-08-03 |
+| ByteDance | [Machine Learning Engineer Graduate (E-Commerce Risk Control) - 2027 Start (PhD)](https://jobs.bytedance.com/en/position/7675473897004861749/detail) | San Jose, CA | $210K–$400K (+2%) | ●●● | sponsors | 2026-08-25 |
+| NVIDIA | [Research Scientist, ML Systems - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--ML-Systems---New-College-Grad-2026_JR2010161) | Santa Clara, CA (also Westford, MA; Austin, TX; Seattle, WA) | $260K–$350K (+2%) | ●●● | sponsors | 2026-01-09 |
+| NVIDIA | [Research Scientist, Physical AI - Foundation Models - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032) | Santa Clara, CA | $260K–$350K (+2%) | ●●● | sponsors | 2026-09-23 |
+| Genesis Molecular AI | [ML Research Scientist, Foundation Models (Senior / Staff / Principal)](https://jobs.ashbyhq.com/genesis-molecular-ai/c1c47745-4e5c-4e0e-9d71-16d7ea28895a) stretch | San Mateo, CA | $240K–$360K (0%) | ●●●● | **ask first** | 2025-07-30 |
+| TikTok | [Research Scientist Graduate (Monetization Technology - Business Integrity) - 2027 Start (PhD)](https://lifeattiktok.com/search/7667766028122048773) | San Jose, CA | $250K–$350K (0%) | ●●● | sponsors | 2026-07-30 |
+| Apple | [AIML - ML Researcher, AFM](https://jobs.apple.com/en-us/details/200607600-0836) | Cupertino, CA; New York, NY; Seattle, WA | $250K–$340K (-2%) | ●●● | sponsors | 2026-06-24 |
+| Apple | [ML Researcher, Apple Foundation Models](https://jobs.apple.com/en-us/details/200664386-2621) | New York City Metro Area, NY | $250K–$340K (-2%) | ●●● | sponsors | 2026-06-08 |
+| Apple | [Research Scientist/Engineer - LLM Efficiency](https://jobs.apple.com/en-us/details/200631342-3760) | Santa Clara, CA | $250K–$340K (-2%) | ●●● | sponsors | 2026-10-12 |
+| Together AI | [Research Engineer, Large-Scale Training](https://job-boards.greenhouse.io/togetherai/jobs/5199554007) | San Francisco, CA | $240K–$340K (-3%) | ●●● | **ask first** | 2026-09-23 |
+| Mistral AI | [Applied Scientist](https://jobs.ashbyhq.com/mistral.ai/5d15e1fe-789d-451d-8521-568906620c21) | Palo Alto, CA (also New York, NY) | $230K–$350K (-3%) | ●●● | **ask first** | 2026-08-03 |
+| TikTok | [Research Scientist Graduate (E-Commerce Recommendation Region) - 2027 Start (PhD)](https://lifeattiktok.com/search/7695927144126253317) | Seattle, WA | $240K–$340K (-3%) | ●●● | sponsors | 2026-10-14 |
+| TikTok | [Machine Learning Engineer Graduate (E-Commerce Recommendation Mall) - 2027 Start (PhD)](https://lifeattiktok.com/search/7672883737036654853) | Seattle, WA | $240K–$340K (-3%) | ●●● | sponsors | 2026-08-13 |
+| TikTok | [Machine Learning Engineer Graduate (E-Commerce Governance) - 2027 Start (PhD)](https://lifeattiktok.com/search/7672928557537954053) | Seattle, WA | $240K–$340K (-3%) | ●●● | sponsors | 2026-08-13 |
+| TikTok | [Neural Graphics and World Models Research Scientist/Software Engineer Graduate (TikTok, Engine&Tools) - 2027 Start (PhD)](https://lifeattiktok.com/search/7668831188103481605) | San Jose, CA | $230K–$350K (-3%) | ●●● | sponsors | 2026-08-03 |
+| TikTok | [Research Engineer Graduate (Agentic Arch) - 2027 Start (PhD)](https://lifeattiktok.com/search/7669824354636613941) | San Jose, CA | $230K–$350K (-3%) | ●●● | sponsors | 2026-08-04 |
 | Meta | [Research Scientist, Machine Learning (PhD), university grad](https://www.metacareers.com/students-and-grads) | Sunnyvale, CA and 7 more | $250K–$320K (-5%) | ●●● | sponsors | Listed on Meta’s Students & Grads page |
-| TikTok | [AI Machine Learning Engineer - Graduate (TikTok Content Ecology) - 2027 Start (PhD) - Graduate (TikTok Content Ecology) - 2027 Start (PhD)](https://lifeattiktok.com/search/7668838052657678597) **New** | San Jose, CA | $230K–$330K (-7%) | ●●● | sponsors | 2026-08-02 |
+| TikTok | [AI Machine Learning Engineer - Graduate (TikTok Content Ecology) - 2027 Start (PhD) - Graduate (TikTok Content Ecology) - 2027 Start (PhD)](https://lifeattiktok.com/search/7668838052657678597) | San Jose, CA | $230K–$330K (-7%) | ●●● | sponsors | 2026-08-02 |
 | Google | [Software Engineer, AI/Machine Learning, PhD, Early Career (2027 start)](https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer) | Sunnyvale, Seattle, Kirkland, New York and 6 more | $240K–$310K (-8%) | ●●● | sponsors | Aug 2026 |
 | NVIDIA | [Research Scientist PhD New Grad - Autonomous Systems and Physical AI Research](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551) **New** | Santa Clara, CA | $220K–$330K (-8%) | ●●● | sponsors | 2026-10-07 |
-| Liquid AI | [Liquid Labs - Research Engineer](https://jobs.ashbyhq.com/liquid-ai/679d26b2-2603-424d-acb8-99f45e8b5ddd) **New** | Boston, MA (SF or other US locations accepted) | $220K–$320K (-10%) | ●●● | **ask first** | 2025-12-03 |
-| Cerebras Systems | [Applied Machine Learning Research Scientist](https://jobs.ashbyhq.com/cerebras/d654a704-2c58-4ba6-9109-2c92aecb2503) **New** | United States and Canada (Sunnyvale, CA HQ) | $220K–$320K (-10%) | ●●● | **ask first** | 2026-03-05 |
-| Lila Sciences | [ML Scientist, Foundation Models for Life Sciences](https://job-boards.greenhouse.io/lilasciences/jobs/4222051009) **New** | San Francisco, CA USA | $200K–$330K (-12%) | ●●● | sponsors | 2026-04-28 |
+| Liquid AI | [Liquid Labs - Research Engineer](https://jobs.ashbyhq.com/liquid-ai/679d26b2-2603-424d-acb8-99f45e8b5ddd) | Boston, MA (SF or other US locations accepted) | $220K–$320K (-10%) | ●●● | **ask first** | 2025-12-03 |
+| Cerebras Systems | [Applied Machine Learning Research Scientist](https://jobs.ashbyhq.com/cerebras/d654a704-2c58-4ba6-9109-2c92aecb2503) | United States and Canada (Sunnyvale, CA HQ) | $220K–$320K (-10%) | ●●● | **ask first** | 2026-03-05 |
+| Lila Sciences | [ML Scientist, Foundation Models for Life Sciences](https://job-boards.greenhouse.io/lilasciences/jobs/4222051009) | San Francisco, CA USA | $200K–$330K (-12%) | ●●● | sponsors | 2026-04-28 |
 
 ### Not screened yet
 These passed the keyword filters but weren't screened (AI off or the monthly budget is used up).
 
 | Company | Role | Location | Found via |
 |---|---|---|---|
-| xAI | [AI Tutor - Materials Science](https://job-boards.greenhouse.io/xai/jobs/4925823007) | Remote International | Greenhouse (xai) |
+| xAI | [AI Tutor, Materials Science - Temporary](https://job-boards.greenhouse.io/xai/jobs/4925823007) | Remote International | Greenhouse (xai) |
 | Schrödinger | [Computational Chemist](https://job-boards.greenhouse.io/schrdinger/jobs/8045317003) | New York; Cambridge, MA; San Diego; Portland | Greenhouse (schrdinger) |
 | Schrödinger | [Computational Chemist, Target Druggability and Structure-Based Design](https://job-boards.greenhouse.io/schrdinger/jobs/8045314003) | New York; Cambridge, MA; San Diego; Portland | Greenhouse (schrdinger) |
+| Schrödinger | [Computational Materials Science, Formulations](https://job-boards.greenhouse.io/schrdinger/jobs/8086902003) | New York; Portland | Greenhouse (schrdinger) |
+| Schrödinger | [Computational Materials Scientist, Atomic Layer Processing and Chemical Reactivity](https://job-boards.greenhouse.io/schrdinger/jobs/8086074003) | New York; Portland | Greenhouse (schrdinger) |
+| Anthropic | [Research Scientist, Life Sciences (Large Molecules, Antibody Design) ](https://job-boards.greenhouse.io/anthropic/jobs/5467092008) | San Francisco, CA | Greenhouse (anthropic) |
+| Anthropic | [Research Scientist, Life Sciences (Large Molecules, Process Development) ](https://job-boards.greenhouse.io/anthropic/jobs/5467099008) | San Francisco, CA | Greenhouse (anthropic) |
 | Achira | [Machine Learning Research Engineer (MLRE) - GPUs](https://jobs.ashbyhq.com/achira/f7893ad8-8da1-4ae3-b56b-151feb17d324) | San Francisco Office | Ashby (achira) |
 | Achira | [Machine Learning Research Engineer (MLRE) - Workflows/Systems](https://jobs.ashbyhq.com/achira/bb70d7b1-6da0-4271-85b6-caec85254dea) | San Francisco Office | Ashby (achira) |
 | Chai Discovery | [Forward-Deployed Scientist](https://jobs.ashbyhq.com/chaidiscovery/e60e0d79-622d-4251-b056-d380484d9dab) | San Francisco office | Ashby (chaidiscovery) |
@@ -177,16 +181,13 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | Iambic Therapeutics | [Machine Learning Scientist – Clinical Prediction](https://jobs.ashbyhq.com/iambic-therapeutics/e418c9bf-4fe6-4484-92ad-e9a320557815) | Boston Office | Ashby (iambic-therapeutics) |
 | Iambic Therapeutics | [Research Scientist II/Senior, Computational Chemistry](https://jobs.ashbyhq.com/iambic-therapeutics/6236b729-9139-4971-8a31-3f5a9add1ed4) | San Diego HQ | Ashby (iambic-therapeutics) |
 | Iambic Therapeutics | [Sr Associate Scientist I or II, Medicinal Chemistry ](https://jobs.ashbyhq.com/iambic-therapeutics/6ba365c2-2542-41c0-9674-ec529ea4a218) | San Diego HQ | Ashby (iambic-therapeutics) |
-| Iambic Therapeutics | [Sr. Associate Scientist I / II – High Throughput Chemistry](https://jobs.ashbyhq.com/iambic-therapeutics/3e8cd097-a214-42cf-ab17-06dbbd159a1d) | San Diego HQ | Ashby (iambic-therapeutics) |
 | SandboxAQ | [Machine Learning Scientist – Generative Molecular Design](https://jobs.ashbyhq.com/sandboxaq/f6d8bdb1-75e5-4abe-94ea-285a7c2aa359) | United States | Ashby (sandboxaq) |
 | SandboxAQ | [Machine Learning Scientist, Generative Molecular Design (Material Discovery)](https://jobs.ashbyhq.com/sandboxaq/8579117b-a05a-4b64-9595-58fb5e83c685) | United States | Ashby (sandboxaq) |
 | SandboxAQ | [Computational Chemist - Machine Learned Force Fields, Material Discovery](https://jobs.ashbyhq.com/sandboxaq/b33383d4-18c9-4eea-acab-6fdd713f5174) | United States | Ashby (sandboxaq) |
 | SandboxAQ | [Machine Learning Scientist - Molecular Force Fields](https://jobs.ashbyhq.com/sandboxaq/2ecf82f8-6bab-48d5-b34a-e1c745b7fc60) | United States | Ashby (sandboxaq) |
 | Thinking Machines Lab | [Research Lead, Tinker, Fine-tuning Science](https://jobs.ashbyhq.com/thinkingmachines/4e3a366f-eb0f-4ea9-8cf9-9c2f911f279c) | San Francisco | Ashby (thinkingmachines) |
 | NVIDIA | [Research Scientist, Fundamental Generative AI - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698) | US, CA, Santa Clara | Workday (NVIDIA) |
-| Meta | [AI Research Scientist - Machine Learning for Behavioral AI (materials generative role)](https://www.careerbuilder.com/job-details/ai-research-scientist-machine-learning-for-behavioral-ai-pasadena-ca--faca4a74-67b5-4cb1-b087-d7b10ff0899e) | Pasadena, CA | Claude web search: Meta Reality Labs Research materials discovery AI research s |
-| ByteDance | [Research Scientist (Seed Model-Alignment & Preparedness) - 2027 Start (PhD)](https://www.recruit.net/job/research-scientist-seed-model-alignment-jobs/F936AE1AC5B60845) | San Jose, CA, USA | Claude web search: "2027 Start (PhD)" research scientist AI for Science ByteDan |
-| TikTok (ByteDance) | [Research Scientist Graduate (Seed-Multimodal Interaction and World Model) - 2027 Start (PhD)](https://cdc.wpi.edu/jobs/tiktok-inc-research-scientist-graduate-seed-multimodal-interaction-and-world-model-2027-start-phd/) | San Jose, CA | Claude web search: "2027 Start (PhD)" research scientist AI for Science ByteDan |
+| Netflix | [Research Scientist (L4) - New Grad PhD](https://startup.jobs/research-scientist-l4-new-grad-phd-netflix-3781083) | Los Gatos, CA (on-site) | Claude web search: Snap OR Adobe OR Netflix research scientist PhD 2027 |
 | Samsung AI Research Center | [2027 Health AI Scholar - Digital Health Algorithms Team](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002) | Mountain View, CA | speedyapply 2027 AI new-grad list |
 | TikTok | [Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance](https://lifeattiktok.com/search/7669910326745434421) | Seattle, WA | Simplify new-grad list |
 | TikTok | [Machine Learning Engineer Graduate - E-Commerce Recommendation Live](https://lifeattiktok.com/search/7670285495593273605) | San Jose, CA | Simplify new-grad list |
@@ -196,7 +197,6 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | ByteDance | [Research Scientist Graduate - Seed AI Foundation Model Infrastructure - PhD](https://jobs.bytedance.com/en/position/7673264681083898165/detail) | San Jose, CA | Simplify new-grad list |
 | TikTok | [Machine Learning Engineer Graduate - E-Commerce User Growth](https://lifeattiktok.com/search/7694353236283935029) | Seattle, WA | Simplify new-grad list |
 | ByteDance | [Research Scientist](https://jobs.bytedance.com/en/position/7698902624389482757/detail) | San Jose, CA | Simplify new-grad list |
-| SambaNova Systems | [ML Infrastructure Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004) | Austin, TX; San Jose, CA | Simplify new-grad list |
 
 ### Closed recently
 
@@ -210,8 +210,12 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 - Meta FAIR, AI Research Scientist, FAIR Chemistry (New York) (2026-10-25)
 - Lila Sciences, ML Research Scientist I/II, Multimodal Data Extraction (2026-10-25)
 
-<details><summary>Screened out (186)</summary>
+<details><summary>Screened out (190)</summary>
 
+- [Zoom, AI Engineer](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/AI-Engineer_R19823-1): Needs more experience than a new PhD.
+- [SambaNova Systems, ML Infrastructure Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004): Estimated $210K–$270K, below your line.
+- [Applied Materials, AI Materials Research Engineer (New College Grad)](https://www.dreamworkhq.com/job/f1e58aad-eac2-462f-bcde-4cf278b8758b): Estimated $175K–$220K, below your line.
+- [Lila Sciences, AI Scientist I/II, Generative Modeling for Materials Science](https://www.indeed.com/q-ai-material-science-jobs.html): Estimated $180K–$280K, below your line.
 - [Smith+Nephew, R&D Engineer - Data Science](https://smithnephew.wd5.myworkdayjobs.com/en-US/external/job/Pittsburgh-PA/R-D-Engineer---Data-Science_R90815): Estimated $120K–$160K, below your line.
 - [TikTok USDS Joint Venture, Machine Learning Engineer Graduate (Risk & Integrity) - 2027 Start (PhD)](https://jobpilot.suxrobgm.net/jobs/machine-learning-engineer-graduate-risk-integrity-2027-start-at-tiktok-usds-joint-venture-ae1bb2): Estimated $137K–$259K, below your line.
 - [Schrödinger, Crystal Structure Prediction Scientist](https://job-boards.greenhouse.io/schrdinger/jobs/6078438003): Estimated $160K–$200K, below your line.

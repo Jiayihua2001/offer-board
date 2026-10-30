@@ -2727,5 +2727,35 @@
     "decision": "screened",
     "reason": "needs more experience than a new PhD",
     "tkey": "university-corporation-for-atmospheric-research|data-science-student-assistant-3"
+  },
+  "https://jobs.ashbyhq.com/iambic-therapeutics/3e8cd097-a214-42cf-ab17-06dbbd159a1d": {
+    "date": "2026-10-30",
+    "decision": "screened",
+    "reason": "estimated $88K–$128K, below your line",
+    "tkey": "iambic-therapeutics|sr-associate-scientist-i-ii-high-throughput-chemistry"
+  },
+  "https://indeed.com/q-ai-material-science-jobs.html": {
+    "date": "2026-10-30",
+    "decision": "screened",
+    "reason": "estimated $180K–$280K, below your line",
+    "tkey": "lila-sciences|ai-scientist-i-ii-generative-modeling-for-materials-science"
+  },
+  "https://dreamworkhq.com/job/f1e58aad-eac2-462f-bcde-4cf278b8758b": {
+    "date": "2026-10-30",
+    "decision": "screened",
+    "reason": "estimated $175K–$220K, below your line",
+    "tkey": "applied-materials|ai-materials-research-engineer-new-college-grad"
+  },
+  "https://sambanova.ai/sambanova-available-positions?gh_jid=6224938004": {
+    "date": "2026-10-30",
+    "decision": "screened",
+    "reason": "estimated $210K–$270K, below your line",
+    "tkey": "sambanova-systems|ml-infrastructure-engineer-new-grad"
+  },
+  "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/AI-Engineer_R19823-1": {
+    "date": "2026-10-30",
+    "decision": "screened",
+    "reason": "needs more experience than a new PhD",
+    "tkey": "zoom|ai-engineer"
   }
 }
