@@ -1,9 +1,9 @@
 {
-  "runs": 10,
+  "runs": 11,
   "spend": {
-    "2026-10": 3.979
+    "2026-10": 4.3578
   },
-  "discovery_cursor": 16,
+  "discovery_cursor": 5,
   "review": [
     {
       "company": "Schrödinger",
@@ -32,13 +32,6 @@
       "url": "https://job-boards.greenhouse.io/schrdinger/jobs/8086074003",
       "location": "New York; Portland",
       "source": "Greenhouse (schrdinger)"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Research Resident",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
-      "location": "San Francisco, CA | New York City, NY",
-      "source": "Greenhouse (anthropic)"
     },
     {
       "company": "Anthropic",
@@ -146,48 +139,6 @@
       "source": "Ashby (thinkingmachines)"
     },
     {
-      "company": "NVIDIA",
-      "title": "Research Scientist, Fundamental Generative AI - New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698",
-      "location": "US, CA, Santa Clara",
-      "source": "Workday (NVIDIA)"
-    },
-    {
-      "company": "Applied Materials",
-      "title": "New College Grad - Computational Physics & Agentic AI Engineer, Doctorate Degree (Spring 2027)",
-      "url": "https://www.dreamworkhq.com/job/88b468f9-8a86-407f-8135-a1f88347df89",
-      "location": "Santa Clara, CA",
-      "source": "Claude web search: LLM applied scientist PhD new grad 2027 United States"
-    },
-    {
-      "company": "Applied Science Works",
-      "title": "Machine Learning Engineer - Atomistic Simulation",
-      "url": "https://appliedscienceworks.com/careers.html",
-      "location": "Not stated (verify US location)",
-      "source": "Claude web search: LLM applied scientist PhD new grad 2027 United States"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist, Computer Vision (PhD)",
-      "url": "https://www.aijobs.com/jobs/678106571-research-scientist-computer-vision-phd",
-      "location": "Not stated in snippet (verify US location)",
-      "source": "Claude web search: research scientist PhD university graduate 2027 machine lear"
-    },
-    {
-      "company": "Netflix",
-      "title": "Research Scientist (L4) - New Grad PhD",
-      "url": "https://www.linkedin.com/jobs/view/research-scientist-l4-new-grad-phd-at-netflix-3356608778",
-      "location": "Los Gatos, CA",
-      "source": "Claude web search: Snap OR Adobe OR Netflix research scientist PhD 2027"
-    },
-    {
-      "company": "Lawrence Livermore National Laboratory",
-      "title": "SI/ML Computational Biologist - Academic Graduate Appointee",
-      "url": "https://jobs.smartrecruiters.com/LLNL/3743990016508836-si-ml-computational-biologist-academic-graduate-appointee-?oga=true",
-      "location": "Livermore, CA",
-      "source": "speedyapply 2027 AI new-grad list"
-    },
-    {
       "company": "Samsung AI Research Center",
       "title": "2027 Health AI Scholar - Digital Health Algorithms Team",
       "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002",
@@ -237,13 +188,6 @@
       "source": "Simplify new-grad list"
     },
     {
-      "company": "Fireworks AI",
-      "title": "Member of Technical Staff New Grad - Research",
-      "url": "https://jobs.ashbyhq.com/fireworks/82b41f4a-a945-4aee-a1fd-1ef9ab513e58/application?embed=true",
-      "location": "San Mateo, CA; NYC",
-      "source": "Simplify new-grad list"
-    },
-    {
       "company": "TikTok",
       "title": "Machine Learning Engineer Graduate - E-Commerce User Growth",
       "url": "https://lifeattiktok.com/search/7694353236283935029",
@@ -265,5 +209,5 @@
       "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-10-31 05:59 UTC"
+  "last_run": "2026-10-31 17:22 UTC"
 }

@@ -2155,6 +2155,73 @@
     "first_seen": "2026-10-31",
     "last_checked": "2026-10-31",
     "last_open": "2026-10-31",
+    "check_failures": 0,
+    "stale": false
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Research Scientist, Fundamental Generative AI - New College Grad 2026",
+    "est": [
+      240,
+      350
+    ],
+    "id": "nvidia-research-scientist-fundamental-g-4add5f",
+    "track": "science",
+    "location": "Santa Clara, CA, US",
+    "base": "Base salary 168,000 - 264,500 USD, plus equity and benefits",
+    "fit": 3,
+    "why": "The GenAI4Science focus overlaps with the candidate's ML-for-materials research, including leading GAtor 2.0 with UMA, MACE and AIMNet2 interatomic potentials and running large-scale parallel searches. Their PyTorch skills and distributed-computing experience also match. However, the role centers on generative models for molecules, proteins and RNA, and the candidate has no clear generative-modeling record.",
+    "caveat": "The posting asks for a track record in generative models for molecules or proteins, plus CUDA/C++ and top-venue publications, which the candidate may not fully show; the posting does not mention visa sponsorship, and year-1 total pay is an estimate since only the base range is given.",
+    "posted": "",
+    "source": "Workday (NVIDIA)",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": {
+      "type": "workday",
+      "host": "nvidia.wd5.myworkdayjobs.com",
+      "tenant": "nvidia",
+      "site": "NVIDIAExternalCareerSite",
+      "path": "/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698"
+    },
+    "added": "2026-10-31",
+    "first_seen": "2026-10-31",
+    "last_checked": "2026-10-31",
+    "last_open": "2026-10-31",
+    "check_failures": 0
+  },
+  {
+    "company": "Fireworks AI",
+    "role": "Member of Technical Staff New Grad - Research",
+    "est": [
+      220,
+      350
+    ],
+    "id": "fireworks-ai-member-of-technical-staff-new-gr-eb372c",
+    "track": "llm",
+    "location": "San Mateo, CA; NYC",
+    "base": "Pay not listed in the posting",
+    "fit": 4,
+    "why": "Fireworks AI builds LLM inference and fine-tuning infrastructure, which fits the candidate's Amazon work on a cost-aware LLM router across four models, calibrated quality estimators, and prompt improvement over 220K production cases. Their PyTorch and Hugging Face skills and experience scaling GAtor 2.0 to hundreds of Slurm/MPI processes support research on model efficiency and training systems.",
+    "caveat": "The page text was unavailable, so pay, visa sponsorship, and the exact research focus are unconfirmed, and the pay estimate is a guess based on typical startup new-grad packages that lean on equity, which is hard to value.",
+    "posted": "2026-10-06",
+    "source": "Simplify new-grad list",
+    "url": "https://jobs.ashbyhq.com/fireworks/82b41f4a-a945-4aee-a1fd-1ef9ab513e58/application?embed=true",
+    "visa": [
+      "ask",
+      "The posting doesn’t say; ask the recruiter."
+    ],
+    "ats": {
+      "type": "ashby",
+      "org": "fireworks",
+      "id": "82b41f4a-a945-4aee-a1fd-1ef9ab513e58"
+    },
+    "added": "2026-10-31",
+    "first_seen": "2026-10-31",
+    "last_checked": "2026-10-31",
+    "last_open": "2026-10-31",
     "check_failures": 0
   }
 ]

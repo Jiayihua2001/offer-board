@@ -2799,5 +2799,47 @@
     "decision": "added",
     "reason": "",
     "tkey": "nvidia|research-scientist-new-grad-ai-for-graphics-and-gaming"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698": {
+    "date": "2026-10-31",
+    "decision": "added",
+    "reason": "",
+    "tkey": "nvidia|research-scientist-fundamental-generative-ai-new-college-grad-2026"
+  },
+  "https://jobs.aihub.masstech.org/companies/quantum-formatics/jobs/84638210-computational-scientist-ai-materials": {
+    "date": "2026-10-31",
+    "decision": "screened",
+    "reason": "posting is closed",
+    "tkey": "quantum-formatics|computational-scientist-ai-materials"
+  },
+  "https://careers.oled.com/jobs/631986-research-scientist-applied-artificial-intelligence-in-chemistry": {
+    "date": "2026-10-31",
+    "decision": "screened",
+    "reason": "estimated $140K–$185K, below your line",
+    "tkey": "universal-display-corporation|research-scientist-applied-artificial-intelligence-in-chemistry"
+  },
+  "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Physicist-Scientist--Doctorate-Degree--New-College-Grad--Spring-2027-_R2630376": {
+    "date": "2026-10-31",
+    "decision": "screened",
+    "reason": "estimated $165K–$210K, below your line",
+    "tkey": "applied-materials|new-college-grad-computational-physics-agentic-ai-engineer-doctorate-degree-spring-2027"
+  },
+  "https://vertexcareers-atriumworks.icims.com/jobs/11292/molecular-and-cell-biology-research-scientist-%286-month-contract%29/job": {
+    "date": "2026-10-31",
+    "decision": "screened",
+    "reason": "needs more experience than a new PhD",
+    "tkey": "atrium-works|molecular-and-cell-biology-research-scientist-6-month-contract"
+  },
+  "https://jobs.smartrecruiters.com/LLNL/3743990016508836-si-ml-computational-biologist-academic-graduate-appointee-?oga=true": {
+    "date": "2026-10-31",
+    "decision": "screened",
+    "reason": "needs more experience than a new PhD",
+    "tkey": "lawrence-livermore-national-laboratory|si-ml-computational-biologist-academic-graduate-appointee"
+  },
+  "https://jobs.ashbyhq.com/fireworks/82b41f4a-a945-4aee-a1fd-1ef9ab513e58?embed=true": {
+    "date": "2026-10-31",
+    "decision": "added",
+    "reason": "",
+    "tkey": "fireworks-ai|member-of-technical-staff-new-grad-research"
   }
 }
