@@ -2775,5 +2775,29 @@
     "decision": "added",
     "reason": "",
     "tkey": "bytedance|agent-evaluation-evolution-researcher-graduate-applied-machine-learning-ark"
+  },
+  "https://job-boards.greenhouse.io/xai/jobs/4925823007": {
+    "date": "2026-10-31",
+    "decision": "screened",
+    "reason": "says it won’t sponsor visas",
+    "tkey": "xai|ai-tutor-materials-science-temporary"
+  },
+  "https://job-boards.greenhouse.io/lilasciences/jobs/4192713009": {
+    "date": "2026-10-31",
+    "decision": "screened",
+    "reason": "needs more experience than a new PhD",
+    "tkey": "lila-sciences|senior-scientist-analytical-chemistry"
+  },
+  "https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/AI-Engineer_JR116391": {
+    "date": "2026-10-31",
+    "decision": "screened",
+    "reason": "estimated $200K–$260K, below your line",
+    "tkey": "servicetitan|ai-engineer"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-for-Graphics-and-Gaming---New-College-Grad-2026_JR2011267": {
+    "date": "2026-10-31",
+    "decision": "added",
+    "reason": "",
+    "tkey": "nvidia|research-scientist-new-grad-ai-for-graphics-and-gaming"
   }
 }

@@ -1,17 +1,10 @@
 {
-  "runs": 9,
+  "runs": 10,
   "spend": {
-    "2026-10": 3.5924
+    "2026-10": 3.979
   },
-  "discovery_cursor": 6,
+  "discovery_cursor": 16,
   "review": [
-    {
-      "company": "xAI",
-      "title": "AI Tutor, Materials Science - Temporary",
-      "url": "https://job-boards.greenhouse.io/xai/jobs/4925823007",
-      "location": "Remote International",
-      "source": "Greenhouse (xai)"
-    },
     {
       "company": "Schrödinger",
       "title": "Computational Chemist",
@@ -39,13 +32,6 @@
       "url": "https://job-boards.greenhouse.io/schrdinger/jobs/8086074003",
       "location": "New York; Portland",
       "source": "Greenhouse (schrdinger)"
-    },
-    {
-      "company": "Lila Sciences",
-      "title": "Senior Scientist, Analytical Chemistry",
-      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4192713009",
-      "location": "Cambridge, MA USA",
-      "source": "Greenhouse (lilasciences)"
     },
     {
       "company": "Anthropic",
@@ -167,6 +153,34 @@
       "source": "Workday (NVIDIA)"
     },
     {
+      "company": "Applied Materials",
+      "title": "New College Grad - Computational Physics & Agentic AI Engineer, Doctorate Degree (Spring 2027)",
+      "url": "https://www.dreamworkhq.com/job/88b468f9-8a86-407f-8135-a1f88347df89",
+      "location": "Santa Clara, CA",
+      "source": "Claude web search: LLM applied scientist PhD new grad 2027 United States"
+    },
+    {
+      "company": "Applied Science Works",
+      "title": "Machine Learning Engineer - Atomistic Simulation",
+      "url": "https://appliedscienceworks.com/careers.html",
+      "location": "Not stated (verify US location)",
+      "source": "Claude web search: LLM applied scientist PhD new grad 2027 United States"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist, Computer Vision (PhD)",
+      "url": "https://www.aijobs.com/jobs/678106571-research-scientist-computer-vision-phd",
+      "location": "Not stated in snippet (verify US location)",
+      "source": "Claude web search: research scientist PhD university graduate 2027 machine lear"
+    },
+    {
+      "company": "Netflix",
+      "title": "Research Scientist (L4) - New Grad PhD",
+      "url": "https://www.linkedin.com/jobs/view/research-scientist-l4-new-grad-phd-at-netflix-3356608778",
+      "location": "Los Gatos, CA",
+      "source": "Claude web search: Snap OR Adobe OR Netflix research scientist PhD 2027"
+    },
+    {
       "company": "Lawrence Livermore National Laboratory",
       "title": "SI/ML Computational Biologist - Academic Graduate Appointee",
       "url": "https://jobs.smartrecruiters.com/LLNL/3743990016508836-si-ml-computational-biologist-academic-graduate-appointee-?oga=true",
@@ -179,6 +193,13 @@
       "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002",
       "location": "Mountain View, CA",
       "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "The Aerospace Corporation",
+      "title": "Data Scientist",
+      "url": "https://aero.wd5.myworkdayjobs.com/external/job/Colorado-Springs-CO/XMLNAME-2026-Data-Scientist_R015833",
+      "location": "Colorado Springs, CO; Boulder, CO",
+      "source": "Simplify new-grad list"
     },
     {
       "company": "TikTok",
@@ -216,6 +237,13 @@
       "source": "Simplify new-grad list"
     },
     {
+      "company": "Fireworks AI",
+      "title": "Member of Technical Staff New Grad - Research",
+      "url": "https://jobs.ashbyhq.com/fireworks/82b41f4a-a945-4aee-a1fd-1ef9ab513e58/application?embed=true",
+      "location": "San Mateo, CA; NYC",
+      "source": "Simplify new-grad list"
+    },
+    {
       "company": "TikTok",
       "title": "Machine Learning Engineer Graduate - E-Commerce User Growth",
       "url": "https://lifeattiktok.com/search/7694353236283935029",
@@ -228,7 +256,14 @@
       "url": "https://jobs.bytedance.com/en/position/7698902624389482757/detail",
       "location": "San Jose, CA",
       "source": "Simplify new-grad list"
+    },
+    {
+      "company": "Network Bio",
+      "title": "AI Scientist",
+      "url": "https://job-boards.greenhouse.io/networkbio/jobs/5445891008",
+      "location": "Palo Alto, CA; Seattle, WA",
+      "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-10-30 18:07 UTC"
+  "last_run": "2026-10-31 05:59 UTC"
 }
