@@ -81,7 +81,7 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 
 <!-- BOARD:START -->
 
-**72 open roles** · 18 above your $300K line · 54 near it · last run 2026-10-31 17:22 UTC · AI spend this month $4.36 of $100
+**72 open roles** · 18 above your $300K line · 54 near it · last run 2026-11-01 06:22 UTC · AI spend this month $0.37 of $100
 
 ### Above your offer line
 
@@ -113,7 +113,7 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 | ByteDance | [Research Scientist Graduate (Seed Quantum Chemistry and Machine Learning) - 2027 Start (PhD)](https://jobs.bytedance.com/en/position/7668595575944186117/detail) | San Jose, CA | $210K–$410K (+3%) | ●●●●● | sponsors | 2026-08-19 |
 | Meta FAIR | [Research Engineer, AI for Chemistry](https://metacareers.com/v2/jobs/3846804338907958) | Seattle, WA | $250K–$340K (-2%) | ●●●●● | sponsors | Live on Meta’s site |
 | ByteDance | [AI Molecular Dynamics Algorithm Researcher Graduate (Seed AI for Science - Atomistic AI) - 2027 Start (PhD)](https://jobs.bytedance.com/en/position/7670550401380878645/detail) | Seattle, WA | $200K–$390K (-2%) | ●●●●● | sponsors | 2026-08-07 |
-| ByteDance | [Machine Learning Research Scientist - Atomistic AI - 2026 Start (PhD)](https://www.indeed.com/q-phd-machine-learning-jobs.html) **New** | Seattle, WA | $230K–$350K (-3%) | ●●●●● | sponsors |  |
+| ByteDance | [Machine Learning Research Scientist - Atomistic AI - 2026 Start (PhD)](https://www.indeed.com/q-phd-machine-learning-jobs.html) | Seattle, WA | $230K–$350K (-3%) | ●●●●● | sponsors |  |
 | Achira | [ML Research Scientist (MLRS) - Representation Learning for Molecular AI](https://jobs.ashbyhq.com/achira/fd1bf203-29bc-454a-9140-378a21bbc173) | San Francisco, CA | $220K–$330K (-8%) | ●●●●● | **ask first** | 2026-06-30 |
 | Meta | [AI Research Scientist, FAIR Chemistry](https://www.glassdoor.com/Job/new-york-computational-chemistry-jobs-SRCH_IL.0,8_IC1132348_KO9,32.htm) | New York, NY | $220K–$330K (-8%) | ●●●●● | sponsors |  |
 | Meta | [AI Research Scientist — Generative AI for Materials Discovery](https://www.metacareers.com/profile/job_details/968722059080516/) **New** | Not stated (Meta research teams for this area are typically in Menlo Park, CA or New York, NY) | $220K–$330K (-8%) | ●●●●● | sponsors |  |
@@ -121,7 +121,7 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 | TikTok | [Research Scientist Graduate (Conversational AI) - 2027 Start (PhD)](https://lifeattiktok.com/search/7670685496821713205) | San Jose, CA; Seattle, WA | $250K–$400K (+8%) | ●●●● | sponsors | 2026-08-07 |
 | TikTok | [Machine Learning Engineer Graduate (E-Commerce Supply Chain & Logistics - LLM/Agent) - 2027 Start (PhD)](https://lifeattiktok.com/search/7675841339440941317) | San Jose, CA; Seattle, WA | $250K–$400K (+8%) | ●●●● | sponsors | 2026-08-21 |
 | ByteDance | [Research Scientist Graduate (Seed Model - LLM) - 2027 Start (PhD)](https://zapply.jobs/jobs/8c4759dd-7347-4a8c-89ae-43b6f8af8c98/) | California (team also covers San Jose and Seattle) | $250K–$400K (+8%) | ●●●● | sponsors | 2026-10-25 |
-| TikTok (ByteDance) | [Research Scientist – TikTok Recommendation (NextGen LLM), 2027 Start (PhD)](https://www.indeed.com/q-artificial-intelligence-scientist-jobs.html) **New** | San Jose, CA | $250K–$400K (+8%) | ●●●● | sponsors |  |
+| TikTok (ByteDance) | [Research Scientist – TikTok Recommendation (NextGen LLM), 2027 Start (PhD)](https://www.indeed.com/q-artificial-intelligence-scientist-jobs.html) | San Jose, CA | $250K–$400K (+8%) | ●●●● | sponsors |  |
 | ByteDance | [Agent Evaluation & Evolution Researcher Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7672391176102676741/detail) **New** | Seattle, WA | $280K–$360K (+7%) | ●●●● | sponsors | 2026-08-11 |
 | ByteDance | [Agent Evaluation & Evolution Researcher Graduate (AML-Ark-US) - 2027 Start (PhD)](https://jobs.bytedance.com/en/position/7671095905295075637/detail) | San Jose, CA | $210K–$410K (+3%) | ●●●● | sponsors | 2026-08-10 |
 | Apple | [AIML - Machine Learning Researcher, Post-Training for Foundation Models](https://jobs.apple.com/en-us/details/200645804-0836) | Cupertino, CA | $250K–$340K (-2%) | ●●●● | sponsors | 2026-02-06 |
@@ -189,6 +189,7 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | SandboxAQ | [Computational Chemist - Machine Learned Force Fields, Material Discovery](https://jobs.ashbyhq.com/sandboxaq/b33383d4-18c9-4eea-acab-6fdd713f5174) | United States | Ashby (sandboxaq) |
 | SandboxAQ | [Machine Learning Scientist - Molecular Force Fields](https://jobs.ashbyhq.com/sandboxaq/2ecf82f8-6bab-48d5-b34a-e1c745b7fc60) | United States | Ashby (sandboxaq) |
 | Thinking Machines Lab | [Research Lead, Tinker, Fine-tuning Science](https://jobs.ashbyhq.com/thinkingmachines/4e3a366f-eb0f-4ea9-8cf9-9c2f911f279c) | San Francisco | Ashby (thinkingmachines) |
+| The Allen Institute for Artificial Intelligence (Ai2) | [Research Scientist, Agents for Science](https://www.theladders.com/job/research-scientist-agents-for-science-the-allen-institute-for-artificial-intelligence-seattle-wa_86367009) | Seattle, WA | Claude web search: agentic AI for science research scientist job United States |
 | Samsung AI Research Center | [2027 Health AI Scholar - Digital Health Algorithms Team](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002) | Mountain View, CA | speedyapply 2027 AI new-grad list |
 | The Aerospace Corporation | [Data Scientist](https://aero.wd5.myworkdayjobs.com/external/job/Colorado-Springs-CO/XMLNAME-2026-Data-Scientist_R015833) | Colorado Springs, CO; Boulder, CO | Simplify new-grad list |
 | TikTok | [Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance](https://lifeattiktok.com/search/7669910326745434421) | Seattle, WA | Simplify new-grad list |

@@ -1,9 +1,10 @@
 {
-  "runs": 11,
+  "runs": 12,
   "spend": {
-    "2026-10": 4.3578
+    "2026-10": 4.3578,
+    "2026-11": 0.3698
   },
-  "discovery_cursor": 5,
+  "discovery_cursor": 15,
   "review": [
     {
       "company": "Schrödinger",
@@ -139,6 +140,13 @@
       "source": "Ashby (thinkingmachines)"
     },
     {
+      "company": "The Allen Institute for Artificial Intelligence (Ai2)",
+      "title": "Research Scientist, Agents for Science",
+      "url": "https://www.theladders.com/job/research-scientist-agents-for-science-the-allen-institute-for-artificial-intelligence-seattle-wa_86367009",
+      "location": "Seattle, WA",
+      "source": "Claude web search: agentic AI for science research scientist job United States"
+    },
+    {
       "company": "Samsung AI Research Center",
       "title": "2027 Health AI Scholar - Digital Health Algorithms Team",
       "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002",
@@ -209,5 +217,5 @@
       "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-10-31 17:22 UTC"
+  "last_run": "2026-11-01 06:22 UTC"
 }
