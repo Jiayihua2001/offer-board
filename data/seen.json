@@ -2841,5 +2841,11 @@
     "decision": "added",
     "reason": "",
     "tkey": "fireworks-ai|member-of-technical-staff-new-grad-research"
+  },
+  "https://apply.workable.com/gramian/j/4DEE643E60": {
+    "date": "2026-11-01",
+    "decision": "screened",
+    "reason": "needs more experience than a new PhD",
+    "tkey": "gramian-consulting-group|general-physician-ai-evaluation"
   }
 }

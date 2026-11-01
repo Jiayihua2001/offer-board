@@ -81,7 +81,7 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 
 <!-- BOARD:START -->
 
-**72 open roles** · 18 above your $300K line · 54 near it · last run 2026-11-01 06:22 UTC · AI spend this month $0.37 of $100
+**72 open roles** · 18 above your $300K line · 54 near it · last run 2026-11-01 18:02 UTC · AI spend this month $0.74 of $100
 
 ### Above your offer line
 
@@ -174,6 +174,7 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | Schrödinger | [Computational Chemist, Target Druggability and Structure-Based Design](https://job-boards.greenhouse.io/schrdinger/jobs/8045314003) | New York; Cambridge, MA; San Diego; Portland | Greenhouse (schrdinger) |
 | Schrödinger | [Computational Materials Science, Formulations](https://job-boards.greenhouse.io/schrdinger/jobs/8086902003) | New York; Portland | Greenhouse (schrdinger) |
 | Schrödinger | [Computational Materials Scientist, Atomic Layer Processing and Chemical Reactivity](https://job-boards.greenhouse.io/schrdinger/jobs/8086074003) | New York; Portland | Greenhouse (schrdinger) |
+| Anthropic | [Anthropic Research Resident](https://job-boards.greenhouse.io/anthropic/jobs/5438311008) | San Francisco, CA \| New York City, NY | Greenhouse (anthropic) |
 | Anthropic | [Research Scientist, Life Sciences (Large Molecules, Antibody Design) ](https://job-boards.greenhouse.io/anthropic/jobs/5467092008) | San Francisco, CA | Greenhouse (anthropic) |
 | Anthropic | [Research Scientist, Life Sciences (Large Molecules, Process Development) ](https://job-boards.greenhouse.io/anthropic/jobs/5467099008) | San Francisco, CA | Greenhouse (anthropic) |
 | Achira | [Machine Learning Research Engineer (MLRE) - GPUs](https://jobs.ashbyhq.com/achira/f7893ad8-8da1-4ae3-b56b-151feb17d324) | San Francisco Office | Ashby (achira) |
@@ -189,9 +190,12 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | SandboxAQ | [Computational Chemist - Machine Learned Force Fields, Material Discovery](https://jobs.ashbyhq.com/sandboxaq/b33383d4-18c9-4eea-acab-6fdd713f5174) | United States | Ashby (sandboxaq) |
 | SandboxAQ | [Machine Learning Scientist - Molecular Force Fields](https://jobs.ashbyhq.com/sandboxaq/2ecf82f8-6bab-48d5-b34a-e1c745b7fc60) | United States | Ashby (sandboxaq) |
 | Thinking Machines Lab | [Research Lead, Tinker, Fine-tuning Science](https://jobs.ashbyhq.com/thinkingmachines/4e3a366f-eb0f-4ea9-8cf9-9c2f911f279c) | San Francisco | Ashby (thinkingmachines) |
-| The Allen Institute for Artificial Intelligence (Ai2) | [Research Scientist, Agents for Science](https://www.theladders.com/job/research-scientist-agents-for-science-the-allen-institute-for-artificial-intelligence-seattle-wa_86367009) | Seattle, WA | Claude web search: agentic AI for science research scientist job United States |
+| Netflix | [Research Scientist (L4) - New Grad PhD](https://startup.jobs/research-scientist-l4-new-grad-phd-netflix-3781083) | Los Gatos, CA (on-site) | Claude web search: Snap OR Adobe OR Netflix research scientist PhD 2027 |
+| Meta | [AI Research Scientist - Machine Learning for Behavioral AI (materials/crystal generation role)](https://www.careerbuilder.com/job-details/ai-research-scientist-machine-learning-for-behavioral-ai-pasadena-ca--faca4a74-67b5-4cb1-b087-d7b10ff0899e) | Pasadena, CA | Claude web search: Meta Reality Labs Research materials discovery AI research s |
+| Oratomic | [AI Scientist - Quantum Computing & Equity](https://www.metaintro.com/job/ai-scientist-at-oratomic-0b8ebcb3-048c-59ee-8fcb-b35186c62594) | Pasadena, CA (on-site) | Claude web search: Meta Reality Labs Research materials discovery AI research s |
+| Aerospace | [2027 Signal Processing and Artificial Intelligence Engineer](https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Signal-Processing-and-Artificial-Intelligence-Engineer_R016449) | El Segundo, CA | speedyapply 2027 AI new-grad list |
+| Aerospace | [2027 Data Scientist/Machine Learning Engineer](https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Data-Scientist-Machine-Learning-Engineer_R016761) | El Segundo, CA | speedyapply 2027 AI new-grad list |
 | Samsung AI Research Center | [2027 Health AI Scholar - Digital Health Algorithms Team](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002) | Mountain View, CA | speedyapply 2027 AI new-grad list |
-| The Aerospace Corporation | [Data Scientist](https://aero.wd5.myworkdayjobs.com/external/job/Colorado-Springs-CO/XMLNAME-2026-Data-Scientist_R015833) | Colorado Springs, CO; Boulder, CO | Simplify new-grad list |
 | TikTok | [Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance](https://lifeattiktok.com/search/7669910326745434421) | Seattle, WA | Simplify new-grad list |
 | TikTok | [Machine Learning Engineer Graduate - E-Commerce Recommendation Live](https://lifeattiktok.com/search/7670285495593273605) | San Jose, CA | Simplify new-grad list |
 | ByteDance | [Data Lake Infrastructure & Data Analytics Research Engineer Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671108456554432773/detail) | San Jose, CA | Simplify new-grad list |
@@ -213,8 +217,9 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 - Meta FAIR, AI Research Scientist, FAIR Chemistry (New York) (2026-10-25)
 - Lila Sciences, ML Research Scientist I/II, Multimodal Data Extraction (2026-10-25)
 
-<details><summary>Screened out (194)</summary>
+<details><summary>Screened out (195)</summary>
 
+- [Gramian Consulting Group, General Physician - AI Evaluation](https://apply.workable.com/gramian/j/4DEE643E60/): Needs more experience than a new PhD.
 - [Applied Materials, New College Grad - Computational Physics & Agentic AI Engineer - Doctorate Degree - Spring 2027](https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Physicist-Scientist--Doctorate-Degree--New-College-Grad--Spring-2027-_R2630376): Estimated $165K–$210K, below your line.
 - [Universal Display Corporation, Research Scientist - Applied Artificial Intelligence in Chemistry](https://careers.oled.com/jobs/631986-research-scientist-applied-artificial-intelligence-in-chemistry): Estimated $140K–$185K, below your line.
 - [ServiceTitan, AI Engineer](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/AI-Engineer_JR116391): Estimated $200K–$260K, below your line.
