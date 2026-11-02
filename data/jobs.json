@@ -302,7 +302,7 @@
     "first_seen": "2026-10-26",
     "last_checked": "2026-11-02",
     "last_open": "2026-11-02",
-    "check_failures": 0,
+    "check_failures": 1,
     "stale": false
   },
   {

@@ -81,7 +81,7 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 
 <!-- BOARD:START -->
 
-**72 open roles** · 18 above your $300K line · 54 near it · last run 2026-11-02 06:23 UTC · AI spend this month $1.11 of $100
+**72 open roles** · 18 above your $300K line · 54 near it · last run 2026-11-02 21:48 UTC · AI spend this month $1.49 of $100
 
 ### Above your offer line
 
@@ -174,6 +174,7 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | Schrödinger | [Computational Chemist, Target Druggability and Structure-Based Design](https://job-boards.greenhouse.io/schrdinger/jobs/8045314003) | New York; Cambridge, MA; San Diego; Portland | Greenhouse (schrdinger) |
 | Schrödinger | [Computational Materials Science, Formulations](https://job-boards.greenhouse.io/schrdinger/jobs/8086902003) | New York; Portland | Greenhouse (schrdinger) |
 | Schrödinger | [Computational Materials Scientist, Atomic Layer Processing and Chemical Reactivity](https://job-boards.greenhouse.io/schrdinger/jobs/8086074003) | New York; Portland | Greenhouse (schrdinger) |
+| Anthropic | [Anthropic Research Resident](https://job-boards.greenhouse.io/anthropic/jobs/5438311008) | San Francisco, CA \| New York City, NY | Greenhouse (anthropic) |
 | Anthropic | [Research Scientist, Life Sciences (Large Molecules, Antibody Design) ](https://job-boards.greenhouse.io/anthropic/jobs/5467092008) | San Francisco, CA | Greenhouse (anthropic) |
 | Anthropic | [Research Scientist, Life Sciences (Large Molecules, Process Development) ](https://job-boards.greenhouse.io/anthropic/jobs/5467099008) | San Francisco, CA | Greenhouse (anthropic) |
 | Achira | [Machine Learning Research Engineer (MLRE) - GPUs](https://jobs.ashbyhq.com/achira/f7893ad8-8da1-4ae3-b56b-151feb17d324) | San Francisco Office | Ashby (achira) |
@@ -189,6 +190,12 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | SandboxAQ | [Computational Chemist - Machine Learned Force Fields, Material Discovery](https://jobs.ashbyhq.com/sandboxaq/b33383d4-18c9-4eea-acab-6fdd713f5174) | United States | Ashby (sandboxaq) |
 | SandboxAQ | [Machine Learning Scientist - Molecular Force Fields](https://jobs.ashbyhq.com/sandboxaq/2ecf82f8-6bab-48d5-b34a-e1c745b7fc60) | United States | Ashby (sandboxaq) |
 | Thinking Machines Lab | [Research Lead, Tinker, Fine-tuning Science](https://jobs.ashbyhq.com/thinkingmachines/4e3a366f-eb0f-4ea9-8cf9-9c2f911f279c) | San Francisco | Ashby (thinkingmachines) |
+| Adobe | [Research Scientist (new or upcoming PhD graduate)](https://builtin.com/job/research-scientist/7878239) | Not stated in listing | Claude web search: Snap OR Adobe OR Netflix research scientist PhD 2027 |
+| Google DeepMind | [Material Science Research Engineer, DeepMind](https://careers.google.com/jobs/results/141132699489182406-material-science-research-engineer/) | Mountain View, CA, USA | Claude web search: Google DeepMind science research engineer Mountain View mate |
+| Google DeepMind | [Post-training Agentic Research Scientist, DeepMind](https://www.ziprecruiter.com/c/google-deepmind/Job/Post-training-Agentic-Research-Scientist,-DeepMind/-in-Mountain-View,CA?jid=75dc08068d760554) | Mountain View, CA, USA | Claude web search: Google DeepMind science research engineer Mountain View mate |
+| Lila Sciences | [Research Scientist, Photonic Materials Discovery](https://job-boards.greenhouse.io/lilasciences/jobs/4377093009) | Not stated in listing (Lila has US offices) | Claude web search: machine learning interatomic potential research scientist jo |
+| Amphiform | [Computational Materials Scientist: Machine-Learned Interatomic Potentials (MD/DFT)](https://amphiform.com/careers/) | Flexible (US-based role not confirmed) | Claude web search: machine learning interatomic potential research scientist jo |
+| Schrödinger | [Machine Learning Force Fields Scientist (Materials Science)](https://boards.greenhouse.io/schrdinger/jobs/5025072003) | Not stated in listing (Schrödinger is US-based) | Claude web search: machine learning interatomic potential research scientist jo |
 | Aerospace | [2027 Data Scientist/Machine Learning Engineer](https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Data-Scientist-Machine-Learning-Engineer_R016761) | El Segundo, CA | speedyapply 2027 AI new-grad list |
 | Samsung AI Research Center | [2027 Health AI Scholar - Digital Health Algorithms Team](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002) | Mountain View, CA | speedyapply 2027 AI new-grad list |
 | TikTok | [Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance](https://lifeattiktok.com/search/7669910326745434421) | Seattle, WA | Simplify new-grad list |
