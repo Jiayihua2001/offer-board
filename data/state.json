@@ -1,10 +1,10 @@
 {
-  "runs": 13,
+  "runs": 14,
   "spend": {
     "2026-10": 4.3578,
-    "2026-11": 0.7409
+    "2026-11": 1.1129
   },
-  "discovery_cursor": 4,
+  "discovery_cursor": 14,
   "review": [
     {
       "company": "Schrödinger",
@@ -33,13 +33,6 @@
       "url": "https://job-boards.greenhouse.io/schrdinger/jobs/8086074003",
       "location": "New York; Portland",
       "source": "Greenhouse (schrdinger)"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Research Resident",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
-      "location": "San Francisco, CA | New York City, NY",
-      "source": "Greenhouse (anthropic)"
     },
     {
       "company": "Anthropic",
@@ -147,34 +140,6 @@
       "source": "Ashby (thinkingmachines)"
     },
     {
-      "company": "Netflix",
-      "title": "Research Scientist (L4) - New Grad PhD",
-      "url": "https://startup.jobs/research-scientist-l4-new-grad-phd-netflix-3781083",
-      "location": "Los Gatos, CA (on-site)",
-      "source": "Claude web search: Snap OR Adobe OR Netflix research scientist PhD 2027"
-    },
-    {
-      "company": "Meta",
-      "title": "AI Research Scientist - Machine Learning for Behavioral AI (materials/crystal generation role)",
-      "url": "https://www.careerbuilder.com/job-details/ai-research-scientist-machine-learning-for-behavioral-ai-pasadena-ca--faca4a74-67b5-4cb1-b087-d7b10ff0899e",
-      "location": "Pasadena, CA",
-      "source": "Claude web search: Meta Reality Labs Research materials discovery AI research s"
-    },
-    {
-      "company": "Oratomic",
-      "title": "AI Scientist - Quantum Computing & Equity",
-      "url": "https://www.metaintro.com/job/ai-scientist-at-oratomic-0b8ebcb3-048c-59ee-8fcb-b35186c62594",
-      "location": "Pasadena, CA (on-site)",
-      "source": "Claude web search: Meta Reality Labs Research materials discovery AI research s"
-    },
-    {
-      "company": "Aerospace",
-      "title": "2027 Signal Processing and Artificial Intelligence Engineer",
-      "url": "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Signal-Processing-and-Artificial-Intelligence-Engineer_R016449",
-      "location": "El Segundo, CA",
-      "source": "speedyapply 2027 AI new-grad list"
-    },
-    {
       "company": "Aerospace",
       "title": "2027 Data Scientist/Machine Learning Engineer",
       "url": "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Data-Scientist-Machine-Learning-Engineer_R016761",
@@ -245,5 +210,5 @@
       "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-01 18:02 UTC"
+  "last_run": "2026-11-02 06:23 UTC"
 }

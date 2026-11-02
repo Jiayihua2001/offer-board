@@ -2847,5 +2847,17 @@
     "decision": "screened",
     "reason": "needs more experience than a new PhD",
     "tkey": "gramian-consulting-group|general-physician-ai-evaluation"
+  },
+  "https://diffractive.ai": {
+    "date": "2026-11-02",
+    "decision": "screened",
+    "reason": "estimated $190K–$280K, below your line",
+    "tkey": "diffractive-labs|research-scientist-materials-computational"
+  },
+  "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Signal-Processing-and-Artificial-Intelligence-Engineer_R016449": {
+    "date": "2026-11-02",
+    "decision": "screened",
+    "reason": "requires US citizenship, a green card or a clearance",
+    "tkey": "aerospace|2027-signal-processing-and-artificial-intelligence-engineer"
   }
 }
