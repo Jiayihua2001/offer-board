@@ -1,10 +1,10 @@
 {
-  "runs": 15,
+  "runs": 16,
   "spend": {
     "2026-10": 4.3578,
-    "2026-11": 1.4887
+    "2026-11": 1.8642
   },
-  "discovery_cursor": 3,
+  "discovery_cursor": 13,
   "review": [
     {
       "company": "Schrödinger",
@@ -33,13 +33,6 @@
       "url": "https://job-boards.greenhouse.io/schrdinger/jobs/8086074003",
       "location": "New York; Portland",
       "source": "Greenhouse (schrdinger)"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Research Resident",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
-      "location": "San Francisco, CA | New York City, NY",
-      "source": "Greenhouse (anthropic)"
     },
     {
       "company": "Anthropic",
@@ -147,46 +140,25 @@
       "source": "Ashby (thinkingmachines)"
     },
     {
-      "company": "Adobe",
-      "title": "Research Scientist (new or upcoming PhD graduate)",
-      "url": "https://builtin.com/job/research-scientist/7878239",
-      "location": "Not stated in listing",
-      "source": "Claude web search: Snap OR Adobe OR Netflix research scientist PhD 2027"
-    },
-    {
-      "company": "Google DeepMind",
-      "title": "Material Science Research Engineer, DeepMind",
-      "url": "https://careers.google.com/jobs/results/141132699489182406-material-science-research-engineer/",
-      "location": "Mountain View, CA, USA",
-      "source": "Claude web search: Google DeepMind science research engineer Mountain View mate"
-    },
-    {
-      "company": "Google DeepMind",
-      "title": "Post-training Agentic Research Scientist, DeepMind",
-      "url": "https://www.ziprecruiter.com/c/google-deepmind/Job/Post-training-Agentic-Research-Scientist,-DeepMind/-in-Mountain-View,CA?jid=75dc08068d760554",
-      "location": "Mountain View, CA, USA",
-      "source": "Claude web search: Google DeepMind science research engineer Mountain View mate"
-    },
-    {
-      "company": "Lila Sciences",
-      "title": "Research Scientist, Photonic Materials Discovery",
-      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4377093009",
-      "location": "Not stated in listing (Lila has US offices)",
-      "source": "Claude web search: machine learning interatomic potential research scientist jo"
-    },
-    {
       "company": "Amphiform",
       "title": "Computational Materials Scientist: Machine-Learned Interatomic Potentials (MD/DFT)",
       "url": "https://amphiform.com/careers/",
-      "location": "Flexible (US-based role not confirmed)",
-      "source": "Claude web search: machine learning interatomic potential research scientist jo"
+      "location": "Flexible (not specified in listing; confirm US eligibility)",
+      "source": "Claude web search: AI for science research scientist PhD 2027 start United Stat"
     },
     {
-      "company": "Schrödinger",
-      "title": "Machine Learning Force Fields Scientist (Materials Science)",
-      "url": "https://boards.greenhouse.io/schrdinger/jobs/5025072003",
-      "location": "Not stated in listing (Schrödinger is US-based)",
-      "source": "Claude web search: machine learning interatomic potential research scientist jo"
+      "company": "Microsoft Research",
+      "title": "AI for Science Residency - Computational Chemistry",
+      "url": "https://www.microsoft.com/en-us/research/careers/open-positions/",
+      "location": "Not stated in listing snippet; verify US location",
+      "source": "Claude web search: AI for science research scientist PhD 2027 start United Stat"
+    },
+    {
+      "company": "Allen Institute for Artificial Intelligence (Ai2)",
+      "title": "Research Scientist, Agents for Science",
+      "url": "https://www.theladders.com/job/research-scientist-agents-for-science-the-allen-institute-for-artificial-intelligence-seattle-wa_86367009",
+      "location": "Seattle, WA",
+      "source": "Claude web search: agentic AI for science research scientist job United States"
     },
     {
       "company": "Aerospace",
@@ -259,5 +231,5 @@
       "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-02 21:48 UTC"
+  "last_run": "2026-11-03 07:02 UTC"
 }
