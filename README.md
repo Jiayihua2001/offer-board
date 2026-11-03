@@ -81,7 +81,7 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 
 <!-- BOARD:START -->
 
-**71 open roles** · 18 above your $300K line · 53 near it · last run 2026-11-03 07:02 UTC · AI spend this month $1.86 of $100
+**72 open roles** · 19 above your $300K line · 53 near it · last run 2026-11-03 19:35 UTC · AI spend this month $2.24 of $100
 
 ### Above your offer line
 
@@ -103,6 +103,7 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 | TikTok | [Research Scientist/Software Engineer, Neural Graphics and World Models - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://lifeattiktok.com/search/7668854153882011957) | San Jose, CA | $285K–$420K (+18%) | ●●● | sponsors | 2026-08-20 |
 | TikTok | [(General Hire) Research Scientist Graduate(TikTok Recommendation) - 2027 Start (PhD)](https://lifeattiktok.com/search/7663388039600883973) | San Jose, CA | $285K–$420K (+18%) | ●●● | sponsors | 2026-08-03 |
 | Periodic Labs | [Research Scientist / Research Engineer, Midtraining](https://jobs.a16z.com/jobs/periodic-labs/research-scientist-research-engineer-midtraining--ats-mn783xrp2jmjq4cp3mdjvsjbp98fc7j7) | Menlo Park, CA | $280K–$420K (+17%) | ●●● | says it sponsors | About Sep 30, 2026 |
+| Netflix | [Research Scientist (L4) - New Grad PhD](https://startup.jobs/research-scientist-l4-new-grad-phd-netflix-3781083) **New** | Los Gatos, CA, United States | $280K–$420K (+17%) | ●●● | **ask first** |  |
 | TikTok | [AI Infra Engineer Graduate (Recommendation & LLM) 2027 Start (PhD)](https://lifeattiktok.com/search/7672656091025066293) | San Jose, CA | $280K–$400K (+13%) | ●●● | sponsors | 2026-08-12 |
 | TikTok | [Machine Learning Engineer Graduate (E-Commerce Content Recommendation - Generative & Large Recommendation Model) - 2027 Start (PhD)](https://lifeattiktok.com/search/7685552742819842357) | San Jose, CA; Seattle, WA | $240K–$420K (+10%) | ●●● | sponsors | 2026-09-16 |
 
@@ -180,7 +181,6 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | Chai Discovery | [Forward-Deployed Scientist](https://jobs.ashbyhq.com/chaidiscovery/e60e0d79-622d-4251-b056-d380484d9dab) | San Francisco office | Ashby (chaidiscovery) |
 | Chai Discovery | [Scientist, Protein Design](https://jobs.ashbyhq.com/chaidiscovery/9cc94a28-cac9-48a4-a44c-685a870b6288) | San Francisco office | Ashby (chaidiscovery) |
 | Chai Discovery | [Software Engineer, AI Platform](https://jobs.ashbyhq.com/chaidiscovery/ad8dd3de-8139-4385-8c5a-566a359e9be0) | San Francisco office | Ashby (chaidiscovery) |
-| Iambic Therapeutics | [Machine Learning Scientist – Clinical Prediction](https://jobs.ashbyhq.com/iambic-therapeutics/e418c9bf-4fe6-4484-92ad-e9a320557815) | Boston Office | Ashby (iambic-therapeutics) |
 | Iambic Therapeutics | [Research Scientist II/Senior, Computational Chemistry](https://jobs.ashbyhq.com/iambic-therapeutics/6236b729-9139-4971-8a31-3f5a9add1ed4) | San Diego HQ | Ashby (iambic-therapeutics) |
 | Iambic Therapeutics | [Sr Associate Scientist I or II, Medicinal Chemistry ](https://jobs.ashbyhq.com/iambic-therapeutics/6ba365c2-2542-41c0-9674-ec529ea4a218) | San Diego HQ | Ashby (iambic-therapeutics) |
 | SandboxAQ | [Machine Learning Scientist – Generative Molecular Design](https://jobs.ashbyhq.com/sandboxaq/f6d8bdb1-75e5-4abe-94ea-285a7c2aa359) | United States | Ashby (sandboxaq) |
@@ -188,9 +188,9 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | SandboxAQ | [Computational Chemist - Machine Learned Force Fields, Material Discovery](https://jobs.ashbyhq.com/sandboxaq/b33383d4-18c9-4eea-acab-6fdd713f5174) | United States | Ashby (sandboxaq) |
 | SandboxAQ | [Machine Learning Scientist - Molecular Force Fields](https://jobs.ashbyhq.com/sandboxaq/2ecf82f8-6bab-48d5-b34a-e1c745b7fc60) | United States | Ashby (sandboxaq) |
 | Thinking Machines Lab | [Research Lead, Tinker, Fine-tuning Science](https://jobs.ashbyhq.com/thinkingmachines/4e3a366f-eb0f-4ea9-8cf9-9c2f911f279c) | San Francisco | Ashby (thinkingmachines) |
-| Amphiform | [Computational Materials Scientist: Machine-Learned Interatomic Potentials (MD/DFT)](https://amphiform.com/careers/) | Flexible (not specified in listing; confirm US eligibility) | Claude web search: AI for science research scientist PhD 2027 start United Stat |
-| Microsoft Research | [AI for Science Residency - Computational Chemistry](https://www.microsoft.com/en-us/research/careers/open-positions/) | Not stated in listing snippet; verify US location | Claude web search: AI for science research scientist PhD 2027 start United Stat |
-| Allen Institute for Artificial Intelligence (Ai2) | [Research Scientist, Agents for Science](https://www.theladders.com/job/research-scientist-agents-for-science-the-allen-institute-for-artificial-intelligence-seattle-wa_86367009) | Seattle, WA | Claude web search: agentic AI for science research scientist job United States |
+| Lila Sciences | [Research Scientist, Photonic Materials Discovery](https://job-boards.greenhouse.io/lilasciences/jobs/4377093009) | US location not shown in snippet; posting references full-time employees outside the U.S. (verify) | Claude web search: foundation model for materials or chemistry research enginee |
+| ByteDance | [Research Scientist Graduate (Seed Model - LLM) / Research Scientist in Large Language Model - 2027 Start (PhD)](https://jobright.ai/jobs/research-scientist-graduate-(seed---llm)---2026-start-(phd)-jobs-in-united-states) | San Jose, CA | Claude web search: LLM evaluation OR post-training research scientist PhD new g |
+| Flagship Pioneering | [Machine Learning Scientist, Large Language Models for Materials](https://www.linkedin.com/jobs/machine-learning-scientist-jobs) | Cambridge, MA | Claude web search: materials informatics machine learning scientist job United  |
 | Aerospace | [2027 Data Scientist/Machine Learning Engineer](https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Data-Scientist-Machine-Learning-Engineer_R016761) | El Segundo, CA | speedyapply 2027 AI new-grad list |
 | Samsung AI Research Center | [2027 Health AI Scholar - Digital Health Algorithms Team](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002) | Mountain View, CA | speedyapply 2027 AI new-grad list |
 | TikTok | [Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance](https://lifeattiktok.com/search/7669910326745434421) | Seattle, WA | Simplify new-grad list |
@@ -215,8 +215,10 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 - Meta FAIR, AI Research Scientist, FAIR Chemistry (New York) (2026-10-25)
 - Lila Sciences, ML Research Scientist I/II, Multimodal Data Extraction (2026-10-25)
 
-<details><summary>Screened out (197)</summary>
+<details><summary>Screened out (199)</summary>
 
+- [KLA, Computational Physics Algorithm Engineer](https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Computational-Physics-Algorithm-Engineer_2641964-2): Estimated $200K–$260K, below your line.
+- [Iambic Therapeutics, Machine Learning Scientist – Clinical Prediction](https://jobs.ashbyhq.com/iambic-therapeutics/e418c9bf-4fe6-4484-92ad-e9a320557815): Estimated $160K–$210K, below your line.
 - [Lila Sciences, ML Scientist, Foundation Models for Life Sciences](https://job-boards.greenhouse.io/lilasciences/jobs/4222051009): Closed: the posting stopped showing as open (checked 2026-11-03).
 - [Diffractive Labs, Research Scientist, Materials (Computational)](https://diffractive.ai/): Estimated $190K–$280K, below your line.
 - [Gramian Consulting Group, General Physician - AI Evaluation](https://apply.workable.com/gramian/j/4DEE643E60/): Needs more experience than a new PhD.

@@ -2192,5 +2192,33 @@
     "last_open": "2026-11-03",
     "check_failures": 0,
     "stale": false
+  },
+  {
+    "company": "Netflix",
+    "role": "Research Scientist (L4) - New Grad PhD",
+    "est": [
+      280,
+      420
+    ],
+    "id": "netflix-research-scientist-l4-new-grad-p-4f3b1b",
+    "track": "llm",
+    "location": "Los Gatos, CA, United States",
+    "base": "Pay not listed in the posting",
+    "fit": 3,
+    "why": "The candidate's PhD-level ML research (GAtor 2.0 with UMA, MACE and AIMNet2 potentials, distributed search on Slurm/MPI) and Amazon internship work (cost-aware LLM router, calibrated quality estimators on 220K production cases) fit a Netflix research scientist role in applied ML. Fit depends on the team, since Netflix research is mostly personalization, recommendation and media ML rather than materials science.",
+    "caveat": "The page text was unavailable, so the team, posting date, H-1B sponsorship and pay are all unconfirmed. The pay estimate assumes Netflix's all-cash compensation with no bonus and no guaranteed equity, and its ranges are wide, so the real figure could fall outside it.",
+    "posted": "",
+    "source": "Claude web search: Snap OR Adobe OR Netflix research scientist PhD 2027",
+    "url": "https://startup.jobs/research-scientist-l4-new-grad-phd-netflix-3781083",
+    "visa": [
+      "ask",
+      "The posting doesn’t say; ask the recruiter."
+    ],
+    "ats": null,
+    "added": "2026-11-03",
+    "first_seen": "2026-11-03",
+    "last_checked": "2026-11-03",
+    "last_open": "2026-11-03",
+    "check_failures": 0
   }
 ]

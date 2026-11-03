@@ -2858,5 +2858,23 @@
     "decision": "screened",
     "reason": "requires US citizenship, a green card or a clearance",
     "tkey": "aerospace|2027-signal-processing-and-artificial-intelligence-engineer"
+  },
+  "https://jobs.ashbyhq.com/iambic-therapeutics/e418c9bf-4fe6-4484-92ad-e9a320557815": {
+    "date": "2026-11-03",
+    "decision": "screened",
+    "reason": "estimated $160K–$210K, below your line",
+    "tkey": "iambic-therapeutics|machine-learning-scientist-clinical-prediction"
+  },
+  "https://startup.jobs/research-scientist-l4-new-grad-phd-netflix-3781083": {
+    "date": "2026-11-03",
+    "decision": "added",
+    "reason": "",
+    "tkey": "netflix|research-scientist-l4-new-grad-phd"
+  },
+  "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Computational-Physics-Algorithm-Engineer_2641964-2": {
+    "date": "2026-11-03",
+    "decision": "screened",
+    "reason": "estimated $200K–$260K, below your line",
+    "tkey": "kla|computational-physics-algorithm-engineer"
   }
 }

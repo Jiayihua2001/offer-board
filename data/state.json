@@ -1,10 +1,10 @@
 {
-  "runs": 16,
+  "runs": 17,
   "spend": {
     "2026-10": 4.3578,
-    "2026-11": 1.8642
+    "2026-11": 2.2353
   },
-  "discovery_cursor": 13,
+  "discovery_cursor": 2,
   "review": [
     {
       "company": "Schrödinger",
@@ -85,13 +85,6 @@
     },
     {
       "company": "Iambic Therapeutics",
-      "title": "Machine Learning Scientist – Clinical Prediction",
-      "url": "https://jobs.ashbyhq.com/iambic-therapeutics/e418c9bf-4fe6-4484-92ad-e9a320557815",
-      "location": "Boston Office",
-      "source": "Ashby (iambic-therapeutics)"
-    },
-    {
-      "company": "Iambic Therapeutics",
       "title": "Research Scientist II/Senior, Computational Chemistry",
       "url": "https://jobs.ashbyhq.com/iambic-therapeutics/6236b729-9139-4971-8a31-3f5a9add1ed4",
       "location": "San Diego HQ",
@@ -140,25 +133,25 @@
       "source": "Ashby (thinkingmachines)"
     },
     {
-      "company": "Amphiform",
-      "title": "Computational Materials Scientist: Machine-Learned Interatomic Potentials (MD/DFT)",
-      "url": "https://amphiform.com/careers/",
-      "location": "Flexible (not specified in listing; confirm US eligibility)",
-      "source": "Claude web search: AI for science research scientist PhD 2027 start United Stat"
+      "company": "Lila Sciences",
+      "title": "Research Scientist, Photonic Materials Discovery",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4377093009",
+      "location": "US location not shown in snippet; posting references full-time employees outside the U.S. (verify)",
+      "source": "Claude web search: foundation model for materials or chemistry research enginee"
     },
     {
-      "company": "Microsoft Research",
-      "title": "AI for Science Residency - Computational Chemistry",
-      "url": "https://www.microsoft.com/en-us/research/careers/open-positions/",
-      "location": "Not stated in listing snippet; verify US location",
-      "source": "Claude web search: AI for science research scientist PhD 2027 start United Stat"
+      "company": "ByteDance",
+      "title": "Research Scientist Graduate (Seed Model - LLM) / Research Scientist in Large Language Model - 2027 Start (PhD)",
+      "url": "https://jobright.ai/jobs/research-scientist-graduate-(seed---llm)---2026-start-(phd)-jobs-in-united-states",
+      "location": "San Jose, CA",
+      "source": "Claude web search: LLM evaluation OR post-training research scientist PhD new g"
     },
     {
-      "company": "Allen Institute for Artificial Intelligence (Ai2)",
-      "title": "Research Scientist, Agents for Science",
-      "url": "https://www.theladders.com/job/research-scientist-agents-for-science-the-allen-institute-for-artificial-intelligence-seattle-wa_86367009",
-      "location": "Seattle, WA",
-      "source": "Claude web search: agentic AI for science research scientist job United States"
+      "company": "Flagship Pioneering",
+      "title": "Machine Learning Scientist, Large Language Models for Materials",
+      "url": "https://www.linkedin.com/jobs/machine-learning-scientist-jobs",
+      "location": "Cambridge, MA",
+      "source": "Claude web search: materials informatics machine learning scientist job United "
     },
     {
       "company": "Aerospace",
@@ -231,5 +224,5 @@
       "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-03 07:02 UTC"
+  "last_run": "2026-11-03 19:35 UTC"
 }
