@@ -2876,5 +2876,17 @@
     "decision": "screened",
     "reason": "estimated $200K–$260K, below your line",
     "tkey": "kla|computational-physics-algorithm-engineer"
+  },
+  "https://jobs.ashbyhq.com/chaidiscovery/953bc86e-e5fe-4912-bd7e-59f52f8f7df9": {
+    "date": "2026-11-04",
+    "decision": "added",
+    "reason": "",
+    "tkey": "chai-discovery|research-scientist-pre-training-research"
+  },
+  "https://indeed.com/q-llm-researcher-jobs.html": {
+    "date": "2026-11-04",
+    "decision": "added",
+    "reason": "",
+    "tkey": "bytedance|research-scientist-in-large-language-model-llm-seed-graduates-2027-start-phd"
   }
 }
