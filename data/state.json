@@ -1,10 +1,10 @@
 {
-  "runs": 18,
+  "runs": 19,
   "spend": {
     "2026-10": 4.3578,
-    "2026-11": 2.6267
+    "2026-11": 3.0075
   },
-  "discovery_cursor": 12,
+  "discovery_cursor": 1,
   "review": [
     {
       "company": "Schrödinger",
@@ -33,13 +33,6 @@
       "url": "https://job-boards.greenhouse.io/schrdinger/jobs/8086074003",
       "location": "New York; Portland",
       "source": "Greenhouse (schrdinger)"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Research Resident",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
-      "location": "San Francisco, CA | New York City, NY",
-      "source": "Greenhouse (anthropic)"
     },
     {
       "company": "Anthropic",
@@ -80,13 +73,6 @@
       "company": "Chai Discovery",
       "title": "Scientist, Protein Design",
       "url": "https://jobs.ashbyhq.com/chaidiscovery/9cc94a28-cac9-48a4-a44c-685a870b6288",
-      "location": "San Francisco office",
-      "source": "Ashby (chaidiscovery)"
-    },
-    {
-      "company": "Chai Discovery",
-      "title": "Software Engineer, AI Platform",
-      "url": "https://jobs.ashbyhq.com/chaidiscovery/ad8dd3de-8139-4385-8c5a-566a359e9be0",
       "location": "San Francisco office",
       "source": "Ashby (chaidiscovery)"
     },
@@ -147,11 +133,32 @@
       "source": "Ashby (thinkingmachines)"
     },
     {
-      "company": "ByteDance (TikTok)",
-      "title": "Graduate LLM Research Scientist (Seed, PhD)",
-      "url": "https://simplify.jobs/p/5ca5638a-d91f-4bd1-99cb-21e31590271d/Graduate-LLM-Research-Scientist",
-      "location": "San Jose, CA",
-      "source": "Claude web search: \"2027 Start\" PhD LLM research scientist TikTok trust and saf"
+      "company": "Google",
+      "title": "Research Scientist, Climate and Energy",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/125767569414988486-research-scientist-climate-and-energy",
+      "location": "United States",
+      "source": "Google careers search"
+    },
+    {
+      "company": "SentiLink",
+      "title": "Research Scientist, PhD New Grad",
+      "url": "https://www.builtinnyc.com/job/research-scientist-phd-new-grad/10592296",
+      "location": "Remote within US (Austin, SF, NYC preferred)",
+      "source": "Claude web search: LLM evaluation OR post-training research scientist PhD new g"
+    },
+    {
+      "company": "Flagship Pioneering",
+      "title": "Machine Learning Scientist, Large Language Models for Materials",
+      "url": "https://www.linkedin.com/jobs/machine-learning-scientist-jobs",
+      "location": "Cambridge, MA",
+      "source": "Claude web search: materials informatics machine learning scientist job United "
+    },
+    {
+      "company": "University of California, Berkeley",
+      "title": "Assistant Professor - AI for Materials, Materials Science and Engineering",
+      "url": "https://jobs.mrs.org/job/assistant-professor-ai-for-materials-materials-science-and-engineering/86495569/",
+      "location": "Berkeley, CA",
+      "source": "Claude web search: AI for materials discovery research scientist new grad PhD 2"
     },
     {
       "company": "Aerospace",
@@ -165,6 +172,13 @@
       "title": "2027 Health AI Scholar - Digital Health Algorithms Team",
       "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002",
       "location": "Mountain View, CA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "William Blair",
+      "title": "Working in Technology - WiT - Agentic AI Development- Summer 2027",
+      "url": "https://www.williamblair.com/Careers/job-description?gh_jid=5242282007",
+      "location": "Chicago, IL",
       "source": "speedyapply 2027 AI new-grad list"
     },
     {
@@ -224,13 +238,6 @@
       "source": "Simplify new-grad list"
     },
     {
-      "company": "SambaNova Systems",
-      "title": "Machine Learning Engineer New Grad",
-      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004",
-      "location": "Austin, TX; San Jose, CA",
-      "source": "Simplify new-grad list"
-    },
-    {
       "company": "ByteDance",
       "title": "Video/Image AI/ML Software Engineer Graduate - Video and Edge - Multimedia Lab",
       "url": "https://jobs.bytedance.com/en/position/7704089625815468293/detail",
@@ -245,5 +252,5 @@
       "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-04 06:40 UTC"
+  "last_run": "2026-11-04 19:50 UTC"
 }

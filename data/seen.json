@@ -2888,5 +2888,17 @@
     "decision": "added",
     "reason": "",
     "tkey": "bytedance|research-scientist-in-large-language-model-llm-seed-graduates-2027-start-phd"
+  },
+  "https://jobs.ashbyhq.com/chaidiscovery/ad8dd3de-8139-4385-8c5a-566a359e9be0": {
+    "date": "2026-11-04",
+    "decision": "screened",
+    "reason": "needs more experience than a new PhD",
+    "tkey": "chai-discovery|software-engineer-ai-platform"
+  },
+  "https://sambanova.ai/sambanova-available-positions?gh_jid=6240725004": {
+    "date": "2026-11-04",
+    "decision": "screened",
+    "reason": "estimated $160K–$240K, below your line",
+    "tkey": "sambanova-systems|machine-learning-engineer-new-grad"
   }
 }
