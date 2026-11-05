@@ -2900,5 +2900,17 @@
     "decision": "screened",
     "reason": "estimated $160K–$240K, below your line",
     "tkey": "sambanova-systems|machine-learning-engineer-new-grad"
+  },
+  "https://jobs.ashbyhq.com/chaidiscovery/4b3b298d-f284-4a2a-80a1-868ddec8d9a9": {
+    "date": "2026-11-05",
+    "decision": "added",
+    "reason": "",
+    "tkey": "chai-discovery|research-scientist-applied-research"
+  },
+  "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Systems-Engineer--Data-Labeling-Engineering---Early-Career_JR-202619939": {
+    "date": "2026-11-05",
+    "decision": "screened",
+    "reason": "estimated $160K–$210K, below your line",
+    "tkey": "general-motors|machine-learning-systems-engineer-data-labeling-engineering"
   }
 }

@@ -1,10 +1,10 @@
 {
-  "runs": 19,
+  "runs": 20,
   "spend": {
     "2026-10": 4.3578,
-    "2026-11": 3.0075
+    "2026-11": 3.3799
   },
-  "discovery_cursor": 1,
+  "discovery_cursor": 11,
   "review": [
     {
       "company": "Schrödinger",
@@ -77,13 +77,6 @@
       "source": "Ashby (chaidiscovery)"
     },
     {
-      "company": "Chai Discovery",
-      "title": "Research Scientist, Applied Research",
-      "url": "https://jobs.ashbyhq.com/chaidiscovery/4b3b298d-f284-4a2a-80a1-868ddec8d9a9",
-      "location": "San Francisco office",
-      "source": "Ashby (chaidiscovery)"
-    },
-    {
       "company": "Iambic Therapeutics",
       "title": "Research Scientist II/Senior, Computational Chemistry",
       "url": "https://jobs.ashbyhq.com/iambic-therapeutics/6236b729-9139-4971-8a31-3f5a9add1ed4",
@@ -140,25 +133,11 @@
       "source": "Google careers search"
     },
     {
-      "company": "SentiLink",
-      "title": "Research Scientist, PhD New Grad",
-      "url": "https://www.builtinnyc.com/job/research-scientist-phd-new-grad/10592296",
-      "location": "Remote within US (Austin, SF, NYC preferred)",
-      "source": "Claude web search: LLM evaluation OR post-training research scientist PhD new g"
-    },
-    {
-      "company": "Flagship Pioneering",
-      "title": "Machine Learning Scientist, Large Language Models for Materials",
-      "url": "https://www.linkedin.com/jobs/machine-learning-scientist-jobs",
-      "location": "Cambridge, MA",
-      "source": "Claude web search: materials informatics machine learning scientist job United "
-    },
-    {
-      "company": "University of California, Berkeley",
-      "title": "Assistant Professor - AI for Materials, Materials Science and Engineering",
-      "url": "https://jobs.mrs.org/job/assistant-professor-ai-for-materials-materials-science-and-engineering/86495569/",
-      "location": "Berkeley, CA",
-      "source": "Claude web search: AI for materials discovery research scientist new grad PhD 2"
+      "company": "Allen Institute for AI (Ai2)",
+      "title": "Research Scientist, Agents for Science",
+      "url": "https://www.builtinseattle.com/job/research-scientist-agents-science/6232436",
+      "location": "Seattle, WA",
+      "source": "Claude web search: agentic AI for science research scientist job United States"
     },
     {
       "company": "Aerospace",
@@ -252,5 +231,5 @@
       "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-04 19:50 UTC"
+  "last_run": "2026-11-05 07:02 UTC"
 }
