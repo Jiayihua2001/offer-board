@@ -2314,6 +2314,35 @@
     "first_seen": "2026-11-05",
     "last_checked": "2026-11-05",
     "last_open": "2026-11-05",
+    "check_failures": 0,
+    "stale": false
+  },
+  {
+    "company": "Meta",
+    "role": "Research Scientist, Machine Learning for Behavioral AI",
+    "est": [
+      230,
+      330
+    ],
+    "id": "meta-research-scientist-machine-learn-b97a4a",
+    "track": "science",
+    "location": "Pasadena, CA",
+    "base": "Pay not listed in the posting",
+    "fit": 2,
+    "why": "The candidate's ML depth (PyTorch, Hugging Face, transformers, large-scale distributed compute) and PhD research experience carry over to a Meta research scientist role. However, the title points to behavioral AI rather than materials discovery, so their GAtor 2.0 work with UMA, MACE and AIMNet2 potentials and crystal structure prediction would be only loosely relevant.",
+    "caveat": "The page text was unavailable, so the title, the materials-discovery description, and the Pasadena location (not a known Meta materials hub) could not be verified. The title and description appear to conflict, and sponsorship, level and pay are all unconfirmed. The pay range is an estimate based on typical Meta PhD new-grad research scientist compensation (E4/E5).",
+    "posted": "",
+    "source": "Claude web search: Meta Reality Labs Research materials discovery AI research s",
+    "url": "https://www.careerbuilder.com/job-details/ai-research-scientist-machine-learning-for-behavioral-ai-pasadena-ca--faca4a74-67b5-4cb1-b087-d7b10ff0899e",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-11-05",
+    "first_seen": "2026-11-05",
+    "last_checked": "2026-11-05",
+    "last_open": "2026-11-05",
     "check_failures": 0
   }
 ]

@@ -1,10 +1,10 @@
 {
-  "runs": 20,
+  "runs": 21,
   "spend": {
     "2026-10": 4.3578,
-    "2026-11": 3.3799
+    "2026-11": 3.771
   },
-  "discovery_cursor": 11,
+  "discovery_cursor": 0,
   "review": [
     {
       "company": "Schrödinger",
@@ -33,6 +33,20 @@
       "url": "https://job-boards.greenhouse.io/schrdinger/jobs/8086074003",
       "location": "New York; Portland",
       "source": "Greenhouse (schrdinger)"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Research Resident",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+      "location": "San Francisco, CA | New York City, NY",
+      "source": "Greenhouse (anthropic)"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Scientist, Discovery (Engineering & Applied Sciences)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468937008",
+      "location": "San Francisco, CA",
+      "source": "Greenhouse (anthropic)"
     },
     {
       "company": "Anthropic",
@@ -133,11 +147,32 @@
       "source": "Google careers search"
     },
     {
-      "company": "Allen Institute for AI (Ai2)",
-      "title": "Research Scientist, Agents for Science",
-      "url": "https://www.builtinseattle.com/job/research-scientist-agents-science/6232436",
-      "location": "Seattle, WA",
-      "source": "Claude web search: agentic AI for science research scientist job United States"
+      "company": "California Institute of Technology",
+      "title": "Research Scientist, AI for the Chemical Sciences",
+      "url": "https://www.indeed.com/q-ai-training-for-chemistry-jobs.html",
+      "location": "Pasadena, CA",
+      "source": "Claude web search: foundation model for materials or chemistry research enginee"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "Research Scientist, Photonic Materials Discovery",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4377093009",
+      "location": "Cambridge, MA",
+      "source": "Claude web search: quantum chemistry machine learning research scientist job Un"
+    },
+    {
+      "company": "SentiLink",
+      "title": "Research Scientist, PhD New Grad",
+      "url": "https://www.builtinnyc.com/job/research-scientist-phd-new-grad/10592296",
+      "location": "Remote, United States",
+      "source": "Claude web search: LLM evaluation OR post-training research scientist PhD new g"
+    },
+    {
+      "company": "Flagship Pioneering",
+      "title": "Machine Learning Scientist, Large Language Models for Materials",
+      "url": "https://www.linkedin.com/jobs/machine-learning-scientist-jobs",
+      "location": "Cambridge, MA",
+      "source": "Claude web search: materials informatics machine learning scientist job United "
     },
     {
       "company": "Aerospace",
@@ -151,13 +186,6 @@
       "title": "2027 Health AI Scholar - Digital Health Algorithms Team",
       "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002",
       "location": "Mountain View, CA",
-      "source": "speedyapply 2027 AI new-grad list"
-    },
-    {
-      "company": "William Blair",
-      "title": "Working in Technology - WiT - Agentic AI Development- Summer 2027",
-      "url": "https://www.williamblair.com/Careers/job-description?gh_jid=5242282007",
-      "location": "Chicago, IL",
       "source": "speedyapply 2027 AI new-grad list"
     },
     {
@@ -196,6 +224,34 @@
       "source": "Simplify new-grad list"
     },
     {
+      "company": "Normal Computing",
+      "title": "AI Research Resident",
+      "url": "https://jobs.ashbyhq.com/normalcomputing/975c754f-e5dd-4137-9e3e-63c81405d84f/application?embed=true",
+      "location": "Palo Alto, CA; London, UK; NYC",
+      "source": "Simplify new-grad list"
+    },
+    {
+      "company": "SRI International",
+      "title": "Research Engineer - Semiconductor Materials",
+      "url": "https://careers-sri.icims.com/jobs/6460/job?mobile=true&needsRedirect=false",
+      "location": "Princeton, NJ",
+      "source": "Simplify new-grad list"
+    },
+    {
+      "company": "Atlassian",
+      "title": "Machine Learning Engineer - 2027 Graduate",
+      "url": "https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job",
+      "location": "Seattle, WA",
+      "source": "Simplify new-grad list"
+    },
+    {
+      "company": "Atlassian",
+      "title": "Data Scientist Graduate",
+      "url": "https://campus-americas.icims.com/jobs/26000/data-scientist%2c-2027-graduate-u.s./job",
+      "location": "Seattle, WA",
+      "source": "Simplify new-grad list"
+    },
+    {
       "company": "TikTok",
       "title": "Machine Learning Engineer Graduate - E-Commerce User Growth",
       "url": "https://lifeattiktok.com/search/7694353236283935029",
@@ -231,5 +287,5 @@
       "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-05 07:02 UTC"
+  "last_run": "2026-11-05 20:02 UTC"
 }

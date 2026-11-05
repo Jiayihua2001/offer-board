@@ -2912,5 +2912,23 @@
     "decision": "screened",
     "reason": "estimated $160K–$210K, below your line",
     "tkey": "general-motors|machine-learning-systems-engineer-data-labeling-engineering"
+  },
+  "https://careerbuilder.com/job-details/ai-research-scientist-machine-learning-for-behavioral-ai-pasadena-ca--faca4a74-67b5-4cb1-b087-d7b10ff0899e": {
+    "date": "2026-11-05",
+    "decision": "added",
+    "reason": "",
+    "tkey": "meta|research-scientist-machine-learning-for-behavioral-ai-materials-discovery-description"
+  },
+  "https://bebee.com/us/jobs/materials-research-scientist-redmond-wa-meta-reality-labs-nanohelp-washington-dc--jooble--1666076043646231338": {
+    "date": "2026-11-05",
+    "decision": "screened",
+    "reason": "estimated $200K–$300K, below your line",
+    "tkey": "meta-reality-labs|materials-research-scientist"
+  },
+  "https://williamblair.com/Careers/job-description?gh_jid=5242287007": {
+    "date": "2026-11-05",
+    "decision": "screened",
+    "reason": "internship",
+    "tkey": "william-blair|working-in-technology-wit-agentic-ai-development-summer-2027"
   }
 }

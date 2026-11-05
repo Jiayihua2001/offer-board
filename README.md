@@ -81,7 +81,7 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 
 <!-- BOARD:START -->
 
-**75 open roles** · 21 above your $300K line · 54 near it · last run 2026-11-05 07:02 UTC · AI spend this month $3.38 of $100
+**76 open roles** · 21 above your $300K line · 55 near it · last run 2026-11-05 20:02 UTC · AI spend this month $3.77 of $100
 
 ### Above your offer line
 
@@ -166,6 +166,7 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 | NVIDIA | [Research Scientist PhD New Grad - Autonomous Systems and Physical AI Research](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551) | Santa Clara, CA | $220K–$330K (-8%) | ●●● | sponsors | 2026-10-07 |
 | Liquid AI | [Liquid Labs - Research Engineer](https://jobs.ashbyhq.com/liquid-ai/679d26b2-2603-424d-acb8-99f45e8b5ddd) | Boston, MA (SF or other US locations accepted) | $220K–$320K (-10%) | ●●● | **ask first** | 2025-12-03 |
 | Cerebras Systems | [Applied Machine Learning Research Scientist](https://jobs.ashbyhq.com/cerebras/d654a704-2c58-4ba6-9109-2c92aecb2503) | United States and Canada (Sunnyvale, CA HQ) | $220K–$320K (-10%) | ●●● | **ask first** | 2026-03-05 |
+| Meta | [Research Scientist, Machine Learning for Behavioral AI](https://www.careerbuilder.com/job-details/ai-research-scientist-machine-learning-for-behavioral-ai-pasadena-ca--faca4a74-67b5-4cb1-b087-d7b10ff0899e) **New** | Pasadena, CA | $230K–$330K (-7%) | ●● | sponsors |  |
 | NVIDIA | [Research Scientist New Grad - AI for Graphics and Gaming](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-for-Graphics-and-Gaming---New-College-Grad-2026_JR2011267) | Santa Clara, CA; United States (listing also shows Canada) | $220K–$330K (-8%) | ●● | sponsors | 2026-10-31 |
 
 ### Not screened yet
@@ -177,6 +178,8 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | Schrödinger | [Computational Chemist, Target Druggability and Structure-Based Design](https://job-boards.greenhouse.io/schrdinger/jobs/8045314003) | New York; Cambridge, MA; San Diego; Portland | Greenhouse (schrdinger) |
 | Schrödinger | [Computational Materials Science, Formulations](https://job-boards.greenhouse.io/schrdinger/jobs/8086902003) | Mannheim; New York; Portland | Greenhouse (schrdinger) |
 | Schrödinger | [Computational Materials Scientist, Atomic Layer Processing and Chemical Reactivity](https://job-boards.greenhouse.io/schrdinger/jobs/8086074003) | New York; Portland | Greenhouse (schrdinger) |
+| Anthropic | [Anthropic Research Resident](https://job-boards.greenhouse.io/anthropic/jobs/5438311008) | San Francisco, CA \| New York City, NY | Greenhouse (anthropic) |
+| Anthropic | [Research Scientist, Discovery (Engineering & Applied Sciences)](https://job-boards.greenhouse.io/anthropic/jobs/5468937008) | San Francisco, CA | Greenhouse (anthropic) |
 | Anthropic | [Research Scientist, Life Sciences (Large Molecules, Antibody Design) ](https://job-boards.greenhouse.io/anthropic/jobs/5467092008) | San Francisco, CA | Greenhouse (anthropic) |
 | Anthropic | [Research Scientist, Life Sciences (Large Molecules, Process Development) ](https://job-boards.greenhouse.io/anthropic/jobs/5467099008) | San Francisco, CA | Greenhouse (anthropic) |
 | Achira | [Machine Learning Research Engineer (MLRE) - GPUs](https://jobs.ashbyhq.com/achira/f7893ad8-8da1-4ae3-b56b-151feb17d324) | San Francisco Office | Ashby (achira) |
@@ -191,15 +194,21 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | SandboxAQ | [Machine Learning Scientist - Molecular Force Fields](https://jobs.ashbyhq.com/sandboxaq/2ecf82f8-6bab-48d5-b34a-e1c745b7fc60) | United States | Ashby (sandboxaq) |
 | Thinking Machines Lab | [Research Lead, Tinker, Fine-tuning Science](https://jobs.ashbyhq.com/thinkingmachines/4e3a366f-eb0f-4ea9-8cf9-9c2f911f279c) | San Francisco | Ashby (thinkingmachines) |
 | Google | [Research Scientist, Climate and Energy](https://www.google.com/about/careers/applications/jobs/results/125767569414988486-research-scientist-climate-and-energy) | United States | Google careers search |
-| Allen Institute for AI (Ai2) | [Research Scientist, Agents for Science](https://www.builtinseattle.com/job/research-scientist-agents-science/6232436) | Seattle, WA | Claude web search: agentic AI for science research scientist job United States |
+| California Institute of Technology | [Research Scientist, AI for the Chemical Sciences](https://www.indeed.com/q-ai-training-for-chemistry-jobs.html) | Pasadena, CA | Claude web search: foundation model for materials or chemistry research enginee |
+| Lila Sciences | [Research Scientist, Photonic Materials Discovery](https://job-boards.greenhouse.io/lilasciences/jobs/4377093009) | Cambridge, MA | Claude web search: quantum chemistry machine learning research scientist job Un |
+| SentiLink | [Research Scientist, PhD New Grad](https://www.builtinnyc.com/job/research-scientist-phd-new-grad/10592296) | Remote, United States | Claude web search: LLM evaluation OR post-training research scientist PhD new g |
+| Flagship Pioneering | [Machine Learning Scientist, Large Language Models for Materials](https://www.linkedin.com/jobs/machine-learning-scientist-jobs) | Cambridge, MA | Claude web search: materials informatics machine learning scientist job United  |
 | Aerospace | [2027 Data Scientist/Machine Learning Engineer](https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Data-Scientist-Machine-Learning-Engineer_R016761) | El Segundo, CA | speedyapply 2027 AI new-grad list |
 | Samsung AI Research Center | [2027 Health AI Scholar - Digital Health Algorithms Team](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002) | Mountain View, CA | speedyapply 2027 AI new-grad list |
-| William Blair | [Working in Technology - WiT - Agentic AI Development- Summer 2027](https://www.williamblair.com/Careers/job-description?gh_jid=5242282007) | Chicago, IL | speedyapply 2027 AI new-grad list |
 | TikTok | [Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance](https://lifeattiktok.com/search/7669910326745434421) | Seattle, WA | Simplify new-grad list |
 | TikTok | [Machine Learning Engineer Graduate - E-Commerce Recommendation Live](https://lifeattiktok.com/search/7670285495593273605) | San Jose, CA | Simplify new-grad list |
 | ByteDance | [Data Lake Infrastructure & Data Analytics Research Engineer Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671108456554432773/detail) | San Jose, CA | Simplify new-grad list |
 | ByteDance | [AI/LLM Network Software Development Engineer Graduate - High Speed Network - PhD](https://jobs.bytedance.com/en/position/7668855566150732037/detail) | Seattle, WA | Simplify new-grad list |
 | ByteDance | [Research Scientist Graduate - Seed AI Foundation Model Infrastructure - PhD](https://jobs.bytedance.com/en/position/7673264681083898165/detail) | San Jose, CA | Simplify new-grad list |
+| Normal Computing | [AI Research Resident](https://jobs.ashbyhq.com/normalcomputing/975c754f-e5dd-4137-9e3e-63c81405d84f/application?embed=true) | Palo Alto, CA; London, UK; NYC | Simplify new-grad list |
+| SRI International | [Research Engineer - Semiconductor Materials](https://careers-sri.icims.com/jobs/6460/job?mobile=true&needsRedirect=false) | Princeton, NJ | Simplify new-grad list |
+| Atlassian | [Machine Learning Engineer - 2027 Graduate](https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job) | Seattle, WA | Simplify new-grad list |
+| Atlassian | [Data Scientist Graduate](https://campus-americas.icims.com/jobs/26000/data-scientist%2c-2027-graduate-u.s./job) | Seattle, WA | Simplify new-grad list |
 | TikTok | [Machine Learning Engineer Graduate - E-Commerce User Growth](https://lifeattiktok.com/search/7694353236283935029) | Seattle, WA | Simplify new-grad list |
 | ByteDance | [Research Scientist](https://jobs.bytedance.com/en/position/7698902624389482757/detail) | San Jose, CA | Simplify new-grad list |
 | Network Bio | [AI Scientist](https://job-boards.greenhouse.io/networkbio/jobs/5445891008) | Palo Alto, CA; Seattle, WA | Simplify new-grad list |
@@ -219,8 +228,9 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 - Meta FAIR, AI Research Scientist, FAIR Chemistry (New York) (2026-10-25)
 - Lila Sciences, ML Research Scientist I/II, Multimodal Data Extraction (2026-10-25)
 
-<details><summary>Screened out (202)</summary>
+<details><summary>Screened out (203)</summary>
 
+- [Meta Reality Labs, Materials Research Scientist](https://bebee.com/us/jobs/materials-research-scientist-redmond-wa-meta-reality-labs-nanohelp-washington-dc--jooble--1666076043646231338): Estimated $200K–$300K, below your line.
 - [General Motors, Machine Learning Systems Engineer - Data Labeling Engineering](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Systems-Engineer--Data-Labeling-Engineering---Early-Career_JR-202619939): Estimated $160K–$210K, below your line.
 - [SambaNova Systems, Machine Learning Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004): Estimated $160K–$240K, below your line.
 - [Chai Discovery, Software Engineer, AI Platform](https://jobs.ashbyhq.com/chaidiscovery/ad8dd3de-8139-4385-8c5a-566a359e9be0): Needs more experience than a new PhD.
@@ -420,7 +430,6 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 - [Google DeepMind, London materials roles (Material Intelligence; Semiconductor Materials)](https://job-boards.greenhouse.io/deepmind/jobs/7353237): Outside the US (London), and the semiconductor role asks for 2+ years leading a research agenda.
 - [Periodic Labs, Multiphysics Simulation Scientist and Forward Deployed Engineer (Physics & Simulation)](https://www.inferencejobs.com/companies/periodic-labs): Base $160K–$220K and $180K–$250K.
 - [Lila Sciences, Scientist II and Computational Scientist I/II roles](https://startup.jobs/computational-scientist-i-ii-soft-matter-formulations-solids-and-melts-lila-sciences-8807717): Base roughly $118K–$198K.
-- [Argonne National Laboratory, AI and autonomous-lab materials scientist](https://www.careercircle.com/jobs/all/all/usa/il/lemont/fcaef6f9-4a20-4973-8e36-611a2a297001): Base $116K–$181K.
 
 </details>
 
