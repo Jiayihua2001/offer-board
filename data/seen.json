@@ -2930,5 +2930,35 @@
     "decision": "screened",
     "reason": "internship",
     "tkey": "william-blair|working-in-technology-wit-agentic-ai-development-summer-2027"
+  },
+  "https://jobs.ashbyhq.com/iambic-therapeutics/517a437c-9810-402e-800b-4b593f3b3970": {
+    "date": "2026-11-06",
+    "decision": "screened",
+    "reason": "needs more experience than a new PhD",
+    "tkey": "iambic-therapeutics|research-scientist-ii-senior-research-scientist-medicinal-chemistry"
+  },
+  "https://metacareers.com/profile/job_details/1747806499828365": {
+    "date": "2026-11-06",
+    "decision": "added",
+    "reason": "",
+    "tkey": "meta|research-scientist-machine-learning-for-monetization-phd"
+  },
+  "https://startup.jobs/research-scientist-accelerated-materials-design-and-discovery-toyotaresearch-1894330": {
+    "date": "2026-11-06",
+    "decision": "screened",
+    "reason": "estimated $210K–$270K, below your line",
+    "tkey": "toyota-research-institute|research-scientist-accelerated-materials-design-and-discovery"
+  },
+  "https://jobs.ashbyhq.com/normalcomputing/975c754f-e5dd-4137-9e3e-63c81405d84f?embed=true": {
+    "date": "2026-11-06",
+    "decision": "screened",
+    "reason": "estimated $200K–$280K, below your line",
+    "tkey": "normal-computing|ai-research-resident"
+  },
+  "https://jobs.smartrecruiters.com/LinkedIn3/744000159509679": {
+    "date": "2026-11-06",
+    "decision": "screened",
+    "reason": "estimated $150K–$200K, below your line",
+    "tkey": "linkedin|data-scientist"
   }
 }

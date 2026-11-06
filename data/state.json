@@ -1,10 +1,10 @@
 {
-  "runs": 21,
+  "runs": 22,
   "spend": {
     "2026-10": 4.3578,
-    "2026-11": 3.771
+    "2026-11": 4.1607
   },
-  "discovery_cursor": 0,
+  "discovery_cursor": 10,
   "review": [
     {
       "company": "Schrödinger",
@@ -147,32 +147,39 @@
       "source": "Google careers search"
     },
     {
-      "company": "California Institute of Technology",
-      "title": "Research Scientist, AI for the Chemical Sciences",
-      "url": "https://www.indeed.com/q-ai-training-for-chemistry-jobs.html",
-      "location": "Pasadena, CA",
-      "source": "Claude web search: foundation model for materials or chemistry research enginee"
+      "company": "Microsoft Research",
+      "title": "Research Sciences II - PROSE team",
+      "url": "https://www.microsoft.com/en-us/research/careers/open-positions/",
+      "location": "Not stated; verify",
+      "source": "Claude web search: AI for materials discovery research scientist new grad PhD 2"
     },
     {
       "company": "Lila Sciences",
       "title": "Research Scientist, Photonic Materials Discovery",
       "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4377093009",
       "location": "Cambridge, MA",
-      "source": "Claude web search: quantum chemistry machine learning research scientist job Un"
+      "source": "Claude web search: machine learning interatomic potential research scientist jo"
     },
     {
-      "company": "SentiLink",
-      "title": "Research Scientist, PhD New Grad",
-      "url": "https://www.builtinnyc.com/job/research-scientist-phd-new-grad/10592296",
-      "location": "Remote, United States",
-      "source": "Claude web search: LLM evaluation OR post-training research scientist PhD new g"
+      "company": "ByteDance",
+      "title": "Research Scientist Graduate (Seed Model-Alignment&Preparedness) - 2027 Start (PhD)",
+      "url": "https://joinbytedance.com/search/7698902624389482757",
+      "location": "San Jose, CA",
+      "source": "Claude web search: \"2027 Start (PhD)\" research scientist AI for Science ByteDan"
     },
     {
-      "company": "Flagship Pioneering",
-      "title": "Machine Learning Scientist, Large Language Models for Materials",
-      "url": "https://www.linkedin.com/jobs/machine-learning-scientist-jobs",
-      "location": "Cambridge, MA",
-      "source": "Claude web search: materials informatics machine learning scientist job United "
+      "company": "Applied Materials",
+      "title": "Physicist/Scientist, Doctorate Degree, New College Grad (Spring 2027)",
+      "url": "https://zapply.jobs/jobs/801c691c-b56c-4e91-8ae8-921974385b5d/",
+      "location": "California, US (Santa Clara area)",
+      "source": "Claude web search: LLM applied scientist PhD new grad 2027 United States"
+    },
+    {
+      "company": "Logical Intelligence",
+      "title": "AI Research Scientist/Research Engineer: Materials Discovery",
+      "url": "https://www.dreamworkhq.com/job/c21cddac-2b19-4d6c-8db9-1f8e5e2f1f77",
+      "location": "San Francisco, CA, US",
+      "source": "Claude web search: LLM applied scientist PhD new grad 2027 United States"
     },
     {
       "company": "Aerospace",
@@ -221,13 +228,6 @@
       "title": "Research Scientist Graduate - Seed AI Foundation Model Infrastructure - PhD",
       "url": "https://jobs.bytedance.com/en/position/7673264681083898165/detail",
       "location": "San Jose, CA",
-      "source": "Simplify new-grad list"
-    },
-    {
-      "company": "Normal Computing",
-      "title": "AI Research Resident",
-      "url": "https://jobs.ashbyhq.com/normalcomputing/975c754f-e5dd-4137-9e3e-63c81405d84f/application?embed=true",
-      "location": "Palo Alto, CA; London, UK; NYC",
       "source": "Simplify new-grad list"
     },
     {
@@ -280,12 +280,12 @@
       "source": "Simplify new-grad list"
     },
     {
-      "company": "LinkedIn",
-      "title": "Data Scientist",
-      "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000159509679",
-      "location": "Mountain View, CA",
+      "company": "BetterHelp",
+      "title": "Data Science Extern",
+      "url": "https://job-boards.greenhouse.io/betterhelpcom/jobs/5439919008",
+      "location": "Remote in USA",
       "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-05 20:02 UTC"
+  "last_run": "2026-11-06 07:04 UTC"
 }
