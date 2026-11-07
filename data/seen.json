@@ -2959,5 +2959,11 @@
     "decision": "screened",
     "reason": "estimated $150K–$200K, below your line",
     "tkey": "linkedin|data-scientist"
+  },
+  "https://apply.workable.com/persimmons-ai/j/E8AF3CDFB3": {
+    "date": "2026-11-07",
+    "decision": "screened",
+    "reason": "estimated $150K–$200K, below your line",
+    "tkey": "persimmons|design-verification-engineer-new-grad-ai-driven"
   }
 }

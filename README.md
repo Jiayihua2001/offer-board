@@ -81,7 +81,7 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 
 <!-- BOARD:START -->
 
-**76 open roles** · 21 above your $300K line · 55 near it · last run 2026-11-06 19:30 UTC · AI spend this month $4.53 of $100
+**76 open roles** · 21 above your $300K line · 55 near it · last run 2026-11-07 06:13 UTC · AI spend this month $4.89 of $100
 
 ### Above your offer line
 
@@ -105,7 +105,7 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 | TikTok | [Research Scientist/Software Engineer, Neural Graphics and World Models - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://lifeattiktok.com/search/7668854153882011957) | San Jose, CA | $285K–$420K (+18%) | ●●● | sponsors | 2026-08-20 |
 | TikTok | [(General Hire) Research Scientist Graduate(TikTok Recommendation) - 2027 Start (PhD)](https://lifeattiktok.com/search/7663388039600883973) | San Jose, CA | $285K–$420K (+18%) | ●●● | sponsors | 2026-08-03 |
 | Periodic Labs | [Research Scientist / Research Engineer, Midtraining](https://jobs.a16z.com/jobs/periodic-labs/research-scientist-research-engineer-midtraining--ats-mn783xrp2jmjq4cp3mdjvsjbp98fc7j7) | Menlo Park, CA | $280K–$420K (+17%) | ●●● | says it sponsors | About Sep 30, 2026 |
-| Netflix | [Research Scientist (L4) - New Grad PhD](https://startup.jobs/research-scientist-l4-new-grad-phd-netflix-3781083) **New** | Los Gatos, CA, United States | $280K–$420K (+17%) | ●●● | **ask first** |  |
+| Netflix | [Research Scientist (L4) - New Grad PhD](https://startup.jobs/research-scientist-l4-new-grad-phd-netflix-3781083) | Los Gatos, CA, United States | $280K–$420K (+17%) | ●●● | **ask first** |  |
 | TikTok | [AI Infra Engineer Graduate (Recommendation & LLM) 2027 Start (PhD)](https://lifeattiktok.com/search/7672656091025066293) | San Jose, CA | $280K–$400K (+13%) | ●●● | sponsors | 2026-08-12 |
 | TikTok | [Machine Learning Engineer Graduate (E-Commerce Content Recommendation - Generative & Large Recommendation Model) - 2027 Start (PhD)](https://lifeattiktok.com/search/7685552742819842357) | San Jose, CA; Seattle, WA | $240K–$420K (+10%) | ●●● | sponsors | 2026-09-16 |
 
@@ -181,6 +181,7 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | Anthropic | [Research Scientist, Discovery (Engineering & Applied Sciences)](https://job-boards.greenhouse.io/anthropic/jobs/5468937008) | San Francisco, CA | Greenhouse (anthropic) |
 | Anthropic | [Research Scientist, Life Sciences (Large Molecules, Antibody Design) ](https://job-boards.greenhouse.io/anthropic/jobs/5467092008) | San Francisco, CA | Greenhouse (anthropic) |
 | Anthropic | [Research Scientist, Life Sciences (Large Molecules, Process Development) ](https://job-boards.greenhouse.io/anthropic/jobs/5467099008) | San Francisco, CA | Greenhouse (anthropic) |
+| OpenAI | [Applied AI Engineer, Enterprise - Healthcare Life Sciences (HLS)](https://jobs.ashbyhq.com/openai/6fc25168-bc4c-47a0-8601-583dfaf7fcbd) | San Francisco | Ashby (openai) |
 | Achira | [Machine Learning Research Engineer (MLRE) - GPUs](https://jobs.ashbyhq.com/achira/f7893ad8-8da1-4ae3-b56b-151feb17d324) | San Francisco Office | Ashby (achira) |
 | Achira | [Machine Learning Research Engineer (MLRE) - Workflows/Systems](https://jobs.ashbyhq.com/achira/bb70d7b1-6da0-4271-85b6-caec85254dea) | San Francisco Office | Ashby (achira) |
 | Chai Discovery | [Forward-Deployed Scientist](https://jobs.ashbyhq.com/chaidiscovery/e60e0d79-622d-4251-b056-d380484d9dab) | San Francisco office | Ashby (chaidiscovery) |
@@ -192,10 +193,11 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | SandboxAQ | [Computational Chemist - Machine Learned Force Fields, Material Discovery](https://jobs.ashbyhq.com/sandboxaq/b33383d4-18c9-4eea-acab-6fdd713f5174) | United States | Ashby (sandboxaq) |
 | SandboxAQ | [Machine Learning Scientist - Molecular Force Fields](https://jobs.ashbyhq.com/sandboxaq/2ecf82f8-6bab-48d5-b34a-e1c745b7fc60) | United States | Ashby (sandboxaq) |
 | Thinking Machines Lab | [Research Lead, Tinker, Fine-tuning Science](https://jobs.ashbyhq.com/ThinkingMachines/4e3a366f-eb0f-4ea9-8cf9-9c2f911f279c) | San Francisco | Ashby (thinkingmachines) |
+| NVIDIA | [Research Scientist, AI and Systems Security - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894) | 2 Locations | Workday (NVIDIA) |
 | Google | [Research Scientist, Climate and Energy](https://www.google.com/about/careers/applications/jobs/results/125767569414988486-research-scientist-climate-and-energy) | United States | Google careers search |
-| Applied Science Works | [Machine Learning Engineer - Atomistic Simulation](https://appliedscienceworks.com/careers.html) | Not stated in listing | Claude web search: computational chemistry machine learning scientist job PhD |
-| Logical Intelligence | [AI Research Scientist/ Research Engineer: Materials Discovery](https://www.dreamworkhq.com/job/c21cddac-2b19-4d6c-8db9-1f8e5e2f1f77) | San Francisco, CA | Claude web search: quantum chemistry machine learning research scientist job Un |
-| Persimmons | [Design Verification Engineer - New Grad - AI-Driven](https://apply.workable.com/persimmons-ai/j/E8AF3CDFB3/) | San Jose, CA | speedyapply 2027 AI new-grad list |
+| Meta | [AI Research Scientist for Advanced Materials Discovery](https://jobs.stevenagefc.com/jobs/ai-research-scientist-for-advanced-materials-discovery-redmond-washington/2759585329-2/) | Redmond, WA | Claude web search: Meta Reality Labs Research materials discovery AI research s |
+| Profluent | [Machine Learning Scientist, Biomolecular Structure Prediction](https://zapply.jobs/jobs/ee22cdcd-5b75-4725-8271-1a2f748a192a/) | California, US | Claude web search: crystal structure prediction machine learning job |
+| ByteDance | [Research Scientist - Machine Learning for Science](https://www.linkedin.com/jobs/view/research-scientist-machine-learning-for-science-at-bytedance-3704587379) | San Jose, CA | Claude web search: "2027 Start (PhD)" research scientist AI for Science ByteDan |
 | Aerospace | [2027 Data Scientist/Machine Learning Engineer](https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Data-Scientist-Machine-Learning-Engineer_R016761) | El Segundo, CA | speedyapply 2027 AI new-grad list |
 | Samsung AI Research Center | [2027 Health AI Scholar - Digital Health Algorithms Team](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002) | Mountain View, CA | speedyapply 2027 AI new-grad list |
 | TikTok | [Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance](https://lifeattiktok.com/search/7669910326745434421) | Seattle, WA | Simplify new-grad list |

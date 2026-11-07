@@ -1,10 +1,10 @@
 {
-  "runs": 23,
+  "runs": 24,
   "spend": {
     "2026-10": 4.3578,
-    "2026-11": 4.525
+    "2026-11": 4.8944
   },
-  "discovery_cursor": 20,
+  "discovery_cursor": 9,
   "review": [
     {
       "company": "Schrödinger",
@@ -54,6 +54,13 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467099008",
       "location": "San Francisco, CA",
       "source": "Greenhouse (anthropic)"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Applied AI Engineer, Enterprise - Healthcare Life Sciences (HLS)",
+      "url": "https://jobs.ashbyhq.com/openai/6fc25168-bc4c-47a0-8601-583dfaf7fcbd",
+      "location": "San Francisco",
+      "source": "Ashby (openai)"
     },
     {
       "company": "Achira",
@@ -133,6 +140,13 @@
       "source": "Ashby (thinkingmachines)"
     },
     {
+      "company": "NVIDIA",
+      "title": "Research Scientist, AI and Systems Security - PhD New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894",
+      "location": "2 Locations",
+      "source": "Workday (NVIDIA)"
+    },
+    {
       "company": "Google",
       "title": "Research Scientist, Climate and Energy",
       "url": "https://www.google.com/about/careers/applications/jobs/results/125767569414988486-research-scientist-climate-and-energy",
@@ -140,25 +154,25 @@
       "source": "Google careers search"
     },
     {
-      "company": "Applied Science Works",
-      "title": "Machine Learning Engineer - Atomistic Simulation",
-      "url": "https://appliedscienceworks.com/careers.html",
-      "location": "Not stated in listing",
-      "source": "Claude web search: computational chemistry machine learning scientist job PhD"
+      "company": "Meta",
+      "title": "AI Research Scientist for Advanced Materials Discovery",
+      "url": "https://jobs.stevenagefc.com/jobs/ai-research-scientist-for-advanced-materials-discovery-redmond-washington/2759585329-2/",
+      "location": "Redmond, WA",
+      "source": "Claude web search: Meta Reality Labs Research materials discovery AI research s"
     },
     {
-      "company": "Logical Intelligence",
-      "title": "AI Research Scientist/ Research Engineer: Materials Discovery",
-      "url": "https://www.dreamworkhq.com/job/c21cddac-2b19-4d6c-8db9-1f8e5e2f1f77",
-      "location": "San Francisco, CA",
-      "source": "Claude web search: quantum chemistry machine learning research scientist job Un"
+      "company": "Profluent",
+      "title": "Machine Learning Scientist, Biomolecular Structure Prediction",
+      "url": "https://zapply.jobs/jobs/ee22cdcd-5b75-4725-8271-1a2f748a192a/",
+      "location": "California, US",
+      "source": "Claude web search: crystal structure prediction machine learning job"
     },
     {
-      "company": "Persimmons",
-      "title": "Design Verification Engineer - New Grad - AI-Driven",
-      "url": "https://apply.workable.com/persimmons-ai/j/E8AF3CDFB3/",
+      "company": "ByteDance",
+      "title": "Research Scientist - Machine Learning for Science",
+      "url": "https://www.linkedin.com/jobs/view/research-scientist-machine-learning-for-science-at-bytedance-3704587379",
       "location": "San Jose, CA",
-      "source": "speedyapply 2027 AI new-grad list"
+      "source": "Claude web search: \"2027 Start (PhD)\" research scientist AI for Science ByteDan"
     },
     {
       "company": "Aerospace",
@@ -266,5 +280,5 @@
       "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-06 19:30 UTC"
+  "last_run": "2026-11-07 06:13 UTC"
 }
