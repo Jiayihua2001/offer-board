@@ -2965,5 +2965,17 @@
     "decision": "screened",
     "reason": "estimated $150K–$200K, below your line",
     "tkey": "persimmons|design-verification-engineer-new-grad-ai-driven"
+  },
+  "https://careers-sri.icims.com/jobs/6460/job?mobile=true&needsRedirect=false": {
+    "date": "2026-11-07",
+    "decision": "screened",
+    "reason": "requires US citizenship, a green card or a clearance",
+    "tkey": "sri-international|research-engineer-semiconductor-materials"
+  },
+  "https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job": {
+    "date": "2026-11-07",
+    "decision": "screened",
+    "reason": "estimated $190K–$260K, below your line",
+    "tkey": "atlassian|machine-learning-engineer-2027-graduate"
   }
 }

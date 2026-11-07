@@ -1,10 +1,10 @@
 {
-  "runs": 24,
+  "runs": 25,
   "spend": {
     "2026-10": 4.3578,
-    "2026-11": 4.8944
+    "2026-11": 5.2732
   },
-  "discovery_cursor": 9,
+  "discovery_cursor": 19,
   "review": [
     {
       "company": "Schrödinger",
@@ -154,25 +154,25 @@
       "source": "Google careers search"
     },
     {
-      "company": "Meta",
-      "title": "AI Research Scientist for Advanced Materials Discovery",
-      "url": "https://jobs.stevenagefc.com/jobs/ai-research-scientist-for-advanced-materials-discovery-redmond-washington/2759585329-2/",
-      "location": "Redmond, WA",
-      "source": "Claude web search: Meta Reality Labs Research materials discovery AI research s"
+      "company": "Lila Sciences",
+      "title": "Research Scientist, Frontier Capabilities",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4031326009",
+      "location": "Cambridge, MA; San Francisco, CA",
+      "source": "Claude web search: agentic AI for science research scientist job United States"
     },
     {
-      "company": "Profluent",
-      "title": "Machine Learning Scientist, Biomolecular Structure Prediction",
-      "url": "https://zapply.jobs/jobs/ee22cdcd-5b75-4725-8271-1a2f748a192a/",
-      "location": "California, US",
-      "source": "Claude web search: crystal structure prediction machine learning job"
+      "company": "Logical Intelligence",
+      "title": "AI Research Scientist / Research Engineer: Materials Discovery",
+      "url": "https://www.dreamworkhq.com/job/c21cddac-2b19-4d6c-8db9-1f8e5e2f1f77",
+      "location": "San Francisco, CA",
+      "source": "Claude web search: computational chemistry machine learning scientist job PhD"
     },
     {
-      "company": "ByteDance",
-      "title": "Research Scientist - Machine Learning for Science",
-      "url": "https://www.linkedin.com/jobs/view/research-scientist-machine-learning-for-science-at-bytedance-3704587379",
-      "location": "San Jose, CA",
-      "source": "Claude web search: \"2027 Start (PhD)\" research scientist AI for Science ByteDan"
+      "company": "Flagship Pioneering",
+      "title": "Machine Learning Scientist, Large Language Models for Materials",
+      "url": "https://www.linkedin.com/jobs/machine-learning-scientist-jobs",
+      "location": "Cambridge, MA",
+      "source": "Claude web search: materials informatics machine learning scientist job United "
     },
     {
       "company": "Aerospace",
@@ -224,20 +224,6 @@
       "source": "Simplify new-grad list"
     },
     {
-      "company": "SRI International",
-      "title": "Research Engineer - Semiconductor Materials",
-      "url": "https://careers-sri.icims.com/jobs/6460/job?mobile=true&needsRedirect=false",
-      "location": "Princeton, NJ",
-      "source": "Simplify new-grad list"
-    },
-    {
-      "company": "Atlassian",
-      "title": "Machine Learning Engineer - 2027 Graduate",
-      "url": "https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job",
-      "location": "Seattle, WA",
-      "source": "Simplify new-grad list"
-    },
-    {
       "company": "Atlassian",
       "title": "Data Scientist Graduate",
       "url": "https://campus-americas.icims.com/jobs/26000/data-scientist%2c-2027-graduate-u.s./job",
@@ -280,5 +266,5 @@
       "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-07 06:13 UTC"
+  "last_run": "2026-11-07 17:52 UTC"
 }
