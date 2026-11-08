@@ -1,10 +1,10 @@
 {
-  "runs": 26,
+  "runs": 27,
   "spend": {
     "2026-10": 4.3578,
-    "2026-11": 5.655
+    "2026-11": 6.0303
   },
-  "discovery_cursor": 8,
+  "discovery_cursor": 18,
   "review": [
     {
       "company": "Schrödinger",
@@ -154,18 +154,25 @@
       "source": "Google careers search"
     },
     {
-      "company": "Genentech (Roche)",
-      "title": "Machine Learning Scientist, Scientific Reasoning Models (AI for Drug Discovery)",
-      "url": "https://www.indeed.com/q-machine-learning-data-scientist-materials-science-jobs.html",
-      "location": "New York, NY",
-      "source": "Claude web search: crystal structure prediction machine learning job"
+      "company": "Meta (listed via abilityJOBS)",
+      "title": "AI Research Scientist - Agentic AI for Materials Discovery",
+      "url": "https://career.abilityjobs.com/job/ai-research-scientist-agentic-ai-for-materials-discovery/83687832/",
+      "location": "Pasadena, CA",
+      "source": "Claude web search: agentic AI for science research scientist job United States"
     },
     {
-      "company": "Google DeepMind",
-      "title": "Semiconductor Material Science Research Scientist",
-      "url": "https://job-boards.greenhouse.io/deepmind/jobs/7353266",
-      "location": "Not shown in results (verify on posting)",
-      "source": "Claude web search: research scientist PhD university graduate 2027 machine lear"
+      "company": "Logical Intelligence",
+      "title": "AI Research Scientist/Research Engineer: Materials Discovery",
+      "url": "https://www.dreamworkhq.com/job/c21cddac-2b19-4d6c-8db9-1f8e5e2f1f77",
+      "location": "San Francisco, CA",
+      "source": "Claude web search: foundation model for materials or chemistry research enginee"
+    },
+    {
+      "company": "The Brattle Group",
+      "title": "Data and AI Engineer - July 2027",
+      "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4751955005",
+      "location": "Boston, MA +1",
+      "source": "speedyapply 2027 AI new-grad list"
     },
     {
       "company": "Samsung AI Research Center",
@@ -252,5 +259,5 @@
       "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-08 06:17 UTC"
+  "last_run": "2026-11-08 18:02 UTC"
 }

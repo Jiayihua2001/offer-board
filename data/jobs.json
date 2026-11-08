@@ -2368,6 +2368,7 @@
     "first_seen": "2026-11-08",
     "last_checked": "2026-11-08",
     "last_open": "2026-11-08",
-    "check_failures": 0
+    "check_failures": 1,
+    "stale": false
   }
 ]
