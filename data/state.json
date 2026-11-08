@@ -1,10 +1,10 @@
 {
-  "runs": 25,
+  "runs": 26,
   "spend": {
     "2026-10": 4.3578,
-    "2026-11": 5.2732
+    "2026-11": 5.655
   },
-  "discovery_cursor": 19,
+  "discovery_cursor": 8,
   "review": [
     {
       "company": "Schrödinger",
@@ -154,32 +154,18 @@
       "source": "Google careers search"
     },
     {
-      "company": "Lila Sciences",
-      "title": "Research Scientist, Frontier Capabilities",
-      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4031326009",
-      "location": "Cambridge, MA; San Francisco, CA",
-      "source": "Claude web search: agentic AI for science research scientist job United States"
+      "company": "Genentech (Roche)",
+      "title": "Machine Learning Scientist, Scientific Reasoning Models (AI for Drug Discovery)",
+      "url": "https://www.indeed.com/q-machine-learning-data-scientist-materials-science-jobs.html",
+      "location": "New York, NY",
+      "source": "Claude web search: crystal structure prediction machine learning job"
     },
     {
-      "company": "Logical Intelligence",
-      "title": "AI Research Scientist / Research Engineer: Materials Discovery",
-      "url": "https://www.dreamworkhq.com/job/c21cddac-2b19-4d6c-8db9-1f8e5e2f1f77",
-      "location": "San Francisco, CA",
-      "source": "Claude web search: computational chemistry machine learning scientist job PhD"
-    },
-    {
-      "company": "Flagship Pioneering",
-      "title": "Machine Learning Scientist, Large Language Models for Materials",
-      "url": "https://www.linkedin.com/jobs/machine-learning-scientist-jobs",
-      "location": "Cambridge, MA",
-      "source": "Claude web search: materials informatics machine learning scientist job United "
-    },
-    {
-      "company": "Aerospace",
-      "title": "2027 Data Scientist/Machine Learning Engineer",
-      "url": "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Data-Scientist-Machine-Learning-Engineer_R016761",
-      "location": "El Segundo, CA",
-      "source": "speedyapply 2027 AI new-grad list"
+      "company": "Google DeepMind",
+      "title": "Semiconductor Material Science Research Scientist",
+      "url": "https://job-boards.greenhouse.io/deepmind/jobs/7353266",
+      "location": "Not shown in results (verify on posting)",
+      "source": "Claude web search: research scientist PhD university graduate 2027 machine lear"
     },
     {
       "company": "Samsung AI Research Center",
@@ -266,5 +252,5 @@
       "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-07 17:52 UTC"
+  "last_run": "2026-11-08 06:17 UTC"
 }

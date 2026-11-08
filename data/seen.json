@@ -2977,5 +2977,17 @@
     "decision": "screened",
     "reason": "estimated $190K–$260K, below your line",
     "tkey": "atlassian|machine-learning-engineer-2027-graduate"
+  },
+  "https://jobs.institutedata.com/job/4945001/research-scientist-materials": {
+    "date": "2026-11-08",
+    "decision": "added",
+    "reason": "",
+    "tkey": "meta|research-scientist-materials"
+  },
+  "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Data-Scientist-Machine-Learning-Engineer_R016761": {
+    "date": "2026-11-08",
+    "decision": "screened",
+    "reason": "requires US citizenship, a green card or a clearance",
+    "tkey": "aerospace|2027-data-scientist-machine-learning-engineer"
   }
 }
