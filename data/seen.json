@@ -2979,9 +2979,8 @@
     "tkey": "atlassian|machine-learning-engineer-2027-graduate"
   },
   "https://jobs.institutedata.com/job/4945001/research-scientist-materials": {
-    "date": "2026-11-08",
-    "decision": "added",
-    "reason": "",
+    "date": "2026-11-09",
+    "decision": "closed",
     "tkey": "meta|research-scientist-materials"
   },
   "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Data-Scientist-Machine-Learning-Engineer_R016761": {
@@ -2995,5 +2994,11 @@
     "decision": "screened",
     "reason": "estimated $100K–$130K, below your line",
     "tkey": "thales|ai-engineer-graduate"
+  },
+  "https://ziprecruiter.com/c/Achira/Job/ML-Research-Scientist-Atomistic-Simulation-Models/-in-New-York,NY?jid=6aa90b52248f6611": {
+    "date": "2026-11-09",
+    "decision": "screened",
+    "reason": "estimated $200K–$280K, below your line",
+    "tkey": "achira|ml-research-scientist-atomistic-simulation-models"
   }
 }
