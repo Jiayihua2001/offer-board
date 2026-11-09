@@ -1,10 +1,10 @@
 {
-  "runs": 28,
+  "runs": 29,
   "spend": {
     "2026-10": 4.3578,
-    "2026-11": 6.3911
+    "2026-11": 6.7666
   },
-  "discovery_cursor": 7,
+  "discovery_cursor": 17,
   "review": [
     {
       "company": "Schrödinger",
@@ -33,13 +33,6 @@
       "url": "https://job-boards.greenhouse.io/schrdinger/jobs/8086074003",
       "location": "New York; Portland",
       "source": "Greenhouse (schrdinger)"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Research Resident",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
-      "location": "San Francisco, CA | New York City, NY",
-      "source": "Greenhouse (anthropic)"
     },
     {
       "company": "Anthropic",
@@ -161,34 +154,6 @@
       "source": "Google careers search"
     },
     {
-      "company": "Google DeepMind",
-      "title": "Chemist, DeepMind",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/116528427967619782-chemist-deepmind",
-      "location": "New York, NY, USA; Mountain View, CA, USA",
-      "source": "Claude web search: Google DeepMind science research engineer Mountain View mate"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist - Computational Chemist",
-      "url": "https://www.glassdoor.com/job-listing/research-scientist-computational-chemist-meta-JV_IC1150499_KO0,40_KE41,45.htm?jl=1009842385473",
-      "location": "Redmond, WA",
-      "source": "Claude web search: Meta Reality Labs Research materials discovery AI research s"
-    },
-    {
-      "company": "Bosch",
-      "title": "Research Engineer - Computational Materials Science & Self-Driving Materials Discovery",
-      "url": "https://www.indeed.com/q-computational-discovery-of-materials-jobs.html",
-      "location": "Watertown, MA",
-      "source": "Claude web search: machine learning interatomic potential research scientist jo"
-    },
-    {
-      "company": "Lila Sciences",
-      "title": "Research Scientist, Photonic Materials Discovery",
-      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4377093009",
-      "location": "Cambridge, MA, USA",
-      "source": "Claude web search: LLM applied scientist PhD new grad 2027 United States"
-    },
-    {
       "company": "The Brattle Group",
       "title": "Data and AI Engineer - July 2027",
       "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4751955005",
@@ -280,5 +245,5 @@
       "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-09 06:52 UTC"
+  "last_run": "2026-11-09 22:26 UTC"
 }

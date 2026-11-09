@@ -81,7 +81,7 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 
 <!-- BOARD:START -->
 
-**76 open roles** · 21 above your $300K line · 55 near it · last run 2026-11-09 06:52 UTC · AI spend this month $6.39 of $100
+**76 open roles** · 21 above your $300K line · 55 near it · last run 2026-11-09 22:26 UTC · AI spend this month $6.77 of $100
 
 ### Above your offer line
 
@@ -178,7 +178,6 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | Schrödinger | [Computational Chemist, Target Druggability and Structure-Based Design](https://job-boards.greenhouse.io/schrdinger/jobs/8045314003) | New York; Cambridge, MA; San Diego; Portland | Greenhouse (schrdinger) |
 | Schrödinger | [Computational Materials Science, Formulations](https://job-boards.greenhouse.io/schrdinger/jobs/8086902003) | Mannheim; New York; Portland | Greenhouse (schrdinger) |
 | Schrödinger | [Computational Materials Scientist, Atomic Layer Processing and Chemical Reactivity](https://job-boards.greenhouse.io/schrdinger/jobs/8086074003) | New York; Portland | Greenhouse (schrdinger) |
-| Anthropic | [Anthropic Research Resident](https://job-boards.greenhouse.io/anthropic/jobs/5438311008) | San Francisco, CA \| New York City, NY | Greenhouse (anthropic) |
 | Anthropic | [Research Scientist, Discovery (Engineering & Applied Sciences)](https://job-boards.greenhouse.io/anthropic/jobs/5468937008) | San Francisco, CA | Greenhouse (anthropic) |
 | Anthropic | [Research Scientist, Life Sciences (Large Molecules, Antibody Design) ](https://job-boards.greenhouse.io/anthropic/jobs/5467092008) | San Francisco, CA | Greenhouse (anthropic) |
 | Anthropic | [Research Scientist, Life Sciences (Large Molecules, Process Development) ](https://job-boards.greenhouse.io/anthropic/jobs/5467099008) | San Francisco, CA | Greenhouse (anthropic) |
@@ -196,10 +195,6 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | Thinking Machines Lab | [Research Lead, Tinker, Fine-tuning Science](https://jobs.ashbyhq.com/ThinkingMachines/4e3a366f-eb0f-4ea9-8cf9-9c2f911f279c) | San Francisco | Ashby (thinkingmachines) |
 | NVIDIA | [Research Scientist, AI and Systems Security - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894) | 2 Locations | Workday (NVIDIA) |
 | Google | [Research Scientist, Climate and Energy](https://www.google.com/about/careers/applications/jobs/results/125767569414988486-research-scientist-climate-and-energy) | United States | Google careers search |
-| Google DeepMind | [Chemist, DeepMind](https://www.google.com/about/careers/applications/jobs/results/116528427967619782-chemist-deepmind) | New York, NY, USA; Mountain View, CA, USA | Claude web search: Google DeepMind science research engineer Mountain View mate |
-| Meta | [Research Scientist - Computational Chemist](https://www.glassdoor.com/job-listing/research-scientist-computational-chemist-meta-JV_IC1150499_KO0,40_KE41,45.htm?jl=1009842385473) | Redmond, WA | Claude web search: Meta Reality Labs Research materials discovery AI research s |
-| Bosch | [Research Engineer - Computational Materials Science & Self-Driving Materials Discovery](https://www.indeed.com/q-computational-discovery-of-materials-jobs.html) | Watertown, MA | Claude web search: machine learning interatomic potential research scientist jo |
-| Lila Sciences | [Research Scientist, Photonic Materials Discovery](https://job-boards.greenhouse.io/lilasciences/jobs/4377093009) | Cambridge, MA, USA | Claude web search: LLM applied scientist PhD new grad 2027 United States |
 | The Brattle Group | [Data and AI Engineer - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4751955005) | Boston, MA +1 | speedyapply 2027 AI new-grad list |
 | Samsung AI Research Center | [2027 Health AI Scholar - Digital Health Algorithms Team](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002) | Mountain View, CA | speedyapply 2027 AI new-grad list |
 | TikTok | [Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance](https://lifeattiktok.com/search/7669910326745434421) | Seattle, WA | Simplify new-grad list |
@@ -227,8 +222,9 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 - Google DeepMind, Research Engineer, Materials Science (2026-10-26)
 - Meta Reality Labs Research, AI Research Scientist - Generative AI for Materials Discovery (2026-10-26)
 
-<details><summary>Screened out (211)</summary>
+<details><summary>Screened out (212)</summary>
 
+- [bp, Graduate - Digital - Data & AI and Digital Engineering - Houston](https://bpinternational.wd3.myworkdayjobs.com/en-US/bpearlycareers/job/United-States-of-America---Texas---Houston/Graduate---Digital---Data---AI-and-Digital-Engineering---Houston_RQ117961-1): Estimated $110K–$140K, below your line.
 - [Achira, ML Research Scientist - Atomistic Simulation Models](https://www.ziprecruiter.com/c/Achira/Job/ML-Research-Scientist-Atomistic-Simulation-Models/-in-New-York,NY?jid=6aa90b52248f6611): Estimated $200K–$280K, below your line.
 - [Meta, Research Scientist, Materials](https://jobs.institutedata.com/job/4945001/research-scientist-materials/): Closed: the posting stopped showing as open (checked 2026-11-09).
 - [Thales, AI Engineer - Graduate](https://thales.wd3.myworkdayjobs.com/en-US/careers/job/Orlando/AI-Engineer---Graduate_R0341851-1): Estimated $100K–$130K, below your line.
@@ -428,7 +424,6 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 - [Quant and trading roles (Jane Street, Citadel, Citadel Securities, SIG, Hudson River Trading)](https://www.tradermath.org/salaries/quant-researcher): Left off the board by request.
 - [Meta FAIR, AI Research Scientist, FAIR Chemistry (New York)](https://jobs.accel.com/companies/facebook-2-07d2eb1b-d3ad-4084-93df-74a124ac9233/jobs/86456920-ai-research-scientist-fair-chemistry): Closed: the posting stopped accepting applications.
 - [Lila Sciences, ML Research Scientist I/II, Multimodal Data Extraction](https://startup.jobs/ml-research-scientist-i-ii-multimodal-data-extraction-lila-sciences-7844988): Closed: no longer accepting applications.
-- [NVIDIA, AI Scientist, Agentic AI for Science (new grad)](https://inferencejobs.com/companies/nvidia/jobs/ai-scientist-agentic-ai-for-science-phd-new-college-grad-2026): Couldn’t confirm it’s still open: applications were only guaranteed until Feb 14, 2026, and its senior sibling has closed.
 
 </details>
 
