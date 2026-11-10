@@ -1,10 +1,10 @@
 {
-  "runs": 29,
+  "runs": 30,
   "spend": {
     "2026-10": 4.3578,
-    "2026-11": 6.7666
+    "2026-11": 7.1432
   },
-  "discovery_cursor": 17,
+  "discovery_cursor": 6,
   "review": [
     {
       "company": "Schrödinger",
@@ -37,8 +37,8 @@
     {
       "company": "Anthropic",
       "title": "Research Scientist, Discovery (Engineering & Applied Sciences)",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468937008",
-      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468930008",
+      "location": "San Francisco, CA | New York City, NY",
       "source": "Greenhouse (anthropic)"
     },
     {
@@ -154,6 +154,13 @@
       "source": "Google careers search"
     },
     {
+      "company": "Google DeepMind",
+      "title": "Material Science Research Engineer, DeepMind",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/141132699489182406-material-science-research-engineer/",
+      "location": "Mountain View, CA, USA",
+      "source": "Claude web search: Google DeepMind science research engineer Mountain View mate"
+    },
+    {
       "company": "The Brattle Group",
       "title": "Data and AI Engineer - July 2027",
       "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4751955005",
@@ -243,7 +250,21 @@
       "url": "https://job-boards.greenhouse.io/betterhelpcom/jobs/5439919008",
       "location": "Remote in USA",
       "source": "Simplify new-grad list"
+    },
+    {
+      "company": "Adobe",
+      "title": "Data Science Engineer New Grad",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455",
+      "location": "San Jose, CA",
+      "source": "Simplify new-grad list"
+    },
+    {
+      "company": "Northrop Grumman",
+      "title": "Associate Cyber Software Engineer - Vulnerability Research - Reverse Engineering",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027----Associate-Cyber-Software-Engineer---San-Antonio-TX_R10259762",
+      "location": "San Antonio, TX",
+      "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-09 22:26 UTC"
+  "last_run": "2026-11-10 07:33 UTC"
 }
