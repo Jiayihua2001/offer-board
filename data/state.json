@@ -1,10 +1,10 @@
 {
-  "runs": 30,
+  "runs": 31,
   "spend": {
     "2026-10": 4.3578,
-    "2026-11": 7.1432
+    "2026-11": 7.5209
   },
-  "discovery_cursor": 6,
+  "discovery_cursor": 16,
   "review": [
     {
       "company": "Schrödinger",
@@ -33,6 +33,27 @@
       "url": "https://job-boards.greenhouse.io/schrdinger/jobs/8086074003",
       "location": "New York; Portland",
       "source": "Greenhouse (schrdinger)"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "ML Research Engineer, Performance Optimization",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4455701009",
+      "location": "Cambridge, MA USA; San Francisco, CA USA",
+      "source": "Greenhouse (lilasciences)"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "ML Research Scientist, Environments & Harnesses",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4462270009",
+      "location": "Cambridge, MA USA; London, UK; San Francisco, CA USA",
+      "source": "Greenhouse (lilasciences)"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "ML Research Scientist, Scientific Evaluations",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4472554009",
+      "location": "Cambridge, MA USA; London, UK; San Francisco, CA USA",
+      "source": "Greenhouse (lilasciences)"
     },
     {
       "company": "Anthropic",
@@ -98,13 +119,6 @@
       "source": "Ashby (iambic-therapeutics)"
     },
     {
-      "company": "Iambic Therapeutics",
-      "title": "Sr Associate Scientist I or II, Medicinal Chemistry ",
-      "url": "https://jobs.ashbyhq.com/iambic-therapeutics/6ba365c2-2542-41c0-9674-ec529ea4a218",
-      "location": "San Diego HQ",
-      "source": "Ashby (iambic-therapeutics)"
-    },
-    {
       "company": "SandboxAQ",
       "title": "Machine Learning Scientist – Generative Molecular Design",
       "url": "https://jobs.ashbyhq.com/sandboxaq/f6d8bdb1-75e5-4abe-94ea-285a7c2aa359",
@@ -152,13 +166,6 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/125767569414988486-research-scientist-climate-and-energy",
       "location": "United States",
       "source": "Google careers search"
-    },
-    {
-      "company": "Google DeepMind",
-      "title": "Material Science Research Engineer, DeepMind",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/141132699489182406-material-science-research-engineer/",
-      "location": "Mountain View, CA, USA",
-      "source": "Claude web search: Google DeepMind science research engineer Mountain View mate"
     },
     {
       "company": "The Brattle Group",
@@ -252,13 +259,6 @@
       "source": "Simplify new-grad list"
     },
     {
-      "company": "Adobe",
-      "title": "Data Science Engineer New Grad",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455",
-      "location": "San Jose, CA",
-      "source": "Simplify new-grad list"
-    },
-    {
       "company": "Northrop Grumman",
       "title": "Associate Cyber Software Engineer - Vulnerability Research - Reverse Engineering",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027----Associate-Cyber-Software-Engineer---San-Antonio-TX_R10259762",
@@ -266,5 +266,5 @@
       "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-10 07:33 UTC"
+  "last_run": "2026-11-10 19:49 UTC"
 }
