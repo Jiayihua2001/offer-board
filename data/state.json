@@ -1,10 +1,10 @@
 {
-  "runs": 31,
+  "runs": 32,
   "spend": {
     "2026-10": 4.3578,
-    "2026-11": 7.5209
+    "2026-11": 7.8961
   },
-  "discovery_cursor": 16,
+  "discovery_cursor": 5,
   "review": [
     {
       "company": "Schrödinger",
@@ -56,10 +56,24 @@
       "source": "Greenhouse (lilasciences)"
     },
     {
+      "company": "Lila Sciences",
+      "title": "Research Scientist, Soft Matter Simulations",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4465081009",
+      "location": "Cambridge, MA USA; San Francisco, CA USA",
+      "source": "Greenhouse (lilasciences)"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Research Resident",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+      "location": "San Francisco, CA | New York City, NY",
+      "source": "Greenhouse (anthropic)"
+    },
+    {
       "company": "Anthropic",
       "title": "Research Scientist, Discovery (Engineering & Applied Sciences)",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468930008",
-      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468937008",
+      "location": "San Francisco, CA",
       "source": "Greenhouse (anthropic)"
     },
     {
@@ -168,6 +182,41 @@
       "source": "Google careers search"
     },
     {
+      "company": "Johns Hopkins University Applied Physics Laboratory",
+      "title": "2027 PhD Graduate - Artificial Intelligence and Machine Learning (AI/ML) Research Scientist",
+      "url": "https://career.virginia.edu/jobs/tiktok-inc-agent-evaluation-evolution-researcher-graduate-aml-ark-us-2027-start-phd/",
+      "location": "Laurel, MD (onsite)",
+      "source": "Claude web search: LLM evaluation OR post-training research scientist PhD new g"
+    },
+    {
+      "company": "SentiLink",
+      "title": "Research Scientist, PhD New Grad",
+      "url": "https://www.builtinnyc.com/job/research-scientist-phd-new-grad/10592296",
+      "location": "Remote, United States",
+      "source": "Claude web search: LLM evaluation OR post-training research scientist PhD new g"
+    },
+    {
+      "company": "Meta",
+      "title": "Materials Scientist — Organic Crystal Growth & Process Engineering (PhD)",
+      "url": "https://www.tealhq.com/job/materials-scientist_7ea1a032177d32857b838d24bb33f6edcdc61",
+      "location": "Pasadena, CA",
+      "source": "Claude web search: Meta Reality Labs Research materials discovery AI research s"
+    },
+    {
+      "company": "Applied Science Works",
+      "title": "Scientist, DFT datasets for machine-learned interatomic potentials (recent graduate)",
+      "url": "https://appliedscienceworks.com/careers.html",
+      "location": "Not stated in listing",
+      "source": "Claude web search: machine learning interatomic potential research scientist jo"
+    },
+    {
+      "company": "Dow",
+      "title": "2026-2027 Campus Graduate - Research & Development (PhD)",
+      "url": "https://jobright.ai/jobs/research-scientist-graduate-(seed---llm)---2026-start-(phd)-jobs-in-united-states",
+      "location": "Freeport, TX",
+      "source": "Claude web search: AI for science research scientist PhD 2027 start United Stat"
+    },
+    {
       "company": "The Brattle Group",
       "title": "Data and AI Engineer - July 2027",
       "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4751955005",
@@ -264,7 +313,14 @@
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027----Associate-Cyber-Software-Engineer---San-Antonio-TX_R10259762",
       "location": "San Antonio, TX",
       "source": "Simplify new-grad list"
+    },
+    {
+      "company": "Wise",
+      "title": "Graduate Data Scientist",
+      "url": "https://jobs.smartrecruiters.com/Wise/744000160933600",
+      "location": "Austin, TX",
+      "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-10 19:49 UTC"
+  "last_run": "2026-11-11 06:43 UTC"
 }

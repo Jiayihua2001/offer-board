@@ -3012,5 +3012,17 @@
     "decision": "screened",
     "reason": "estimated $84K–$120K, below your line",
     "tkey": "iambic-therapeutics|sr-associate-scientist-i-or-ii-medicinal-chemistry"
+  },
+  "https://google.com/about/careers/applications/jobs/results/141132699489182406-material-science-research-engineer": {
+    "date": "2026-11-11",
+    "decision": "screened",
+    "reason": "posting is closed",
+    "tkey": "google-deepmind|material-science-research-engineer-deepmind"
+  },
+  "https://jobs.smartrecruiters.com/WellmarkInc/744000160931919": {
+    "date": "2026-11-11",
+    "decision": "screened",
+    "reason": "says it won’t sponsor visas",
+    "tkey": "wellmark|data-science-associate"
   }
 }

@@ -81,7 +81,7 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 
 <!-- BOARD:START -->
 
-**76 open roles** · 21 above your $300K line · 55 near it · last run 2026-11-10 19:49 UTC · AI spend this month $7.52 of $100
+**76 open roles** · 21 above your $300K line · 55 near it · last run 2026-11-11 06:43 UTC · AI spend this month $7.90 of $100
 
 ### Above your offer line
 
@@ -181,7 +181,9 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | Lila Sciences | [ML Research Engineer, Performance Optimization](https://job-boards.greenhouse.io/lilasciences/jobs/4455701009) | Cambridge, MA USA; San Francisco, CA USA | Greenhouse (lilasciences) |
 | Lila Sciences | [ML Research Scientist, Environments & Harnesses](https://job-boards.greenhouse.io/lilasciences/jobs/4462270009) | Cambridge, MA USA; London, UK; San Francisco, CA USA | Greenhouse (lilasciences) |
 | Lila Sciences | [ML Research Scientist, Scientific Evaluations](https://job-boards.greenhouse.io/lilasciences/jobs/4472554009) | Cambridge, MA USA; London, UK; San Francisco, CA USA | Greenhouse (lilasciences) |
-| Anthropic | [Research Scientist, Discovery (Engineering & Applied Sciences)](https://job-boards.greenhouse.io/anthropic/jobs/5468930008) | San Francisco, CA \| New York City, NY | Greenhouse (anthropic) |
+| Lila Sciences | [Research Scientist, Soft Matter Simulations](https://job-boards.greenhouse.io/lilasciences/jobs/4465081009) | Cambridge, MA USA; San Francisco, CA USA | Greenhouse (lilasciences) |
+| Anthropic | [Anthropic Research Resident](https://job-boards.greenhouse.io/anthropic/jobs/5438311008) | San Francisco, CA \| New York City, NY | Greenhouse (anthropic) |
+| Anthropic | [Research Scientist, Discovery (Engineering & Applied Sciences)](https://job-boards.greenhouse.io/anthropic/jobs/5468937008) | San Francisco, CA | Greenhouse (anthropic) |
 | Anthropic | [Research Scientist, Life Sciences (Large Molecules, Antibody Design) ](https://job-boards.greenhouse.io/anthropic/jobs/5467092008) | San Francisco, CA | Greenhouse (anthropic) |
 | Anthropic | [Research Scientist, Life Sciences (Large Molecules, Process Development) ](https://job-boards.greenhouse.io/anthropic/jobs/5467099008) | San Francisco, CA | Greenhouse (anthropic) |
 | OpenAI | [Applied AI Engineer, Enterprise - Healthcare Life Sciences (HLS)](https://jobs.ashbyhq.com/openai/6fc25168-bc4c-47a0-8601-583dfaf7fcbd) | San Francisco | Ashby (openai) |
@@ -197,6 +199,11 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | Thinking Machines Lab | [Research Lead, Tinker, Fine-tuning Science](https://jobs.ashbyhq.com/ThinkingMachines/4e3a366f-eb0f-4ea9-8cf9-9c2f911f279c) | San Francisco | Ashby (thinkingmachines) |
 | NVIDIA | [Research Scientist, AI and Systems Security - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894) | 2 Locations | Workday (NVIDIA) |
 | Google | [Research Scientist, Climate and Energy](https://www.google.com/about/careers/applications/jobs/results/125767569414988486-research-scientist-climate-and-energy) | United States | Google careers search |
+| Johns Hopkins University Applied Physics Laboratory | [2027 PhD Graduate - Artificial Intelligence and Machine Learning (AI/ML) Research Scientist](https://career.virginia.edu/jobs/tiktok-inc-agent-evaluation-evolution-researcher-graduate-aml-ark-us-2027-start-phd/) | Laurel, MD (onsite) | Claude web search: LLM evaluation OR post-training research scientist PhD new g |
+| SentiLink | [Research Scientist, PhD New Grad](https://www.builtinnyc.com/job/research-scientist-phd-new-grad/10592296) | Remote, United States | Claude web search: LLM evaluation OR post-training research scientist PhD new g |
+| Meta | [Materials Scientist — Organic Crystal Growth & Process Engineering (PhD)](https://www.tealhq.com/job/materials-scientist_7ea1a032177d32857b838d24bb33f6edcdc61) | Pasadena, CA | Claude web search: Meta Reality Labs Research materials discovery AI research s |
+| Applied Science Works | [Scientist, DFT datasets for machine-learned interatomic potentials (recent graduate)](https://appliedscienceworks.com/careers.html) | Not stated in listing | Claude web search: machine learning interatomic potential research scientist jo |
+| Dow | [2026-2027 Campus Graduate - Research & Development (PhD)](https://jobright.ai/jobs/research-scientist-graduate-(seed---llm)---2026-start-(phd)-jobs-in-united-states) | Freeport, TX | Claude web search: AI for science research scientist PhD 2027 start United Stat |
 | The Brattle Group | [Data and AI Engineer - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4751955005) | Boston, MA +1 | speedyapply 2027 AI new-grad list |
 | Samsung AI Research Center | [2027 Health AI Scholar - Digital Health Algorithms Team](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002) | Mountain View, CA | speedyapply 2027 AI new-grad list |
 | TikTok | [Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance](https://lifeattiktok.com/search/7669910326745434421) | Seattle, WA | Simplify new-grad list |
@@ -211,6 +218,7 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | ByteDance | [Video/Image AI/ML Software Engineer Graduate - Video and Edge - Multimedia Lab](https://jobs.bytedance.com/en/position/7704089625815468293/detail) | San Jose, CA | Simplify new-grad list |
 | BetterHelp | [Data Science Extern](https://job-boards.greenhouse.io/betterhelpcom/jobs/5439919008) | Remote in USA | Simplify new-grad list |
 | Northrop Grumman | [Associate Cyber Software Engineer - Vulnerability Research - Reverse Engineering](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027----Associate-Cyber-Software-Engineer---San-Antonio-TX_R10259762) | San Antonio, TX | Simplify new-grad list |
+| Wise | [Graduate Data Scientist](https://jobs.smartrecruiters.com/Wise/744000160933600) | Austin, TX | Simplify new-grad list |
 
 ### Closed recently
 
@@ -219,8 +227,6 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 - Lila Sciences, ML Scientist, Foundation Models for Life Sciences (2026-11-03)
 - xAI (SpaceXSI), Member of Technical Staff - Model Training (2026-10-29)
 - NVIDIA, Research Scientist, Fundamental Generative AI (new college grad) (2026-10-29)
-- Safe Superintelligence (SSI), Member of Technical Staff (2026-10-27)
-- Thinking Machines Lab, Research, Post-Training (2026-10-27)
 
 <details><summary>Screened out (212)</summary>
 
