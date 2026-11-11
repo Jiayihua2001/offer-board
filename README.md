@@ -81,7 +81,7 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 
 <!-- BOARD:START -->
 
-**76 open roles** · 21 above your $300K line · 55 near it · last run 2026-11-11 06:43 UTC · AI spend this month $7.90 of $100
+**76 open roles** · 21 above your $300K line · 55 near it · last run 2026-11-11 19:42 UTC · AI spend this month $8.28 of $100
 
 ### Above your offer line
 
@@ -199,13 +199,13 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | Thinking Machines Lab | [Research Lead, Tinker, Fine-tuning Science](https://jobs.ashbyhq.com/ThinkingMachines/4e3a366f-eb0f-4ea9-8cf9-9c2f911f279c) | San Francisco | Ashby (thinkingmachines) |
 | NVIDIA | [Research Scientist, AI and Systems Security - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894) | 2 Locations | Workday (NVIDIA) |
 | Google | [Research Scientist, Climate and Energy](https://www.google.com/about/careers/applications/jobs/results/125767569414988486-research-scientist-climate-and-energy) | United States | Google careers search |
-| Johns Hopkins University Applied Physics Laboratory | [2027 PhD Graduate - Artificial Intelligence and Machine Learning (AI/ML) Research Scientist](https://career.virginia.edu/jobs/tiktok-inc-agent-evaluation-evolution-researcher-graduate-aml-ark-us-2027-start-phd/) | Laurel, MD (onsite) | Claude web search: LLM evaluation OR post-training research scientist PhD new g |
-| SentiLink | [Research Scientist, PhD New Grad](https://www.builtinnyc.com/job/research-scientist-phd-new-grad/10592296) | Remote, United States | Claude web search: LLM evaluation OR post-training research scientist PhD new g |
-| Meta | [Materials Scientist — Organic Crystal Growth & Process Engineering (PhD)](https://www.tealhq.com/job/materials-scientist_7ea1a032177d32857b838d24bb33f6edcdc61) | Pasadena, CA | Claude web search: Meta Reality Labs Research materials discovery AI research s |
-| Applied Science Works | [Scientist, DFT datasets for machine-learned interatomic potentials (recent graduate)](https://appliedscienceworks.com/careers.html) | Not stated in listing | Claude web search: machine learning interatomic potential research scientist jo |
-| Dow | [2026-2027 Campus Graduate - Research & Development (PhD)](https://jobright.ai/jobs/research-scientist-graduate-(seed---llm)---2026-start-(phd)-jobs-in-united-states) | Freeport, TX | Claude web search: AI for science research scientist PhD 2027 start United Stat |
+| Meta | [Research Scientist, Systems for ML (PhD)](https://www.linkedin.com/jobs/view/research-scientist-systems-for-ml-phd-at-meta-3811199849) | New York, NY | Claude web search: research scientist PhD university graduate 2027 machine lear |
+| Logical Intelligence | [AI Research Scientist/Research Engineer: Materials Discovery](https://www.dreamworkhq.com/job/c21cddac-2b19-4d6c-8db9-1f8e5e2f1f77) | San Francisco, CA | Claude web search: Apple AIML research scientist PhD new grad 2027 |
+| Google | [Research Scientist - Neutral Atoms - Quantum AI](https://www.google.com/about/careers/applications/jobs/results/79694460677432006) | Boulder, CO | speedyapply 2027 AI new-grad list |
+| Google | [Research Scientist - Quantum Error Correction - Quantum AI](https://www.google.com/about/careers/applications/jobs/results/80321648309215942) | Goleta, CA +3 | speedyapply 2027 AI new-grad list |
 | The Brattle Group | [Data and AI Engineer - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4751955005) | Boston, MA +1 | speedyapply 2027 AI new-grad list |
 | Samsung AI Research Center | [2027 Health AI Scholar - Digital Health Algorithms Team](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002) | Mountain View, CA | speedyapply 2027 AI new-grad list |
+| SharkNinja | [Applied AI & Analytics Spring Opportunities - Jan-Jun 2027](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713793006) | Needham, MA +2 | speedyapply 2027 AI new-grad list |
 | TikTok | [Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance](https://lifeattiktok.com/search/7669910326745434421) | Seattle, WA | Simplify new-grad list |
 | TikTok | [Machine Learning Engineer Graduate - E-Commerce Recommendation Live](https://lifeattiktok.com/search/7670285495593273605) | San Jose, CA | Simplify new-grad list |
 | ByteDance | [Data Lake Infrastructure & Data Analytics Research Engineer Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671108456554432773/detail) | San Jose, CA | Simplify new-grad list |
@@ -217,8 +217,6 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | Network Bio | [AI Scientist](https://job-boards.greenhouse.io/networkbio/jobs/5445891008) | Palo Alto, CA; Seattle, WA | Simplify new-grad list |
 | ByteDance | [Video/Image AI/ML Software Engineer Graduate - Video and Edge - Multimedia Lab](https://jobs.bytedance.com/en/position/7704089625815468293/detail) | San Jose, CA | Simplify new-grad list |
 | BetterHelp | [Data Science Extern](https://job-boards.greenhouse.io/betterhelpcom/jobs/5439919008) | Remote in USA | Simplify new-grad list |
-| Northrop Grumman | [Associate Cyber Software Engineer - Vulnerability Research - Reverse Engineering](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027----Associate-Cyber-Software-Engineer---San-Antonio-TX_R10259762) | San Antonio, TX | Simplify new-grad list |
-| Wise | [Graduate Data Scientist](https://jobs.smartrecruiters.com/Wise/744000160933600) | Austin, TX | Simplify new-grad list |
 
 ### Closed recently
 
@@ -228,8 +226,9 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 - xAI (SpaceXSI), Member of Technical Staff - Model Training (2026-10-29)
 - NVIDIA, Research Scientist, Fundamental Generative AI (new college grad) (2026-10-29)
 
-<details><summary>Screened out (212)</summary>
+<details><summary>Screened out (213)</summary>
 
+- [Wise, Graduate Data Scientist](https://jobs.smartrecruiters.com/Wise/744000160933600-graduate-data-scientist?oga=true): Estimated $160K–$220K, below your line.
 - [bp, Graduate - Digital - Data & AI and Digital Engineering - Houston](https://bpinternational.wd3.myworkdayjobs.com/en-US/bpearlycareers/job/United-States-of-America---Texas---Houston/Graduate---Digital---Data---AI-and-Digital-Engineering---Houston_RQ117961-1): Estimated $110K–$140K, below your line.
 - [Achira, ML Research Scientist - Atomistic Simulation Models](https://www.ziprecruiter.com/c/Achira/Job/ML-Research-Scientist-Atomistic-Simulation-Models/-in-New-York,NY?jid=6aa90b52248f6611): Estimated $200K–$280K, below your line.
 - [Meta, Research Scientist, Materials](https://jobs.institutedata.com/job/4945001/research-scientist-materials/): Closed: the posting stopped showing as open (checked 2026-11-09).
@@ -429,7 +428,6 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 - [Applied Materials, 2026 New College Grad - Computational Chemist / Materials Scientist (Machine Learning - Reactive MLIPs)](https://www.indeed.com/q-research-scientist-machine-learning-applied-math-jobs.html): Estimated $150K–$190K, below your line.
 - [Quant and trading roles (Jane Street, Citadel, Citadel Securities, SIG, Hudson River Trading)](https://www.tradermath.org/salaries/quant-researcher): Left off the board by request.
 - [Meta FAIR, AI Research Scientist, FAIR Chemistry (New York)](https://jobs.accel.com/companies/facebook-2-07d2eb1b-d3ad-4084-93df-74a124ac9233/jobs/86456920-ai-research-scientist-fair-chemistry): Closed: the posting stopped accepting applications.
-- [Lila Sciences, ML Research Scientist I/II, Multimodal Data Extraction](https://startup.jobs/ml-research-scientist-i-ii-multimodal-data-extraction-lila-sciences-7844988): Closed: no longer accepting applications.
 
 </details>
 

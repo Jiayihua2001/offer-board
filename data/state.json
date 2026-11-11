@@ -1,10 +1,10 @@
 {
-  "runs": 32,
+  "runs": 33,
   "spend": {
     "2026-10": 4.3578,
-    "2026-11": 7.8961
+    "2026-11": 8.279
   },
-  "discovery_cursor": 5,
+  "discovery_cursor": 15,
   "review": [
     {
       "company": "Schrödinger",
@@ -182,39 +182,32 @@
       "source": "Google careers search"
     },
     {
-      "company": "Johns Hopkins University Applied Physics Laboratory",
-      "title": "2027 PhD Graduate - Artificial Intelligence and Machine Learning (AI/ML) Research Scientist",
-      "url": "https://career.virginia.edu/jobs/tiktok-inc-agent-evaluation-evolution-researcher-graduate-aml-ark-us-2027-start-phd/",
-      "location": "Laurel, MD (onsite)",
-      "source": "Claude web search: LLM evaluation OR post-training research scientist PhD new g"
-    },
-    {
-      "company": "SentiLink",
-      "title": "Research Scientist, PhD New Grad",
-      "url": "https://www.builtinnyc.com/job/research-scientist-phd-new-grad/10592296",
-      "location": "Remote, United States",
-      "source": "Claude web search: LLM evaluation OR post-training research scientist PhD new g"
-    },
-    {
       "company": "Meta",
-      "title": "Materials Scientist — Organic Crystal Growth & Process Engineering (PhD)",
-      "url": "https://www.tealhq.com/job/materials-scientist_7ea1a032177d32857b838d24bb33f6edcdc61",
-      "location": "Pasadena, CA",
-      "source": "Claude web search: Meta Reality Labs Research materials discovery AI research s"
+      "title": "Research Scientist, Systems for ML (PhD)",
+      "url": "https://www.linkedin.com/jobs/view/research-scientist-systems-for-ml-phd-at-meta-3811199849",
+      "location": "New York, NY",
+      "source": "Claude web search: research scientist PhD university graduate 2027 machine lear"
     },
     {
-      "company": "Applied Science Works",
-      "title": "Scientist, DFT datasets for machine-learned interatomic potentials (recent graduate)",
-      "url": "https://appliedscienceworks.com/careers.html",
-      "location": "Not stated in listing",
-      "source": "Claude web search: machine learning interatomic potential research scientist jo"
+      "company": "Logical Intelligence",
+      "title": "AI Research Scientist/Research Engineer: Materials Discovery",
+      "url": "https://www.dreamworkhq.com/job/c21cddac-2b19-4d6c-8db9-1f8e5e2f1f77",
+      "location": "San Francisco, CA",
+      "source": "Claude web search: Apple AIML research scientist PhD new grad 2027"
     },
     {
-      "company": "Dow",
-      "title": "2026-2027 Campus Graduate - Research & Development (PhD)",
-      "url": "https://jobright.ai/jobs/research-scientist-graduate-(seed---llm)---2026-start-(phd)-jobs-in-united-states",
-      "location": "Freeport, TX",
-      "source": "Claude web search: AI for science research scientist PhD 2027 start United Stat"
+      "company": "Google",
+      "title": "Research Scientist - Neutral Atoms - Quantum AI",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/79694460677432006",
+      "location": "Boulder, CO",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "Google",
+      "title": "Research Scientist - Quantum Error Correction - Quantum AI",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/80321648309215942",
+      "location": "Goleta, CA +3",
+      "source": "speedyapply 2027 AI new-grad list"
     },
     {
       "company": "The Brattle Group",
@@ -228,6 +221,13 @@
       "title": "2027 Health AI Scholar - Digital Health Algorithms Team",
       "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002",
       "location": "Mountain View, CA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "SharkNinja",
+      "title": "Applied AI & Analytics Spring Opportunities - Jan-Jun 2027",
+      "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713793006",
+      "location": "Needham, MA +2",
       "source": "speedyapply 2027 AI new-grad list"
     },
     {
@@ -306,21 +306,7 @@
       "url": "https://job-boards.greenhouse.io/betterhelpcom/jobs/5439919008",
       "location": "Remote in USA",
       "source": "Simplify new-grad list"
-    },
-    {
-      "company": "Northrop Grumman",
-      "title": "Associate Cyber Software Engineer - Vulnerability Research - Reverse Engineering",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027----Associate-Cyber-Software-Engineer---San-Antonio-TX_R10259762",
-      "location": "San Antonio, TX",
-      "source": "Simplify new-grad list"
-    },
-    {
-      "company": "Wise",
-      "title": "Graduate Data Scientist",
-      "url": "https://jobs.smartrecruiters.com/Wise/744000160933600",
-      "location": "Austin, TX",
-      "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-11 06:43 UTC"
+  "last_run": "2026-11-11 19:42 UTC"
 }

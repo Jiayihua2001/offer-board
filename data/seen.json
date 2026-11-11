@@ -3024,5 +3024,11 @@
     "decision": "screened",
     "reason": "says it won’t sponsor visas",
     "tkey": "wellmark|data-science-associate"
+  },
+  "https://jobs.smartrecruiters.com/Wise/744000160933600-graduate-data-scientist?oga=true": {
+    "date": "2026-11-11",
+    "decision": "screened",
+    "reason": "estimated $160K–$220K, below your line",
+    "tkey": "wise|graduate-data-scientist"
   }
 }
