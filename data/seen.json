@@ -3030,5 +3030,17 @@
     "decision": "screened",
     "reason": "estimated $160K–$220K, below your line",
     "tkey": "wise|graduate-data-scientist"
+  },
+  "https://job-boards.greenhouse.io/anthropic/jobs/5467092008": {
+    "date": "2026-11-12",
+    "decision": "screened",
+    "reason": "needs more experience than a new PhD",
+    "tkey": "anthropic|research-scientist-life-sciences-large-molecules-antibody-design"
+  },
+  "https://jobleads.com/us/job/material-informatics-data-scientist-for-ai-driven-materials--united-states--e8f7346c32f23a0f17ee2e59aa83da326": {
+    "date": "2026-11-12",
+    "decision": "screened",
+    "reason": "needs more experience than a new PhD",
+    "tkey": "championx-slb|material-informatics-data-scientist-for-ai-driven-materials"
   }
 }
