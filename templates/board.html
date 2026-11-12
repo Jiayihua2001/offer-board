@@ -101,7 +101,6 @@ input[type=search]{flex:1 1 13rem;min-width:0;max-width:22rem}
 .tag{font:500 .72rem/1 var(--sans);padding:.22rem .45rem;border-radius:999px;border:1px solid var(--rule);color:var(--muted)}
 .tag-verify{border-color:var(--line);color:var(--line)}
 .tag-mine{border-color:var(--above);color:var(--above)}
-.tag-new{background:var(--ink);border-color:var(--ink);color:var(--paper)}
 .tag-visa{border-color:var(--line);color:var(--line)}
 .visa{font-size:.8125rem;color:var(--muted);margin-top:.15rem}
 .visa b{font-weight:600;color:var(--ink)}
@@ -172,6 +171,21 @@ details.screened summary span{font:400 .9375rem var(--sans);color:var(--muted);m
 .toast{position:fixed;left:0;right:0;bottom:0;display:flex;justify-content:center;padding:0 1rem calc(env(safe-area-inset-bottom,0px) + .9rem);pointer-events:none;z-index:20}
 .toast span{background:var(--ink);color:var(--paper);font-size:.875rem;padding:.55rem .9rem;border-radius:6px;pointer-events:auto}
 
+/* Sections, day groups, dates */
+.sec{display:flex;flex-wrap:wrap;align-items:baseline;gap:.2rem .8rem;margin:1.9rem 0 .1rem}
+.sec h2{margin:0;display:flex;align-items:center;gap:.5rem}
+.sec-new h2::before{content:"";width:.6rem;height:.6rem;border-radius:50%;background:var(--line);flex:none}
+.sec .count{font-size:.875rem;color:var(--muted)}
+.day{font:600 .78rem/1 var(--cond);letter-spacing:.07em;text-transform:uppercase;color:var(--muted);margin:1.1rem 0 0;padding:.4rem 0;border-bottom:1px solid var(--rule)}
+.day span{font-weight:500;letter-spacing:0;text-transform:none;margin-left:.55rem}
+.when{font:500 .72rem/1 var(--cond);letter-spacing:.05em;text-transform:uppercase;color:var(--muted);margin-bottom:.35rem}
+.quiet{padding:1.1rem 0;margin:0;color:var(--muted);border-bottom:1px solid var(--rule);max-width:44em}
+details.closed{margin:.8rem 0 0;font-size:.875rem;color:var(--muted)}
+details.closed summary{cursor:pointer;width:max-content}
+details.closed ul{margin:.5rem 0 0;padding-left:1.1rem}
+details.closed li{margin:.2rem 0}
+.tally .k-new b{color:var(--line)}
+
 @media (max-width:859px){
   .grid{grid-template-columns:minmax(0,1fr);row-gap:.55rem}
   .scale .grid{row-gap:.35rem}
@@ -196,6 +210,7 @@ details.screened summary span{font:400 .9375rem var(--sans);color:var(--muted);m
     <h1>Offer board, fall 2027</h1>
     <p class="lede">Full-time US roles for a May 2027 PhD, at employers that sponsor work visas, that pay about as much as your Amazon return offer or more. Roles that pay clearly less, sit outside the US, require citizenship or a green card, or sit in quant trading are screened out.</p>
     <ul class="tally" aria-live="polite">
+      <li class="k-new"><b id="nNew">0</b>new this week</li>
       <li class="k-above"><b id="nAbove">0</b>above your line</li>
       <li class="k-near"><b id="nNear">0</b>near it</li>
       <li><b id="nBelow">0</b><span id="belowWord">below it, hidden</span></li>
@@ -218,6 +233,7 @@ details.screened summary span{font:400 .9375rem var(--sans);color:var(--muted);m
     </div>
     <label class="field">Sort
       <select id="sort">
+        <option value="date">Newest first</option>
         <option value="fit">Best fit first</option>
         <option value="pay">Highest pay first</option>
         <option value="company">Company A–Z</option>
@@ -252,7 +268,7 @@ details.screened summary span{font:400 .9375rem var(--sans);color:var(--muted);m
         <div class="colhead">Fit and your status</div>
       </div>
     </div>
-    <ol class="board" id="board"></ol>
+    <div id="board"></div>
     <p class="empty" id="empty" hidden>No roles match these filters.<button type="button" class="linkish" id="resetFilters">Reset filters</button></p>
   </section>
 
@@ -319,8 +335,10 @@ details.screened summary span{font:400 .9375rem var(--sans);color:var(--muted);m
   var META = DATA.meta || {};
   var BOARD = {
     refreshed: META.refreshed || "", refreshedLabel: META.refreshed_label || META.refreshed || "",
-    newSince: META.new_since || "9999-12-31", defaultOfferK: Number(META.offer_k) || 300
+    newDays: Number(META.new_days) || 7, newSince: "9999-12-31", defaultOfferK: Number(META.offer_k) || 300
   };
+  var CLOSED = DATA.closed || [];
+  var SORT_WORDS = { date: "newest first", fit: "best fit first", pay: "highest pay first", company: "company A–Z" };
 
   var TRACKS = { science: "Materials & science AI", llm: "LLMs & applied ML" };
 
@@ -332,7 +350,7 @@ details.screened summary span{font:400 .9375rem var(--sans);color:var(--muted);m
   var CANDIDATE = META.candidate || "";
 
   /* ---------- state ---------- */
-  var state = { track: "all", tiers: { above: true, near: true, below: false }, sort: "fit", status: "active", q: "", expanded: {} };
+  var state = { track: "all", tiers: { above: true, near: true, below: false }, sort: "date", status: "active", q: "", expanded: {} };
   var store = { mode: "none", offerK: null, statuses: {}, notes: {}, custom: {} };
   var dbCol = null;
   var writeChains = {};
@@ -370,6 +388,23 @@ details.screened summary span{font:400 .9375rem var(--sans);color:var(--muted);m
   function deltaWords(j) { var d = deltaPct(j); return d === 0 ? "about even with your offer" : "about " + Math.abs(d) + " percent " + (d > 0 ? "above" : "below") + " your offer"; }
   function clamp(v, a, b) { return Math.max(a, Math.min(b, v)); }
   function todayISO() { var d = new Date(); return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0"); }
+  function isoShift(days) { var d = new Date(); d.setDate(d.getDate() + days); return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0"); }
+  function cmpStr(a, b) { return a < b ? -1 : (a > b ? 1 : 0); }
+  function isoDate(s) { return (typeof s === "string" && /^\d{4}-\d{2}-\d{2}$/.test(s)) ? s : ""; }
+  function dateOf(j) { return isoDate(j.first_seen) || isoDate(j.added) || "0000-00-00"; }
+  function isNew(j) { return dateOf(j) >= BOARD.newSince; }
+  var MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+  var DAYS = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+  function parseISO(s) { var p = s.split("-"); return new Date(Number(p[0]), Number(p[1]) - 1, Number(p[2])); }
+  function fmtDay(iso) { var d = parseISO(iso), now = new Date(); return MONTHS[d.getMonth()] + " " + d.getDate() + (d.getFullYear() !== now.getFullYear() ? ", " + d.getFullYear() : ""); }
+  function dayHeader(iso) { if (iso === todayISO()) return "Today"; if (iso === isoShift(-1)) return "Yesterday"; var d = parseISO(iso); return DAYS[d.getDay()] + ", " + fmtDay(iso); }
+  function plural(n, w) { return n + " " + w + (n === 1 ? "" : "s"); }
+  function whenLabel(j, inNew) {
+    var parts = [], a = dateOf(j), p = isoDate(j.posted);
+    if (!inNew && a !== "0000-00-00") parts.push("Added " + fmtDay(a));
+    if (p && p !== a) parts.push((inNew ? "Posted by employer " : "posted ") + fmtDay(p));
+    return parts.join(" · ");
+  }
   function safeUrl(u) { return (typeof u === "string" && u.length < 600 && /^https?:\/\/\S+$/i.test(u)) ? u : ""; }
   function allJobs() { return JOBS.concat(Object.keys(store.custom).map(function (k) { return store.custom[k]; })); }
   function domainFor(list) {
@@ -626,7 +661,8 @@ details.screened summary span{font:400 .9375rem var(--sans);color:var(--muted);m
       }
       return true;
     });
-    if (state.sort === "pay") list.sort(function (a, b) { return midOf(b) - midOf(a); });
+    if (state.sort === "date") list.sort(function (a, b) { return cmpStr(dateOf(b), dateOf(a)) || (sortFit(b) - sortFit(a)) || (midOf(b) - midOf(a)); });
+    else if (state.sort === "pay") list.sort(function (a, b) { return midOf(b) - midOf(a); });
     else if (state.sort === "company") list.sort(function (a, b) { return a.company.localeCompare(b.company) || a.role.localeCompare(b.role); });
     else list.sort(function (a, b) { return (sortFit(b) - sortFit(a)) || (midOf(b) - midOf(a)); });
     return list;
@@ -653,11 +689,12 @@ details.screened summary span{font:400 .9375rem var(--sans);color:var(--muted);m
     $("#nAbove").textContent = a;
     $("#nNear").textContent = n;
     $("#nBelow").textContent = b;
+    $("#nNew").textContent = all.filter(isNew).length;
     $("#nScreened").textContent = SCREENED.length;
     $("#belowWord").textContent = state.tiers.below ? "below it, shown" : "below it, hidden";
   }
 
-  function rowFor(j, dom, x) {
+  function rowFor(j, dom, x, inNew) {
     var t = tierOf(j), st = store.statuses[j.id] || "";
     var li = el("li", { class: "row tier-" + t + (st === "pass" ? " is-pass" : ""), "data-id": j.id });
     var grid = el("div", { class: "grid" });
@@ -668,7 +705,6 @@ details.screened summary span{font:400 .9375rem var(--sans);color:var(--muted);m
     if (j.custom) tags.appendChild(el("span", { class: "tag tag-mine" }, "Added by you"));
     var visa = visaOf(j);
     if (visa[0] === "ask") tags.appendChild(el("span", { class: "tag tag-visa" }, "Ask about visa"));
-    if (j.added && j.added >= BOARD.newSince) tags.appendChild(el("span", { class: "tag tag-new" }, "New"));
     if (j.stale) tags.appendChild(el("span", { class: "tag tag-verify" }, "Not confirmed open lately"));
 
     var roleNode = j.url
@@ -677,7 +713,9 @@ details.screened summary span{font:400 .9375rem var(--sans);color:var(--muted);m
     var moreId = "more-" + j.id;
     var open = !!state.expanded[j.id];
     var btn = el("button", { class: "more-btn", type: "button", "aria-expanded": open ? "true" : "false", "aria-controls": moreId }, open ? "Hide details" : "Why it fits");
+    var whenText = whenLabel(j, inNew);
     var who = el("div", { class: "who" },
+      whenText ? el("div", { class: "when" }, whenText) : null,
       el("div", { class: "company" }, el("span", null, j.company), tags.childNodes.length ? tags : null),
       roleNode,
       el("div", { class: "meta" }, el("span", null, j.location), el("span", null, j.base)),
@@ -742,6 +780,14 @@ details.screened summary span{font:400 .9375rem var(--sans);color:var(--muted);m
     return li;
   }
 
+  function secHeader(title, count, cls) {
+    return el("div", { class: "sec" + (cls ? " " + cls : "") }, el("h2", null, title), el("span", { class: "count" }, count));
+  }
+  function listOf(items, dom, x, inNew) {
+    var ol = el("ol", { class: "board" });
+    items.forEach(function (j) { ol.appendChild(rowFor(j, dom, x, inNew)); });
+    return ol;
+  }
   function render() {
     var all = allJobs();
     var dom = domainFor(all);
@@ -749,11 +795,44 @@ details.screened summary span{font:400 .9375rem var(--sans);color:var(--muted);m
     renderAxis(dom, x);
     renderTally(all);
     var list = visibleJobs();
+    var fresh = list.filter(isNew), rest = list.filter(function (j) { return !isNew(j); });
+    var hiddenNew = all.filter(isNew).length - fresh.length;
     var board = $("#board");
     board.textContent = "";
-    list.forEach(function (j) { board.appendChild(rowFor(j, dom, x)); });
     $("#empty").hidden = list.length > 0;
     $("#shown").textContent = "Showing " + list.length + " of " + all.length + " roles";
+    document.title = "Offer board, fall 2027" + (fresh.length ? " (" + fresh.length + " new)" : "");
+    if (!list.length) return;
+
+    // Roles the board added in the last week, grouped by day, newest day first.
+    var since = fmtDay(BOARD.newSince);
+    board.appendChild(secHeader("New this week", fresh.length ? plural(fresh.length, "role") + " added since " + since : "nothing added since " + since, "sec-new"));
+    if (!fresh.length) {
+      board.appendChild(el("p", { class: "quiet" }, hiddenNew
+        ? plural(hiddenNew, "new role") + " hidden by the current filters."
+        : "Nothing new in the last " + BOARD.newDays + " days. The board was last rebuilt " + BOARD.refreshedLabel + "."));
+    } else {
+      var days = [];
+      fresh.forEach(function (j) { var d = dateOf(j); if (days.indexOf(d) < 0) days.push(d); });
+      days.sort().reverse();
+      days.forEach(function (d) {
+        var items = fresh.filter(function (j) { return dateOf(j) === d; });
+        board.appendChild(el("h3", { class: "day" }, dayHeader(d), el("span", null, plural(items.length, "role"))));
+        board.appendChild(listOf(items, dom, x, true));
+      });
+    }
+    var closed = CLOSED.filter(function (c) { return c.date >= BOARD.newSince; });
+    if (closed.length) {
+      var det = el("details", { class: "closed" }, el("summary", null, plural(closed.length, "role") + " left the board this week"));
+      var ul = el("ul");
+      closed.forEach(function (c) { ul.appendChild(el("li", null, el("a", { href: c.url, target: "_blank", rel: "noopener noreferrer" }, c.name), " · closed " + fmtDay(c.date))); });
+      det.appendChild(ul);
+      board.appendChild(det);
+    }
+
+    // Everything older, in the chosen order.
+    board.appendChild(secHeader("Everything else", plural(rest.length, "role") + " on the board for more than a week · " + SORT_WORDS[state.sort]));
+    board.appendChild(listOf(rest, dom, x, false));
   }
 
   function renderScreened() {
@@ -896,10 +975,10 @@ details.screened summary span{font:400 .9375rem var(--sans);color:var(--muted);m
       det.scrollIntoView({ block: "start" });
     });
     $("#resetFilters").addEventListener("click", function () {
-      state.track = "all"; state.tiers = { above: true, near: true, below: false }; state.sort = "fit"; state.status = "active"; state.q = "";
+      state.track = "all"; state.tiers = { above: true, near: true, below: false }; state.sort = "date"; state.status = "active"; state.q = "";
       Array.prototype.forEach.call(trackBtns, function (o) { o.setAttribute("aria-pressed", o.getAttribute("data-track") === "all" ? "true" : "false"); });
       Array.prototype.forEach.call(document.querySelectorAll("input[data-tier]"), function (cb) { cb.checked = state.tiers[cb.getAttribute("data-tier")]; });
-      $("#sort").value = "fit"; $("#statusFilter").value = "active"; $("#q").value = "";
+      $("#sort").value = "date"; $("#statusFilter").value = "active"; $("#q").value = "";
       render();
     });
 
@@ -926,7 +1005,13 @@ details.screened summary span{font:400 .9375rem var(--sans);color:var(--muted);m
   /* ---------- start ---------- */
   if (window.claude && typeof window.claude.use === "function" && $("#trainLink")) $("#trainLink").parentNode.hidden = true;
   initLocal();
-  $("#stampText").textContent = "Updated " + BOARD.refreshedLabel + " by the GitHub workflow, which re-checks every link on each run. " + JOBS.length + " open US roles.";
+  BOARD.newSince = isoShift(-BOARD.newDays);
+  (function () {
+    var age = BOARD.refreshed ? Math.round((parseISO(todayISO()) - parseISO(BOARD.refreshed)) / 86400000) : 0;
+    var ageWord = age <= 0 ? "today" : (age === 1 ? "yesterday" : age + " days ago");
+    $("#stampText").textContent = "Rebuilt twice a day by the GitHub workflow, which re-checks every link on each run. Last rebuild " + BOARD.refreshedLabel + " (" + ageWord + "). " + JOBS.length + " open US roles."
+      + (age > 2 ? " The board has not been rebuilt for " + age + " days; check the Update offer board action." : "");
+  })();
   if ($("#cfgOffer")) $("#cfgOffer").textContent = "$" + BOARD.defaultOfferK + "K";
   updateSaveNote();
   wire();

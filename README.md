@@ -55,8 +55,8 @@ The README header shows month-to-date spend. To spend less, lower `queries_per_r
 
 ## Viewing the board
 
-- **On GitHub:** the table below updates on every run.
-- **Full interactive page:** download `docs/index.html` and open it in a browser. It has filters, the offer-line chart, and statuses and notes that save in that browser.
+- **On GitHub:** the tables below update on every run. Roles the board added in the last 7 days are listed first, then everything older by pay tier.
+- **Full interactive page:** download `docs/index.html` and open it in a browser. It opens with a **New this week** section (roles added in the last 7 days, grouped by day, plus the roles that left the board), then **Everything else**, newest first. It has filters, the offer-line chart, and statuses and notes that save in that browser.
 - **Interview prep:** `docs/train.html` (open it with `python -m scripts.train open`) is the training side of the repo: today's assignment, a code editor that runs the tests in the browser, flashcards, a timer for mock interviews, and progress tracking. In Claude Code, `/train` runs the daily session with Claude as the interviewer and `/mock` runs a timed problem. Content lives in `training/`; see `training/README.md`.
 
 GitHub Pages isn't recommended here. On most plans, a Pages site from a private repository is still public on the internet, and this board includes notes about your background and visa needs.
@@ -81,7 +81,17 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 
 <!-- BOARD:START -->
 
-**76 open roles** · 21 above your $300K line · 55 near it · last run 2026-11-12 20:02 UTC · AI spend this month $9.05 of $100
+**76 open roles** · 3 new this week · 21 above your $300K line · 55 near it · last run 2026-11-12 20:02 UTC · AI spend this month $9.05 of $100
+
+Roles the board added in the last 7 days come first; the rest follow by pay tier.
+
+### New this week
+
+| Added | Company | Role | Location | Est. year-1 pay (vs offer) | Fit | H-1B | Posted |
+|---|---|---|---|---|---|---|---|
+| Nov 6 | Meta | [Research Scientist, Machine Learning for Monetization (PhD)](https://www.metacareers.com/profile/job_details/1747806499828365/) | Bellevue, WA | $220K–$330K (-8%) | ●●● | sponsors |  |
+| Nov 5 | Chai Discovery | [Research Scientist, Applied Research](https://jobs.ashbyhq.com/chaidiscovery/4b3b298d-f284-4a2a-80a1-868ddec8d9a9) | San Francisco office | $250K–$400K (+8%) | ●●●● | **ask first** | 2026-11-04 |
+| Nov 5 | Meta | [Research Scientist, Machine Learning for Behavioral AI](https://www.careerbuilder.com/job-details/ai-research-scientist-machine-learning-for-behavioral-ai-pasadena-ca--faca4a74-67b5-4cb1-b087-d7b10ff0899e) | Pasadena, CA | $230K–$330K (-7%) | ●● | sponsors |  |
 
 ### Above your offer line
 
@@ -125,7 +135,6 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 | TikTok | [Machine Learning Engineer Graduate (E-Commerce Supply Chain & Logistics - LLM/Agent) - 2027 Start (PhD)](https://lifeattiktok.com/search/7675841339440941317) | San Jose, CA; Seattle, WA | $250K–$400K (+8%) | ●●●● | sponsors | 2026-08-21 |
 | ByteDance | [Research Scientist Graduate (Seed Model - LLM) - 2027 Start (PhD)](https://zapply.jobs/jobs/8c4759dd-7347-4a8c-89ae-43b6f8af8c98/) | California (team also covers San Jose and Seattle) | $250K–$400K (+8%) | ●●●● | sponsors | 2026-10-25 |
 | TikTok (ByteDance) | [Research Scientist – TikTok Recommendation (NextGen LLM), 2027 Start (PhD)](https://www.indeed.com/q-artificial-intelligence-scientist-jobs.html) | San Jose, CA | $250K–$400K (+8%) | ●●●● | sponsors |  |
-| Chai Discovery | [Research Scientist, Applied Research](https://jobs.ashbyhq.com/chaidiscovery/4b3b298d-f284-4a2a-80a1-868ddec8d9a9) | San Francisco office | $250K–$400K (+8%) | ●●●● | **ask first** | 2026-11-04 |
 | ByteDance | [Agent Evaluation & Evolution Researcher Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7672391176102676741/detail) | Seattle, WA | $280K–$360K (+7%) | ●●●● | sponsors | 2026-08-11 |
 | ByteDance | [Agent Evaluation & Evolution Researcher Graduate (AML-Ark-US) - 2027 Start (PhD)](https://jobs.bytedance.com/en/position/7671095905295075637/detail) | San Jose, CA | $210K–$410K (+3%) | ●●●● | sponsors | 2026-08-10 |
 | Apple | [AIML - Machine Learning Researcher, Post-Training for Foundation Models](https://jobs.apple.com/en-us/details/200645804-0836) | Cupertino, CA | $250K–$340K (-2%) | ●●●● | sponsors | 2026-02-06 |
@@ -163,10 +172,8 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 | TikTok | [AI Machine Learning Engineer - Graduate (TikTok Content Ecology) - 2027 Start (PhD) - Graduate (TikTok Content Ecology) - 2027 Start (PhD)](https://lifeattiktok.com/search/7668838052657678597) | San Jose, CA | $230K–$330K (-7%) | ●●● | sponsors | 2026-08-02 |
 | Google | [Software Engineer, AI/Machine Learning, PhD, Early Career (2027 start)](https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer) | Sunnyvale, Seattle, Kirkland, New York and 6 more | $240K–$310K (-8%) | ●●● | sponsors | Aug 2026 |
 | NVIDIA | [Research Scientist PhD New Grad - Autonomous Systems and Physical AI Research](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551) | Santa Clara, CA | $220K–$330K (-8%) | ●●● | sponsors | 2026-10-07 |
-| Meta | [Research Scientist, Machine Learning for Monetization (PhD)](https://www.metacareers.com/profile/job_details/1747806499828365/) | Bellevue, WA | $220K–$330K (-8%) | ●●● | sponsors |  |
 | Liquid AI | [Liquid Labs - Research Engineer](https://jobs.ashbyhq.com/liquid-ai/679d26b2-2603-424d-acb8-99f45e8b5ddd) | Boston, MA (SF or other US locations accepted) | $220K–$320K (-10%) | ●●● | **ask first** | 2025-12-03 |
 | Cerebras Systems | [Applied Machine Learning Research Scientist](https://jobs.ashbyhq.com/cerebras/d654a704-2c58-4ba6-9109-2c92aecb2503) | United States and Canada (Sunnyvale, CA HQ) | $220K–$320K (-10%) | ●●● | **ask first** | 2026-03-05 |
-| Meta | [Research Scientist, Machine Learning for Behavioral AI](https://www.careerbuilder.com/job-details/ai-research-scientist-machine-learning-for-behavioral-ai-pasadena-ca--faca4a74-67b5-4cb1-b087-d7b10ff0899e) | Pasadena, CA | $230K–$330K (-7%) | ●● | sponsors |  |
 | NVIDIA | [Research Scientist New Grad - AI for Graphics and Gaming](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-for-Graphics-and-Gaming---New-College-Grad-2026_JR2011267) | Santa Clara, CA; United States (listing also shows Canada) | $220K–$330K (-8%) | ●● | sponsors | 2026-10-31 |
 
 ### Not screened yet
