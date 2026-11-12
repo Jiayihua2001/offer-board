@@ -1,10 +1,10 @@
 {
-  "runs": 34,
+  "runs": 35,
   "spend": {
     "2026-10": 4.3578,
-    "2026-11": 8.6602
+    "2026-11": 9.0467
   },
-  "discovery_cursor": 4,
+  "discovery_cursor": 14,
   "review": [
     {
       "company": "Schrödinger",
@@ -61,6 +61,13 @@
       "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4465081009",
       "location": "Cambridge, MA USA; San Francisco, CA USA",
       "source": "Greenhouse (lilasciences)"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Research Resident",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+      "location": "San Francisco, CA | New York City, NY",
+      "source": "Greenhouse (anthropic)"
     },
     {
       "company": "Anthropic",
@@ -161,25 +168,18 @@
       "source": "Workday (NVIDIA)"
     },
     {
-      "company": "Freudenberg Home and Cleaning Solutions / ChemTrend",
-      "title": "Materials Informatics Scientist",
-      "url": "https://workopia.io/jobs/a80ce95c8be4b3262ee7301c1212e824",
-      "location": "Plymouth, MI",
-      "source": "Claude web search: materials informatics machine learning scientist job United "
+      "company": "ByteDance (Seed)",
+      "title": "Research Scientist Graduate (Seed Model-Alignment & Preparedness) - 2027 Start",
+      "url": "https://joinbytedance.com/search/7698902624389482757",
+      "location": "San Jose, CA",
+      "source": "Claude web search: \"2027 Start (PhD)\" research scientist AI for Science ByteDan"
     },
     {
-      "company": "Meta",
-      "title": "AI Research Scientist, Advanced Materials Discovery (Agentic AI, Reality Labs Research)",
-      "url": "https://jobs.stevenagefc.com/jobs/ai-research-scientist-for-advanced-materials-discovery-redmond-washington/2759585329-2/",
-      "location": "Redmond, WA",
-      "source": "Claude web search: Meta Reality Labs Research materials discovery AI research s"
-    },
-    {
-      "company": "Schrödinger",
-      "title": "Machine Learning Force Fields Scientist (Materials Science)",
-      "url": "https://www.linkedin.com/jobs/view/machine-learning-force-fields-scientist-materials-science-at-schr%C3%B6dinger-3615853547",
-      "location": "New York, NY",
-      "source": "Claude web search: machine learning interatomic potential research scientist jo"
+      "company": "Logical Intelligence",
+      "title": "AI Research Scientist / Research Engineer: Materials Discovery",
+      "url": "https://www.dreamworkhq.com/job/c21cddac-2b19-4d6c-8db9-1f8e5e2f1f77",
+      "location": "San Francisco, CA",
+      "source": "Claude web search: Microsoft Research AI for Science researcher United States"
     },
     {
       "company": "Google",
@@ -292,14 +292,7 @@
       "url": "https://job-boards.greenhouse.io/betterhelpcom/jobs/5439919008",
       "location": "Remote in USA",
       "source": "Simplify new-grad list"
-    },
-    {
-      "company": "Adobe",
-      "title": "Data Scientist New Grad",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462",
-      "location": "San Jose, CA",
-      "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-12 07:26 UTC"
+  "last_run": "2026-11-12 20:02 UTC"
 }

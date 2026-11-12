@@ -3042,5 +3042,29 @@
     "decision": "screened",
     "reason": "needs more experience than a new PhD",
     "tkey": "championx-slb|material-informatics-data-scientist-for-ai-driven-materials"
+  },
+  "https://jobs.physicstoday.org/job/42047100/research-engineer-computational-materials-science-and-self-driving-materials-discovery": {
+    "date": "2026-11-12",
+    "decision": "screened",
+    "reason": "estimated $135K–$185K, below your line",
+    "tkey": "bosch-group-bosch-corporate-research|research-engineer-computational-materials-science-self-driving-materials-discovery"
+  },
+  "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462": {
+    "date": "2026-11-12",
+    "decision": "screened",
+    "reason": "estimated $190K–$260K, below your line",
+    "tkey": "adobe|data-scientist-new-grad"
+  },
+  "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/Data-Scientist-I_R0119840": {
+    "date": "2026-11-12",
+    "decision": "screened",
+    "reason": "estimated $110K–$150K, below your line",
+    "tkey": "truist-bank|data-scientist-1"
+  },
+  "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Machine-Learning-Scientist--Frontier-Research--AI-for-Drug-Discovery--AIDD-_202611-128905": {
+    "date": "2026-11-12",
+    "decision": "screened",
+    "reason": "estimated $190K–$250K, below your line",
+    "tkey": "genentech|machine-learning-scientist-multiple-teams"
   }
 }
