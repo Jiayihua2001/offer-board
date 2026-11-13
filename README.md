@@ -81,7 +81,7 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 
 <!-- BOARD:START -->
 
-**76 open roles** · 3 new this week · 21 above your $300K line · 55 near it · last run 2026-11-12 20:02 UTC · AI spend this month $9.05 of $100
+**76 open roles** · 1 new this week · 21 above your $300K line · 55 near it · last run 2026-11-13 07:00 UTC · AI spend this month $9.43 of $100
 
 Roles the board added in the last 7 days come first; the rest follow by pay tier.
 
@@ -90,8 +90,6 @@ Roles the board added in the last 7 days come first; the rest follow by pay tier
 | Added | Company | Role | Location | Est. year-1 pay (vs offer) | Fit | H-1B | Posted |
 |---|---|---|---|---|---|---|---|
 | Nov 6 | Meta | [Research Scientist, Machine Learning for Monetization (PhD)](https://www.metacareers.com/profile/job_details/1747806499828365/) | Bellevue, WA | $220K–$330K (-8%) | ●●● | sponsors |  |
-| Nov 5 | Chai Discovery | [Research Scientist, Applied Research](https://jobs.ashbyhq.com/chaidiscovery/4b3b298d-f284-4a2a-80a1-868ddec8d9a9) | San Francisco office | $250K–$400K (+8%) | ●●●● | **ask first** | 2026-11-04 |
-| Nov 5 | Meta | [Research Scientist, Machine Learning for Behavioral AI](https://www.careerbuilder.com/job-details/ai-research-scientist-machine-learning-for-behavioral-ai-pasadena-ca--faca4a74-67b5-4cb1-b087-d7b10ff0899e) | Pasadena, CA | $230K–$330K (-7%) | ●● | sponsors |  |
 
 ### Above your offer line
 
@@ -135,6 +133,7 @@ Roles the board added in the last 7 days come first; the rest follow by pay tier
 | TikTok | [Machine Learning Engineer Graduate (E-Commerce Supply Chain & Logistics - LLM/Agent) - 2027 Start (PhD)](https://lifeattiktok.com/search/7675841339440941317) | San Jose, CA; Seattle, WA | $250K–$400K (+8%) | ●●●● | sponsors | 2026-08-21 |
 | ByteDance | [Research Scientist Graduate (Seed Model - LLM) - 2027 Start (PhD)](https://zapply.jobs/jobs/8c4759dd-7347-4a8c-89ae-43b6f8af8c98/) | California (team also covers San Jose and Seattle) | $250K–$400K (+8%) | ●●●● | sponsors | 2026-10-25 |
 | TikTok (ByteDance) | [Research Scientist – TikTok Recommendation (NextGen LLM), 2027 Start (PhD)](https://www.indeed.com/q-artificial-intelligence-scientist-jobs.html) | San Jose, CA | $250K–$400K (+8%) | ●●●● | sponsors |  |
+| Chai Discovery | [Research Scientist, Applied Research](https://jobs.ashbyhq.com/chaidiscovery/4b3b298d-f284-4a2a-80a1-868ddec8d9a9) | San Francisco office | $250K–$400K (+8%) | ●●●● | **ask first** | 2026-11-04 |
 | ByteDance | [Agent Evaluation & Evolution Researcher Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7672391176102676741/detail) | Seattle, WA | $280K–$360K (+7%) | ●●●● | sponsors | 2026-08-11 |
 | ByteDance | [Agent Evaluation & Evolution Researcher Graduate (AML-Ark-US) - 2027 Start (PhD)](https://jobs.bytedance.com/en/position/7671095905295075637/detail) | San Jose, CA | $210K–$410K (+3%) | ●●●● | sponsors | 2026-08-10 |
 | Apple | [AIML - Machine Learning Researcher, Post-Training for Foundation Models](https://jobs.apple.com/en-us/details/200645804-0836) | Cupertino, CA | $250K–$340K (-2%) | ●●●● | sponsors | 2026-02-06 |
@@ -174,6 +173,7 @@ Roles the board added in the last 7 days come first; the rest follow by pay tier
 | NVIDIA | [Research Scientist PhD New Grad - Autonomous Systems and Physical AI Research](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551) | Santa Clara, CA | $220K–$330K (-8%) | ●●● | sponsors | 2026-10-07 |
 | Liquid AI | [Liquid Labs - Research Engineer](https://jobs.ashbyhq.com/liquid-ai/679d26b2-2603-424d-acb8-99f45e8b5ddd) | Boston, MA (SF or other US locations accepted) | $220K–$320K (-10%) | ●●● | **ask first** | 2025-12-03 |
 | Cerebras Systems | [Applied Machine Learning Research Scientist](https://jobs.ashbyhq.com/cerebras/d654a704-2c58-4ba6-9109-2c92aecb2503) | United States and Canada (Sunnyvale, CA HQ) | $220K–$320K (-10%) | ●●● | **ask first** | 2026-03-05 |
+| Meta | [Research Scientist, Machine Learning for Behavioral AI](https://www.careerbuilder.com/job-details/ai-research-scientist-machine-learning-for-behavioral-ai-pasadena-ca--faca4a74-67b5-4cb1-b087-d7b10ff0899e) | Pasadena, CA | $230K–$330K (-7%) | ●● | sponsors |  |
 | NVIDIA | [Research Scientist New Grad - AI for Graphics and Gaming](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-for-Graphics-and-Gaming---New-College-Grad-2026_JR2011267) | Santa Clara, CA; United States (listing also shows Canada) | $220K–$330K (-8%) | ●● | sponsors | 2026-10-31 |
 
 ### Not screened yet
@@ -204,8 +204,9 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | SandboxAQ | [Machine Learning Scientist - Molecular Force Fields](https://jobs.ashbyhq.com/sandboxaq/2ecf82f8-6bab-48d5-b34a-e1c745b7fc60) | United States | Ashby (sandboxaq) |
 | Thinking Machines Lab | [Research Lead, Tinker, Fine-tuning Science](https://jobs.ashbyhq.com/ThinkingMachines/4e3a366f-eb0f-4ea9-8cf9-9c2f911f279c) | San Francisco | Ashby (thinkingmachines) |
 | NVIDIA | [Research Scientist, AI and Systems Security - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894) | 2 Locations | Workday (NVIDIA) |
-| ByteDance (Seed) | [Research Scientist Graduate (Seed Model-Alignment & Preparedness) - 2027 Start](https://joinbytedance.com/search/7698902624389482757) | San Jose, CA | Claude web search: "2027 Start (PhD)" research scientist AI for Science ByteDan |
-| Logical Intelligence | [AI Research Scientist / Research Engineer: Materials Discovery](https://www.dreamworkhq.com/job/c21cddac-2b19-4d6c-8db9-1f8e5e2f1f77) | San Francisco, CA | Claude web search: Microsoft Research AI for Science researcher United States |
+| Lila Sciences | [Machine Learning Scientist I/II, Scientific Reasoning](https://www.indeed.com/q-materials-science-phd-jobs.html) | Cambridge, MA | Claude web search: quantum chemistry machine learning research scientist job Un |
+| Applied Materials | [Physicist/Scientist, Doctorate Degree, New College Grad (Spring 2027)](https://zapply.jobs/jobs/801c691c-b56c-4e91-8ae8-921974385b5d/) | Santa Clara, CA | Claude web search: crystal structure prediction machine learning job |
+| Logical Intelligence | [AI Research Scientist/Research Engineer: Materials Discovery](https://www.dreamworkhq.com/job/c21cddac-2b19-4d6c-8db9-1f8e5e2f1f77) | San Francisco, CA | Claude web search: crystal structure prediction machine learning job |
 | Google | [Research Scientist - Neutral Atoms - Quantum AI](https://www.google.com/about/careers/applications/jobs/results/79694460677432006) | Boulder, CO | speedyapply 2027 AI new-grad list |
 | Google | [Research Scientist - Quantum Error Correction - Quantum AI](https://www.google.com/about/careers/applications/jobs/results/80321648309215942) | Goleta, CA +3 | speedyapply 2027 AI new-grad list |
 | The Brattle Group | [Data and AI Engineer - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4751955005) | Boston, MA +1 | speedyapply 2027 AI new-grad list |
@@ -228,11 +229,10 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 - Meta, Research Scientist, Materials (2026-11-09)
 - Fireworks AI, Member of Technical Staff New Grad - Research (2026-11-06)
 - Lila Sciences, ML Scientist, Foundation Models for Life Sciences (2026-11-03)
-- xAI (SpaceXSI), Member of Technical Staff - Model Training (2026-10-29)
-- NVIDIA, Research Scientist, Fundamental Generative AI (new college grad) (2026-10-29)
 
-<details><summary>Screened out (218)</summary>
+<details><summary>Screened out (219)</summary>
 
+- [Senseye, AI Engineer](https://apply.workable.com/senseye/j/56F6BB2046/apply): Estimated $130K–$175K, below your line.
 - [Genentech, Machine Learning Scientist - Multiple Teams](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Machine-Learning-Scientist--Frontier-Research--AI-for-Drug-Discovery--AIDD-_202611-128905): Estimated $190K–$250K, below your line.
 - [Truist Bank, Data Scientist I](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/Data-Scientist-I_R0119840): Estimated $110K–$150K, below your line.
 - [Adobe, Data Scientist New Grad](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462): Estimated $190K–$260K, below your line.
@@ -432,7 +432,6 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 - [Quora, Machine Learning Engineer - New Grad - Quora - Remote](https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3): Estimated $170K–$240K, below your line.
 - [GlobalFoundries, AI/ML Systems Engineer - 2027 New College Graduate](https://globalfoundries.wd1.myworkdayjobs.com/en-US/external/job/USA---Texas---Richardson/AI-ML-Systems-Engineer--2027-New-College-Graduate-_JR-2604163): Estimated $145K–$185K, below your line.
 - [Brain Co., AI Product Engineer - 2027 New Grad](https://jobs.ashbyhq.com/brainco/c1788246-305f-4e4f-8b03-8444c76a466e): Estimated $200K–$280K, below your line.
-- [Applied Underwriters, AI Engineer - Data Science](https://jobs.lever.co/auw/6f317af6-4362-4dea-accc-e86ec1d102a5): Estimated $150K–$210K, below your line.
 
 </details>
 

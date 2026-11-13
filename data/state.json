@@ -1,10 +1,10 @@
 {
-  "runs": 35,
+  "runs": 36,
   "spend": {
     "2026-10": 4.3578,
-    "2026-11": 9.0467
+    "2026-11": 9.4275
   },
-  "discovery_cursor": 14,
+  "discovery_cursor": 3,
   "review": [
     {
       "company": "Schrödinger",
@@ -168,18 +168,25 @@
       "source": "Workday (NVIDIA)"
     },
     {
-      "company": "ByteDance (Seed)",
-      "title": "Research Scientist Graduate (Seed Model-Alignment & Preparedness) - 2027 Start",
-      "url": "https://joinbytedance.com/search/7698902624389482757",
-      "location": "San Jose, CA",
-      "source": "Claude web search: \"2027 Start (PhD)\" research scientist AI for Science ByteDan"
+      "company": "Lila Sciences",
+      "title": "Machine Learning Scientist I/II, Scientific Reasoning",
+      "url": "https://www.indeed.com/q-materials-science-phd-jobs.html",
+      "location": "Cambridge, MA",
+      "source": "Claude web search: quantum chemistry machine learning research scientist job Un"
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Physicist/Scientist, Doctorate Degree, New College Grad (Spring 2027)",
+      "url": "https://zapply.jobs/jobs/801c691c-b56c-4e91-8ae8-921974385b5d/",
+      "location": "Santa Clara, CA",
+      "source": "Claude web search: crystal structure prediction machine learning job"
     },
     {
       "company": "Logical Intelligence",
-      "title": "AI Research Scientist / Research Engineer: Materials Discovery",
+      "title": "AI Research Scientist/Research Engineer: Materials Discovery",
       "url": "https://www.dreamworkhq.com/job/c21cddac-2b19-4d6c-8db9-1f8e5e2f1f77",
       "location": "San Francisco, CA",
-      "source": "Claude web search: Microsoft Research AI for Science researcher United States"
+      "source": "Claude web search: crystal structure prediction machine learning job"
     },
     {
       "company": "Google",
@@ -294,5 +301,5 @@
       "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-12 20:02 UTC"
+  "last_run": "2026-11-13 07:00 UTC"
 }

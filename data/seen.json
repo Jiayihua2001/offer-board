@@ -3066,5 +3066,11 @@
     "decision": "screened",
     "reason": "estimated $190K–$250K, below your line",
     "tkey": "genentech|machine-learning-scientist-multiple-teams"
+  },
+  "https://apply.workable.com/senseye/j/56F6BB2046/apply": {
+    "date": "2026-11-13",
+    "decision": "screened",
+    "reason": "estimated $130K–$175K, below your line",
+    "tkey": "senseye|ai-engineer"
   }
 }
