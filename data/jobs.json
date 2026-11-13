@@ -927,39 +927,6 @@
     "stale": false
   },
   {
-    "company": "Lila Sciences",
-    "role": "Senior / Engineer II, AI Lab Research Engineer",
-    "est": [
-      210,
-      330
-    ],
-    "id": "lila-sciences-senior-engineer-ii-ai-lab-resear-44f35e",
-    "track": "science",
-    "location": "Cambridge, MA / San Francisco, CA",
-    "base": "Base $148,000-$240,000 plus bonus potential and early-stage equity",
-    "fit": 4,
-    "why": "Builds agentic AI for science (planning, tool use, code generation for lab instruments) and the benchmarks that measure it, asking for a PhD/MS with ML plus one science domain such as materials; the candidate's LLM routing and evaluation work and materials background fit the brief.",
-    "caveat": "A new PhD would enter at the Engineer II rung in the lower half of the $148K-$240K band, so year-1 pay is borderline and depends on equity counted at face value; sponsorship is not stated and the req has been open since October 2025.",
-    "posted": "2025-10-06",
-    "source": "Claude Code sweep 2026-10-26",
-    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4029507009",
-    "visa": [
-      "yes",
-      "Files H-1B petitions regularly (public Department of Labor data)."
-    ],
-    "ats": {
-      "type": "greenhouse",
-      "token": "lilasciences",
-      "id": "4029507009"
-    },
-    "added": "2026-10-26",
-    "first_seen": "2026-10-26",
-    "last_checked": "2026-11-13",
-    "last_open": "2026-11-12",
-    "check_failures": 1,
-    "stale": false
-  },
-  {
     "company": "Thinking Machines Lab",
     "role": "Research, Finetuning Science",
     "est": [

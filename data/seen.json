@@ -337,9 +337,8 @@
     "tkey": "achira|machine-learning-research-engineer-mlre-research"
   },
   "https://job-boards.greenhouse.io/lilasciences/jobs/4029507009": {
-    "date": "2026-10-26",
-    "decision": "added",
-    "reason": "",
+    "date": "2026-11-13",
+    "decision": "closed",
     "tkey": "lila-sciences|senior-engineer-ii-ai-lab-research-engineer"
   },
   "https://jobs.ashbyhq.com/thinkingmachines/0a71cb88-068b-4ac6-9912-e498c49b1343": {
@@ -3072,5 +3071,11 @@
     "decision": "screened",
     "reason": "estimated $130K–$175K, below your line",
     "tkey": "senseye|ai-engineer"
+  },
+  "https://dreamworkhq.com/job/c21cddac-2b19-4d6c-8db9-1f8e5e2f1f77": {
+    "date": "2026-11-13",
+    "decision": "screened",
+    "reason": "estimated $180K–$300K, below your line",
+    "tkey": "logical-intelligence|ai-research-scientist-research-engineer-materials-discovery"
   }
 }
