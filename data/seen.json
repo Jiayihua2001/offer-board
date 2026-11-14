@@ -3077,5 +3077,29 @@
     "decision": "screened",
     "reason": "estimated $180K–$300K, below your line",
     "tkey": "logical-intelligence|ai-research-scientist-research-engineer-materials-discovery"
+  },
+  "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Machine-Learning-Scientist---Quantum-Chemistry_202606-115524-1": {
+    "date": "2026-11-14",
+    "decision": "screened",
+    "reason": "estimated $190K–$250K, below your line",
+    "tkey": "roche-genentech|machine-learning-scientist-quantum-chemistry"
+  },
+  "https://indeed.com/q-applied-research-scientist-phd-jobs.html": {
+    "date": "2026-11-14",
+    "decision": "screened",
+    "reason": "estimated $130K–$185K, below your line",
+    "tkey": "universal-display-corporation|research-scientist-ai-ml-for-molecular-discovery-and-materials-research"
+  },
+  "https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---MD-Baltimore/Neuroscience-Research-Scientist_46467": {
+    "date": "2026-11-14",
+    "decision": "screened",
+    "reason": "estimated $95K–$130K, below your line",
+    "tkey": "guidehouse|neuroscience-research-scientist"
+  },
+  "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013909": {
+    "date": "2026-11-14",
+    "decision": "screened",
+    "reason": "estimated $130K–$170K, below your line",
+    "tkey": "emerson-electric|software-engineer-applied-ai"
   }
 }

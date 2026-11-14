@@ -81,15 +81,13 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 
 <!-- BOARD:START -->
 
-**75 open roles** · 1 new this week · 21 above your $300K line · 54 near it · last run 2026-11-13 19:48 UTC · AI spend this month $9.82 of $100
+**75 open roles** · 0 new this week · 21 above your $300K line · 54 near it · last run 2026-11-14 06:43 UTC · AI spend this month $10.21 of $100
 
 Roles the board added in the last 7 days come first; the rest follow by pay tier.
 
 ### New this week
 
-| Added | Company | Role | Location | Est. year-1 pay (vs offer) | Fit | H-1B | Posted |
-|---|---|---|---|---|---|---|---|
-| Nov 6 | Meta | [Research Scientist, Machine Learning for Monetization (PhD)](https://www.metacareers.com/profile/job_details/1747806499828365/) | Bellevue, WA | $220K–$330K (-8%) | ●●● | sponsors |  |
+Nothing added since Nov 7.
 
 ### Above your offer line
 
@@ -170,6 +168,7 @@ Roles the board added in the last 7 days come first; the rest follow by pay tier
 | TikTok | [AI Machine Learning Engineer - Graduate (TikTok Content Ecology) - 2027 Start (PhD) - Graduate (TikTok Content Ecology) - 2027 Start (PhD)](https://lifeattiktok.com/search/7668838052657678597) | San Jose, CA | $230K–$330K (-7%) | ●●● | sponsors | 2026-08-02 |
 | Google | [Software Engineer, AI/Machine Learning, PhD, Early Career (2027 start)](https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer) | Sunnyvale, Seattle, Kirkland, New York and 6 more | $240K–$310K (-8%) | ●●● | sponsors | Aug 2026 |
 | NVIDIA | [Research Scientist PhD New Grad - Autonomous Systems and Physical AI Research](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551) | Santa Clara, CA | $220K–$330K (-8%) | ●●● | sponsors | 2026-10-07 |
+| Meta | [Research Scientist, Machine Learning for Monetization (PhD)](https://www.metacareers.com/profile/job_details/1747806499828365/) | Bellevue, WA | $220K–$330K (-8%) | ●●● | sponsors |  |
 | Liquid AI | [Liquid Labs - Research Engineer](https://jobs.ashbyhq.com/liquid-ai/679d26b2-2603-424d-acb8-99f45e8b5ddd) | Boston, MA (SF or other US locations accepted) | $220K–$320K (-10%) | ●●● | **ask first** | 2025-12-03 |
 | Cerebras Systems | [Applied Machine Learning Research Scientist](https://jobs.ashbyhq.com/cerebras/d654a704-2c58-4ba6-9109-2c92aecb2503) | United States and Canada (Sunnyvale, CA HQ) | $220K–$320K (-10%) | ●●● | **ask first** | 2026-03-05 |
 | Meta | [Research Scientist, Machine Learning for Behavioral AI](https://www.careerbuilder.com/job-details/ai-research-scientist-machine-learning-for-behavioral-ai-pasadena-ca--faca4a74-67b5-4cb1-b087-d7b10ff0899e) | Pasadena, CA | $230K–$330K (-7%) | ●● | sponsors |  |
@@ -188,9 +187,8 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | Lila Sciences | [ML Research Scientist, Environments & Harnesses](https://job-boards.greenhouse.io/lilasciences/jobs/4462270009) | Cambridge, MA USA; London, UK; San Francisco, CA USA | Greenhouse (lilasciences) |
 | Lila Sciences | [ML Research Scientist, Scientific Evaluations](https://job-boards.greenhouse.io/lilasciences/jobs/4472554009) | Cambridge, MA USA; London, UK; San Francisco, CA USA | Greenhouse (lilasciences) |
 | Lila Sciences | [Research Scientist, Soft Matter Simulations](https://job-boards.greenhouse.io/lilasciences/jobs/4465081009) | Cambridge, MA USA; San Francisco, CA USA | Greenhouse (lilasciences) |
-| Anthropic | [Research Scientist, Discovery (Engineering & Applied Sciences)](https://job-boards.greenhouse.io/anthropic/jobs/5468930008) | San Francisco, CA \| New York City, NY | Greenhouse (anthropic) |
+| Anthropic | [Research Scientist, Discovery (Engineering & Applied Sciences)](https://job-boards.greenhouse.io/anthropic/jobs/5468937008) | San Francisco, CA | Greenhouse (anthropic) |
 | Anthropic | [Research Scientist, Life Sciences (Large Molecules, Process Development) ](https://job-boards.greenhouse.io/anthropic/jobs/5467099008) | San Francisco, CA | Greenhouse (anthropic) |
-| OpenAI | [Applied AI Engineer, Enterprise - Healthcare Life Sciences (HLS)](https://jobs.ashbyhq.com/openai/6fc25168-bc4c-47a0-8601-583dfaf7fcbd) | San Francisco | Ashby (openai) |
 | Achira | [Machine Learning Research Engineer (MLRE) - GPUs](https://jobs.ashbyhq.com/achira/f7893ad8-8da1-4ae3-b56b-151feb17d324) | San Francisco Office | Ashby (achira) |
 | Achira | [Machine Learning Research Engineer (MLRE) - Workflows/Systems](https://jobs.ashbyhq.com/achira/bb70d7b1-6da0-4271-85b6-caec85254dea) | San Francisco Office | Ashby (achira) |
 | Chai Discovery | [Forward-Deployed Scientist](https://jobs.ashbyhq.com/chaidiscovery/e60e0d79-622d-4251-b056-d380484d9dab) | San Francisco office | Ashby (chaidiscovery) |
@@ -201,14 +199,16 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | SandboxAQ | [Computational Chemist - Machine Learned Force Fields, Material Discovery](https://jobs.ashbyhq.com/sandboxaq/b33383d4-18c9-4eea-acab-6fdd713f5174) | United States | Ashby (sandboxaq) |
 | SandboxAQ | [Machine Learning Scientist - Molecular Force Fields](https://jobs.ashbyhq.com/sandboxaq/2ecf82f8-6bab-48d5-b34a-e1c745b7fc60) | United States | Ashby (sandboxaq) |
 | Thinking Machines Lab | [Research Lead, Tinker, Fine-tuning Science](https://jobs.ashbyhq.com/ThinkingMachines/4e3a366f-eb0f-4ea9-8cf9-9c2f911f279c) | San Francisco | Ashby (thinkingmachines) |
-| NVIDIA | [Research Scientist, AI and Systems Security - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894) | 2 Locations | Workday (NVIDIA) |
 | Google | [Research Scientist, Climate and Energy](https://www.google.com/about/careers/applications/jobs/results/98942829060858566-research-scientist-climate-and-energy) | United States | Google careers search |
-| Meta | [Research Scientist, Systems for ML (PhD)](https://www.linkedin.com/jobs/view/research-scientist-systems-for-ml-phd-at-meta-3811199849) | New York, NY | Claude web search: research scientist PhD university graduate 2027 machine lear |
+| Freudenberg Home and Cleaning Solutions (Chem-Trend) | [Materials Informatics Scientist](https://workopia.io/jobs/a80ce95c8be4b3262ee7301c1212e824) | Plymouth, MI (hybrid) | Claude web search: materials informatics machine learning scientist job United  |
+| Johns Hopkins Applied Physics Laboratory | [2027 PhD Graduate – Artificial Intelligence and Machine Learning (AI/ML) Research Scientist](https://jobright.ai/jobs/research-scientist-graduate-(seed---llm)---2026-start-(phd)-jobs-in-united-states) | Laurel, MD | Claude web search: AI for materials discovery research scientist new grad PhD 2 |
+| Lila Sciences | [Research Scientist, Photonic Materials Discovery](https://job-boards.greenhouse.io/lilasciences/jobs/4377093009) | Not stated in listing | Claude web search: machine learning interatomic potential research scientist jo |
+| Bosch | [Research Engineer - Computational Materials Science & Self-Driving Materials Discovery](https://www.indeed.com/q-computational-materials-science-phd-jobs.html) | Watertown, MA | Claude web search: machine learning interatomic potential research scientist jo |
 | Adobe | [2027 University Graduate - Data Scientist](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462) | San Jose, CA | speedyapply 2027 AI new-grad list |
 | Google | [Research Scientist - Neutral Atoms - Quantum AI](https://www.google.com/about/careers/applications/jobs/results/79694460677432006) | Boulder, CO | speedyapply 2027 AI new-grad list |
+| NVIDIA | [Research Scientist - AI and Systems Security - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894) | Westford, MA +1 | speedyapply 2027 AI new-grad list |
 | Google | [Research Scientist - Quantum Error Correction - Quantum AI](https://www.google.com/about/careers/applications/jobs/results/80321648309215942) | Goleta, CA +3 | speedyapply 2027 AI new-grad list |
 | Aramco Services Company | [Graduate Researcher - Summer 2027 - Applied Artificial Intelligence for Petroleum Engineering](https://aramcoservices.applytojob.com/apply/tIaTOfPJhn/Graduate-Researcher-Summer-2027-Applied-Artificial-Intelligence-For-Petroleum-Engineering) | Houston, TX | speedyapply 2027 AI new-grad list |
-| Guidehouse | [Neuroscience Research Scientist](https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---MD-Baltimore/Neuroscience-Research-Scientist_46467) | Baltimore, MD | speedyapply 2027 AI new-grad list |
 | The Brattle Group | [Data and AI Engineer - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4751955005) | Boston, MA +1 | speedyapply 2027 AI new-grad list |
 | Samsung AI Research Center | [2027 Health AI Scholar - Digital Health Algorithms Team](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002) | Mountain View, CA | speedyapply 2027 AI new-grad list |
 | SharkNinja | [Applied AI & Analytics Spring Opportunities - Jan-Jun 2027](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713793006) | Needham, MA +2 | speedyapply 2027 AI new-grad list |
@@ -231,8 +231,11 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 - Fireworks AI, Member of Technical Staff New Grad - Research (2026-11-06)
 - Lila Sciences, ML Scientist, Foundation Models for Life Sciences (2026-11-03)
 
-<details><summary>Screened out (221)</summary>
+<details><summary>Screened out (224)</summary>
 
+- [Emerson Electric, Software Engineer - Applied AI](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013909): Estimated $130K–$170K, below your line.
+- [Universal Display Corporation, Research Scientist (AI/ML for molecular discovery and materials research)](https://www.indeed.com/q-applied-research-scientist-phd-jobs.html): Estimated $130K–$185K, below your line.
+- [Roche / Genentech, Machine Learning Scientist - Quantum Chemistry](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Machine-Learning-Scientist---Quantum-Chemistry_202606-115524-1): Estimated $190K–$250K, below your line.
 - [Logical Intelligence, AI Research Scientist/Research Engineer: Materials Discovery](https://www.dreamworkhq.com/job/c21cddac-2b19-4d6c-8db9-1f8e5e2f1f77): Estimated $180K–$300K, below your line.
 - [Lila Sciences, Senior / Engineer II, AI Lab Research Engineer](https://job-boards.greenhouse.io/lilasciences/jobs/4029507009): Closed: the posting stopped showing as open (checked 2026-11-13).
 - [Senseye, AI Engineer](https://apply.workable.com/senseye/j/56F6BB2046/apply): Estimated $130K–$175K, below your line.
@@ -430,9 +433,6 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 - [Brain Co., AI Security Engineer - 2027 New Grad](https://jobs.ashbyhq.com/brainco/32c4e1c9-ccd1-4dca-a68b-31ad1b868030): Estimated $200K–$280K, below your line.
 - [Brain Co., AI/ML Engineer - 2027 New Grad](https://jobs.ashbyhq.com/brainco/4c9f8f00-0caf-4927-80da-02a3e53cb0cd): Estimated $200K–$280K, below your line.
 - [Brain Co., AI Platform Engineer - 2027 New Grad](https://jobs.ashbyhq.com/brainco/4d39773e-f4c3-49c1-87c3-812a9804fb15): Estimated $200K–$280K, below your line.
-- [General Motors, Entry-Level - AI and Machine Learning for Automation Researcher](https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Warren-Michigan-United-States-of-America/Entry-Level---AI-and-Machine-Learning-for-Automation-Researcher_JR-202621769): Estimated $160K–$220K, below your line.
-- [General Motors, Entry-Level - AI/Machine Learning Researcher](https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Mountain-View-California-United-States-of-America/Entry-Level---AI-Machine-Learning-Researcher_JR-202621753): Estimated $150K–$210K, below your line.
-- [Quora, Machine Learning Engineer - New Grad - Quora - Remote](https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3): Estimated $170K–$240K, below your line.
 
 </details>
 
