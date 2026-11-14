@@ -1,10 +1,10 @@
 {
-  "runs": 38,
+  "runs": 39,
   "spend": {
     "2026-10": 4.3578,
-    "2026-11": 10.2134
+    "2026-11": 10.588
   },
-  "discovery_cursor": 2,
+  "discovery_cursor": 12,
   "review": [
     {
       "company": "Schrödinger",
@@ -61,6 +61,13 @@
       "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4465081009",
       "location": "Cambridge, MA USA; San Francisco, CA USA",
       "source": "Greenhouse (lilasciences)"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Research Resident",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+      "location": "San Francisco, CA | New York City, NY",
+      "source": "Greenhouse (anthropic)"
     },
     {
       "company": "Anthropic",
@@ -147,6 +154,13 @@
       "source": "Ashby (thinkingmachines)"
     },
     {
+      "company": "NVIDIA",
+      "title": "Research Scientist, AI and Systems Security - PhD New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894",
+      "location": "2 Locations",
+      "source": "Workday (NVIDIA)"
+    },
+    {
       "company": "Google",
       "title": "Research Scientist, Climate and Energy",
       "url": "https://www.google.com/about/careers/applications/jobs/results/98942829060858566-research-scientist-climate-and-energy",
@@ -154,32 +168,18 @@
       "source": "Google careers search"
     },
     {
-      "company": "Freudenberg Home and Cleaning Solutions (Chem-Trend)",
-      "title": "Materials Informatics Scientist",
-      "url": "https://workopia.io/jobs/a80ce95c8be4b3262ee7301c1212e824",
-      "location": "Plymouth, MI (hybrid)",
-      "source": "Claude web search: materials informatics machine learning scientist job United "
+      "company": "Applied Materials",
+      "title": "Physicist/Scientist, Doctorate Degree, New College Grad (Spring 2027)",
+      "url": "https://zapply.jobs/jobs/801c691c-b56c-4e91-8ae8-921974385b5d/",
+      "location": "Santa Clara, CA",
+      "source": "Claude web search: crystal structure prediction machine learning job"
     },
     {
-      "company": "Johns Hopkins Applied Physics Laboratory",
-      "title": "2027 PhD Graduate – Artificial Intelligence and Machine Learning (AI/ML) Research Scientist",
-      "url": "https://jobright.ai/jobs/research-scientist-graduate-(seed---llm)---2026-start-(phd)-jobs-in-united-states",
-      "location": "Laurel, MD",
-      "source": "Claude web search: AI for materials discovery research scientist new grad PhD 2"
-    },
-    {
-      "company": "Lila Sciences",
-      "title": "Research Scientist, Photonic Materials Discovery",
-      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4377093009",
-      "location": "Not stated in listing",
-      "source": "Claude web search: machine learning interatomic potential research scientist jo"
-    },
-    {
-      "company": "Bosch",
-      "title": "Research Engineer - Computational Materials Science & Self-Driving Materials Discovery",
-      "url": "https://www.indeed.com/q-computational-materials-science-phd-jobs.html",
-      "location": "Watertown, MA",
-      "source": "Claude web search: machine learning interatomic potential research scientist jo"
+      "company": "Meta",
+      "title": "Research Scientist, Systems for ML (PhD)",
+      "url": "https://www.linkedin.com/jobs/view/research-scientist-systems-for-ml-phd-at-meta-3811199849",
+      "location": "New York, NY",
+      "source": "Claude web search: research scientist PhD university graduate 2027 machine lear"
     },
     {
       "company": "Adobe",
@@ -196,17 +196,31 @@
       "source": "speedyapply 2027 AI new-grad list"
     },
     {
-      "company": "NVIDIA",
-      "title": "Research Scientist - AI and Systems Security - PhD New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894",
-      "location": "Westford, MA +1",
-      "source": "speedyapply 2027 AI new-grad list"
-    },
-    {
       "company": "Google",
       "title": "Research Scientist - Quantum Error Correction - Quantum AI",
       "url": "https://www.google.com/about/careers/applications/jobs/results/80321648309215942",
       "location": "Goleta, CA +3",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist - Central Applied Science",
+      "url": "https://www.metacareers.com/jobs/1768080781159715",
+      "location": "Menlo Park, CA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "Sanofi",
+      "title": "2027 Spring Co op Biologics Design and AI Cambridge MA",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/sanoficareers/job/Cambridge-MA/XMLNAME-2027-Spring-Co-op-Biologics-Design-and-AI-Cambridge-MA_R2854337",
+      "location": "Cambridge, MA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "Lawrence Livermore National Laboratory",
+      "title": "Computational Automation and Data Science Scientist",
+      "url": "https://jobs.smartrecruiters.com/LLNL/3743990016808996-computational-automation-and-data-science-scientist?oga=true",
+      "location": "Livermore, CA",
       "source": "speedyapply 2027 AI new-grad list"
     },
     {
@@ -315,5 +329,5 @@
       "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-14 06:43 UTC"
+  "last_run": "2026-11-14 18:07 UTC"
 }

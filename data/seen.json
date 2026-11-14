@@ -418,9 +418,8 @@
     "tkey": "xai-spacexsi|mid-training"
   },
   "https://careers.withwaymo.com/jobs?gh_jid=7488508": {
-    "date": "2026-10-26",
-    "decision": "added",
-    "reason": "",
+    "date": "2026-11-14",
+    "decision": "closed",
     "tkey": "waymo|machine-learning-engineer-perception-llm-vlm-phd-new-grad"
   },
   "https://lifeattiktok.com/search/7667767820142643461": {
@@ -3101,5 +3100,11 @@
     "decision": "screened",
     "reason": "estimated $130K–$170K, below your line",
     "tkey": "emerson-electric|software-engineer-applied-ai"
+  },
+  "https://indeed.com/q-computational-discovery-of-materials-jobs.html": {
+    "date": "2026-11-14",
+    "decision": "screened",
+    "reason": "estimated $110K–$145K, below your line",
+    "tkey": "johns-hopkins-applied-physics-laboratory|entry-level-researcher-computational-materials-science-continuum-scales-and-materials-discovery"
   }
 }

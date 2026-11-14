@@ -765,7 +765,7 @@
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
     "last_checked": "2026-11-14",
-    "last_open": "2026-11-13",
+    "last_open": "2026-11-14",
     "check_failures": 0,
     "stale": false
   },
@@ -1270,35 +1270,6 @@
     "stale": false
   },
   {
-    "company": "Waymo",
-    "role": "Machine Learning Engineer Perception LLM/VLM (PhD, New Grad)",
-    "est": [
-      260,
-      360
-    ],
-    "id": "waymo-machine-learning-engineer-percep-27ed3e",
-    "track": "llm",
-    "location": "Mountain View, CA / San Francisco, CA",
-    "base": "Base $170,000-$216,000; eligible for discretionary bonus and equity",
-    "fit": 3,
-    "why": "PhD new-grad req on continual pre-training and evaluation of VLM foundation models at scale; the candidate's cross-attention transformer estimators, LLM routing and large-scale distributed training experience transfer, though the driving-perception domain is new.",
-    "caveat": "The body text asks for 5+ years and proven LLM/VLM pre-training expertise despite the New Grad title (Greenhouse tags the req level 4-5) and no start date is stated, so confirm leveling and a mid-2027 start with the recruiter; sponsorship is not mentioned.",
-    "posted": "2025-12-22",
-    "source": "Claude Code sweep 2026-10-26",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=7488508",
-    "visa": [
-      "yes",
-      "Files H-1B petitions regularly (public Department of Labor data)."
-    ],
-    "ats": null,
-    "added": "2026-10-26",
-    "first_seen": "2026-10-26",
-    "last_checked": "2026-11-14",
-    "last_open": "2026-11-13",
-    "check_failures": 1,
-    "stale": false
-  },
-  {
     "company": "TikTok",
     "role": "Research Engineer Graduate (Monetization Technology - Business Integrity) - 2027 Start (PhD)",
     "est": [
@@ -1387,7 +1358,7 @@
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
     "last_checked": "2026-11-14",
-    "last_open": "2026-11-13",
+    "last_open": "2026-11-14",
     "check_failures": 0,
     "stale": false
   },
@@ -1422,7 +1393,7 @@
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
     "last_checked": "2026-11-14",
-    "last_open": "2026-11-13",
+    "last_open": "2026-11-14",
     "check_failures": 0,
     "stale": false
   },
@@ -1937,7 +1908,7 @@
     "added": "2026-10-27",
     "first_seen": "2026-10-27",
     "last_checked": "2026-11-14",
-    "last_open": "2026-11-13",
+    "last_open": "2026-11-14",
     "check_failures": 0,
     "stale": false
   },
@@ -2123,7 +2094,7 @@
     "added": "2026-10-31",
     "first_seen": "2026-10-31",
     "last_checked": "2026-11-14",
-    "last_open": "2026-11-13",
+    "last_open": "2026-11-14",
     "check_failures": 0,
     "stale": false
   },
