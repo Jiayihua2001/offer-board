@@ -2306,6 +2306,7 @@
     "first_seen": "2026-11-15",
     "last_checked": "2026-11-15",
     "last_open": "2026-11-15",
-    "check_failures": 0
+    "check_failures": 0,
+    "stale": false
   }
 ]

@@ -1,10 +1,10 @@
 {
-  "runs": 40,
+  "runs": 41,
   "spend": {
     "2026-10": 4.3578,
-    "2026-11": 10.978
+    "2026-11": 11.3637
   },
-  "discovery_cursor": 1,
+  "discovery_cursor": 11,
   "review": [
     {
       "company": "Schrödinger",
@@ -61,13 +61,6 @@
       "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4465081009",
       "location": "Cambridge, MA USA; San Francisco, CA USA",
       "source": "Greenhouse (lilasciences)"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Research Resident",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
-      "location": "San Francisco, CA | New York City, NY",
-      "source": "Greenhouse (anthropic)"
     },
     {
       "company": "Anthropic",
@@ -175,25 +168,18 @@
       "source": "Google careers search"
     },
     {
-      "company": "Freudenberg Home and Cleaning Solutions (Chem-Trend)",
-      "title": "Materials Informatics Scientist",
-      "url": "https://workopia.io/jobs/a80ce95c8be4b3262ee7301c1212e824",
-      "location": "Plymouth, MI",
-      "source": "Claude web search: materials informatics machine learning scientist job United "
+      "company": "Profluent",
+      "title": "Machine Learning Scientist, Biomolecular Structure Prediction",
+      "url": "https://www.dreamworkhq.com/job/269c9653-0ccd-46a7-9669-c82e405ca0fd",
+      "location": "California, US",
+      "source": "Claude web search: crystal structure prediction machine learning job"
     },
     {
-      "company": "Johns Hopkins Applied Physics Laboratory",
-      "title": "2027 PhD Graduate - Artificial Intelligence and Complex Systems",
-      "url": "https://www.indeed.com/q-material-science-artificial-intelligence-jobs.html",
-      "location": "Laurel, MD",
-      "source": "Claude web search: AI for materials discovery research scientist new grad PhD 2"
-    },
-    {
-      "company": "Adobe",
-      "title": "2027 University Graduate - Data Scientist",
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462",
-      "location": "San Jose, CA",
-      "source": "speedyapply 2027 AI new-grad list"
+      "company": "Meta",
+      "title": "Research Scientist, Systems for ML (PhD)",
+      "url": "https://www.linkedin.com/jobs/view/research-scientist-systems-for-ml-phd-at-meta-3811199849",
+      "location": "New York, NY",
+      "source": "Claude web search: research scientist PhD university graduate 2027 machine lear"
     },
     {
       "company": "Google",
@@ -322,5 +308,5 @@
       "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-15 06:49 UTC"
+  "last_run": "2026-11-15 18:58 UTC"
 }

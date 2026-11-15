@@ -3118,5 +3118,17 @@
     "decision": "screened",
     "reason": "estimated $120K–$165K, below your line",
     "tkey": "lawrence-livermore-national-laboratory|computational-automation-and-data-science-scientist"
+  },
+  "https://indeed.com/q-Materials-Science-PhD-jobs.html": {
+    "date": "2026-11-15",
+    "decision": "screened",
+    "reason": "estimated $200K–$280K, below your line",
+    "tkey": "lila-sciences|machine-learning-scientist-i-ii-scientific-reasoning"
+  },
+  "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462": {
+    "date": "2026-11-15",
+    "decision": "screened",
+    "reason": "estimated $190K–$230K, below your line",
+    "tkey": "adobe|2027-university-graduate-data-scientist"
   }
 }
