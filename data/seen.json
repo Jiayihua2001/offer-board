@@ -3106,5 +3106,17 @@
     "decision": "screened",
     "reason": "estimated $110K–$145K, below your line",
     "tkey": "johns-hopkins-applied-physics-laboratory|entry-level-researcher-computational-materials-science-continuum-scales-and-materials-discovery"
+  },
+  "https://metacareers.com/jobs/1768080781159715": {
+    "date": "2026-11-15",
+    "decision": "added",
+    "reason": "",
+    "tkey": "meta|research-scientist-central-applied-science"
+  },
+  "https://jobs.smartrecruiters.com/LLNL/3743990016808996-computational-automation-and-data-science-scientist?oga=true": {
+    "date": "2026-11-15",
+    "decision": "screened",
+    "reason": "estimated $120K–$165K, below your line",
+    "tkey": "lawrence-livermore-national-laboratory|computational-automation-and-data-science-scientist"
   }
 }
