@@ -81,7 +81,7 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 
 <!-- BOARD:START -->
 
-**75 open roles** · 1 new this week · 21 above your $300K line · 54 near it · last run 2026-11-15 18:58 UTC · AI spend this month $11.36 of $100
+**75 open roles** · 1 new this week · 21 above your $300K line · 54 near it · last run 2026-11-16 06:47 UTC · AI spend this month $11.75 of $100
 
 Roles the board added in the last 7 days come first; the rest follow by pay tier.
 
@@ -122,7 +122,7 @@ Roles the board added in the last 7 days come first; the rest follow by pay tier
 | Company | Role | Location | Est. year-1 pay (vs offer) | Fit | H-1B | Posted |
 |---|---|---|---|---|---|---|
 | ByteDance | [Research Scientist Graduate (Seed Quantum Chemistry and Machine Learning) - 2027 Start (PhD)](https://jobs.bytedance.com/en/position/7668595575944186117/detail) | San Jose, CA | $210K–$410K (+3%) | ●●●●● | sponsors | 2026-08-19 |
-| Meta FAIR | [Research Engineer, AI for Chemistry](https://metacareers.com/v2/jobs/3846804338907958) | Seattle, WA | $250K–$340K (-2%) | ●●●●● | sponsors | Live on Meta’s site |
+| Meta FAIR | [Research Engineer, AI for Chemistry](https://metacareers.com/v2/jobs/3846804338907958) not confirmed open lately | Seattle, WA | $250K–$340K (-2%) | ●●●●● | sponsors | Live on Meta’s site |
 | ByteDance | [AI Molecular Dynamics Algorithm Researcher Graduate (Seed AI for Science - Atomistic AI) - 2027 Start (PhD)](https://jobs.bytedance.com/en/position/7670550401380878645/detail) | Seattle, WA | $200K–$390K (-2%) | ●●●●● | sponsors | 2026-08-07 |
 | ByteDance | [Machine Learning Research Scientist - Atomistic AI - 2026 Start (PhD)](https://www.indeed.com/q-phd-machine-learning-jobs.html) | Seattle, WA | $230K–$350K (-3%) | ●●●●● | sponsors |  |
 | Achira | [ML Research Scientist (MLRS) - Representation Learning for Molecular AI](https://jobs.ashbyhq.com/achira/fd1bf203-29bc-454a-9140-378a21bbc173) | San Francisco, CA | $220K–$330K (-8%) | ●●●●● | **ask first** | 2026-06-30 |
@@ -165,7 +165,7 @@ Roles the board added in the last 7 days come first; the rest follow by pay tier
 | TikTok | [Machine Learning Engineer Graduate (E-Commerce Governance) - 2027 Start (PhD)](https://lifeattiktok.com/search/7672928557537954053) | Seattle, WA | $240K–$340K (-3%) | ●●● | sponsors | 2026-08-13 |
 | TikTok | [Neural Graphics and World Models Research Scientist/Software Engineer Graduate (TikTok, Engine&Tools) - 2027 Start (PhD)](https://lifeattiktok.com/search/7668831188103481605) | San Jose, CA | $230K–$350K (-3%) | ●●● | sponsors | 2026-08-03 |
 | TikTok | [Research Engineer Graduate (Agentic Arch) - 2027 Start (PhD)](https://lifeattiktok.com/search/7669824354636613941) | San Jose, CA | $230K–$350K (-3%) | ●●● | sponsors | 2026-08-04 |
-| Meta | [Research Scientist, Machine Learning (PhD), university grad](https://www.metacareers.com/students-and-grads) | Sunnyvale, CA and 7 more | $250K–$320K (-5%) | ●●● | sponsors | Listed on Meta’s Students & Grads page |
+| Meta | [Research Scientist, Machine Learning (PhD), university grad](https://www.metacareers.com/students-and-grads) not confirmed open lately | Sunnyvale, CA and 7 more | $250K–$320K (-5%) | ●●● | sponsors | Listed on Meta’s Students & Grads page |
 | TikTok | [AI Machine Learning Engineer - Graduate (TikTok Content Ecology) - 2027 Start (PhD) - Graduate (TikTok Content Ecology) - 2027 Start (PhD)](https://lifeattiktok.com/search/7668838052657678597) | San Jose, CA | $230K–$330K (-7%) | ●●● | sponsors | 2026-08-02 |
 | Google | [Software Engineer, AI/Machine Learning, PhD, Early Career (2027 start)](https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer) | Sunnyvale, Seattle, Kirkland, New York and 6 more | $240K–$310K (-8%) | ●●● | sponsors | Aug 2026 |
 | NVIDIA | [Research Scientist PhD New Grad - Autonomous Systems and Physical AI Research](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551) | Santa Clara, CA | $220K–$330K (-8%) | ●●● | sponsors | 2026-10-07 |
@@ -203,8 +203,8 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | NVIDIA | [Research Scientist, AI and Systems Security - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894) | 2 Locations | Workday (NVIDIA) |
 | NVIDIA | [Deep Learning Framework Communications Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1) | US, CA, Santa Clara | Workday (NVIDIA) |
 | Google | [Research Scientist, Climate and Energy](https://www.google.com/about/careers/applications/jobs/results/98942829060858566-research-scientist-climate-and-energy) | United States | Google careers search |
-| Profluent | [Machine Learning Scientist, Biomolecular Structure Prediction](https://www.dreamworkhq.com/job/269c9653-0ccd-46a7-9669-c82e405ca0fd) | California, US | Claude web search: crystal structure prediction machine learning job |
-| Meta | [Research Scientist, Systems for ML (PhD)](https://www.linkedin.com/jobs/view/research-scientist-systems-for-ml-phd-at-meta-3811199849) | New York, NY | Claude web search: research scientist PhD university graduate 2027 machine lear |
+| Applied Materials | [Physicist/Scientist, Doctorate Degree, New College Grad (Spring 2027)](https://jobpilot.suxrobgm.net/jobs/physicist-scientist-doctorate-degree-new-college-grad-spring-at-applied-materials-dad008) | Santa Clara, CA | Claude web search: Microsoft Research AI for Science researcher United States |
+| Freudenberg / ChemTrend | [Materials Informatics Scientist](https://workopia.io/jobs/a80ce95c8be4b3262ee7301c1212e824) | Plymouth, MI, United States | Claude web search: materials informatics machine learning scientist job United  |
 | Google | [Research Scientist - Neutral Atoms - Quantum AI](https://www.google.com/about/careers/applications/jobs/results/79694460677432006) | Boulder, CO | speedyapply 2027 AI new-grad list |
 | Google | [Research Scientist - Quantum Error Correction - Quantum AI](https://www.google.com/about/careers/applications/jobs/results/80321648309215942) | Goleta, CA +3 | speedyapply 2027 AI new-grad list |
 | Sanofi | [2027 Spring Co op Biologics Design and AI Cambridge MA](https://sanofi.wd3.myworkdayjobs.com/en-US/sanoficareers/job/Cambridge-MA/XMLNAME-2027-Spring-Co-op-Biologics-Design-and-AI-Cambridge-MA_R2854337) | Cambridge, MA | speedyapply 2027 AI new-grad list |

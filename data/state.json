@@ -1,10 +1,10 @@
 {
-  "runs": 41,
+  "runs": 42,
   "spend": {
     "2026-10": 4.3578,
-    "2026-11": 11.3637
+    "2026-11": 11.7488
   },
-  "discovery_cursor": 11,
+  "discovery_cursor": 0,
   "review": [
     {
       "company": "Schrödinger",
@@ -168,18 +168,18 @@
       "source": "Google careers search"
     },
     {
-      "company": "Profluent",
-      "title": "Machine Learning Scientist, Biomolecular Structure Prediction",
-      "url": "https://www.dreamworkhq.com/job/269c9653-0ccd-46a7-9669-c82e405ca0fd",
-      "location": "California, US",
-      "source": "Claude web search: crystal structure prediction machine learning job"
+      "company": "Applied Materials",
+      "title": "Physicist/Scientist, Doctorate Degree, New College Grad (Spring 2027)",
+      "url": "https://jobpilot.suxrobgm.net/jobs/physicist-scientist-doctorate-degree-new-college-grad-spring-at-applied-materials-dad008",
+      "location": "Santa Clara, CA",
+      "source": "Claude web search: Microsoft Research AI for Science researcher United States"
     },
     {
-      "company": "Meta",
-      "title": "Research Scientist, Systems for ML (PhD)",
-      "url": "https://www.linkedin.com/jobs/view/research-scientist-systems-for-ml-phd-at-meta-3811199849",
-      "location": "New York, NY",
-      "source": "Claude web search: research scientist PhD university graduate 2027 machine lear"
+      "company": "Freudenberg / ChemTrend",
+      "title": "Materials Informatics Scientist",
+      "url": "https://workopia.io/jobs/a80ce95c8be4b3262ee7301c1212e824",
+      "location": "Plymouth, MI, United States",
+      "source": "Claude web search: materials informatics machine learning scientist job United "
     },
     {
       "company": "Google",
@@ -308,5 +308,5 @@
       "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-15 18:58 UTC"
+  "last_run": "2026-11-16 06:47 UTC"
 }
