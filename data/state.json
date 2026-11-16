@@ -1,10 +1,10 @@
 {
-  "runs": 42,
+  "runs": 43,
   "spend": {
     "2026-10": 4.3578,
-    "2026-11": 11.7488
+    "2026-11": 12.1391
   },
-  "discovery_cursor": 0,
+  "discovery_cursor": 10,
   "review": [
     {
       "company": "Schrödinger",
@@ -147,20 +147,6 @@
       "source": "Ashby (thinkingmachines)"
     },
     {
-      "company": "NVIDIA",
-      "title": "Research Scientist, AI and Systems Security - PhD New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894",
-      "location": "2 Locations",
-      "source": "Workday (NVIDIA)"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Deep Learning Framework Communications Engineer - New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1",
-      "location": "US, CA, Santa Clara",
-      "source": "Workday (NVIDIA)"
-    },
-    {
       "company": "Google",
       "title": "Research Scientist, Climate and Energy",
       "url": "https://www.google.com/about/careers/applications/jobs/results/98942829060858566-research-scientist-climate-and-energy",
@@ -168,24 +154,52 @@
       "source": "Google careers search"
     },
     {
-      "company": "Applied Materials",
-      "title": "Physicist/Scientist, Doctorate Degree, New College Grad (Spring 2027)",
-      "url": "https://jobpilot.suxrobgm.net/jobs/physicist-scientist-doctorate-degree-new-college-grad-spring-at-applied-materials-dad008",
-      "location": "Santa Clara, CA",
-      "source": "Claude web search: Microsoft Research AI for Science researcher United States"
+      "company": "Google",
+      "title": "Computational Materials Scientist, DeepMind",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/111155821970105030-computational-materials-scientist-deepmind",
+      "location": "United States",
+      "source": "Google careers search"
     },
     {
-      "company": "Freudenberg / ChemTrend",
-      "title": "Materials Informatics Scientist",
-      "url": "https://workopia.io/jobs/a80ce95c8be4b3262ee7301c1212e824",
-      "location": "Plymouth, MI, United States",
-      "source": "Claude web search: materials informatics machine learning scientist job United "
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "title": "2027 PhD Graduate - Artificial Intelligence and Machine Learning (AI/ML) Research Scientist",
+      "url": "https://jobright.ai/jobs/research-scientist-graduate-(seed---llm)---2026-start-(phd)-jobs-in-united-states",
+      "location": "Laurel, MD",
+      "source": "Claude web search: AI for materials discovery research scientist new grad PhD 2"
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Physicist/Scientist, Doctorate Degree, New College Grad (Spring 2027)",
+      "url": "https://zapply.jobs/jobs/801c691c-b56c-4e91-8ae8-921974385b5d/",
+      "location": "CA (Santa Clara area per company listing)",
+      "source": "Claude web search: crystal structure prediction machine learning job"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist, Systems for ML (PhD)",
+      "url": "https://www.linkedin.com/jobs/view/research-scientist-systems-for-ml-phd-at-meta-3811199849",
+      "location": "New York, NY",
+      "source": "Claude web search: research scientist PhD university graduate 2027 machine lear"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Research Scientist, Deep Learning and Computer Vision - New College Graduate",
+      "url": "https://jobs.nvidia.com/careers/job/893395293387",
+      "location": "Not stated in listing; verify US location",
+      "source": "Claude web search: research scientist PhD university graduate 2027 machine lear"
     },
     {
       "company": "Google",
       "title": "Research Scientist - Neutral Atoms - Quantum AI",
       "url": "https://www.google.com/about/careers/applications/jobs/results/79694460677432006",
       "location": "Boulder, CO",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Research Scientist - AI and Systems Security - PhD New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894",
+      "location": "Westford, MA +1",
       "source": "speedyapply 2027 AI new-grad list"
     },
     {
@@ -207,13 +221,6 @@
       "title": "Graduate Researcher - Summer 2027 - Applied Artificial Intelligence for Petroleum Engineering",
       "url": "https://aramcoservices.applytojob.com/apply/tIaTOfPJhn/Graduate-Researcher-Summer-2027-Applied-Artificial-Intelligence-For-Petroleum-Engineering",
       "location": "Houston, TX",
-      "source": "speedyapply 2027 AI new-grad list"
-    },
-    {
-      "company": "The Brattle Group",
-      "title": "Data and AI Engineer - July 2027",
-      "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4751955005",
-      "location": "Boston, MA +1",
       "source": "speedyapply 2027 AI new-grad list"
     },
     {
@@ -266,13 +273,6 @@
       "source": "Simplify new-grad list"
     },
     {
-      "company": "Atlassian",
-      "title": "Data Scientist Graduate",
-      "url": "https://campus-americas.icims.com/jobs/26000/data-scientist%2c-2027-graduate-u.s./job",
-      "location": "Seattle, WA",
-      "source": "Simplify new-grad list"
-    },
-    {
       "company": "TikTok",
       "title": "Machine Learning Engineer Graduate - E-Commerce User Growth",
       "url": "https://lifeattiktok.com/search/7694353236283935029",
@@ -306,7 +306,14 @@
       "url": "https://job-boards.greenhouse.io/betterhelpcom/jobs/5439919008",
       "location": "Remote in USA",
       "source": "Simplify new-grad list"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Deep Learning Framework Communications Engineer New Grad",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1",
+      "location": "United States",
+      "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-16 06:47 UTC"
+  "last_run": "2026-11-16 22:08 UTC"
 }

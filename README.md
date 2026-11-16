@@ -81,7 +81,7 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 
 <!-- BOARD:START -->
 
-**75 open roles** · 1 new this week · 21 above your $300K line · 54 near it · last run 2026-11-16 06:47 UTC · AI spend this month $11.75 of $100
+**75 open roles** · 1 new this week · 21 above your $300K line · 54 near it · last run 2026-11-16 22:08 UTC · AI spend this month $12.14 of $100
 
 Roles the board added in the last 7 days come first; the rest follow by pay tier.
 
@@ -200,16 +200,17 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | SandboxAQ | [Computational Chemist - Machine Learned Force Fields, Material Discovery](https://jobs.ashbyhq.com/sandboxaq/b33383d4-18c9-4eea-acab-6fdd713f5174) | United States | Ashby (sandboxaq) |
 | SandboxAQ | [Machine Learning Scientist - Molecular Force Fields](https://jobs.ashbyhq.com/sandboxaq/2ecf82f8-6bab-48d5-b34a-e1c745b7fc60) | United States | Ashby (sandboxaq) |
 | Thinking Machines Lab | [Research Lead, Tinker, Fine-tuning Science](https://jobs.ashbyhq.com/ThinkingMachines/4e3a366f-eb0f-4ea9-8cf9-9c2f911f279c) | San Francisco | Ashby (thinkingmachines) |
-| NVIDIA | [Research Scientist, AI and Systems Security - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894) | 2 Locations | Workday (NVIDIA) |
-| NVIDIA | [Deep Learning Framework Communications Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1) | US, CA, Santa Clara | Workday (NVIDIA) |
 | Google | [Research Scientist, Climate and Energy](https://www.google.com/about/careers/applications/jobs/results/98942829060858566-research-scientist-climate-and-energy) | United States | Google careers search |
-| Applied Materials | [Physicist/Scientist, Doctorate Degree, New College Grad (Spring 2027)](https://jobpilot.suxrobgm.net/jobs/physicist-scientist-doctorate-degree-new-college-grad-spring-at-applied-materials-dad008) | Santa Clara, CA | Claude web search: Microsoft Research AI for Science researcher United States |
-| Freudenberg / ChemTrend | [Materials Informatics Scientist](https://workopia.io/jobs/a80ce95c8be4b3262ee7301c1212e824) | Plymouth, MI, United States | Claude web search: materials informatics machine learning scientist job United  |
+| Google | [Computational Materials Scientist, DeepMind](https://www.google.com/about/careers/applications/jobs/results/111155821970105030-computational-materials-scientist-deepmind) | United States | Google careers search |
+| Johns Hopkins Applied Physics Laboratory | [2027 PhD Graduate - Artificial Intelligence and Machine Learning (AI/ML) Research Scientist](https://jobright.ai/jobs/research-scientist-graduate-(seed---llm)---2026-start-(phd)-jobs-in-united-states) | Laurel, MD | Claude web search: AI for materials discovery research scientist new grad PhD 2 |
+| Applied Materials | [Physicist/Scientist, Doctorate Degree, New College Grad (Spring 2027)](https://zapply.jobs/jobs/801c691c-b56c-4e91-8ae8-921974385b5d/) | CA (Santa Clara area per company listing) | Claude web search: crystal structure prediction machine learning job |
+| Meta | [Research Scientist, Systems for ML (PhD)](https://www.linkedin.com/jobs/view/research-scientist-systems-for-ml-phd-at-meta-3811199849) | New York, NY | Claude web search: research scientist PhD university graduate 2027 machine lear |
+| NVIDIA | [Research Scientist, Deep Learning and Computer Vision - New College Graduate](https://jobs.nvidia.com/careers/job/893395293387) | Not stated in listing; verify US location | Claude web search: research scientist PhD university graduate 2027 machine lear |
 | Google | [Research Scientist - Neutral Atoms - Quantum AI](https://www.google.com/about/careers/applications/jobs/results/79694460677432006) | Boulder, CO | speedyapply 2027 AI new-grad list |
+| NVIDIA | [Research Scientist - AI and Systems Security - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894) | Westford, MA +1 | speedyapply 2027 AI new-grad list |
 | Google | [Research Scientist - Quantum Error Correction - Quantum AI](https://www.google.com/about/careers/applications/jobs/results/80321648309215942) | Goleta, CA +3 | speedyapply 2027 AI new-grad list |
 | Sanofi | [2027 Spring Co op Biologics Design and AI Cambridge MA](https://sanofi.wd3.myworkdayjobs.com/en-US/sanoficareers/job/Cambridge-MA/XMLNAME-2027-Spring-Co-op-Biologics-Design-and-AI-Cambridge-MA_R2854337) | Cambridge, MA | speedyapply 2027 AI new-grad list |
 | Aramco Services Company | [Graduate Researcher - Summer 2027 - Applied Artificial Intelligence for Petroleum Engineering](https://aramcoservices.applytojob.com/apply/tIaTOfPJhn/Graduate-Researcher-Summer-2027-Applied-Artificial-Intelligence-For-Petroleum-Engineering) | Houston, TX | speedyapply 2027 AI new-grad list |
-| The Brattle Group | [Data and AI Engineer - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4751955005) | Boston, MA +1 | speedyapply 2027 AI new-grad list |
 | Samsung AI Research Center | [2027 Health AI Scholar - Digital Health Algorithms Team](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002) | Mountain View, CA | speedyapply 2027 AI new-grad list |
 | SharkNinja | [Applied AI & Analytics Spring Opportunities - Jan-Jun 2027](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713793006) | Needham, MA +2 | speedyapply 2027 AI new-grad list |
 | TikTok | [Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance](https://lifeattiktok.com/search/7669910326745434421) | Seattle, WA | Simplify new-grad list |
@@ -217,12 +218,12 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | ByteDance | [Data Lake Infrastructure & Data Analytics Research Engineer Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671108456554432773/detail) | San Jose, CA | Simplify new-grad list |
 | ByteDance | [AI/LLM Network Software Development Engineer Graduate - High Speed Network - PhD](https://jobs.bytedance.com/en/position/7668855566150732037/detail) | Seattle, WA | Simplify new-grad list |
 | ByteDance | [Research Scientist Graduate - Seed AI Foundation Model Infrastructure - PhD](https://jobs.bytedance.com/en/position/7673264681083898165/detail) | San Jose, CA | Simplify new-grad list |
-| Atlassian | [Data Scientist Graduate](https://campus-americas.icims.com/jobs/26000/data-scientist%2c-2027-graduate-u.s./job) | Seattle, WA | Simplify new-grad list |
 | TikTok | [Machine Learning Engineer Graduate - E-Commerce User Growth](https://lifeattiktok.com/search/7694353236283935029) | Seattle, WA | Simplify new-grad list |
 | ByteDance | [Research Scientist](https://jobs.bytedance.com/en/position/7698902624389482757/detail) | San Jose, CA | Simplify new-grad list |
 | Network Bio | [AI Scientist](https://job-boards.greenhouse.io/networkbio/jobs/5445891008) | Palo Alto, CA; Seattle, WA | Simplify new-grad list |
 | ByteDance | [Video/Image AI/ML Software Engineer Graduate - Video and Edge - Multimedia Lab](https://jobs.bytedance.com/en/position/7704089625815468293/detail) | San Jose, CA | Simplify new-grad list |
 | BetterHelp | [Data Science Extern](https://job-boards.greenhouse.io/betterhelpcom/jobs/5439919008) | Remote in USA | Simplify new-grad list |
+| NVIDIA | [Deep Learning Framework Communications Engineer New Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1) | United States | Simplify new-grad list |
 
 ### Closed recently
 
@@ -232,8 +233,10 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 - Fireworks AI, Member of Technical Staff New Grad - Research (2026-11-06)
 - Lila Sciences, ML Scientist, Foundation Models for Life Sciences (2026-11-03)
 
-<details><summary>Screened out (229)</summary>
+<details><summary>Screened out (231)</summary>
 
+- [Unique, Data Scientist - Wealth Graph](https://unique.careers.hibob.com/jobs/e59dfdc2-da9d-4715-af0c-ed9512885d8d): Estimated $150K–$200K, below your line.
+- [Atlassian, Data Scientist Graduate](https://campus-americas.icims.com/jobs/26000/data-scientist%2c-2027-graduate-u.s./job): Estimated $170K–$240K, below your line.
 - [Adobe, 2027 University Graduate - Data Scientist](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462): Estimated $190K–$230K, below your line.
 - [Lila Sciences, Machine Learning Scientist I/II, Scientific Reasoning](https://www.indeed.com/q-Materials-Science-PhD-jobs.html): Estimated $200K–$280K, below your line.
 - [Lawrence Livermore National Laboratory, Computational Automation and Data Science Scientist](https://jobs.smartrecruiters.com/LLNL/3743990016808996-computational-automation-and-data-science-scientist?oga=true): Estimated $120K–$165K, below your line.
@@ -432,8 +435,6 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 - [ByteDance, Research Scientist Graduate (Seed Model - Speech - Interaction & Learning) - 2026 Start (PhD)](https://jobs.bytedance.com/en/position/7671032227920431413/detail): Labelled '2026 Start' with onboarding required by the end of 2026, before the May 2027 graduation; posted base $254,400-$480,000 clears the line but it is a speech and audio research req (fit 2).
 - [ByteDance, Research Scientist Graduate (Seed Model - Multimodal Interaction & World Model) - 2026 Start (PhD)](https://jobs.bytedance.com/en/position/7671026650366183685/detail): Labelled '2026 Start' with onboarding required by the end of 2026, before the May 2027 graduation; posted base $254,400-$480,000 (est. $330K-$620K total) clears the line, and the req wants multimodal/RL/vision-language publications (fit 3).
 - [ByteDance, Research Scientist Graduate (Seed Model - Vision - Generative AI) - 2026 Start (PhD)](https://jobs.bytedance.com/en/position/7671030761623177477/detail): Labelled '2026 Start' with onboarding required by the end of 2026, before the May 2027 graduation; posted base $254,400-$480,000 (est. $330K-$620K total) clears the line but the focus is image/video/3D generation (fit 3), so only a 2027 Start sibling would be worth a slot.
-- [ByteDance, Research Scientist Graduate (Seed Model - LLM) - 2026 Start (PhD)](https://jobs.bytedance.com/en/position/7671033602288912645/detail): Labelled '2026 Start' and requires committing to an onboarding date by the end of 2026, before the May 2027 graduation; posted base $254,400-$480,000 (est. $330K-$620K total) would clear the line, so watch for a 2027 Start sibling of this Seed LLM req.
-- [Solace, Associate Data Scientist - College Grad 2027](https://jobs.ashbyhq.com/solace/77ca492c-4142-4931-beeb-e85d9d0ac443): Estimated $150K–$210K, below your line.
 
 </details>
 

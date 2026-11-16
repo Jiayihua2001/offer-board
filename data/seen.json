@@ -3130,5 +3130,35 @@
     "decision": "screened",
     "reason": "estimated $190K–$230K, below your line",
     "tkey": "adobe|2027-university-graduate-data-scientist"
+  },
+  "https://jobs.ashbyhq.com/iambic-therapeutics/df644329-cee8-4d71-8bdf-8976d857e597": {
+    "date": "2026-11-16",
+    "decision": "screened",
+    "reason": "estimated $75K–$110K, below your line",
+    "tkey": "iambic-therapeutics|associate-scientist-ii-or-senior-associate-scientist-immunology"
+  },
+  "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4751955005": {
+    "date": "2026-11-16",
+    "decision": "screened",
+    "reason": "says it won’t sponsor visas",
+    "tkey": "the-brattle-group|data-and-ai-engineer-july-2027"
+  },
+  "https://campus-americas.icims.com/jobs/26000/data-scientist%2c-2027-graduate-u.s./job": {
+    "date": "2026-11-16",
+    "decision": "screened",
+    "reason": "estimated $170K–$240K, below your line",
+    "tkey": "atlassian|data-scientist-graduate"
+  },
+  "https://ats.rippling.com/ams/jobs/26e20c0b-d1ba-4a4e-8a04-707855517f49": {
+    "date": "2026-11-16",
+    "decision": "screened",
+    "reason": "says it won’t sponsor visas",
+    "tkey": "ams|data-science-associate"
+  },
+  "https://unique.careers.hibob.com/jobs/e59dfdc2-da9d-4715-af0c-ed9512885d8d": {
+    "date": "2026-11-16",
+    "decision": "screened",
+    "reason": "estimated $150K–$200K, below your line",
+    "tkey": "unique|data-scientist-wealth-graph"
   }
 }
