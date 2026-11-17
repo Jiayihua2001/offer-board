@@ -3160,5 +3160,23 @@
     "decision": "screened",
     "reason": "estimated $150K–$200K, below your line",
     "tkey": "unique|data-scientist-wealth-graph"
+  },
+  "https://jobs.ashbyhq.com/chaidiscovery/e60e0d79-622d-4251-b056-d380484d9dab": {
+    "date": "2026-11-17",
+    "decision": "added",
+    "reason": "",
+    "tkey": "chai-discovery|forward-deployed-scientist"
+  },
+  "https://sanofi.wd3.myworkdayjobs.com/en-US/sanoficareers/job/Cambridge-MA/XMLNAME-2027-Spring-Co-op-Biologics-Design-and-AI-Cambridge-MA_R2854337": {
+    "date": "2026-11-17",
+    "decision": "screened",
+    "reason": "internship",
+    "tkey": "sanofi|2027-spring-co-op-biologics-design-and-ai-cambridge-ma"
+  },
+  "https://contextlabs.bamboohr.com/careers/187": {
+    "date": "2026-11-17",
+    "decision": "screened",
+    "reason": "estimated $150K–$200K, below your line",
+    "tkey": "context-labs|data-scientist-energy-oil-gas"
   }
 }

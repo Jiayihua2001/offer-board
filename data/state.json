@@ -1,10 +1,10 @@
 {
-  "runs": 43,
+  "runs": 44,
   "spend": {
     "2026-10": 4.3578,
-    "2026-11": 12.1391
+    "2026-11": 12.5299
   },
-  "discovery_cursor": 10,
+  "discovery_cursor": 20,
   "review": [
     {
       "company": "Schrödinger",
@@ -64,6 +64,13 @@
     },
     {
       "company": "Anthropic",
+      "title": "Anthropic Research Resident",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+      "location": "San Francisco, CA | New York City, NY",
+      "source": "Greenhouse (anthropic)"
+    },
+    {
+      "company": "Anthropic",
       "title": "Research Scientist, Discovery (Engineering & Applied Sciences)",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468937008",
       "location": "San Francisco, CA",
@@ -89,13 +96,6 @@
       "url": "https://jobs.ashbyhq.com/achira/bb70d7b1-6da0-4271-85b6-caec85254dea",
       "location": "San Francisco Office",
       "source": "Ashby (achira)"
-    },
-    {
-      "company": "Chai Discovery",
-      "title": "Forward-Deployed Scientist",
-      "url": "https://jobs.ashbyhq.com/chaidiscovery/e60e0d79-622d-4251-b056-d380484d9dab",
-      "location": "San Francisco office",
-      "source": "Ashby (chaidiscovery)"
     },
     {
       "company": "Chai Discovery",
@@ -161,32 +161,18 @@
       "source": "Google careers search"
     },
     {
-      "company": "Johns Hopkins Applied Physics Laboratory",
-      "title": "2027 PhD Graduate - Artificial Intelligence and Machine Learning (AI/ML) Research Scientist",
-      "url": "https://jobright.ai/jobs/research-scientist-graduate-(seed---llm)---2026-start-(phd)-jobs-in-united-states",
-      "location": "Laurel, MD",
-      "source": "Claude web search: AI for materials discovery research scientist new grad PhD 2"
+      "company": "TikTok Inc.",
+      "title": "Agent Evaluation & Evolution Researcher Graduate (AML-Ark-US) – 2027 Start (PhD)",
+      "url": "https://career.virginia.edu/jobs/tiktok-inc-agent-evaluation-evolution-researcher-graduate-aml-ark-us-2027-start-phd/",
+      "location": "San Jose, CA (Glassdoor lists Seattle, WA)",
+      "source": "Claude web search: LLM evaluation OR post-training research scientist PhD new g"
     },
     {
-      "company": "Applied Materials",
-      "title": "Physicist/Scientist, Doctorate Degree, New College Grad (Spring 2027)",
-      "url": "https://zapply.jobs/jobs/801c691c-b56c-4e91-8ae8-921974385b5d/",
-      "location": "CA (Santa Clara area per company listing)",
-      "source": "Claude web search: crystal structure prediction machine learning job"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist, Systems for ML (PhD)",
-      "url": "https://www.linkedin.com/jobs/view/research-scientist-systems-for-ml-phd-at-meta-3811199849",
-      "location": "New York, NY",
-      "source": "Claude web search: research scientist PhD university graduate 2027 machine lear"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Research Scientist, Deep Learning and Computer Vision - New College Graduate",
-      "url": "https://jobs.nvidia.com/careers/job/893395293387",
-      "location": "Not stated in listing; verify US location",
-      "source": "Claude web search: research scientist PhD university graduate 2027 machine lear"
+      "company": "Freudenberg Home and Cleaning Solutions (Chem-Trend)",
+      "title": "Materials Informatics Scientist",
+      "url": "https://workopia.io/jobs/a80ce95c8be4b3262ee7301c1212e824",
+      "location": "Plymouth, MI (hybrid)",
+      "source": "Claude web search: materials informatics machine learning scientist job United "
     },
     {
       "company": "Google",
@@ -207,13 +193,6 @@
       "title": "Research Scientist - Quantum Error Correction - Quantum AI",
       "url": "https://www.google.com/about/careers/applications/jobs/results/80321648309215942",
       "location": "Goleta, CA +3",
-      "source": "speedyapply 2027 AI new-grad list"
-    },
-    {
-      "company": "Sanofi",
-      "title": "2027 Spring Co op Biologics Design and AI Cambridge MA",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/sanoficareers/job/Cambridge-MA/XMLNAME-2027-Spring-Co-op-Biologics-Design-and-AI-Cambridge-MA_R2854337",
-      "location": "Cambridge, MA",
       "source": "speedyapply 2027 AI new-grad list"
     },
     {
@@ -315,5 +294,5 @@
       "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-16 22:08 UTC"
+  "last_run": "2026-11-17 08:09 UTC"
 }
