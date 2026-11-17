@@ -1,10 +1,10 @@
 {
-  "runs": 44,
+  "runs": 45,
   "spend": {
     "2026-10": 4.3578,
-    "2026-11": 12.5299
+    "2026-11": 12.9156
   },
-  "discovery_cursor": 20,
+  "discovery_cursor": 9,
   "review": [
     {
       "company": "Schrödinger",
@@ -112,6 +112,13 @@
       "source": "Ashby (iambic-therapeutics)"
     },
     {
+      "company": "CuspAI",
+      "title": "Applied AI/ML Research Engineer (Generative Models)",
+      "url": "https://jobs.ashbyhq.com/cuspai/ea10b5f7-1672-4294-a9d4-602403e67a89",
+      "location": "EMEA | Europe",
+      "source": "Ashby (cuspai)"
+    },
+    {
       "company": "SandboxAQ",
       "title": "Machine Learning Scientist – Generative Molecular Design",
       "url": "https://jobs.ashbyhq.com/sandboxaq/f6d8bdb1-75e5-4abe-94ea-285a7c2aa359",
@@ -161,18 +168,39 @@
       "source": "Google careers search"
     },
     {
-      "company": "TikTok Inc.",
-      "title": "Agent Evaluation & Evolution Researcher Graduate (AML-Ark-US) – 2027 Start (PhD)",
-      "url": "https://career.virginia.edu/jobs/tiktok-inc-agent-evaluation-evolution-researcher-graduate-aml-ark-us-2027-start-phd/",
-      "location": "San Jose, CA (Glassdoor lists Seattle, WA)",
-      "source": "Claude web search: LLM evaluation OR post-training research scientist PhD new g"
+      "company": "Profluent",
+      "title": "Machine Learning Scientist, Biomolecular Structure Prediction",
+      "url": "https://www.dreamworkhq.com/job/269c9653-0ccd-46a7-9669-c82e405ca0fd",
+      "location": "California, United States",
+      "source": "Claude web search: crystal structure prediction machine learning job"
     },
     {
-      "company": "Freudenberg Home and Cleaning Solutions (Chem-Trend)",
-      "title": "Materials Informatics Scientist",
-      "url": "https://workopia.io/jobs/a80ce95c8be4b3262ee7301c1212e824",
-      "location": "Plymouth, MI (hybrid)",
-      "source": "Claude web search: materials informatics machine learning scientist job United "
+      "company": "TikTok Inc. (ByteDance)",
+      "title": "Research Scientist Graduate (Seed-Multimodal Interaction and World Model) - 2027 Start (PhD)",
+      "url": "https://cdc.wpi.edu/jobs/tiktok-inc-research-scientist-graduate-seed-multimodal-interaction-and-world-model-2027-start-phd/",
+      "location": "San Jose, CA, United States",
+      "source": "Claude web search: \"2027 Start (PhD)\" research scientist AI for Science ByteDan"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist, Systems for ML (PhD)",
+      "url": "https://www.linkedin.com/jobs/view/research-scientist-systems-for-ml-phd-at-meta-3811199849",
+      "location": "New York, NY",
+      "source": "Claude web search: research scientist PhD university graduate 2027 machine lear"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Research Scientist, Deep Learning and Computer Vision - New College Graduate",
+      "url": "https://jobs.nvidia.com/careers/job/893395293387",
+      "location": "Not specified in posting",
+      "source": "Claude web search: research scientist PhD university graduate 2027 machine lear"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Deep Learning Framework Communications Engineer - New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1",
+      "location": "Santa Clara, CA",
+      "source": "speedyapply 2027 AI new-grad list"
     },
     {
       "company": "Google",
@@ -285,14 +313,7 @@
       "url": "https://job-boards.greenhouse.io/betterhelpcom/jobs/5439919008",
       "location": "Remote in USA",
       "source": "Simplify new-grad list"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Deep Learning Framework Communications Engineer New Grad",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1",
-      "location": "United States",
-      "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-17 08:09 UTC"
+  "last_run": "2026-11-17 21:01 UTC"
 }
