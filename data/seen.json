@@ -3178,5 +3178,29 @@
     "decision": "screened",
     "reason": "estimated $150K–$200K, below your line",
     "tkey": "context-labs|data-scientist-energy-oil-gas"
+  },
+  "https://job-boards.greenhouse.io/lilasciences/jobs/4465081009": {
+    "date": "2026-11-18",
+    "decision": "added",
+    "reason": "",
+    "tkey": "lila-sciences|research-scientist-soft-matter-simulations"
+  },
+  "https://jobs.ashbyhq.com/iambic-therapeutics/6236b729-9139-4971-8a31-3f5a9add1ed4": {
+    "date": "2026-11-18",
+    "decision": "screened",
+    "reason": "estimated $130K–$185K, below your line",
+    "tkey": "iambic-therapeutics|research-scientist-ii-senior-computational-chemistry"
+  },
+  "https://linkedin.com/jobs/view/research-scientist-systems-for-ml-phd-at-meta-3811199849": {
+    "date": "2026-11-18",
+    "decision": "added",
+    "reason": "",
+    "tkey": "meta|research-scientist-systems-for-ml-phd"
+  },
+  "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Spring-Texas-United-States-of-America/AI-Automation-Engineer-Graduate_1213068": {
+    "date": "2026-11-18",
+    "decision": "screened",
+    "reason": "estimated $115K–$150K, below your line",
+    "tkey": "hewlett-packard-enterprise|ai-automation-engineer-graduate"
   }
 }

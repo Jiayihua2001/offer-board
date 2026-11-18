@@ -1,11 +1,25 @@
 {
-  "runs": 46,
+  "runs": 47,
   "spend": {
     "2026-10": 4.3578,
-    "2026-11": 13.2955
+    "2026-11": 13.6884
   },
-  "discovery_cursor": 19,
+  "discovery_cursor": 8,
   "review": [
+    {
+      "company": "xAI",
+      "title": "AI Tutor, Biology - Temporary",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5298891007",
+      "location": "Remote, International",
+      "source": "Greenhouse (xai)"
+    },
+    {
+      "company": "xAI",
+      "title": "AI Tutor, Chemistry - Temporary",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5298892007",
+      "location": "Remote US; Remote, International",
+      "source": "Greenhouse (xai)"
+    },
     {
       "company": "Schrödinger",
       "title": "Computational Chemist",
@@ -36,6 +50,13 @@
     },
     {
       "company": "Lila Sciences",
+      "title": "Member of Technical Staff, AI Security",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4403714009",
+      "location": "Cambridge, MA USA",
+      "source": "Greenhouse (lilasciences)"
+    },
+    {
+      "company": "Lila Sciences",
       "title": "ML Research Engineer, Performance Optimization",
       "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4455701009",
       "location": "Cambridge, MA USA; San Francisco, CA USA",
@@ -56,11 +77,11 @@
       "source": "Greenhouse (lilasciences)"
     },
     {
-      "company": "Lila Sciences",
-      "title": "Research Scientist, Soft Matter Simulations",
-      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4465081009",
-      "location": "Cambridge, MA USA; San Francisco, CA USA",
-      "source": "Greenhouse (lilasciences)"
+      "company": "Anthropic",
+      "title": "Anthropic Research Resident",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+      "location": "San Francisco, CA | New York City, NY",
+      "source": "Greenhouse (anthropic)"
     },
     {
       "company": "Anthropic",
@@ -96,13 +117,6 @@
       "url": "https://jobs.ashbyhq.com/chaidiscovery/9cc94a28-cac9-48a4-a44c-685a870b6288",
       "location": "San Francisco office",
       "source": "Ashby (chaidiscovery)"
-    },
-    {
-      "company": "Iambic Therapeutics",
-      "title": "Research Scientist II/Senior, Computational Chemistry",
-      "url": "https://jobs.ashbyhq.com/iambic-therapeutics/6236b729-9139-4971-8a31-3f5a9add1ed4",
-      "location": "San Diego HQ",
-      "source": "Ashby (iambic-therapeutics)"
     },
     {
       "company": "CuspAI",
@@ -161,11 +175,18 @@
       "source": "Google careers search"
     },
     {
-      "company": "Johns Hopkins Applied Physics Laboratory",
-      "title": "2027 PhD Graduate - Artificial Intelligence and Complex Systems",
-      "url": "https://www.indeed.com/q-material-science-artificial-intelligence-jobs.html",
-      "location": "Laurel, MD",
-      "source": "Claude web search: foundation model for materials or chemistry research enginee"
+      "company": "Applied Materials",
+      "title": "Physicist/Scientist, Doctorate Degree, New College Grad (Spring 2027)",
+      "url": "https://zapply.jobs/jobs/801c691c-b56c-4e91-8ae8-921974385b5d/",
+      "location": "Santa Clara, CA",
+      "source": "Claude web search: crystal structure prediction machine learning job"
+    },
+    {
+      "company": "Profluent",
+      "title": "Machine Learning Scientist, Biomolecular Structure Prediction",
+      "url": "https://zapply.jobs/jobs/ee22cdcd-5b75-4725-8271-1a2f748a192a/",
+      "location": "California, US",
+      "source": "Claude web search: crystal structure prediction machine learning job"
     },
     {
       "company": "NVIDIA",
@@ -196,10 +217,10 @@
       "source": "speedyapply 2027 AI new-grad list"
     },
     {
-      "company": "Aramco Services Company",
-      "title": "Graduate Researcher - Summer 2027 - Applied Artificial Intelligence for Petroleum Engineering",
-      "url": "https://aramcoservices.applytojob.com/apply/tIaTOfPJhn/Graduate-Researcher-Summer-2027-Applied-Artificial-Intelligence-For-Petroleum-Engineering",
-      "location": "Houston, TX",
+      "company": "Bitdeer",
+      "title": "2027 US AI Engineering - New College Graduate",
+      "url": "https://bitdeer.breezy.hr/p/826249d5dbdc-2027-us-ai-engineering-new-college-graduate",
+      "location": "San Jose, CA +1",
       "source": "speedyapply 2027 AI new-grad list"
     },
     {
@@ -215,6 +236,13 @@
       "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713793006",
       "location": "Needham, MA +2",
       "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "Data Scientist Graduate - TikTok Product",
+      "url": "https://lifeattiktok.com/search/7669654422861383941",
+      "location": "San Jose, CA",
+      "source": "Simplify new-grad list"
     },
     {
       "company": "TikTok",
@@ -301,5 +329,5 @@
       "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-18 07:46 UTC"
+  "last_run": "2026-11-18 20:37 UTC"
 }

@@ -794,7 +794,7 @@
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
     "last_checked": "2026-11-18",
-    "last_open": "2026-11-17",
+    "last_open": "2026-11-18",
     "check_failures": 0,
     "stale": false
   },
@@ -1451,7 +1451,7 @@
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
     "last_checked": "2026-11-18",
-    "last_open": "2026-11-17",
+    "last_open": "2026-11-18",
     "check_failures": 0,
     "stale": false
   },
@@ -2094,7 +2094,7 @@
     "added": "2026-10-31",
     "first_seen": "2026-10-31",
     "last_checked": "2026-11-18",
-    "last_open": "2026-11-16",
+    "last_open": "2026-11-18",
     "check_failures": 0,
     "stale": false
   },
@@ -2341,5 +2341,65 @@
     "last_open": "2026-11-18",
     "check_failures": 0,
     "stale": false
+  },
+  {
+    "company": "Lila Sciences",
+    "role": "Research Scientist, Soft Matter Simulations",
+    "est": [
+      230,
+      380
+    ],
+    "id": "lila-sciences-research-scientist-soft-matter-s-bca2ed",
+    "track": "science",
+    "location": "Cambridge, MA USA; San Francisco, CA USA",
+    "base": "Expected base salary range $176,000 - $304,000 USD, plus bonus potential and early-stage equity",
+    "fit": 3,
+    "why": "The candidate's GAtor 2.0 work (ML interatomic potentials like MACE, UMA and AIMNet2, large-scale MPI/Slurm evolutionary search, experimental PXRD collaboration) and Python/PyTorch skills match the HPC simulation, ML potentials and closed-loop workflow parts. The Amazon LLM routing work also supports the agentic AI component.",
+    "caveat": "The role centers on soft matter (polymers, colloids, DPD, SCFT, liquid state theory), where the candidate's molecular crystal and materials-discovery background is only adjacent, and the posting does not mention visa sponsorship, so the $230-380K total estimate is uncertain and depends on equity value.",
+    "posted": "2026-11-10",
+    "source": "Greenhouse (lilasciences)",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4465081009",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": {
+      "type": "greenhouse",
+      "token": "lilasciences",
+      "id": "4465081009"
+    },
+    "added": "2026-11-18",
+    "first_seen": "2026-11-18",
+    "last_checked": "2026-11-18",
+    "last_open": "2026-11-18",
+    "check_failures": 0
+  },
+  {
+    "company": "Meta",
+    "role": "Research Scientist, Systems for ML (PhD)",
+    "est": [
+      220,
+      330
+    ],
+    "id": "meta-research-scientist-systems-for-m-d2b68d",
+    "track": "llm",
+    "location": "New York, NY",
+    "base": "Pay not listed in the posting",
+    "fit": 4,
+    "why": "Systems for ML work matches the candidate's experience scaling evolutionary search to hundreds of MPI/Slurm processes and building PyTorch-based ML pipelines. The Amazon internship, with a cost-aware LLM router serving 220K production cases, also maps well to ML systems and efficiency problems.",
+    "caveat": "The page text was unavailable, so openness, posting date, sponsorship and pay are unconfirmed. The pay estimate is based on typical Meta PhD research scientist compensation (base, bonus and equity), and the role may expect a prior systems or ML-infrastructure publication record that the candidate's materials-science PhD may not show.",
+    "posted": "",
+    "source": "Claude web search: research scientist PhD university graduate 2027 machine lear",
+    "url": "https://www.linkedin.com/jobs/view/research-scientist-systems-for-ml-phd-at-meta-3811199849",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-11-18",
+    "first_seen": "2026-11-18",
+    "last_checked": "2026-11-18",
+    "last_open": "2026-11-18",
+    "check_failures": 0
   }
 ]
