@@ -81,7 +81,7 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 
 <!-- BOARD:START -->
 
-**76 open roles** · 2 new this week · 21 above your $300K line · 55 near it · last run 2026-11-17 21:01 UTC · AI spend this month $12.92 of $100
+**76 open roles** · 2 new this week · 21 above your $300K line · 55 near it · last run 2026-11-18 07:46 UTC · AI spend this month $13.30 of $100
 
 Roles the board added in the last 7 days come first; the rest follow by pay tier.
 
@@ -127,7 +127,7 @@ Roles the board added in the last 7 days come first; the rest follow by pay tier
 | ByteDance | [AI Molecular Dynamics Algorithm Researcher Graduate (Seed AI for Science - Atomistic AI) - 2027 Start (PhD)](https://jobs.bytedance.com/en/position/7670550401380878645/detail) | Seattle, WA | $200K–$390K (-2%) | ●●●●● | sponsors | 2026-08-07 |
 | ByteDance | [Machine Learning Research Scientist - Atomistic AI - 2026 Start (PhD)](https://www.indeed.com/q-phd-machine-learning-jobs.html) | Seattle, WA | $230K–$350K (-3%) | ●●●●● | sponsors |  |
 | Achira | [ML Research Scientist (MLRS) - Representation Learning for Molecular AI](https://jobs.ashbyhq.com/achira/fd1bf203-29bc-454a-9140-378a21bbc173) | San Francisco, CA | $220K–$330K (-8%) | ●●●●● | **ask first** | 2026-06-30 |
-| Meta | [AI Research Scientist, FAIR Chemistry](https://www.glassdoor.com/Job/new-york-computational-chemistry-jobs-SRCH_IL.0,8_IC1132348_KO9,32.htm) | New York, NY | $220K–$330K (-8%) | ●●●●● | sponsors |  |
+| Meta | [AI Research Scientist, FAIR Chemistry](https://www.glassdoor.com/Job/new-york-computational-chemistry-jobs-SRCH_IL.0,8_IC1132348_KO9,32.htm) not confirmed open lately | New York, NY | $220K–$330K (-8%) | ●●●●● | sponsors |  |
 | Meta | [AI Research Scientist — Generative AI for Materials Discovery](https://www.metacareers.com/profile/job_details/968722059080516/) | Not stated (Meta research teams for this area are typically in Menlo Park, CA or New York, NY) | $220K–$330K (-8%) | ●●●●● | sponsors |  |
 | Chai Discovery | [Research Scientist](https://jobs.ashbyhq.com/chaidiscovery/19fcda8f-b68a-465a-a960-edc49c7ecdb9) | San Francisco, CA | $250K–$400K (+8%) | ●●●● | **ask first** | 2026-03-06 |
 | TikTok | [Research Scientist Graduate (Conversational AI) - 2027 Start (PhD)](https://lifeattiktok.com/search/7670685496821713205) | San Jose, CA; Seattle, WA | $250K–$400K (+8%) | ●●●● | sponsors | 2026-08-07 |
@@ -189,7 +189,6 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | Lila Sciences | [ML Research Scientist, Environments & Harnesses](https://job-boards.greenhouse.io/lilasciences/jobs/4462270009) | Cambridge, MA USA; London, UK; San Francisco, CA USA | Greenhouse (lilasciences) |
 | Lila Sciences | [ML Research Scientist, Scientific Evaluations](https://job-boards.greenhouse.io/lilasciences/jobs/4472554009) | Cambridge, MA USA; London, UK; San Francisco, CA USA | Greenhouse (lilasciences) |
 | Lila Sciences | [Research Scientist, Soft Matter Simulations](https://job-boards.greenhouse.io/lilasciences/jobs/4465081009) | Cambridge, MA USA; San Francisco, CA USA | Greenhouse (lilasciences) |
-| Anthropic | [Anthropic Research Resident](https://job-boards.greenhouse.io/anthropic/jobs/5438311008) | San Francisco, CA \| New York City, NY | Greenhouse (anthropic) |
 | Anthropic | [Research Scientist, Discovery (Engineering & Applied Sciences)](https://job-boards.greenhouse.io/anthropic/jobs/5468937008) | San Francisco, CA | Greenhouse (anthropic) |
 | Anthropic | [Research Scientist, Life Sciences (Large Molecules, Process Development) ](https://job-boards.greenhouse.io/anthropic/jobs/5467099008) | San Francisco, CA | Greenhouse (anthropic) |
 | Achira | [Machine Learning Research Engineer (MLRE) - GPUs](https://jobs.ashbyhq.com/achira/f7893ad8-8da1-4ae3-b56b-151feb17d324) | San Francisco Office | Ashby (achira) |
@@ -204,10 +203,7 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | Thinking Machines Lab | [Research Lead, Tinker, Fine-tuning Science](https://jobs.ashbyhq.com/ThinkingMachines/4e3a366f-eb0f-4ea9-8cf9-9c2f911f279c) | San Francisco | Ashby (thinkingmachines) |
 | Google | [Research Scientist, Climate and Energy](https://www.google.com/about/careers/applications/jobs/results/98942829060858566-research-scientist-climate-and-energy) | United States | Google careers search |
 | Google | [Computational Materials Scientist, DeepMind](https://www.google.com/about/careers/applications/jobs/results/111155821970105030-computational-materials-scientist-deepmind) | United States | Google careers search |
-| Profluent | [Machine Learning Scientist, Biomolecular Structure Prediction](https://www.dreamworkhq.com/job/269c9653-0ccd-46a7-9669-c82e405ca0fd) | California, United States | Claude web search: crystal structure prediction machine learning job |
-| TikTok Inc. (ByteDance) | [Research Scientist Graduate (Seed-Multimodal Interaction and World Model) - 2027 Start (PhD)](https://cdc.wpi.edu/jobs/tiktok-inc-research-scientist-graduate-seed-multimodal-interaction-and-world-model-2027-start-phd/) | San Jose, CA, United States | Claude web search: "2027 Start (PhD)" research scientist AI for Science ByteDan |
-| Meta | [Research Scientist, Systems for ML (PhD)](https://www.linkedin.com/jobs/view/research-scientist-systems-for-ml-phd-at-meta-3811199849) | New York, NY | Claude web search: research scientist PhD university graduate 2027 machine lear |
-| NVIDIA | [Research Scientist, Deep Learning and Computer Vision - New College Graduate](https://jobs.nvidia.com/careers/job/893395293387) | Not specified in posting | Claude web search: research scientist PhD university graduate 2027 machine lear |
+| Johns Hopkins Applied Physics Laboratory | [2027 PhD Graduate - Artificial Intelligence and Complex Systems](https://www.indeed.com/q-material-science-artificial-intelligence-jobs.html) | Laurel, MD | Claude web search: foundation model for materials or chemistry research enginee |
 | NVIDIA | [Deep Learning Framework Communications Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1) | Santa Clara, CA | speedyapply 2027 AI new-grad list |
 | Google | [Research Scientist - Neutral Atoms - Quantum AI](https://www.google.com/about/careers/applications/jobs/results/79694460677432006) | Boulder, CO | speedyapply 2027 AI new-grad list |
 | NVIDIA | [Research Scientist - AI and Systems Security - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894) | Westford, MA +1 | speedyapply 2027 AI new-grad list |
@@ -225,6 +221,8 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | Network Bio | [AI Scientist](https://job-boards.greenhouse.io/networkbio/jobs/5445891008) | Palo Alto, CA; Seattle, WA | Simplify new-grad list |
 | ByteDance | [Video/Image AI/ML Software Engineer Graduate - Video and Edge - Multimedia Lab](https://jobs.bytedance.com/en/position/7704089625815468293/detail) | San Jose, CA | Simplify new-grad list |
 | BetterHelp | [Data Science Extern](https://job-boards.greenhouse.io/betterhelpcom/jobs/5439919008) | Remote in USA | Simplify new-grad list |
+| Qualcomm | [Machine Learning Compiler Engineer - Machine Learning Engineering](https://qualcomm.eightfold.ai/careers/job/446722177119) | Austin, TX; Raleigh, NC; NYC; San Diego, CA | Simplify new-grad list |
+| Atoms | [AI Researcher New Grad](https://job-boards.greenhouse.io/atoms/jobs/8948841002) | SF; Mountain View, CA | Simplify new-grad list |
 
 ### Closed recently
 
@@ -232,7 +230,6 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 - Lila Sciences, Senior / Engineer II, AI Lab Research Engineer (2026-11-13)
 - Meta, Research Scientist, Materials (2026-11-09)
 - Fireworks AI, Member of Technical Staff New Grad - Research (2026-11-06)
-- Lila Sciences, ML Scientist, Foundation Models for Life Sciences (2026-11-03)
 
 <details><summary>Screened out (232)</summary>
 

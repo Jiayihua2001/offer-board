@@ -1,10 +1,10 @@
 {
-  "runs": 45,
+  "runs": 46,
   "spend": {
     "2026-10": 4.3578,
-    "2026-11": 12.9156
+    "2026-11": 13.2955
   },
-  "discovery_cursor": 9,
+  "discovery_cursor": 19,
   "review": [
     {
       "company": "Schrödinger",
@@ -61,13 +61,6 @@
       "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4465081009",
       "location": "Cambridge, MA USA; San Francisco, CA USA",
       "source": "Greenhouse (lilasciences)"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Research Resident",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
-      "location": "San Francisco, CA | New York City, NY",
-      "source": "Greenhouse (anthropic)"
     },
     {
       "company": "Anthropic",
@@ -168,32 +161,11 @@
       "source": "Google careers search"
     },
     {
-      "company": "Profluent",
-      "title": "Machine Learning Scientist, Biomolecular Structure Prediction",
-      "url": "https://www.dreamworkhq.com/job/269c9653-0ccd-46a7-9669-c82e405ca0fd",
-      "location": "California, United States",
-      "source": "Claude web search: crystal structure prediction machine learning job"
-    },
-    {
-      "company": "TikTok Inc. (ByteDance)",
-      "title": "Research Scientist Graduate (Seed-Multimodal Interaction and World Model) - 2027 Start (PhD)",
-      "url": "https://cdc.wpi.edu/jobs/tiktok-inc-research-scientist-graduate-seed-multimodal-interaction-and-world-model-2027-start-phd/",
-      "location": "San Jose, CA, United States",
-      "source": "Claude web search: \"2027 Start (PhD)\" research scientist AI for Science ByteDan"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist, Systems for ML (PhD)",
-      "url": "https://www.linkedin.com/jobs/view/research-scientist-systems-for-ml-phd-at-meta-3811199849",
-      "location": "New York, NY",
-      "source": "Claude web search: research scientist PhD university graduate 2027 machine lear"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Research Scientist, Deep Learning and Computer Vision - New College Graduate",
-      "url": "https://jobs.nvidia.com/careers/job/893395293387",
-      "location": "Not specified in posting",
-      "source": "Claude web search: research scientist PhD university graduate 2027 machine lear"
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "title": "2027 PhD Graduate - Artificial Intelligence and Complex Systems",
+      "url": "https://www.indeed.com/q-material-science-artificial-intelligence-jobs.html",
+      "location": "Laurel, MD",
+      "source": "Claude web search: foundation model for materials or chemistry research enginee"
     },
     {
       "company": "NVIDIA",
@@ -313,7 +285,21 @@
       "url": "https://job-boards.greenhouse.io/betterhelpcom/jobs/5439919008",
       "location": "Remote in USA",
       "source": "Simplify new-grad list"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "Machine Learning Compiler Engineer - Machine Learning Engineering",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446722177119",
+      "location": "Austin, TX; Raleigh, NC; NYC; San Diego, CA",
+      "source": "Simplify new-grad list"
+    },
+    {
+      "company": "Atoms",
+      "title": "AI Researcher New Grad",
+      "url": "https://job-boards.greenhouse.io/atoms/jobs/8948841002",
+      "location": "SF; Mountain View, CA",
+      "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-17 21:01 UTC"
+  "last_run": "2026-11-18 07:46 UTC"
 }
