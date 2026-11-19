@@ -3202,5 +3202,23 @@
     "decision": "screened",
     "reason": "estimated $115K–$150K, below your line",
     "tkey": "hewlett-packard-enterprise|ai-automation-engineer-graduate"
+  },
+  "https://diffractive.ai/careers": {
+    "date": "2026-11-19",
+    "decision": "screened",
+    "reason": "estimated $180K–$260K, below your line",
+    "tkey": "diffractive-labs|research-scientist-materials-experimental"
+  },
+  "https://indeed.com/q-material-science-artificial-intelligence-jobs.html": {
+    "date": "2026-11-19",
+    "decision": "screened",
+    "reason": "estimated $120K–$155K, below your line",
+    "tkey": "johns-hopkins-applied-physics-laboratory|2027-phd-graduate-artificial-intelligence-and-complex-systems"
+  },
+  "https://bostonscientific.eightfold.ai/careers/job/563602813942507": {
+    "date": "2026-11-19",
+    "decision": "screened",
+    "reason": "estimated $120K–$160K, below your line",
+    "tkey": "boston-scientific|health-ai-engineer-1-data-science-business-intelligence"
   }
 }

@@ -1,10 +1,10 @@
 {
-  "runs": 47,
+  "runs": 48,
   "spend": {
     "2026-10": 4.3578,
-    "2026-11": 13.6884
+    "2026-11": 14.0636
   },
-  "discovery_cursor": 8,
+  "discovery_cursor": 18,
   "review": [
     {
       "company": "xAI",
@@ -17,7 +17,7 @@
       "company": "xAI",
       "title": "AI Tutor, Chemistry - Temporary",
       "url": "https://job-boards.greenhouse.io/xai/jobs/5298892007",
-      "location": "Remote US; Remote, International",
+      "location": "Remote, International",
       "source": "Greenhouse (xai)"
     },
     {
@@ -161,6 +161,20 @@
       "source": "Ashby (thinkingmachines)"
     },
     {
+      "company": "NVIDIA",
+      "title": "Research Scientist, AI and Systems Security - PhD New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894",
+      "location": "2 Locations",
+      "source": "Workday (NVIDIA)"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Deep Learning Framework Communications Engineer - New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1",
+      "location": "US, CA, Santa Clara",
+      "source": "Workday (NVIDIA)"
+    },
+    {
       "company": "Google",
       "title": "Research Scientist, Climate and Energy",
       "url": "https://www.google.com/about/careers/applications/jobs/results/98942829060858566-research-scientist-climate-and-energy",
@@ -175,38 +189,17 @@
       "source": "Google careers search"
     },
     {
-      "company": "Applied Materials",
-      "title": "Physicist/Scientist, Doctorate Degree, New College Grad (Spring 2027)",
-      "url": "https://zapply.jobs/jobs/801c691c-b56c-4e91-8ae8-921974385b5d/",
-      "location": "Santa Clara, CA",
-      "source": "Claude web search: crystal structure prediction machine learning job"
-    },
-    {
-      "company": "Profluent",
-      "title": "Machine Learning Scientist, Biomolecular Structure Prediction",
-      "url": "https://zapply.jobs/jobs/ee22cdcd-5b75-4725-8271-1a2f748a192a/",
-      "location": "California, US",
-      "source": "Claude web search: crystal structure prediction machine learning job"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Deep Learning Framework Communications Engineer - New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1",
-      "location": "Santa Clara, CA",
-      "source": "speedyapply 2027 AI new-grad list"
+      "company": "Chem-Trend (Freudenberg group)",
+      "title": "Materials Informatics Scientist",
+      "url": "https://workopia.io/jobs/a80ce95c8be4b3262ee7301c1212e824",
+      "location": "Plymouth, MI, US",
+      "source": "Claude web search: materials informatics machine learning scientist job United "
     },
     {
       "company": "Google",
       "title": "Research Scientist - Neutral Atoms - Quantum AI",
       "url": "https://www.google.com/about/careers/applications/jobs/results/79694460677432006",
       "location": "Boulder, CO",
-      "source": "speedyapply 2027 AI new-grad list"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Research Scientist - AI and Systems Security - PhD New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894",
-      "location": "Westford, MA +1",
       "source": "speedyapply 2027 AI new-grad list"
     },
     {
@@ -329,5 +322,5 @@
       "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-18 20:37 UTC"
+  "last_run": "2026-11-19 07:40 UTC"
 }
