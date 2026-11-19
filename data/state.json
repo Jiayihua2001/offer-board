@@ -1,10 +1,10 @@
 {
-  "runs": 48,
+  "runs": 49,
   "spend": {
     "2026-10": 4.3578,
-    "2026-11": 14.0636
+    "2026-11": 14.4655
   },
-  "discovery_cursor": 18,
+  "discovery_cursor": 7,
   "review": [
     {
       "company": "xAI",
@@ -36,17 +36,17 @@
     },
     {
       "company": "Schrödinger",
-      "title": "Computational Materials Science, Formulations",
-      "url": "https://job-boards.greenhouse.io/schrdinger/jobs/8086902003",
-      "location": "Mannheim; New York; Portland",
-      "source": "Greenhouse (schrdinger)"
-    },
-    {
-      "company": "Schrödinger",
       "title": "Computational Materials Scientist, Atomic Layer Processing and Chemical Reactivity",
       "url": "https://job-boards.greenhouse.io/schrdinger/jobs/8086074003",
       "location": "New York; Portland",
       "source": "Greenhouse (schrdinger)"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "Machine Learning Research Scientist, Open-Endedness",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4215959009",
+      "location": "San Francisco, CA USA",
+      "source": "Greenhouse (lilasciences)"
     },
     {
       "company": "Lila Sciences",
@@ -119,13 +119,6 @@
       "source": "Ashby (chaidiscovery)"
     },
     {
-      "company": "CuspAI",
-      "title": "Applied AI/ML Research Engineer (Generative Models)",
-      "url": "https://jobs.ashbyhq.com/cuspai/ea10b5f7-1672-4294-a9d4-602403e67a89",
-      "location": "EMEA | Europe",
-      "source": "Ashby (cuspai)"
-    },
-    {
       "company": "SandboxAQ",
       "title": "Machine Learning Scientist – Generative Molecular Design",
       "url": "https://jobs.ashbyhq.com/sandboxaq/f6d8bdb1-75e5-4abe-94ea-285a7c2aa359",
@@ -154,27 +147,6 @@
       "source": "Ashby (sandboxaq)"
     },
     {
-      "company": "Thinking Machines Lab",
-      "title": "Research Lead, Tinker, Fine-tuning Science",
-      "url": "https://jobs.ashbyhq.com/ThinkingMachines/4e3a366f-eb0f-4ea9-8cf9-9c2f911f279c",
-      "location": "San Francisco",
-      "source": "Ashby (thinkingmachines)"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Research Scientist, AI and Systems Security - PhD New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894",
-      "location": "2 Locations",
-      "source": "Workday (NVIDIA)"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Deep Learning Framework Communications Engineer - New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1",
-      "location": "US, CA, Santa Clara",
-      "source": "Workday (NVIDIA)"
-    },
-    {
       "company": "Google",
       "title": "Research Scientist, Climate and Energy",
       "url": "https://www.google.com/about/careers/applications/jobs/results/98942829060858566-research-scientist-climate-and-energy",
@@ -189,11 +161,39 @@
       "source": "Google careers search"
     },
     {
-      "company": "Chem-Trend (Freudenberg group)",
-      "title": "Materials Informatics Scientist",
-      "url": "https://workopia.io/jobs/a80ce95c8be4b3262ee7301c1212e824",
-      "location": "Plymouth, MI, US",
-      "source": "Claude web search: materials informatics machine learning scientist job United "
+      "company": "Applied Materials",
+      "title": "Physicist/Scientist, Doctorate Degree, New College Grad (Spring 2027)",
+      "url": "https://zapply.jobs/jobs/801c691c-b56c-4e91-8ae8-921974385b5d/",
+      "location": "CA",
+      "source": "Claude web search: crystal structure prediction machine learning job"
+    },
+    {
+      "company": "ByteDance (TikTok)",
+      "title": "Research Scientist Graduate (Seed-Multimodal Interaction and World Model) - 2027 Start (PhD)",
+      "url": "https://cdc.wpi.edu/jobs/tiktok-inc-research-scientist-graduate-seed-multimodal-interaction-and-world-model-2027-start-phd/",
+      "location": "San Jose, CA",
+      "source": "Claude web search: \"2027 Start (PhD)\" research scientist AI for Science ByteDan"
+    },
+    {
+      "company": "Applied Science Works",
+      "title": "Recent Graduate Scientist - Atomistic Simulation / MLIP training data",
+      "url": "https://appliedscienceworks.com/careers.html",
+      "location": "Not stated in the listing snippet; verify US location",
+      "source": "Claude web search: LLM applied scientist PhD new grad 2027 United States"
+    },
+    {
+      "company": "Energy Jobline ZR (client company)",
+      "title": "Computational Materials Scientist for Machine-Learned Interatomic Potentials (MD/DFT)",
+      "url": "https://freehire.me/jobs/computational-materials-scientist-for-machine-learned-interatomic-potentials-md-dft-in-united-energy-jobline-zr-ds2crl4q",
+      "location": "United, US (as listed; verify)",
+      "source": "Claude web search: LLM applied scientist PhD new grad 2027 United States"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Deep Learning Framework Communications Engineer - New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1",
+      "location": "Santa Clara, CA",
+      "source": "speedyapply 2027 AI new-grad list"
     },
     {
       "company": "Google",
@@ -203,10 +203,24 @@
       "source": "speedyapply 2027 AI new-grad list"
     },
     {
+      "company": "NVIDIA",
+      "title": "Research Scientist - AI and Systems Security - PhD New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894",
+      "location": "Westford, MA +1",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
       "company": "Google",
       "title": "Research Scientist - Quantum Error Correction - Quantum AI",
       "url": "https://www.google.com/about/careers/applications/jobs/results/80321648309215942",
       "location": "Goleta, CA +3",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "Data Scientist Graduate - TikTok Product - 2027 Start",
+      "url": "https://lifeattiktok.com/search/7669654422861383941",
+      "location": "San Jose, CA",
       "source": "speedyapply 2027 AI new-grad list"
     },
     {
@@ -229,13 +243,6 @@
       "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713793006",
       "location": "Needham, MA +2",
       "source": "speedyapply 2027 AI new-grad list"
-    },
-    {
-      "company": "TikTok",
-      "title": "Data Scientist Graduate - TikTok Product",
-      "url": "https://lifeattiktok.com/search/7669654422861383941",
-      "location": "San Jose, CA",
-      "source": "Simplify new-grad list"
     },
     {
       "company": "TikTok",
@@ -322,5 +329,5 @@
       "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-19 07:40 UTC"
+  "last_run": "2026-11-19 20:41 UTC"
 }

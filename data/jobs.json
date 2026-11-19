@@ -2403,5 +2403,33 @@
     "last_open": "2026-11-19",
     "check_failures": 0,
     "stale": false
+  },
+  {
+    "company": "ByteDance (Seed)",
+    "role": "Research Scientist Graduate (Seed Model-Alignment&Preparedness) - 2027 Start (PhD)",
+    "est": [
+      250,
+      400
+    ],
+    "id": "bytedance-seed-research-scientist-graduate-seed-455d4d",
+    "track": "llm",
+    "location": "San Jose, CA",
+    "base": "Pay not listed in the posting",
+    "fit": 3,
+    "why": "The candidate's Amazon internship on LLM routing, calibrated quality estimators, and diagnosing LLM-vs-human label disagreement with prompt improvements maps reasonably well to alignment and evaluation work. Strong PyTorch, Hugging Face, and large-scale distributed training experience, plus the BERT+PPO poker agent (RL), support a foundation-model research role, though there is no direct safety or alignment publication record.",
+    "caveat": "The page is a general careers landing page with no job description, pay, or visa sponsorship statement, and the pay estimate (base plus bonus plus equity/RSU-style incentives) is based on typical Seed PhD new-grad packages. The team also advertises recruiting only about 10 top researchers, so it is highly selective and the candidate has no direct alignment/safety publications.",
+    "posted": "",
+    "source": "Claude web search: \"2027 Start (PhD)\" research scientist AI for Science ByteDan",
+    "url": "https://seed.bytedance.com/en/career",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-11-19",
+    "first_seen": "2026-11-19",
+    "last_checked": "2026-11-19",
+    "last_open": "2026-11-19",
+    "check_failures": 0
   }
 ]

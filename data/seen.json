@@ -3220,5 +3220,35 @@
     "decision": "screened",
     "reason": "estimated $120K–$160K, below your line",
     "tkey": "boston-scientific|health-ai-engineer-1-data-science-business-intelligence"
+  },
+  "https://job-boards.greenhouse.io/schrdinger/jobs/8086902003": {
+    "date": "2026-11-19",
+    "decision": "screened",
+    "reason": "estimated $150K–$210K, below your line",
+    "tkey": "schr-dinger|computational-materials-science-formulations"
+  },
+  "https://jobs.ashbyhq.com/cuspai/ea10b5f7-1672-4294-a9d4-602403e67a89": {
+    "date": "2026-11-19",
+    "decision": "screened",
+    "reason": "outside the US",
+    "tkey": "cuspai|applied-ai-ml-research-engineer-generative-models"
+  },
+  "https://jobs.ashbyhq.com/ThinkingMachines/4e3a366f-eb0f-4ea9-8cf9-9c2f911f279c": {
+    "date": "2026-11-19",
+    "decision": "screened",
+    "reason": "needs more experience than a new PhD",
+    "tkey": "thinking-machines-lab|research-lead-tinker-fine-tuning-science"
+  },
+  "https://seed.bytedance.com/en/career": {
+    "date": "2026-11-19",
+    "decision": "added",
+    "reason": "",
+    "tkey": "bytedance|research-scientist-graduate-seed-model-alignment-preparedness-2027-start-phd"
+  },
+  "https://jobs.appliedmaterials.com/job/santa-clara/machine-learning-engineer-generative-ai/95/91326559808": {
+    "date": "2026-11-19",
+    "decision": "screened",
+    "reason": "estimated $150K–$200K, below your line",
+    "tkey": "applied-materials|machine-learning-engineer-generative-ai-new-college-grad"
   }
 }
