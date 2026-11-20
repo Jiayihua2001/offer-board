@@ -3256,5 +3256,35 @@
     "decision": "screened",
     "reason": "estimated $168K–$230K, below your line",
     "tkey": "mindspan-institute|scientist-optical-systems-engineer"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1": {
+    "date": "2026-11-20",
+    "decision": "screened",
+    "reason": "estimated $200K–$250K, below your line",
+    "tkey": "nvidia|deep-learning-framework-communications-engineer-new-college-grad-2026"
+  },
+  "https://csusystem.wd12.myworkdayjobs.com/en-US/fortcollins_careers/job/Fort-Collins-CO/Soil-and-Crop-Sciences-Research-Scientist-Scholar-I---Open-Pool_R2026108792": {
+    "date": "2026-11-20",
+    "decision": "screened",
+    "reason": "estimated $55K–$75K, below your line",
+    "tkey": "colorado-state-university|soil-and-crop-sciences-research-scientist-scholar-i-open-pool"
+  },
+  "https://globalfoundries.wd1.myworkdayjobs.com/en-US/external/job/USA---Texas---Austin/AI-Enabled-Device-Modeling_JR-2606083": {
+    "date": "2026-11-20",
+    "decision": "screened",
+    "reason": "estimated $140K–$180K, below your line",
+    "tkey": "globalfoundries|ai-ml-device-modeling-engineer-2027-new-college-graduate"
+  },
+  "https://micron.wd1.myworkdayjobs.com/en-US/external/job/San-Jose-CA/New-College-Grad---AI-Innovation-Research-Engineer_JR108594": {
+    "date": "2026-11-20",
+    "decision": "screened",
+    "reason": "estimated $150K–$210K, below your line",
+    "tkey": "micron-technology|new-college-grad-ai-innovation-research-engineer"
+  },
+  "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120249": {
+    "date": "2026-11-20",
+    "decision": "screened",
+    "reason": "estimated $115K–$150K, below your line",
+    "tkey": "honeywell-aerospace|information-systems-data-science-new-grad"
   }
 }
