@@ -1,10 +1,10 @@
 {
-  "runs": 49,
+  "runs": 50,
   "spend": {
     "2026-10": 4.3578,
-    "2026-11": 14.4655
+    "2026-11": 14.8472
   },
-  "discovery_cursor": 7,
+  "discovery_cursor": 17,
   "review": [
     {
       "company": "xAI",
@@ -78,13 +78,6 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic Research Resident",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
-      "location": "San Francisco, CA | New York City, NY",
-      "source": "Greenhouse (anthropic)"
-    },
-    {
-      "company": "Anthropic",
       "title": "Research Scientist, Discovery (Engineering & Applied Sciences)",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468937008",
       "location": "San Francisco, CA",
@@ -147,6 +140,13 @@
       "source": "Ashby (sandboxaq)"
     },
     {
+      "company": "NVIDIA",
+      "title": "Research Scientist, AI and Systems Security - PhD New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894",
+      "location": "2 Locations",
+      "source": "Workday (NVIDIA)"
+    },
+    {
       "company": "Google",
       "title": "Research Scientist, Climate and Energy",
       "url": "https://www.google.com/about/careers/applications/jobs/results/98942829060858566-research-scientist-climate-and-energy",
@@ -161,32 +161,11 @@
       "source": "Google careers search"
     },
     {
-      "company": "Applied Materials",
-      "title": "Physicist/Scientist, Doctorate Degree, New College Grad (Spring 2027)",
-      "url": "https://zapply.jobs/jobs/801c691c-b56c-4e91-8ae8-921974385b5d/",
-      "location": "CA",
-      "source": "Claude web search: crystal structure prediction machine learning job"
-    },
-    {
-      "company": "ByteDance (TikTok)",
-      "title": "Research Scientist Graduate (Seed-Multimodal Interaction and World Model) - 2027 Start (PhD)",
-      "url": "https://cdc.wpi.edu/jobs/tiktok-inc-research-scientist-graduate-seed-multimodal-interaction-and-world-model-2027-start-phd/",
-      "location": "San Jose, CA",
-      "source": "Claude web search: \"2027 Start (PhD)\" research scientist AI for Science ByteDan"
-    },
-    {
-      "company": "Applied Science Works",
-      "title": "Recent Graduate Scientist - Atomistic Simulation / MLIP training data",
-      "url": "https://appliedscienceworks.com/careers.html",
-      "location": "Not stated in the listing snippet; verify US location",
-      "source": "Claude web search: LLM applied scientist PhD new grad 2027 United States"
-    },
-    {
-      "company": "Energy Jobline ZR (client company)",
-      "title": "Computational Materials Scientist for Machine-Learned Interatomic Potentials (MD/DFT)",
-      "url": "https://freehire.me/jobs/computational-materials-scientist-for-machine-learned-interatomic-potentials-md-dft-in-united-energy-jobline-zr-ds2crl4q",
-      "location": "United, US (as listed; verify)",
-      "source": "Claude web search: LLM applied scientist PhD new grad 2027 United States"
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "title": "2027 PhD Graduate - Artificial Intelligence and Machine Learning (AI/ML) Research Scientist",
+      "url": "https://jobright.ai/jobs/research-scientist-in-large-language-model,-doubao-phd-graduates--2025-start-jobs-in-united-states",
+      "location": "Laurel, MD",
+      "source": "Claude web search: LLM evaluation OR post-training research scientist PhD new g"
     },
     {
       "company": "NVIDIA",
@@ -200,13 +179,6 @@
       "title": "Research Scientist - Neutral Atoms - Quantum AI",
       "url": "https://www.google.com/about/careers/applications/jobs/results/79694460677432006",
       "location": "Boulder, CO",
-      "source": "speedyapply 2027 AI new-grad list"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Research Scientist - AI and Systems Security - PhD New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894",
-      "location": "Westford, MA +1",
       "source": "speedyapply 2027 AI new-grad list"
     },
     {
@@ -329,5 +301,5 @@
       "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-19 20:41 UTC"
+  "last_run": "2026-11-20 07:32 UTC"
 }
