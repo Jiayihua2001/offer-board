@@ -1422,7 +1422,7 @@
     "added": "2026-10-26",
     "first_seen": "2026-10-26",
     "last_checked": "2026-11-21",
-    "last_open": "2026-11-20",
+    "last_open": "2026-11-21",
     "check_failures": 0,
     "stale": false
   },
@@ -2374,5 +2374,67 @@
     "last_open": "2026-11-21",
     "check_failures": 0,
     "stale": false
+  },
+  {
+    "company": "Google DeepMind",
+    "role": "Computational Materials Scientist, DeepMind",
+    "est": [
+      220,
+      330
+    ],
+    "id": "google-deepmind-computational-materials-scientis-4261f5",
+    "track": "science",
+    "location": "United States",
+    "base": "Pay not listed in the posting",
+    "fit": 5,
+    "why": "The candidate's materials-science PhD and work on GAtor 2.0, which uses ML interatomic potentials (UMA, MACE, AIMNet2) for crystal structure prediction, closely match DeepMind's ML-for-materials discovery work such as GNoME. Their experience scaling searches on Slurm/MPI clusters and matching PXRD with experimental partners adds to the fit.",
+    "caveat": "The posting text is only a title with no description, level, pay or sponsorship details, so seniority (it may target experienced hires), exact location and pay are uncertain, and the pay estimate is based on typical Google DeepMind PhD-level packages.",
+    "posted": "2026-11-18",
+    "source": "Claude web search: Google DeepMind science research engineer Mountain View mate",
+    "url": "https://zapply.jobs/jobs/be1cf4ba-a6ce-44d5-8e6a-2d8bfe221d23/",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-11-21",
+    "first_seen": "2026-11-21",
+    "last_checked": "2026-11-21",
+    "last_open": "2026-11-21",
+    "check_failures": 0
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Deep Learning Framework Communications Engineer New Grad",
+    "est": [
+      230,
+      330
+    ],
+    "id": "nvidia-deep-learning-framework-communic-6b0d9a",
+    "track": "science",
+    "location": "Santa Clara, CA (United States)",
+    "base": "Pay not listed in the posting",
+    "fit": 3,
+    "why": "The role centers on communication libraries (likely NCCL-style collectives) for deep learning frameworks. The candidate's PyTorch skills and experience scaling evolutionary search to hundreds of MPI/Slurm processes are relevant to distributed training. Their main research is ML for materials, and the Amazon LLM routing work is not core to this systems role.",
+    "caveat": "Page text was unavailable, so the pay estimate rests on NVIDIA's typical PhD new-grad pay (base plus RSUs plus bonus). The role is low-level GPU communication and systems work (CUDA, networking), where the candidate has little direct experience. Visa sponsorship was not confirmed, though NVIDIA generally sponsors H-1B.",
+    "posted": "2026-11-14",
+    "source": "Simplify new-grad list",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": {
+      "type": "workday",
+      "host": "nvidia.wd5.myworkdayjobs.com",
+      "tenant": "nvidia",
+      "site": "NVIDIAExternalCareerSite",
+      "path": "/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1"
+    },
+    "added": "2026-11-21",
+    "first_seen": "2026-11-21",
+    "last_checked": "2026-11-21",
+    "last_open": "2026-11-21",
+    "check_failures": 0
   }
 ]

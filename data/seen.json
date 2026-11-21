@@ -3284,5 +3284,23 @@
     "decision": "screened",
     "reason": "estimated $115K–$150K, below your line",
     "tkey": "honeywell-aerospace|information-systems-data-science-new-grad"
+  },
+  "https://jobs.ashbyhq.com/genesis-molecular-ai/90e8c915-5f17-4557-ae8d-9ed49652d9a9": {
+    "date": "2026-11-21",
+    "decision": "screened",
+    "reason": "estimated $150K–$190K, below your line",
+    "tkey": "genesis-molecular-ai|scientist-immunology-and-inflammation"
+  },
+  "https://zapply.jobs/jobs/be1cf4ba-a6ce-44d5-8e6a-2d8bfe221d23": {
+    "date": "2026-11-21",
+    "decision": "added",
+    "reason": "",
+    "tkey": "google-deepmind|computational-materials-scientist-deepmind"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1": {
+    "date": "2026-11-21",
+    "decision": "added",
+    "reason": "",
+    "tkey": "nvidia|deep-learning-framework-communications-engineer-new-grad"
   }
 }
