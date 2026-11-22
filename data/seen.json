@@ -3302,5 +3302,17 @@
     "decision": "added",
     "reason": "",
     "tkey": "nvidia|deep-learning-framework-communications-engineer-new-grad"
+  },
+  "https://tealhq.com/job/research-scientist_7ea1a7cb9530f0b73886da786a5607e6b32c2": {
+    "date": "2026-11-22",
+    "decision": "added",
+    "reason": "",
+    "tkey": "google-research|research-scientist-science-ai"
+  },
+  "https://jobs.ashbyhq.com/normalcomputing/edfcbcf6-047f-4c12-801b-c78b199e0080?embed=true": {
+    "date": "2026-11-22",
+    "decision": "screened",
+    "reason": "estimated $180K–$260K, below your line",
+    "tkey": "normal-computing|ai-research-resident-algorithms-codesign"
   }
 }

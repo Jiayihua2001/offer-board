@@ -1,10 +1,10 @@
 {
-  "runs": 53,
+  "runs": 54,
   "spend": {
     "2026-10": 4.3578,
-    "2026-11": 15.9856
+    "2026-11": 16.3847
   },
-  "discovery_cursor": 5,
+  "discovery_cursor": 15,
   "review": [
     {
       "company": "xAI",
@@ -147,13 +147,6 @@
       "source": "Ashby (sandboxaq)"
     },
     {
-      "company": "NVIDIA",
-      "title": "Research Scientist, AI and Systems Security - PhD New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894",
-      "location": "2 Locations",
-      "source": "Workday (NVIDIA)"
-    },
-    {
       "company": "Google",
       "title": "Research Scientist, Climate and Energy",
       "url": "https://www.google.com/about/careers/applications/jobs/results/98942829060858566-research-scientist-climate-and-energy",
@@ -161,31 +154,52 @@
       "source": "Google careers search"
     },
     {
-      "company": "Google",
-      "title": "Computational Materials Scientist, DeepMind",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/111155821970105030-computational-materials-scientist-deepmind",
-      "location": "United States",
-      "source": "Google careers search"
-    },
-    {
-      "company": "Johns Hopkins Applied Physics Laboratory",
-      "title": "2027 PhD Graduate – Artificial Intelligence and Machine Learning (AI/ML) Research Scientist",
-      "url": "https://jobright.ai/jobs/research-scientist-in-large-language-model,-doubao-phd-graduates--2025-start-jobs-in-united-states",
-      "location": "Laurel, MD",
-      "source": "Claude web search: LLM evaluation OR post-training research scientist PhD new g"
+      "company": "Radical AI",
+      "title": "AI Research Scientist - Agentic Systems",
+      "url": "https://jobright.ai/jobs/info/68cd78e9b2a74e1837ed747e",
+      "location": "New York, NY",
+      "source": "Claude web search: agentic AI for science research scientist job United States"
     },
     {
       "company": "Amphiform",
       "title": "Computational Materials Scientist for Machine-Learned Interatomic Potentials (MD/DFT)",
       "url": "https://freehire.me/jobs/computational-materials-scientist-for-machine-learned-interatomic-potentials-md-dft-in-united-energy-jobline-zr-ds2crl4q",
-      "location": "United States (listing shows only 'United, US')",
-      "source": "Claude web search: crystal structure prediction machine learning job"
+      "location": "Listed as \"United, US\" (unverified)",
+      "source": "Claude web search: agentic AI for science research scientist job United States"
+    },
+    {
+      "company": "TikTok (ByteDance)",
+      "title": "Agent Evaluation & Evolution Researcher Graduate (2027 Start, PhD)",
+      "url": "https://career.virginia.edu/jobs/tiktok-inc-agent-evaluation-evolution-researcher-graduate-aml-ark-us-2027-start-phd/",
+      "location": "San Jose, CA",
+      "source": "Claude web search: Apple AIML research scientist PhD new grad 2027"
+    },
+    {
+      "company": "ByteDance / TikTok (listed via aggregator)",
+      "title": "LLM Post-training Engineer Graduate (Research & Product) - 2027 Start",
+      "url": "https://aijobs.net/job/llm-post-training-engineer-graduate-research-product-2027-start-san-jose-california-united-states-280656/",
+      "location": "San Jose, CA",
+      "source": "Claude web search: Apple AIML research scientist PhD new grad 2027"
+    },
+    {
+      "company": "Dow",
+      "title": "Campus Graduate - Research & Development, Manufacturing & Engineering, and/or Information Systems (PhD)",
+      "url": "https://jobright.ai/jobs/research-scientist-graduate-(seed---llm)---2026-start-(phd)-jobs-in-united-states",
+      "location": "Freeport, TX (on-site)",
+      "source": "Claude web search: Apple AIML research scientist PhD new grad 2027"
     },
     {
       "company": "Google",
       "title": "Research Scientist - Neutral Atoms - Quantum AI",
       "url": "https://www.google.com/about/careers/applications/jobs/results/79694460677432006",
       "location": "Boulder, CO",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Research Scientist - AI and Systems Security - PhD New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894",
+      "location": "Westford, MA +1",
       "source": "speedyapply 2027 AI new-grad list"
     },
     {
@@ -306,14 +320,7 @@
       "url": "https://job-boards.greenhouse.io/atoms/jobs/8948841002",
       "location": "SF; Mountain View, CA",
       "source": "Simplify new-grad list"
-    },
-    {
-      "company": "Normal Computing",
-      "title": "AI Research Resident - Algorithms Codesign",
-      "url": "https://jobs.ashbyhq.com/normalcomputing/edfcbcf6-047f-4c12-801b-c78b199e0080/application?embed=true",
-      "location": "NYC",
-      "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-21 19:20 UTC"
+  "last_run": "2026-11-22 07:06 UTC"
 }
