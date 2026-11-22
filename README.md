@@ -81,7 +81,7 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 
 <!-- BOARD:START -->
 
-**80 open roles** · 7 new this week · 21 above your $300K line · 59 near it · last run 2026-11-22 07:06 UTC · AI spend this month $16.38 of $100
+**81 open roles** · 8 new this week · 21 above your $300K line · 60 near it · last run 2026-11-22 19:41 UTC · AI spend this month $16.76 of $100
 
 Roles the board added in the last 7 days come first; the rest follow by pay tier.
 
@@ -90,6 +90,7 @@ Roles the board added in the last 7 days come first; the rest follow by pay tier
 | Added | Company | Role | Location | Est. year-1 pay (vs offer) | Fit | H-1B | Posted |
 |---|---|---|---|---|---|---|---|
 | Nov 22 | Google Research | [Research Scientist, Science AI](https://www.tealhq.com/job/research-scientist_7ea1a7cb9530f0b73886da786a5607e6b32c2) | Cambridge, MA | $230K–$330K (-7%) | ●●●●● | sponsors |  |
+| Nov 22 | Meta | [AI Research Scientist - AI for Materials Discovery](https://lensa.com/job-v1/meta/redmond-wa/research-scientist/2e2fe7289b2621f2dab5a35c1c5866c6) | Redmond, WA | $220K–$330K (-8%) | ●●●●● | sponsors |  |
 | Nov 21 | Google DeepMind | [Computational Materials Scientist, DeepMind](https://zapply.jobs/jobs/be1cf4ba-a6ce-44d5-8e6a-2d8bfe221d23/) | United States | $220K–$330K (-8%) | ●●●●● | sponsors | 2026-11-18 |
 | Nov 21 | NVIDIA | [Deep Learning Framework Communications Engineer New Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1) | Santa Clara, CA (United States) | $230K–$330K (-7%) | ●●● | sponsors | 2026-11-14 |
 | Nov 19 | ByteDance (Seed) | [Research Scientist Graduate (Seed Model-Alignment&Preparedness) - 2027 Start (PhD)](https://seed.bytedance.com/en/career) | San Jose, CA | $250K–$400K (+8%) | ●●● | sponsors |  |
@@ -205,14 +206,11 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | SandboxAQ | [Machine Learning Scientist, Generative Molecular Design (Material Discovery)](https://jobs.ashbyhq.com/sandboxaq/8579117b-a05a-4b64-9595-58fb5e83c685) | United States | Ashby (sandboxaq) |
 | SandboxAQ | [Computational Chemist - Machine Learned Force Fields, Material Discovery](https://jobs.ashbyhq.com/sandboxaq/b33383d4-18c9-4eea-acab-6fdd713f5174) | United States | Ashby (sandboxaq) |
 | SandboxAQ | [Machine Learning Scientist - Molecular Force Fields](https://jobs.ashbyhq.com/sandboxaq/2ecf82f8-6bab-48d5-b34a-e1c745b7fc60) | United States | Ashby (sandboxaq) |
+| NVIDIA | [Research Scientist, AI and Systems Security - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894) | 2 Locations | Workday (NVIDIA) |
 | Google | [Research Scientist, Climate and Energy](https://www.google.com/about/careers/applications/jobs/results/98942829060858566-research-scientist-climate-and-energy) | United States | Google careers search |
-| Radical AI | [AI Research Scientist - Agentic Systems](https://jobright.ai/jobs/info/68cd78e9b2a74e1837ed747e) | New York, NY | Claude web search: agentic AI for science research scientist job United States |
-| Amphiform | [Computational Materials Scientist for Machine-Learned Interatomic Potentials (MD/DFT)](https://freehire.me/jobs/computational-materials-scientist-for-machine-learned-interatomic-potentials-md-dft-in-united-energy-jobline-zr-ds2crl4q) | Listed as "United, US" (unverified) | Claude web search: agentic AI for science research scientist job United States |
-| TikTok (ByteDance) | [Agent Evaluation & Evolution Researcher Graduate (2027 Start, PhD)](https://career.virginia.edu/jobs/tiktok-inc-agent-evaluation-evolution-researcher-graduate-aml-ark-us-2027-start-phd/) | San Jose, CA | Claude web search: Apple AIML research scientist PhD new grad 2027 |
-| ByteDance / TikTok (listed via aggregator) | [LLM Post-training Engineer Graduate (Research & Product) - 2027 Start](https://aijobs.net/job/llm-post-training-engineer-graduate-research-product-2027-start-san-jose-california-united-states-280656/) | San Jose, CA | Claude web search: Apple AIML research scientist PhD new grad 2027 |
-| Dow | [Campus Graduate - Research & Development, Manufacturing & Engineering, and/or Information Systems (PhD)](https://jobright.ai/jobs/research-scientist-graduate-(seed---llm)---2026-start-(phd)-jobs-in-united-states) | Freeport, TX (on-site) | Claude web search: Apple AIML research scientist PhD new grad 2027 |
+| Freudenberg Home and Cleaning Solutions (Chem-Trend) | [Materials Informatics Scientist](https://workopia.io/jobs/a80ce95c8be4b3262ee7301c1212e824) | Plymouth, MI, United States | Claude web search: materials informatics machine learning scientist job United  |
+| Rivian | [Early Career - AI Platform - Autonomy](https://us-careers-rivian.icims.com/jobs/37688/job) | Palo Alto, CA | speedyapply 2027 AI new-grad list |
 | Google | [Research Scientist - Neutral Atoms - Quantum AI](https://www.google.com/about/careers/applications/jobs/results/79694460677432006) | Boulder, CO | speedyapply 2027 AI new-grad list |
-| NVIDIA | [Research Scientist - AI and Systems Security - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894) | Westford, MA +1 | speedyapply 2027 AI new-grad list |
 | Google | [Research Scientist - Quantum Error Correction - Quantum AI](https://www.google.com/about/careers/applications/jobs/results/80321648309215942) | Goleta, CA +3 | speedyapply 2027 AI new-grad list |
 | TikTok | [Data Scientist Graduate - TikTok Product - 2027 Start](https://lifeattiktok.com/search/7669654422861383941) | San Jose, CA | speedyapply 2027 AI new-grad list |
 | Bitdeer | [2027 US AI Engineering - New College Graduate](https://bitdeer.breezy.hr/p/826249d5dbdc-2027-us-ai-engineering-new-college-graduate) | San Jose, CA +1 | speedyapply 2027 AI new-grad list |

@@ -3314,5 +3314,17 @@
     "decision": "screened",
     "reason": "estimated $180K–$260K, below your line",
     "tkey": "normal-computing|ai-research-resident-algorithms-codesign"
+  },
+  "https://lensa.com/job-v1/meta/redmond-wa/research-scientist/2e2fe7289b2621f2dab5a35c1c5866c6": {
+    "date": "2026-11-22",
+    "decision": "added",
+    "reason": "",
+    "tkey": "meta|ai-research-scientist-ai-for-materials-discovery"
+  },
+  "https://job-boards.greenhouse.io/furtherearlycareer/jobs/8932674002": {
+    "date": "2026-11-22",
+    "decision": "screened",
+    "reason": "says it won’t sponsor visas",
+    "tkey": "further|graduate-program-entry-level-ai-data-engineer-2027"
   }
 }

@@ -2435,7 +2435,7 @@
     "added": "2026-11-21",
     "first_seen": "2026-11-21",
     "last_checked": "2026-11-22",
-    "last_open": "2026-11-21",
+    "last_open": "2026-11-22",
     "check_failures": 0,
     "stale": false
   },
@@ -2456,6 +2456,35 @@
     "posted": "",
     "source": "Claude web search: agentic AI for science research scientist job United States",
     "url": "https://www.tealhq.com/job/research-scientist_7ea1a7cb9530f0b73886da786a5607e6b32c2",
+    "visa": [
+      "yes",
+      "Files H-1B petitions regularly (public Department of Labor data)."
+    ],
+    "ats": null,
+    "added": "2026-11-22",
+    "first_seen": "2026-11-22",
+    "last_checked": "2026-11-22",
+    "last_open": "2026-11-22",
+    "check_failures": 1,
+    "stale": false
+  },
+  {
+    "company": "Meta",
+    "role": "AI Research Scientist - AI for Materials Discovery",
+    "est": [
+      220,
+      330
+    ],
+    "id": "meta-ai-research-scientist-ai-for-mat-65c9ce",
+    "track": "science",
+    "location": "Redmond, WA",
+    "base": "Pay not listed in the posting",
+    "fit": 5,
+    "why": "The role targets ML for materials discovery, which matches the candidate's PhD research and their lead development of GAtor 2.0, including ML interatomic potentials (UMA, MACE, AIMNet2), large-scale evolutionary search on Slurm/MPI clusters, and experimental PXRD validation. Their PyTorch and Hugging Face skills and LLM work from the Amazon internship add to the fit.",
+    "caveat": "The page text was unavailable, so the level, open status, sponsorship terms and pay are inferred from Meta's typical PhD new-grad research scientist packages (base plus bonus plus RSUs), and the posting may target more experienced candidates.",
+    "posted": "",
+    "source": "Claude web search: Meta Reality Labs Research materials discovery AI research s",
+    "url": "https://lensa.com/job-v1/meta/redmond-wa/research-scientist/2e2fe7289b2621f2dab5a35c1c5866c6",
     "visa": [
       "yes",
       "Files H-1B petitions regularly (public Department of Labor data)."
