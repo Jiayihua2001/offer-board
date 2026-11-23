@@ -81,7 +81,7 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 
 <!-- BOARD:START -->
 
-**81 open roles** · 8 new this week · 21 above your $300K line · 60 near it · last run 2026-11-22 19:41 UTC · AI spend this month $16.76 of $100
+**80 open roles** · 6 new this week · 21 above your $300K line · 59 near it · last run 2026-11-23 07:54 UTC · AI spend this month $17.14 of $100
 
 Roles the board added in the last 7 days come first; the rest follow by pay tier.
 
@@ -89,14 +89,12 @@ Roles the board added in the last 7 days come first; the rest follow by pay tier
 
 | Added | Company | Role | Location | Est. year-1 pay (vs offer) | Fit | H-1B | Posted |
 |---|---|---|---|---|---|---|---|
-| Nov 22 | Google Research | [Research Scientist, Science AI](https://www.tealhq.com/job/research-scientist_7ea1a7cb9530f0b73886da786a5607e6b32c2) | Cambridge, MA | $230K–$330K (-7%) | ●●●●● | sponsors |  |
 | Nov 22 | Meta | [AI Research Scientist - AI for Materials Discovery](https://lensa.com/job-v1/meta/redmond-wa/research-scientist/2e2fe7289b2621f2dab5a35c1c5866c6) | Redmond, WA | $220K–$330K (-8%) | ●●●●● | sponsors |  |
 | Nov 21 | Google DeepMind | [Computational Materials Scientist, DeepMind](https://zapply.jobs/jobs/be1cf4ba-a6ce-44d5-8e6a-2d8bfe221d23/) | United States | $220K–$330K (-8%) | ●●●●● | sponsors | 2026-11-18 |
 | Nov 21 | NVIDIA | [Deep Learning Framework Communications Engineer New Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1) | Santa Clara, CA (United States) | $230K–$330K (-7%) | ●●● | sponsors | 2026-11-14 |
 | Nov 19 | ByteDance (Seed) | [Research Scientist Graduate (Seed Model-Alignment&Preparedness) - 2027 Start (PhD)](https://seed.bytedance.com/en/career) | San Jose, CA | $250K–$400K (+8%) | ●●● | sponsors |  |
 | Nov 18 | Lila Sciences | [Research Scientist, Soft Matter Simulations](https://job-boards.greenhouse.io/lilasciences/jobs/4465081009) | Cambridge, MA USA; San Francisco, CA USA | $230K–$380K (+2%) | ●●● | sponsors | 2026-11-10 |
 | Nov 17 | Chai Discovery | [Forward-Deployed Scientist](https://jobs.ashbyhq.com/chaidiscovery/e60e0d79-622d-4251-b056-d380484d9dab) | San Francisco, CA (office) | $250K–$400K (+8%) | ●●● | **ask first** | 2026-03-05 |
-| Nov 15 | Meta | [Research Scientist - Central Applied Science](https://www.metacareers.com/jobs/1768080781159715) | Menlo Park, CA | $260K–$360K (+3%) | ●●●● | sponsors | 2026-11-05 |
 
 ### Above your offer line
 
@@ -143,6 +141,7 @@ Roles the board added in the last 7 days come first; the rest follow by pay tier
 | Chai Discovery | [Research Scientist, Applied Research](https://jobs.ashbyhq.com/chaidiscovery/4b3b298d-f284-4a2a-80a1-868ddec8d9a9) | San Francisco office | $250K–$400K (+8%) | ●●●● | **ask first** | 2026-11-04 |
 | ByteDance | [Agent Evaluation & Evolution Researcher Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7672391176102676741/detail) | Seattle, WA | $280K–$360K (+7%) | ●●●● | sponsors | 2026-08-11 |
 | ByteDance | [Agent Evaluation & Evolution Researcher Graduate (AML-Ark-US) - 2027 Start (PhD)](https://jobs.bytedance.com/en/position/7671095905295075637/detail) | San Jose, CA | $210K–$410K (+3%) | ●●●● | sponsors | 2026-08-10 |
+| Meta | [Research Scientist - Central Applied Science](https://www.metacareers.com/jobs/1768080781159715) | Menlo Park, CA | $260K–$360K (+3%) | ●●●● | sponsors | 2026-11-05 |
 | Apple | [AIML - Machine Learning Researcher, Post-Training for Foundation Models](https://jobs.apple.com/en-us/details/200645804-0836) | Cupertino, CA | $250K–$340K (-2%) | ●●●● | sponsors | 2026-02-06 |
 | Apple | [AIML Researcher/Engineer - Foundation Model Post-Training](https://jobs.apple.com/en-us/details/200662944-0836) | Cupertino, CA; New York, NY; Seattle, WA | $250K–$340K (-2%) | ●●●● | sponsors | 2026-05-27 |
 | Lila Sciences | [Machine Learning Engineer, Physical Sciences AI](https://job-boards.greenhouse.io/lilasciences/jobs/4116513009) | Cambridge, MA / San Francisco, CA | $240K–$350K (-2%) | ●●●● | sponsors | 2026-02-03 |
@@ -206,11 +205,10 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | SandboxAQ | [Machine Learning Scientist, Generative Molecular Design (Material Discovery)](https://jobs.ashbyhq.com/sandboxaq/8579117b-a05a-4b64-9595-58fb5e83c685) | United States | Ashby (sandboxaq) |
 | SandboxAQ | [Computational Chemist - Machine Learned Force Fields, Material Discovery](https://jobs.ashbyhq.com/sandboxaq/b33383d4-18c9-4eea-acab-6fdd713f5174) | United States | Ashby (sandboxaq) |
 | SandboxAQ | [Machine Learning Scientist - Molecular Force Fields](https://jobs.ashbyhq.com/sandboxaq/2ecf82f8-6bab-48d5-b34a-e1c745b7fc60) | United States | Ashby (sandboxaq) |
-| NVIDIA | [Research Scientist, AI and Systems Security - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894) | 2 Locations | Workday (NVIDIA) |
 | Google | [Research Scientist, Climate and Energy](https://www.google.com/about/careers/applications/jobs/results/98942829060858566-research-scientist-climate-and-energy) | United States | Google careers search |
-| Freudenberg Home and Cleaning Solutions (Chem-Trend) | [Materials Informatics Scientist](https://workopia.io/jobs/a80ce95c8be4b3262ee7301c1212e824) | Plymouth, MI, United States | Claude web search: materials informatics machine learning scientist job United  |
 | Rivian | [Early Career - AI Platform - Autonomy](https://us-careers-rivian.icims.com/jobs/37688/job) | Palo Alto, CA | speedyapply 2027 AI new-grad list |
 | Google | [Research Scientist - Neutral Atoms - Quantum AI](https://www.google.com/about/careers/applications/jobs/results/79694460677432006) | Boulder, CO | speedyapply 2027 AI new-grad list |
+| NVIDIA | [Research Scientist - AI and Systems Security - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894) | Westford, MA +1 | speedyapply 2027 AI new-grad list |
 | Google | [Research Scientist - Quantum Error Correction - Quantum AI](https://www.google.com/about/careers/applications/jobs/results/80321648309215942) | Goleta, CA +3 | speedyapply 2027 AI new-grad list |
 | TikTok | [Data Scientist Graduate - TikTok Product - 2027 Start](https://lifeattiktok.com/search/7669654422861383941) | San Jose, CA | speedyapply 2027 AI new-grad list |
 | Bitdeer | [2027 US AI Engineering - New College Graduate](https://bitdeer.breezy.hr/p/826249d5dbdc-2027-us-ai-engineering-new-college-graduate) | San Jose, CA +1 | speedyapply 2027 AI new-grad list |
@@ -231,14 +229,16 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 
 ### Closed recently
 
+- Google Research, Research Scientist, Science AI (2026-11-23)
 - Meta, Research Scientist, Systems for ML (PhD) (2026-11-21)
 - Google, Research Scientist, Science AI, Google Research (2026-11-21)
 - Waymo, Machine Learning Engineer Perception LLM/VLM (PhD, New Grad) (2026-11-14)
 - Lila Sciences, Senior / Engineer II, AI Lab Research Engineer (2026-11-13)
 - Meta, Research Scientist, Materials (2026-11-09)
 
-<details><summary>Screened out (245)</summary>
+<details><summary>Screened out (246)</summary>
 
+- [Google Research, Research Scientist, Science AI](https://www.tealhq.com/job/research-scientist_7ea1a7cb9530f0b73886da786a5607e6b32c2): Closed: the posting stopped showing as open (checked 2026-11-23).
 - [Normal Computing, AI Research Resident - Algorithms Codesign](https://jobs.ashbyhq.com/normalcomputing/edfcbcf6-047f-4c12-801b-c78b199e0080/application?embed=true): Estimated $180K–$260K, below your line.
 - [Meta, Research Scientist, Systems for ML (PhD)](https://www.linkedin.com/jobs/view/research-scientist-systems-for-ml-phd-at-meta-3811199849): Closed: the posting stopped showing as open (checked 2026-11-21).
 - [Google, Research Scientist, Science AI, Google Research](https://www.google.com/about/careers/applications/jobs/results/91797366327124678-research-scientist-science-ai-google-research): Closed: the posting stopped showing as open (checked 2026-11-21).
@@ -438,7 +438,6 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 - [Bosch Research, Research Engineer - Computational Materials Science & Self-Driving Materials Discovery](https://jobs.smartrecruiters.com/BoschGroup/744000147328139): Same team and text as the Accelerated Materials Discovery req: posted base $140K-$160K; est. $160K-$195K total, far below the line.
 - [Bosch Research, Research Engineer - Accelerated Materials Discovery](https://jobs.smartrecruiters.com/BoschGroup/744000148881439): Fit 5 (atomistic simulation + AI/active learning + self-driving labs, PhD, no years bar, Watertown MA) but posted base $140K-$160K; est. $160K-$195K total, far below the line.
 - [Schrodinger, Scientific Machine Learning Engineer](https://job-boards.greenhouse.io/schrdinger/jobs/8008663003): Estimated base $130K-$160K and asks for 1-3 yrs production software experience; below the line.
-- [Schrodinger, Force Field Scientist](https://job-boards.greenhouse.io/schrdinger/jobs/7786803003): Estimated base $120K-$145K; far below the line.
 
 </details>
 

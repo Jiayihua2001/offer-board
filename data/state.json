@@ -1,10 +1,10 @@
 {
-  "runs": 55,
+  "runs": 56,
   "spend": {
     "2026-10": 4.3578,
-    "2026-11": 16.7619
+    "2026-11": 17.1437
   },
-  "discovery_cursor": 4,
+  "discovery_cursor": 14,
   "review": [
     {
       "company": "xAI",
@@ -147,25 +147,11 @@
       "source": "Ashby (sandboxaq)"
     },
     {
-      "company": "NVIDIA",
-      "title": "Research Scientist, AI and Systems Security - PhD New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894",
-      "location": "2 Locations",
-      "source": "Workday (NVIDIA)"
-    },
-    {
       "company": "Google",
       "title": "Research Scientist, Climate and Energy",
       "url": "https://www.google.com/about/careers/applications/jobs/results/98942829060858566-research-scientist-climate-and-energy",
       "location": "United States",
       "source": "Google careers search"
-    },
-    {
-      "company": "Freudenberg Home and Cleaning Solutions (Chem-Trend)",
-      "title": "Materials Informatics Scientist",
-      "url": "https://workopia.io/jobs/a80ce95c8be4b3262ee7301c1212e824",
-      "location": "Plymouth, MI, United States",
-      "source": "Claude web search: materials informatics machine learning scientist job United "
     },
     {
       "company": "Rivian",
@@ -179,6 +165,13 @@
       "title": "Research Scientist - Neutral Atoms - Quantum AI",
       "url": "https://www.google.com/about/careers/applications/jobs/results/79694460677432006",
       "location": "Boulder, CO",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Research Scientist - AI and Systems Security - PhD New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894",
+      "location": "Westford, MA +1",
       "source": "speedyapply 2027 AI new-grad list"
     },
     {
@@ -301,5 +294,5 @@
       "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-22 19:41 UTC"
+  "last_run": "2026-11-23 07:54 UTC"
 }
