@@ -3331,5 +3331,35 @@
     "decision": "screened",
     "reason": "estimated $190K–$250K, below your line",
     "tkey": "flagship-pioneering|machine-learning-scientist-i-ii-chemistry"
+  },
+  "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Research-Scientist_R173584": {
+    "date": "2026-11-24",
+    "decision": "screened",
+    "reason": "estimated $215K–$270K, below your line",
+    "tkey": "adobe|2027-university-graduate-research-scientist"
+  },
+  "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Round-Lake-Illinois/Research-Scientist-I---Biochemistry_JR-213558-1": {
+    "date": "2026-11-24",
+    "decision": "screened",
+    "reason": "estimated $105K–$130K, below your line",
+    "tkey": "baxter|research-scientist-i-biochemistry"
+  },
+  "https://globalfoundries.wd1.myworkdayjobs.com/en-US/external/job/Richardson/Corporate-Application-Engineer--Physical-AI--2027-New-College-Graduate-_JR-2605627": {
+    "date": "2026-11-24",
+    "decision": "screened",
+    "reason": "estimated $110K–$150K, below your line",
+    "tkey": "globalfoundries|corporate-application-engineer-physical-ai-2027-new-college-graduate"
+  },
+  "https://mcw.wd503.myworkdayjobs.com/en-US/externalcareers/job/Milwaukee-WI/Research-Scientist-I---Biophysics_JR104329": {
+    "date": "2026-11-24",
+    "decision": "screened",
+    "reason": "estimated $70K–$95K, below your line",
+    "tkey": "medical-college-of-wisconsin|research-scientist-i-biophysics"
+  },
+  "https://us-erac.icims.com/jobs/595973/job?mobile=true&needsRedirect=false": {
+    "date": "2026-11-24",
+    "decision": "screened",
+    "reason": "says it won’t sponsor visas",
+    "tkey": "enterprise-holdings|data-scientist-1"
   }
 }
