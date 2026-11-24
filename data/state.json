@@ -1,10 +1,10 @@
 {
-  "runs": 57,
+  "runs": 58,
   "spend": {
     "2026-10": 4.3578,
-    "2026-11": 17.5153
+    "2026-11": 17.9023
   },
-  "discovery_cursor": 3,
+  "discovery_cursor": 13,
   "review": [
     {
       "company": "xAI",
@@ -147,13 +147,6 @@
       "source": "Ashby (sandboxaq)"
     },
     {
-      "company": "NVIDIA",
-      "title": "Research Scientist, AI and Systems Security - PhD New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894",
-      "location": "2 Locations",
-      "source": "Workday (NVIDIA)"
-    },
-    {
       "company": "Google",
       "title": "Research Scientist, Climate and Energy",
       "url": "https://www.google.com/about/careers/applications/jobs/results/98942829060858566-research-scientist-climate-and-energy",
@@ -161,25 +154,11 @@
       "source": "Google careers search"
     },
     {
-      "company": "Freudenberg Home and Cleaning Solutions (Chem-Trend)",
-      "title": "Materials Informatics Scientist",
-      "url": "https://workopia.io/jobs/a80ce95c8be4b3262ee7301c1212e824",
-      "location": "Plymouth, MI",
-      "source": "Claude web search: materials informatics machine learning scientist job United "
-    },
-    {
-      "company": "Lila Sciences",
-      "title": "AI Residency Program, Material Science (2026 Cohort)",
-      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4031379009",
-      "location": "Not stated in listing; verify US location",
-      "source": "Claude web search: Meta FAIR chemistry OR AI for science research job"
-    },
-    {
-      "company": "Amphiform",
-      "title": "Computational Materials Scientist for Machine-Learned Interatomic Potentials (MD/DFT)",
-      "url": "https://freehire.me/jobs/computational-materials-scientist-for-machine-learned-interatomic-potentials-md-dft-in-united-energy-jobline-zr-ds2crl4q",
-      "location": "\"United, US\" as listed (verify exact location)",
-      "source": "Claude web search: machine learning interatomic potential research scientist jo"
+      "company": "Google DeepMind",
+      "title": "Research Scientist, Robotics Data, Pretraining, DeepMind",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/89853379034915526-research-scientist/",
+      "location": "Mountain View, CA, USA",
+      "source": "Claude web search: research scientist PhD university graduate 2027 machine lear"
     },
     {
       "company": "Rivian",
@@ -193,6 +172,13 @@
       "title": "Research Scientist - Neutral Atoms - Quantum AI",
       "url": "https://www.google.com/about/careers/applications/jobs/results/79694460677432006",
       "location": "Boulder, CO",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Research Scientist - AI and Systems Security - PhD New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894",
+      "location": "Westford, MA +1",
       "source": "speedyapply 2027 AI new-grad list"
     },
     {
@@ -241,13 +227,6 @@
       "company": "TikTok",
       "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Live",
       "url": "https://lifeattiktok.com/search/7670285495593273605",
-      "location": "San Jose, CA",
-      "source": "Simplify new-grad list"
-    },
-    {
-      "company": "ByteDance",
-      "title": "Data Lake Infrastructure & Data Analytics Research Engineer Graduate - Applied Machine Learning Ark",
-      "url": "https://jobs.bytedance.com/en/position/7671108456554432773/detail",
       "location": "San Jose, CA",
       "source": "Simplify new-grad list"
     },
@@ -320,7 +299,14 @@
       "url": "https://us-erac.icims.com/jobs/595973/job?mobile=true&needsRedirect=false",
       "location": "St. Louis, MO",
       "source": "Simplify new-grad list"
+    },
+    {
+      "company": "X Development",
+      "title": "AI/ML Engineer & Applied Researcher - Early Stage Projects",
+      "url": "https://x.company/careers/8959513002?gh_jid=8959513002",
+      "location": "Mountain View, CA",
+      "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-23 23:58 UTC"
+  "last_run": "2026-11-24 10:07 UTC"
 }
