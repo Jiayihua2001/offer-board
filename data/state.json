@@ -1,10 +1,10 @@
 {
-  "runs": 59,
+  "runs": 60,
   "spend": {
     "2026-10": 4.3578,
-    "2026-11": 18.2784
+    "2026-11": 18.6748
   },
-  "discovery_cursor": 2,
+  "discovery_cursor": 12,
   "review": [
     {
       "company": "xAI",
@@ -161,25 +161,25 @@
       "source": "Google careers search"
     },
     {
-      "company": "Amphiform",
-      "title": "Computational Materials Scientist for Machine-Learned Interatomic Potentials (MD/DFT)",
-      "url": "https://freehire.me/jobs/computational-materials-scientist-for-machine-learned-interatomic-potentials-md-dft-in-united-energy-jobline-zr-ds2crl4q",
-      "location": "Unverified (listing reads 'in United')",
-      "source": "Claude web search: foundation model for materials or chemistry research enginee"
+      "company": "Applied Materials",
+      "title": "Physicist/Scientist, Doctorate Degree, New College Grad (Spring 2027)",
+      "url": "https://zapply.jobs/jobs/801c691c-b56c-4e91-8ae8-921974385b5d/",
+      "location": "CA (Santa Clara area)",
+      "source": "Claude web search: crystal structure prediction machine learning job"
     },
     {
-      "company": "Freudenberg Home and Cleaning Solutions (Chem-Trend)",
-      "title": "Materials Informatics Scientist",
-      "url": "https://workopia.io/jobs/a80ce95c8be4b3262ee7301c1212e824",
-      "location": "Plymouth, MI",
-      "source": "Claude web search: materials informatics machine learning scientist job United "
+      "company": "TikTok Inc.",
+      "title": "Agent Evaluation & Evolution Researcher Graduate (AML-Ark-US) - 2027 Start (PhD)",
+      "url": "https://career.virginia.edu/jobs/tiktok-inc-agent-evaluation-evolution-researcher-graduate-aml-ark-us-2027-start-phd/",
+      "location": "San Jose, CA",
+      "source": "Claude web search: \"2027 Start\" PhD LLM research scientist TikTok trust and saf"
     },
     {
-      "company": "Meta",
-      "title": "Materials Scientist - Organic Crystal Growth & Process Engineering (PhD)",
-      "url": "https://www.tealhq.com/job/materials-scientist_7ea1a032177d32857b838d24bb33f6edcdc61",
-      "location": "Pasadena, CA",
-      "source": "Claude web search: Meta Reality Labs Research materials discovery AI research s"
+      "company": "ByteDance",
+      "title": "Applied Scientist - LLM Training System as a Service - 2027 Start (PhD)",
+      "url": "https://zapply.jobs/jobs/79dcc3f8-9be2-437f-84fa-b0d7c9fb6ca2/",
+      "location": "California, US",
+      "source": "Claude web search: LLM applied scientist PhD new grad 2027 United States"
     },
     {
       "company": "Rivian",
@@ -224,13 +224,6 @@
       "source": "speedyapply 2027 AI new-grad list"
     },
     {
-      "company": "Philips",
-      "title": "Full Time- Graduate Development Program-AI & Analytics Associate-Nashville - TN or Cambridge - MA-2027",
-      "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Nashville-Tennessee-United-States/Full-Time--Graduate-Development-Program-AI---Analytics-Associate-Nashville--TN-or-Cambridge--MA-2026_587083",
-      "location": "Nashville, TN",
-      "source": "speedyapply 2027 AI new-grad list"
-    },
-    {
       "company": "Samsung AI Research Center",
       "title": "2027 Health AI Scholar - Digital Health Algorithms Team",
       "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002",
@@ -263,13 +256,6 @@
       "title": "AI/LLM Network Software Development Engineer Graduate - High Speed Network - PhD",
       "url": "https://jobs.bytedance.com/en/position/7668855566150732037/detail",
       "location": "Seattle, WA",
-      "source": "Simplify new-grad list"
-    },
-    {
-      "company": "ByteDance",
-      "title": "Research Scientist Graduate - Seed AI Foundation Model Infrastructure - PhD",
-      "url": "https://jobs.bytedance.com/en/position/7673264681083898165/detail",
-      "location": "San Jose, CA",
       "source": "Simplify new-grad list"
     },
     {
@@ -329,5 +315,5 @@
       "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-24 22:31 UTC"
+  "last_run": "2026-11-25 08:52 UTC"
 }

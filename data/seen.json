@@ -3361,5 +3361,17 @@
     "decision": "screened",
     "reason": "says it won’t sponsor visas",
     "tkey": "enterprise-holdings|data-scientist-1"
+  },
+  "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Nashville-Tennessee-United-States/Full-Time--Graduate-Development-Program-AI---Analytics-Associate-Nashville--TN-or-Cambridge--MA-2026_587083": {
+    "date": "2026-11-25",
+    "decision": "screened",
+    "reason": "estimated $115K–$150K, below your line",
+    "tkey": "philips|full-time-graduate-development-program-ai-analytics-associate-nashville-tn-or-cambridge-ma-2027"
+  },
+  "https://jobs.bytedance.com/en/position/7673264681083898165/detail": {
+    "date": "2026-11-25",
+    "decision": "added",
+    "reason": "",
+    "tkey": "bytedance|research-scientist-graduate-seed-ai-foundation-model-infrastructure-phd"
   }
 }
