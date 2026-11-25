@@ -1,10 +1,10 @@
 {
-  "runs": 60,
+  "runs": 61,
   "spend": {
     "2026-10": 4.3578,
     "2026-11": 18.6748
   },
-  "discovery_cursor": 12,
+  "discovery_cursor": 1,
   "review": [
     {
       "company": "xAI",
@@ -84,6 +84,20 @@
       "source": "Greenhouse (lilasciences)"
     },
     {
+      "company": "Lila Sciences",
+      "title": "ML Scientist, Retrieval & RAG for Scientific Literature",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4477299009",
+      "location": "Cambridge, MA USA; San Francisco, CA USA",
+      "source": "Greenhouse (lilasciences)"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "Scientist II/ Senior ML Scientist,  Multimodal Scientific Data Extraction & Understanding",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4477297009",
+      "location": "Cambridge, MA USA; San Francisco, CA USA",
+      "source": "Greenhouse (lilasciences)"
+    },
+    {
       "company": "Anthropic",
       "title": "Life Sciences Operator, External Research",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490502008",
@@ -159,27 +173,6 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/98942829060858566-research-scientist-climate-and-energy",
       "location": "United States",
       "source": "Google careers search"
-    },
-    {
-      "company": "Applied Materials",
-      "title": "Physicist/Scientist, Doctorate Degree, New College Grad (Spring 2027)",
-      "url": "https://zapply.jobs/jobs/801c691c-b56c-4e91-8ae8-921974385b5d/",
-      "location": "CA (Santa Clara area)",
-      "source": "Claude web search: crystal structure prediction machine learning job"
-    },
-    {
-      "company": "TikTok Inc.",
-      "title": "Agent Evaluation & Evolution Researcher Graduate (AML-Ark-US) - 2027 Start (PhD)",
-      "url": "https://career.virginia.edu/jobs/tiktok-inc-agent-evaluation-evolution-researcher-graduate-aml-ark-us-2027-start-phd/",
-      "location": "San Jose, CA",
-      "source": "Claude web search: \"2027 Start\" PhD LLM research scientist TikTok trust and saf"
-    },
-    {
-      "company": "ByteDance",
-      "title": "Applied Scientist - LLM Training System as a Service - 2027 Start (PhD)",
-      "url": "https://zapply.jobs/jobs/79dcc3f8-9be2-437f-84fa-b0d7c9fb6ca2/",
-      "location": "California, US",
-      "source": "Claude web search: LLM applied scientist PhD new grad 2027 United States"
     },
     {
       "company": "Rivian",
@@ -315,5 +308,5 @@
       "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-25 08:52 UTC"
+  "last_run": "2026-11-25 21:40 UTC"
 }

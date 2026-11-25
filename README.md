@@ -81,7 +81,7 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 
 <!-- BOARD:START -->
 
-**81 open roles** · 6 new this week · 21 above your $300K line · 60 near it · last run 2026-11-25 08:52 UTC · AI spend this month $18.67 of $100
+**81 open roles** · 6 new this week · 21 above your $300K line · 60 near it · last run 2026-11-25 21:40 UTC · AI spend this month $18.67 of $100
 
 Roles the board added in the last 7 days come first; the rest follow by pay tier.
 
@@ -197,6 +197,8 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | Lila Sciences | [ML Research Engineer, Performance Optimization](https://job-boards.greenhouse.io/lilasciences/jobs/4455701009) | Cambridge, MA USA; San Francisco, CA USA | Greenhouse (lilasciences) |
 | Lila Sciences | [ML Research Scientist, Environments & Harnesses](https://job-boards.greenhouse.io/lilasciences/jobs/4462270009) | Cambridge, MA USA; London, UK; San Francisco, CA USA | Greenhouse (lilasciences) |
 | Lila Sciences | [ML Research Scientist, Scientific Evaluations](https://job-boards.greenhouse.io/lilasciences/jobs/4472554009) | Cambridge, MA USA; London, UK; San Francisco, CA USA | Greenhouse (lilasciences) |
+| Lila Sciences | [ML Scientist, Retrieval & RAG for Scientific Literature](https://job-boards.greenhouse.io/lilasciences/jobs/4477299009) | Cambridge, MA USA; San Francisco, CA USA | Greenhouse (lilasciences) |
+| Lila Sciences | [Scientist II/ Senior ML Scientist,  Multimodal Scientific Data Extraction & Understanding](https://job-boards.greenhouse.io/lilasciences/jobs/4477297009) | Cambridge, MA USA; San Francisco, CA USA | Greenhouse (lilasciences) |
 | Anthropic | [Life Sciences Operator, External Research](https://job-boards.greenhouse.io/anthropic/jobs/5490502008) | San Francisco, CA | Greenhouse (anthropic) |
 | Anthropic | [Research Scientist, Discovery (Engineering & Applied Sciences)](https://job-boards.greenhouse.io/anthropic/jobs/5468937008) | San Francisco, CA | Greenhouse (anthropic) |
 | Anthropic | [Research Scientist, Life Sciences (Large Molecules, Process Development) ](https://job-boards.greenhouse.io/anthropic/jobs/5467099008) | San Francisco, CA | Greenhouse (anthropic) |
@@ -208,9 +210,6 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | SandboxAQ | [Computational Chemist - Machine Learned Force Fields, Material Discovery](https://jobs.ashbyhq.com/sandboxaq/b33383d4-18c9-4eea-acab-6fdd713f5174) | United States | Ashby (sandboxaq) |
 | SandboxAQ | [Machine Learning Scientist - Molecular Force Fields](https://jobs.ashbyhq.com/sandboxaq/2ecf82f8-6bab-48d5-b34a-e1c745b7fc60) | United States | Ashby (sandboxaq) |
 | Google | [Research Scientist, Climate and Energy](https://www.google.com/about/careers/applications/jobs/results/98942829060858566-research-scientist-climate-and-energy) | United States | Google careers search |
-| Applied Materials | [Physicist/Scientist, Doctorate Degree, New College Grad (Spring 2027)](https://zapply.jobs/jobs/801c691c-b56c-4e91-8ae8-921974385b5d/) | CA (Santa Clara area) | Claude web search: crystal structure prediction machine learning job |
-| TikTok Inc. | [Agent Evaluation & Evolution Researcher Graduate (AML-Ark-US) - 2027 Start (PhD)](https://career.virginia.edu/jobs/tiktok-inc-agent-evaluation-evolution-researcher-graduate-aml-ark-us-2027-start-phd/) | San Jose, CA | Claude web search: "2027 Start" PhD LLM research scientist TikTok trust and saf |
-| ByteDance | [Applied Scientist - LLM Training System as a Service - 2027 Start (PhD)](https://zapply.jobs/jobs/79dcc3f8-9be2-437f-84fa-b0d7c9fb6ca2/) | California, US | Claude web search: LLM applied scientist PhD new grad 2027 United States |
 | Rivian | [Early Career - AI Platform - Autonomy](https://us-careers-rivian.icims.com/jobs/37688/job) | Palo Alto, CA | speedyapply 2027 AI new-grad list |
 | Google | [Research Scientist - Neutral Atoms - Quantum AI](https://www.google.com/about/careers/applications/jobs/results/79694460677432006) | Boulder, CO | speedyapply 2027 AI new-grad list |
 | NVIDIA | [Research Scientist - AI and Systems Security - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894) | Westford, MA +1 | speedyapply 2027 AI new-grad list |

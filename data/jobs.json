@@ -2400,7 +2400,7 @@
     "added": "2026-11-21",
     "first_seen": "2026-11-21",
     "last_checked": "2026-11-25",
-    "last_open": "2026-11-21",
+    "last_open": "2026-11-25",
     "check_failures": 0,
     "stale": false
   },
@@ -2494,6 +2494,7 @@
     "first_seen": "2026-11-25",
     "last_checked": "2026-11-25",
     "last_open": "2026-11-25",
-    "check_failures": 0
+    "check_failures": 0,
+    "stale": false
   }
 ]
