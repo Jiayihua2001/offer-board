@@ -1,10 +1,10 @@
 {
-  "runs": 61,
+  "runs": 62,
   "spend": {
     "2026-10": 4.3578,
     "2026-11": 18.6748
   },
-  "discovery_cursor": 1,
+  "discovery_cursor": 11,
   "review": [
     {
       "company": "xAI",
@@ -168,6 +168,13 @@
       "source": "Ashby (sandboxaq)"
     },
     {
+      "company": "NVIDIA",
+      "title": "Research Scientist, AI and Systems Security - PhD New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894",
+      "location": "2 Locations",
+      "source": "Workday (NVIDIA)"
+    },
+    {
       "company": "Google",
       "title": "Research Scientist, Climate and Energy",
       "url": "https://www.google.com/about/careers/applications/jobs/results/98942829060858566-research-scientist-climate-and-energy",
@@ -186,13 +193,6 @@
       "title": "Research Scientist - Neutral Atoms - Quantum AI",
       "url": "https://www.google.com/about/careers/applications/jobs/results/79694460677432006",
       "location": "Boulder, CO",
-      "source": "speedyapply 2027 AI new-grad list"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Research Scientist - AI and Systems Security - PhD New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894",
-      "location": "Westford, MA +1",
       "source": "speedyapply 2027 AI new-grad list"
     },
     {
@@ -306,7 +306,28 @@
       "url": "https://x.company/careers/8959513002?gh_jid=8959513002",
       "location": "Mountain View, CA",
       "source": "Simplify new-grad list"
+    },
+    {
+      "company": "Ayo Semiconductor",
+      "title": "Machine Learning Researcher",
+      "url": "https://jobs.ashbyhq.com/ayosemi/25ce1f36-356a-4a0e-95e0-24c3babb34ff/application?embed=true",
+      "location": "Boston, MA",
+      "source": "Simplify new-grad list"
+    },
+    {
+      "company": "Ayo Semiconductor",
+      "title": "Machine Learning Engineer",
+      "url": "https://jobs.ashbyhq.com/ayosemi/cc1d3968-2b15-4442-828c-7950077c3a8a/application?embed=true",
+      "location": "Boston, MA",
+      "source": "Simplify new-grad list"
+    },
+    {
+      "company": "Scout AI",
+      "title": "AI Engineer New Grad - AI/ML and Agent Harnessing",
+      "url": "https://jobs.ashbyhq.com/scout-ai/ad3dd69f-f568-4a7c-abbf-280424bc63ed/application?embed=true",
+      "location": "Sunnyvale, CA",
+      "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-25 21:40 UTC"
+  "last_run": "2026-11-26 08:30 UTC"
 }

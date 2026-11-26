@@ -81,7 +81,7 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 
 <!-- BOARD:START -->
 
-**81 open roles** · 6 new this week · 21 above your $300K line · 60 near it · last run 2026-11-25 21:40 UTC · AI spend this month $18.67 of $100
+**81 open roles** · 5 new this week · 21 above your $300K line · 60 near it · last run 2026-11-26 08:30 UTC · AI spend this month $18.67 of $100
 
 Roles the board added in the last 7 days come first; the rest follow by pay tier.
 
@@ -94,7 +94,6 @@ Roles the board added in the last 7 days come first; the rest follow by pay tier
 | Nov 21 | Google DeepMind | [Computational Materials Scientist, DeepMind](https://zapply.jobs/jobs/be1cf4ba-a6ce-44d5-8e6a-2d8bfe221d23/) | United States | $220K–$330K (-8%) | ●●●●● | sponsors | 2026-11-18 |
 | Nov 21 | NVIDIA | [Deep Learning Framework Communications Engineer New Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1) | Santa Clara, CA (United States) | $230K–$330K (-7%) | ●●● | sponsors | 2026-11-14 |
 | Nov 19 | ByteDance (Seed) | [Research Scientist Graduate (Seed Model-Alignment&Preparedness) - 2027 Start (PhD)](https://seed.bytedance.com/en/career) | San Jose, CA | $250K–$400K (+8%) | ●●● | sponsors |  |
-| Nov 18 | Lila Sciences | [Research Scientist, Soft Matter Simulations](https://job-boards.greenhouse.io/lilasciences/jobs/4465081009) | Cambridge, MA USA; San Francisco, CA USA | $230K–$380K (+2%) | ●●● | sponsors | 2026-11-10 |
 
 ### Above your offer line
 
@@ -107,7 +106,7 @@ Roles the board added in the last 7 days come first; the rest follow by pay tier
 | D. E. Shaw Research | [Force Field Developer](https://apply.deshawresearch.com/careers/Register?pipelineId=661&source=DESRES+Website) | New York, NY | $300K–$450K (+25%) | ●●●● | says it sponsors |  |
 | Character.AI | [Research Engineer, Post-Training (All Industry Levels)](https://jobs.ashbyhq.com/character/449bf7c1-41d7-47a4-89a7-0ee0b31f5918) | Redwood City, CA or New York, NY | $280K–$450K (+22%) | ●●●● | **ask first** | 2024-01-24 |
 | Periodic Labs | [Research Scientist, Data](https://jobs.ashbyhq.com/periodic-labs/d039ec58-a97d-47e1-b1e5-db003d772f77) | Menlo Park, CA | $280K–$420K (+17%) | ●●●● | says it sponsors | 2026-07-25 |
-| ByteDance | [Research Scientist in Large Language Model (LLM) - Seed - Graduates - 2027 Start (PhD)](https://www.indeed.com/q-llm-researcher-jobs.html) | San Jose, CA | $250K–$450K (+17%) | ●●●● | sponsors |  |
+| ByteDance | [Research Scientist in Large Language Model (LLM) - Seed - Graduates - 2027 Start (PhD)](https://www.indeed.com/q-llm-researcher-jobs.html) not confirmed open lately | San Jose, CA | $250K–$450K (+17%) | ●●●● | sponsors |  |
 | xAI (SpaceXSI) | [Post-Training and RL](https://job-boards.greenhouse.io/xai/jobs/5114737007) | Palo Alto, CA | $260K–$420K (+13%) | ●●●● | **ask first** |  |
 | Thinking Machines Lab | [Research, Finetuning Science](https://jobs.ashbyhq.com/thinkingmachines/0a71cb88-068b-4ac6-9912-e498c49b1343) | San Francisco, CA | $370K–$520K (+48%) | ●●● | says it sponsors | 2026-09-16 |
 | Thinking Machines Lab | [Research, Pre-Training Data](https://jobs.ashbyhq.com/thinkingmachines/27ec4240-9f70-4ebe-abc0-a7336358a9a4) | San Francisco, CA | $370K–$520K (+48%) | ●●● | says it sponsors | 2026-08-04 |
@@ -158,6 +157,7 @@ Roles the board added in the last 7 days come first; the rest follow by pay tier
 | ByteDance | [Machine Learning Engineer Graduate (E-Commerce Risk Control) - 2027 Start (PhD)](https://jobs.bytedance.com/en/position/7675473897004861749/detail) | San Jose, CA | $210K–$400K (+2%) | ●●● | sponsors | 2026-08-25 |
 | NVIDIA | [Research Scientist, ML Systems - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--ML-Systems---New-College-Grad-2026_JR2010161) | Santa Clara, CA (also Westford, MA; Austin, TX; Seattle, WA) | $260K–$350K (+2%) | ●●● | sponsors | 2026-01-09 |
 | NVIDIA | [Research Scientist, Physical AI - Foundation Models - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032) | Santa Clara, CA | $260K–$350K (+2%) | ●●● | sponsors | 2026-09-23 |
+| Lila Sciences | [Research Scientist, Soft Matter Simulations](https://job-boards.greenhouse.io/lilasciences/jobs/4465081009) | Cambridge, MA USA; San Francisco, CA USA | $230K–$380K (+2%) | ●●● | sponsors | 2026-11-10 |
 | Genesis Molecular AI | [ML Research Scientist, Foundation Models (Senior / Staff / Principal)](https://jobs.ashbyhq.com/genesis-molecular-ai/c1c47745-4e5c-4e0e-9d71-16d7ea28895a) stretch | San Mateo, CA | $240K–$360K (0%) | ●●●● | **ask first** | 2025-07-30 |
 | TikTok | [Research Scientist Graduate (Monetization Technology - Business Integrity) - 2027 Start (PhD)](https://lifeattiktok.com/search/7667766028122048773) | San Jose, CA | $250K–$350K (0%) | ●●● | sponsors | 2026-07-30 |
 | Apple | [AIML - ML Researcher, AFM](https://jobs.apple.com/en-us/details/200607600-0836) | Cupertino, CA; New York, NY; Seattle, WA | $250K–$340K (-2%) | ●●● | sponsors | 2026-06-24 |
@@ -209,10 +209,10 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | SandboxAQ | [Machine Learning Scientist, Generative Molecular Design (Material Discovery)](https://jobs.ashbyhq.com/sandboxaq/8579117b-a05a-4b64-9595-58fb5e83c685) | United States | Ashby (sandboxaq) |
 | SandboxAQ | [Computational Chemist - Machine Learned Force Fields, Material Discovery](https://jobs.ashbyhq.com/sandboxaq/b33383d4-18c9-4eea-acab-6fdd713f5174) | United States | Ashby (sandboxaq) |
 | SandboxAQ | [Machine Learning Scientist - Molecular Force Fields](https://jobs.ashbyhq.com/sandboxaq/2ecf82f8-6bab-48d5-b34a-e1c745b7fc60) | United States | Ashby (sandboxaq) |
+| NVIDIA | [Research Scientist, AI and Systems Security - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894) | 2 Locations | Workday (NVIDIA) |
 | Google | [Research Scientist, Climate and Energy](https://www.google.com/about/careers/applications/jobs/results/98942829060858566-research-scientist-climate-and-energy) | United States | Google careers search |
 | Rivian | [Early Career - AI Platform - Autonomy](https://us-careers-rivian.icims.com/jobs/37688/job) | Palo Alto, CA | speedyapply 2027 AI new-grad list |
 | Google | [Research Scientist - Neutral Atoms - Quantum AI](https://www.google.com/about/careers/applications/jobs/results/79694460677432006) | Boulder, CO | speedyapply 2027 AI new-grad list |
-| NVIDIA | [Research Scientist - AI and Systems Security - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894) | Westford, MA +1 | speedyapply 2027 AI new-grad list |
 | Google | [Research Scientist - Quantum Error Correction - Quantum AI](https://www.google.com/about/careers/applications/jobs/results/80321648309215942) | Goleta, CA +3 | speedyapply 2027 AI new-grad list |
 | TikTok | [Data Scientist Graduate - TikTok Product - 2027 Start](https://lifeattiktok.com/search/7669654422861383941) | San Jose, CA | speedyapply 2027 AI new-grad list |
 | Bitdeer | [2027 US AI Engineering - New College Graduate](https://bitdeer.breezy.hr/p/826249d5dbdc-2027-us-ai-engineering-new-college-graduate) | San Jose, CA +1 | speedyapply 2027 AI new-grad list |
@@ -229,6 +229,9 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | Qualcomm | [Machine Learning Compiler Engineer - Machine Learning Engineering](https://qualcomm.eightfold.ai/careers/job/446722177119) | Austin, TX; Raleigh, NC; NYC; San Diego, CA | Simplify new-grad list |
 | Atoms | [AI Researcher New Grad](https://job-boards.greenhouse.io/atoms/jobs/8948841002) | SF; Mountain View, CA | Simplify new-grad list |
 | X Development | [AI/ML Engineer & Applied Researcher - Early Stage Projects](https://x.company/careers/8959513002?gh_jid=8959513002) | Mountain View, CA | Simplify new-grad list |
+| Ayo Semiconductor | [Machine Learning Researcher](https://jobs.ashbyhq.com/ayosemi/25ce1f36-356a-4a0e-95e0-24c3babb34ff/application?embed=true) | Boston, MA | Simplify new-grad list |
+| Ayo Semiconductor | [Machine Learning Engineer](https://jobs.ashbyhq.com/ayosemi/cc1d3968-2b15-4442-828c-7950077c3a8a/application?embed=true) | Boston, MA | Simplify new-grad list |
+| Scout AI | [AI Engineer New Grad - AI/ML and Agent Harnessing](https://jobs.ashbyhq.com/scout-ai/ad3dd69f-f568-4a7c-abbf-280424bc63ed/application?embed=true) | Sunnyvale, CA | Simplify new-grad list |
 
 ### Closed recently
 
