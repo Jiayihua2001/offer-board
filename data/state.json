@@ -1,10 +1,10 @@
 {
-  "runs": 62,
+  "runs": 63,
   "spend": {
     "2026-10": 4.3578,
     "2026-11": 18.6748
   },
-  "discovery_cursor": 11,
+  "discovery_cursor": 0,
   "review": [
     {
       "company": "xAI",
@@ -168,13 +168,6 @@
       "source": "Ashby (sandboxaq)"
     },
     {
-      "company": "NVIDIA",
-      "title": "Research Scientist, AI and Systems Security - PhD New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894",
-      "location": "2 Locations",
-      "source": "Workday (NVIDIA)"
-    },
-    {
       "company": "Google",
       "title": "Research Scientist, Climate and Energy",
       "url": "https://www.google.com/about/careers/applications/jobs/results/98942829060858566-research-scientist-climate-and-energy",
@@ -196,6 +189,13 @@
       "source": "speedyapply 2027 AI new-grad list"
     },
     {
+      "company": "NVIDIA",
+      "title": "Research Scientist - AI and Systems Security - PhD New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894",
+      "location": "Westford, MA +1",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
       "company": "Google",
       "title": "Research Scientist - Quantum Error Correction - Quantum AI",
       "url": "https://www.google.com/about/careers/applications/jobs/results/80321648309215942",
@@ -210,10 +210,38 @@
       "source": "speedyapply 2027 AI new-grad list"
     },
     {
+      "company": "Avery Dennison",
+      "title": "AI Engineer - Scientific Intelligence and LLM Systems",
+      "url": "https://jobs.smartrecruiters.com/AveryDennison/744000163552489-ai-engineer-scientific-intelligence-and-llm-systems?oga=true",
+      "location": "Mentor, OH",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "Guidehouse",
+      "title": "Neuroscience Data Scientist",
+      "url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---MD-Bethesda/Neuroscience-Data-Scientist_46996",
+      "location": "Bethesda, MD",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "Northeastern University",
+      "title": "ML Performance Engineer - Agentic Systems and Physical AI",
+      "url": "https://northeastern.wd1.myworkdayjobs.com/en-US/careers/job/Boston-MA-Main-Campus/ML-Performance-Engineer--Agentic-Systems-and-Physical-AI_R143498",
+      "location": "Boston, MA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
       "company": "Bitdeer",
       "title": "2027 US AI Engineering - New College Graduate",
       "url": "https://bitdeer.breezy.hr/p/826249d5dbdc-2027-us-ai-engineering-new-college-graduate",
       "location": "San Jose, CA +1",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "MSD",
+      "title": "2027 Future Talent Program - Internal Audit Specialist - Information Technology - Cybersecurity & AI",
+      "url": "https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Finance-Leadership-Development-Program--Audit-Specialist_R415343-1",
+      "location": "Rahway, NJ",
       "source": "speedyapply 2027 AI new-grad list"
     },
     {
@@ -227,7 +255,7 @@
       "company": "SharkNinja",
       "title": "Applied AI & Analytics Spring Opportunities - Jan-Jun 2027",
       "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713793006",
-      "location": "Needham, MA +2",
+      "location": "Miami, FL +2",
       "source": "speedyapply 2027 AI new-grad list"
     },
     {
@@ -329,5 +357,5 @@
       "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-26 08:30 UTC"
+  "last_run": "2026-11-26 21:30 UTC"
 }
