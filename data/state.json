@@ -1,10 +1,10 @@
 {
-  "runs": 63,
+  "runs": 64,
   "spend": {
     "2026-10": 4.3578,
     "2026-11": 18.6748
   },
-  "discovery_cursor": 0,
+  "discovery_cursor": 10,
   "review": [
     {
       "company": "xAI",
@@ -357,5 +357,5 @@
       "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-26 21:30 UTC"
+  "last_run": "2026-11-27 08:44 UTC"
 }

@@ -81,7 +81,7 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 
 <!-- BOARD:START -->
 
-**81 open roles** · 5 new this week · 21 above your $300K line · 60 near it · last run 2026-11-26 21:30 UTC · AI spend this month $18.67 of $100
+**81 open roles** · 4 new this week · 21 above your $300K line · 60 near it · last run 2026-11-27 08:44 UTC · AI spend this month $18.67 of $100
 
 Roles the board added in the last 7 days come first; the rest follow by pay tier.
 
@@ -93,7 +93,6 @@ Roles the board added in the last 7 days come first; the rest follow by pay tier
 | Nov 22 | Meta | [AI Research Scientist - AI for Materials Discovery](https://lensa.com/job-v1/meta/redmond-wa/research-scientist/2e2fe7289b2621f2dab5a35c1c5866c6) | Redmond, WA | $220K–$330K (-8%) | ●●●●● | sponsors |  |
 | Nov 21 | Google DeepMind | [Computational Materials Scientist, DeepMind](https://zapply.jobs/jobs/be1cf4ba-a6ce-44d5-8e6a-2d8bfe221d23/) | United States | $220K–$330K (-8%) | ●●●●● | sponsors | 2026-11-18 |
 | Nov 21 | NVIDIA | [Deep Learning Framework Communications Engineer New Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1) | Santa Clara, CA (United States) | $230K–$330K (-7%) | ●●● | sponsors | 2026-11-14 |
-| Nov 19 | ByteDance (Seed) | [Research Scientist Graduate (Seed Model-Alignment&Preparedness) - 2027 Start (PhD)](https://seed.bytedance.com/en/career) | San Jose, CA | $250K–$400K (+8%) | ●●● | sponsors |  |
 
 ### Above your offer line
 
@@ -152,6 +151,7 @@ Roles the board added in the last 7 days come first; the rest follow by pay tier
 | Periodic Labs | [Research Scientist, Scaling RL](https://jobs.ashbyhq.com/periodic-labs/20b122c9-b8ec-4fb0-aaf4-9b45902affe0) | Menlo Park, CA | $260K–$390K (+8%) | ●●● | says it sponsors | 2026-10-01 |
 | TikTok | [Machine Learning Engineer Graduate (E-Commerce Recommendation Foundation)- 2027 Start (PhD)](https://lifeattiktok.com/search/7672879948538284341) | San Jose, CA; Seattle, WA | $250K–$400K (+8%) | ●●● | sponsors | 2026-08-13 |
 | Chai Discovery | [Forward-Deployed Scientist](https://jobs.ashbyhq.com/chaidiscovery/e60e0d79-622d-4251-b056-d380484d9dab) | San Francisco, CA (office) | $250K–$400K (+8%) | ●●● | **ask first** | 2026-03-05 |
+| ByteDance (Seed) | [Research Scientist Graduate (Seed Model-Alignment&Preparedness) - 2027 Start (PhD)](https://seed.bytedance.com/en/career) | San Jose, CA | $250K–$400K (+8%) | ●●● | sponsors |  |
 | xAI (SpaceXSI) | [Mid-training](https://job-boards.greenhouse.io/xai/jobs/4965893007) | Palo Alto, CA | $250K–$380K (+5%) | ●●● | **ask first** |  |
 | TikTok | [Research Engineer Graduate (Monetization Technology - Business Integrity) - 2027 Start (PhD)](https://lifeattiktok.com/search/7667767820142643461) | San Jose, CA | $260K–$360K (+3%) | ●●● | sponsors | 2026-08-03 |
 | ByteDance | [Machine Learning Engineer Graduate (E-Commerce Risk Control) - 2027 Start (PhD)](https://jobs.bytedance.com/en/position/7675473897004861749/detail) | San Jose, CA | $210K–$400K (+2%) | ●●● | sponsors | 2026-08-25 |
@@ -178,7 +178,7 @@ Roles the board added in the last 7 days come first; the rest follow by pay tier
 | Meta | [Research Scientist, Machine Learning for Monetization (PhD)](https://www.metacareers.com/profile/job_details/1747806499828365/) | Bellevue, WA | $220K–$330K (-8%) | ●●● | sponsors |  |
 | Liquid AI | [Liquid Labs - Research Engineer](https://jobs.ashbyhq.com/liquid-ai/679d26b2-2603-424d-acb8-99f45e8b5ddd) | Boston, MA (SF or other US locations accepted) | $220K–$320K (-10%) | ●●● | **ask first** | 2025-12-03 |
 | Cerebras Systems | [Applied Machine Learning Research Scientist](https://jobs.ashbyhq.com/cerebras/d654a704-2c58-4ba6-9109-2c92aecb2503) | United States and Canada (Sunnyvale, CA HQ) | $220K–$320K (-10%) | ●●● | **ask first** | 2026-03-05 |
-| Meta | [Research Scientist, Machine Learning for Behavioral AI](https://www.careerbuilder.com/job-details/ai-research-scientist-machine-learning-for-behavioral-ai-pasadena-ca--faca4a74-67b5-4cb1-b087-d7b10ff0899e) | Pasadena, CA | $230K–$330K (-7%) | ●● | sponsors |  |
+| Meta | [Research Scientist, Machine Learning for Behavioral AI](https://www.careerbuilder.com/job-details/ai-research-scientist-machine-learning-for-behavioral-ai-pasadena-ca--faca4a74-67b5-4cb1-b087-d7b10ff0899e) not confirmed open lately | Pasadena, CA | $230K–$330K (-7%) | ●● | sponsors |  |
 | NVIDIA | [Research Scientist New Grad - AI for Graphics and Gaming](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-for-Graphics-and-Gaming---New-College-Grad-2026_JR2011267) | Santa Clara, CA; United States (listing also shows Canada) | $220K–$330K (-8%) | ●● | sponsors | 2026-10-31 |
 
 ### Not screened yet
