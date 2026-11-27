@@ -81,7 +81,7 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 
 <!-- BOARD:START -->
 
-**81 open roles** · 4 new this week · 21 above your $300K line · 60 near it · last run 2026-11-27 08:44 UTC · AI spend this month $18.67 of $100
+**81 open roles** · 4 new this week · 21 above your $300K line · 60 near it · last run 2026-11-27 21:15 UTC · AI spend this month $18.67 of $100
 
 Roles the board added in the last 7 days come first; the rest follow by pay tier.
 
@@ -220,11 +220,14 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | Northeastern University | [ML Performance Engineer - Agentic Systems and Physical AI](https://northeastern.wd1.myworkdayjobs.com/en-US/careers/job/Boston-MA-Main-Campus/ML-Performance-Engineer--Agentic-Systems-and-Physical-AI_R143498) | Boston, MA | speedyapply 2027 AI new-grad list |
 | Bitdeer | [2027 US AI Engineering - New College Graduate](https://bitdeer.breezy.hr/p/826249d5dbdc-2027-us-ai-engineering-new-college-graduate) | San Jose, CA +1 | speedyapply 2027 AI new-grad list |
 | MSD | [2027 Future Talent Program - Internal Audit Specialist - Information Technology - Cybersecurity & AI](https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Finance-Leadership-Development-Program--Audit-Specialist_R415343-1) | Rahway, NJ | speedyapply 2027 AI new-grad list |
+| Lockheed Martin | [AI Research Engineer Entry Level](https://lockheedmartin.eightfold.ai/careers/job/996477907742) | Manassas, VA | speedyapply 2027 AI new-grad list |
 | Samsung AI Research Center | [2027 Health AI Scholar - Digital Health Algorithms Team](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002) | Mountain View, CA | speedyapply 2027 AI new-grad list |
 | SharkNinja | [Applied AI & Analytics Spring Opportunities - Jan-Jun 2027](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713793006) | Miami, FL +2 | speedyapply 2027 AI new-grad list |
 | TikTok | [Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance](https://lifeattiktok.com/search/7669910326745434421) | Seattle, WA | Simplify new-grad list |
 | TikTok | [Machine Learning Engineer Graduate - E-Commerce Recommendation Live](https://lifeattiktok.com/search/7670285495593273605) | San Jose, CA | Simplify new-grad list |
+| TikTok | [Multimodal Generative AI Research Scientist - Intelligent Creation](https://lifeattiktok.com/search/7668206857737455877) | Seattle, WA | Simplify new-grad list |
 | ByteDance | [AI/LLM Network Software Development Engineer Graduate - High Speed Network - PhD](https://jobs.bytedance.com/en/position/7668855566150732037/detail) | Seattle, WA | Simplify new-grad list |
+| TikTok | [World Model Research Scientist - Intelligent Creation - Multiple Teams](https://lifeattiktok.com/search/7668207217544677685) | San Jose, CA | Simplify new-grad list |
 | TikTok | [Machine Learning Engineer Graduate - E-Commerce User Growth](https://lifeattiktok.com/search/7694353236283935029) | Seattle, WA | Simplify new-grad list |
 | ByteDance | [Research Scientist](https://jobs.bytedance.com/en/position/7698902624389482757/detail) | San Jose, CA | Simplify new-grad list |
 | Network Bio | [AI Scientist](https://job-boards.greenhouse.io/networkbio/jobs/5445891008) | Palo Alto, CA; Seattle, WA | Simplify new-grad list |

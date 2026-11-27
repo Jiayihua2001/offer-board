@@ -1,10 +1,10 @@
 {
-  "runs": 64,
+  "runs": 65,
   "spend": {
     "2026-10": 4.3578,
     "2026-11": 18.6748
   },
-  "discovery_cursor": 10,
+  "discovery_cursor": 20,
   "review": [
     {
       "company": "xAI",
@@ -245,6 +245,13 @@
       "source": "speedyapply 2027 AI new-grad list"
     },
     {
+      "company": "Lockheed Martin",
+      "title": "AI Research Engineer Entry Level",
+      "url": "https://lockheedmartin.eightfold.ai/careers/job/996477907742",
+      "location": "Manassas, VA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
       "company": "Samsung AI Research Center",
       "title": "2027 Health AI Scholar - Digital Health Algorithms Team",
       "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002",
@@ -273,10 +280,24 @@
       "source": "Simplify new-grad list"
     },
     {
+      "company": "TikTok",
+      "title": "Multimodal Generative AI Research Scientist - Intelligent Creation",
+      "url": "https://lifeattiktok.com/search/7668206857737455877",
+      "location": "Seattle, WA",
+      "source": "Simplify new-grad list"
+    },
+    {
       "company": "ByteDance",
       "title": "AI/LLM Network Software Development Engineer Graduate - High Speed Network - PhD",
       "url": "https://jobs.bytedance.com/en/position/7668855566150732037/detail",
       "location": "Seattle, WA",
+      "source": "Simplify new-grad list"
+    },
+    {
+      "company": "TikTok",
+      "title": "World Model Research Scientist - Intelligent Creation - Multiple Teams",
+      "url": "https://lifeattiktok.com/search/7668207217544677685",
+      "location": "San Jose, CA",
       "source": "Simplify new-grad list"
     },
     {
@@ -357,5 +378,5 @@
       "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-27 08:44 UTC"
+  "last_run": "2026-11-27 21:15 UTC"
 }
