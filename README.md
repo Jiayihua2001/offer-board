@@ -81,7 +81,7 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 
 <!-- BOARD:START -->
 
-**81 open roles** · 4 new this week · 21 above your $300K line · 60 near it · last run 2026-11-27 21:15 UTC · AI spend this month $18.67 of $100
+**81 open roles** · 4 new this week · 21 above your $300K line · 60 near it · last run 2026-11-28 07:58 UTC · AI spend this month $18.67 of $100
 
 Roles the board added in the last 7 days come first; the rest follow by pay tier.
 
@@ -175,7 +175,7 @@ Roles the board added in the last 7 days come first; the rest follow by pay tier
 | TikTok | [AI Machine Learning Engineer - Graduate (TikTok Content Ecology) - 2027 Start (PhD) - Graduate (TikTok Content Ecology) - 2027 Start (PhD)](https://lifeattiktok.com/search/7668838052657678597) | San Jose, CA | $230K–$330K (-7%) | ●●● | sponsors | 2026-08-02 |
 | Google | [Software Engineer, AI/Machine Learning, PhD, Early Career (2027 start)](https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer) | Sunnyvale, Seattle, Kirkland, New York and 6 more | $240K–$310K (-8%) | ●●● | sponsors | Aug 2026 |
 | NVIDIA | [Research Scientist PhD New Grad - Autonomous Systems and Physical AI Research](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551) | Santa Clara, CA | $220K–$330K (-8%) | ●●● | sponsors | 2026-10-07 |
-| Meta | [Research Scientist, Machine Learning for Monetization (PhD)](https://www.metacareers.com/profile/job_details/1747806499828365/) | Bellevue, WA | $220K–$330K (-8%) | ●●● | sponsors |  |
+| Meta | [Research Scientist, Machine Learning for Monetization (PhD)](https://www.metacareers.com/profile/job_details/1747806499828365/) not confirmed open lately | Bellevue, WA | $220K–$330K (-8%) | ●●● | sponsors |  |
 | Liquid AI | [Liquid Labs - Research Engineer](https://jobs.ashbyhq.com/liquid-ai/679d26b2-2603-424d-acb8-99f45e8b5ddd) | Boston, MA (SF or other US locations accepted) | $220K–$320K (-10%) | ●●● | **ask first** | 2025-12-03 |
 | Cerebras Systems | [Applied Machine Learning Research Scientist](https://jobs.ashbyhq.com/cerebras/d654a704-2c58-4ba6-9109-2c92aecb2503) | United States and Canada (Sunnyvale, CA HQ) | $220K–$320K (-10%) | ●●● | **ask first** | 2026-03-05 |
 | Meta | [Research Scientist, Machine Learning for Behavioral AI](https://www.careerbuilder.com/job-details/ai-research-scientist-machine-learning-for-behavioral-ai-pasadena-ca--faca4a74-67b5-4cb1-b087-d7b10ff0899e) not confirmed open lately | Pasadena, CA | $230K–$330K (-7%) | ●● | sponsors |  |
@@ -226,7 +226,9 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | TikTok | [Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance](https://lifeattiktok.com/search/7669910326745434421) | Seattle, WA | Simplify new-grad list |
 | TikTok | [Machine Learning Engineer Graduate - E-Commerce Recommendation Live](https://lifeattiktok.com/search/7670285495593273605) | San Jose, CA | Simplify new-grad list |
 | TikTok | [Multimodal Generative AI Research Scientist - Intelligent Creation](https://lifeattiktok.com/search/7668206857737455877) | Seattle, WA | Simplify new-grad list |
+| Philips | [AI & Analytics Associate - Graduate Development Program](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Full-Time--Graduate-Development-Program-AI---Analytics-Associate-Nashville--TN-or-Cambridge--MA-2026_587083) | Nashville, TN | Simplify new-grad list |
 | ByteDance | [AI/LLM Network Software Development Engineer Graduate - High Speed Network - PhD](https://jobs.bytedance.com/en/position/7668855566150732037/detail) | Seattle, WA | Simplify new-grad list |
+| Micron Technology | [AI Innovation Research Engineer New Grad](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---AI-Innovation-Research-Engineer_JR108594) | San Jose, CA | Simplify new-grad list |
 | TikTok | [World Model Research Scientist - Intelligent Creation - Multiple Teams](https://lifeattiktok.com/search/7668207217544677685) | San Jose, CA | Simplify new-grad list |
 | TikTok | [Machine Learning Engineer Graduate - E-Commerce User Growth](https://lifeattiktok.com/search/7694353236283935029) | Seattle, WA | Simplify new-grad list |
 | ByteDance | [Research Scientist](https://jobs.bytedance.com/en/position/7698902624389482757/detail) | San Jose, CA | Simplify new-grad list |
@@ -239,6 +241,8 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | Ayo Semiconductor | [Machine Learning Researcher](https://jobs.ashbyhq.com/ayosemi/25ce1f36-356a-4a0e-95e0-24c3babb34ff/application?embed=true) | Boston, MA | Simplify new-grad list |
 | Ayo Semiconductor | [Machine Learning Engineer](https://jobs.ashbyhq.com/ayosemi/cc1d3968-2b15-4442-828c-7950077c3a8a/application?embed=true) | Boston, MA | Simplify new-grad list |
 | Scout AI | [AI Engineer New Grad - AI/ML and Agent Harnessing](https://jobs.ashbyhq.com/scout-ai/ad3dd69f-f568-4a7c-abbf-280424bc63ed/application?embed=true) | Sunnyvale, CA | Simplify new-grad list |
+| Viridien | [Machine Learning Researcher - Seismic Foundation Models](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Machine-Learning-Researcher---Seismic-Foundation-Models_JR101586) | Houston, TX | Simplify new-grad list |
+| The Home Depot | [Associate Data Scientist - Delivery Data Science](https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist---Delivery-Data-Science_Req198509) | Atlanta, GA | Simplify new-grad list |
 
 ### Closed recently
 
@@ -246,7 +250,6 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 - Meta, Research Scientist, Systems for ML (PhD) (2026-11-21)
 - Google, Research Scientist, Science AI, Google Research (2026-11-21)
 - Waymo, Machine Learning Engineer Perception LLM/VLM (PhD, New Grad) (2026-11-14)
-- Lila Sciences, Senior / Engineer II, AI Lab Research Engineer (2026-11-13)
 
 <details><summary>Screened out (250)</summary>
 

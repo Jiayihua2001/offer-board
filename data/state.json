@@ -1,10 +1,10 @@
 {
-  "runs": 65,
+  "runs": 66,
   "spend": {
     "2026-10": 4.3578,
     "2026-11": 18.6748
   },
-  "discovery_cursor": 20,
+  "discovery_cursor": 9,
   "review": [
     {
       "company": "xAI",
@@ -287,10 +287,24 @@
       "source": "Simplify new-grad list"
     },
     {
+      "company": "Philips",
+      "title": "AI & Analytics Associate - Graduate Development Program",
+      "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Full-Time--Graduate-Development-Program-AI---Analytics-Associate-Nashville--TN-or-Cambridge--MA-2026_587083",
+      "location": "Nashville, TN",
+      "source": "Simplify new-grad list"
+    },
+    {
       "company": "ByteDance",
       "title": "AI/LLM Network Software Development Engineer Graduate - High Speed Network - PhD",
       "url": "https://jobs.bytedance.com/en/position/7668855566150732037/detail",
       "location": "Seattle, WA",
+      "source": "Simplify new-grad list"
+    },
+    {
+      "company": "Micron Technology",
+      "title": "AI Innovation Research Engineer New Grad",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---AI-Innovation-Research-Engineer_JR108594",
+      "location": "San Jose, CA",
       "source": "Simplify new-grad list"
     },
     {
@@ -376,7 +390,21 @@
       "url": "https://jobs.ashbyhq.com/scout-ai/ad3dd69f-f568-4a7c-abbf-280424bc63ed/application?embed=true",
       "location": "Sunnyvale, CA",
       "source": "Simplify new-grad list"
+    },
+    {
+      "company": "Viridien",
+      "title": "Machine Learning Researcher - Seismic Foundation Models",
+      "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Machine-Learning-Researcher---Seismic-Foundation-Models_JR101586",
+      "location": "Houston, TX",
+      "source": "Simplify new-grad list"
+    },
+    {
+      "company": "The Home Depot",
+      "title": "Associate Data Scientist - Delivery Data Science",
+      "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist---Delivery-Data-Science_Req198509",
+      "location": "Atlanta, GA",
+      "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-27 21:15 UTC"
+  "last_run": "2026-11-28 07:58 UTC"
 }
