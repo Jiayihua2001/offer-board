@@ -1,10 +1,10 @@
 {
-  "runs": 66,
+  "runs": 67,
   "spend": {
     "2026-10": 4.3578,
     "2026-11": 18.6748
   },
-  "discovery_cursor": 9,
+  "discovery_cursor": 19,
   "review": [
     {
       "company": "xAI",
@@ -210,6 +210,13 @@
       "source": "speedyapply 2027 AI new-grad list"
     },
     {
+      "company": "Astera Institute",
+      "title": "Research Scientist - Viral and Molecular Tools",
+      "url": "https://jobs.ashbyhq.com/astera/e9cd3171-fa3f-44ec-af69-7dedeeac02b5",
+      "location": "Alameda, CA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
       "company": "Avery Dennison",
       "title": "AI Engineer - Scientific Intelligence and LLM Systems",
       "url": "https://jobs.smartrecruiters.com/AveryDennison/744000163552489-ai-engineer-scientific-intelligence-and-llm-systems?oga=true",
@@ -256,6 +263,13 @@
       "title": "2027 Health AI Scholar - Digital Health Algorithms Team",
       "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002",
       "location": "Mountain View, CA",
+      "source": "speedyapply 2027 AI new-grad list"
+    },
+    {
+      "company": "Ford Motor Company",
+      "title": "Supply Chain Program Management & AI Tool Creation - Early Career Program - Advanced EV",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72880",
+      "location": "Long Beach, CA",
       "source": "speedyapply 2027 AI new-grad list"
     },
     {
@@ -406,5 +420,5 @@
       "source": "Simplify new-grad list"
     }
   ],
-  "last_run": "2026-11-28 07:58 UTC"
+  "last_run": "2026-11-28 19:59 UTC"
 }

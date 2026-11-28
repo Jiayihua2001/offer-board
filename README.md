@@ -81,7 +81,7 @@ ANTHROPIC_API_KEY=... python -m scripts.update
 
 <!-- BOARD:START -->
 
-**81 open roles** · 4 new this week · 21 above your $300K line · 60 near it · last run 2026-11-28 07:58 UTC · AI spend this month $18.67 of $100
+**81 open roles** · 4 new this week · 21 above your $300K line · 60 near it · last run 2026-11-28 19:59 UTC · AI spend this month $18.67 of $100
 
 Roles the board added in the last 7 days come first; the rest follow by pay tier.
 
@@ -215,6 +215,7 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | NVIDIA | [Research Scientist - AI and Systems Security - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894) | Westford, MA +1 | speedyapply 2027 AI new-grad list |
 | Google | [Research Scientist - Quantum Error Correction - Quantum AI](https://www.google.com/about/careers/applications/jobs/results/80321648309215942) | Goleta, CA +3 | speedyapply 2027 AI new-grad list |
 | TikTok | [Data Scientist Graduate - TikTok Product - 2027 Start](https://lifeattiktok.com/search/7669654422861383941) | San Jose, CA | speedyapply 2027 AI new-grad list |
+| Astera Institute | [Research Scientist - Viral and Molecular Tools](https://jobs.ashbyhq.com/astera/e9cd3171-fa3f-44ec-af69-7dedeeac02b5) | Alameda, CA | speedyapply 2027 AI new-grad list |
 | Avery Dennison | [AI Engineer - Scientific Intelligence and LLM Systems](https://jobs.smartrecruiters.com/AveryDennison/744000163552489-ai-engineer-scientific-intelligence-and-llm-systems?oga=true) | Mentor, OH | speedyapply 2027 AI new-grad list |
 | Guidehouse | [Neuroscience Data Scientist](https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---MD-Bethesda/Neuroscience-Data-Scientist_46996) | Bethesda, MD | speedyapply 2027 AI new-grad list |
 | Northeastern University | [ML Performance Engineer - Agentic Systems and Physical AI](https://northeastern.wd1.myworkdayjobs.com/en-US/careers/job/Boston-MA-Main-Campus/ML-Performance-Engineer--Agentic-Systems-and-Physical-AI_R143498) | Boston, MA | speedyapply 2027 AI new-grad list |
@@ -222,6 +223,7 @@ These passed the keyword filters but weren't screened (AI off or the monthly bud
 | MSD | [2027 Future Talent Program - Internal Audit Specialist - Information Technology - Cybersecurity & AI](https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Finance-Leadership-Development-Program--Audit-Specialist_R415343-1) | Rahway, NJ | speedyapply 2027 AI new-grad list |
 | Lockheed Martin | [AI Research Engineer Entry Level](https://lockheedmartin.eightfold.ai/careers/job/996477907742) | Manassas, VA | speedyapply 2027 AI new-grad list |
 | Samsung AI Research Center | [2027 Health AI Scholar - Digital Health Algorithms Team](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002) | Mountain View, CA | speedyapply 2027 AI new-grad list |
+| Ford Motor Company | [Supply Chain Program Management & AI Tool Creation - Early Career Program - Advanced EV](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72880) | Long Beach, CA | speedyapply 2027 AI new-grad list |
 | SharkNinja | [Applied AI & Analytics Spring Opportunities - Jan-Jun 2027](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713793006) | Miami, FL +2 | speedyapply 2027 AI new-grad list |
 | TikTok | [Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance](https://lifeattiktok.com/search/7669910326745434421) | Seattle, WA | Simplify new-grad list |
 | TikTok | [Machine Learning Engineer Graduate - E-Commerce Recommendation Live](https://lifeattiktok.com/search/7670285495593273605) | San Jose, CA | Simplify new-grad list |
